@@ -1,0 +1,1011 @@
+{
+  "section": {
+    "pgSz": {
+      "w": "12240",
+      "h": "15840"
+    },
+    "pgMar": {
+      "top": "1440",
+      "right": "1440",
+      "bottom": "1440",
+      "left": "2160",
+      "header": "709",
+      "footer": "709",
+      "gutter": "0"
+    },
+    "cols": {
+      "space": "708"
+    },
+    "docGrid": {
+      "linePitch": "360"
+    }
+  },
+  "patterns": [
+    {
+      "p": 1,
+      "text": "CHAPTER I",
+      "paragraph": {
+        "spacing": {
+          "after": "0",
+          "line": "480",
+          "lineRule": "auto"
+        },
+        "jc": {
+          "val": "center"
+        },
+        "rPr": {
+          "rFonts": {
+            "ascii": "Cambria",
+            "hAnsi": "Cambria"
+          },
+          "b": {},
+          "bCs": {},
+          "sz": {
+            "val": "28"
+          },
+          "szCs": {
+            "val": "28"
+          },
+          "highlight": {
+            "val": "white"
+          }
+        }
+      },
+      "first_run": {
+        "rFonts": {
+          "ascii": "Cambria",
+          "hAnsi": "Cambria"
+        },
+        "b": {},
+        "bCs": {},
+        "sz": {
+          "val": "28"
+        },
+        "szCs": {
+          "val": "28"
+        },
+        "highlight": {
+          "val": "white"
+        }
+      }
+    },
+    {
+      "p": 2,
+      "text": "INTRODUCTION",
+      "paragraph": {
+        "spacing": {
+          "after": "0",
+          "line": "480",
+          "lineRule": "auto"
+        },
+        "jc": {
+          "val": "center"
+        },
+        "rPr": {
+          "rFonts": {
+            "ascii": "Cambria",
+            "hAnsi": "Cambria"
+          },
+          "b": {},
+          "bCs": {},
+          "sz": {
+            "val": "28"
+          },
+          "szCs": {
+            "val": "28"
+          },
+          "highlight": {
+            "val": "white"
+          }
+        }
+      },
+      "first_run": {
+        "rFonts": {
+          "ascii": "Cambria",
+          "hAnsi": "Cambria"
+        },
+        "b": {},
+        "bCs": {},
+        "sz": {
+          "val": "28"
+        },
+        "szCs": {
+          "val": "28"
+        },
+        "highlight": {
+          "val": "white"
+        }
+      }
+    },
+    {
+      "p": 3,
+      "text": "This chapter presents the background of th",
+      "paragraph": {
+        "spacing": {
+          "before": "240",
+          "line": "480",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLine": "540"
+        },
+        "jc": {
+          "val": "both"
+        },
+        "rPr": {
+          "rFonts": {
+            "ascii": "Times New Roman",
+            "eastAsia": "Cambria",
+            "hAnsi": "Times New Roman",
+            "cs": "Times New Roman"
+          },
+          "sz": {
+            "val": "24"
+          },
+          "szCs": {
+            "val": "24"
+          },
+          "highlight": {
+            "val": "white"
+          }
+        }
+      },
+      "first_run": {
+        "rFonts": {
+          "ascii": "Times New Roman",
+          "eastAsia": "Cambria",
+          "hAnsi": "Times New Roman",
+          "cs": "Times New Roman"
+        },
+        "sz": {
+          "val": "24"
+        },
+        "szCs": {
+          "val": "24"
+        },
+        "highlight": {
+          "val": "white"
+        }
+      }
+    },
+    {
+      "p": 4,
+      "text": "Project Context",
+      "paragraph": {
+        "keepNext": {},
+        "keepLines": {},
+        "spacing": {
+          "before": "160",
+          "after": "120",
+          "line": "480",
+          "lineRule": "auto"
+        },
+        "outlineLvl": {
+          "val": "2"
+        },
+        "rPr": {
+          "rFonts": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman",
+            "cs": "Times New Roman"
+          },
+          "sz": {
+            "val": "24"
+          },
+          "szCs": {
+            "val": "28"
+          }
+        }
+      },
+      "first_run": {
+        "rFonts": {
+          "ascii": "Times New Roman",
+          "hAnsi": "Times New Roman",
+          "cs": "Times New Roman"
+        },
+        "sz": {
+          "val": "24"
+        },
+        "szCs": {
+          "val": "28"
+        }
+      }
+    },
+    {
+      "p": 5,
+      "text": "The educational system has been transforme",
+      "paragraph": {
+        "spacing": {
+          "line": "480",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLine": "720"
+        },
+        "jc": {
+          "val": "both"
+        },
+        "rPr": {
+          "rFonts": {
+            "ascii": "Times New Roman",
+            "eastAsia": "Cambria",
+            "hAnsi": "Times New Roman",
+            "cs": "Times New Roman"
+          },
+          "sz": {
+            "val": "24"
+          },
+          "szCs": {
+            "val": "24"
+          },
+          "lang": {
+            "val": "en-PH"
+          }
+        }
+      },
+      "first_run": {
+        "rFonts": {
+          "ascii": "Times New Roman",
+          "eastAsia": "Cambria",
+          "hAnsi": "Times New Roman",
+          "cs": "Times New Roman"
+        },
+        "sz": {
+          "val": "24"
+        },
+        "szCs": {
+          "val": "24"
+        },
+        "lang": {
+          "val": "en-PH"
+        }
+      }
+    },
+    {
+      "p": 11,
+      "text": "Grade Five pupils of Baluan Elementary Sch",
+      "paragraph": {
+        "numPr": {
+          "ilvl": {
+            "val": "0"
+          },
+          "numId": {
+            "val": "1"
+          }
+        },
+        "tabs": {
+          "tab": {
+            "val": "left",
+            "pos": "720"
+          }
+        },
+        "spacing": {
+          "line": "480",
+          "lineRule": "auto"
+        },
+        "jc": {
+          "val": "both"
+        },
+        "rPr": {
+          "rFonts": {
+            "ascii": "Times New Roman",
+            "eastAsia": "Cambria",
+            "hAnsi": "Times New Roman",
+            "cs": "Times New Roman"
+          },
+          "sz": {
+            "val": "24"
+          },
+          "szCs": {
+            "val": "24"
+          },
+          "lang": {
+            "val": "en-PH"
+          }
+        }
+      },
+      "first_run": {
+        "rFonts": {
+          "ascii": "Times New Roman",
+          "eastAsia": "Cambria",
+          "hAnsi": "Times New Roman",
+          "cs": "Times New Roman"
+        },
+        "sz": {
+          "val": "24"
+        },
+        "szCs": {
+          "val": "24"
+        },
+        "lang": {
+          "val": "en-PH"
+        }
+      }
+    },
+    {
+      "p": 15,
+      "text": "Purpose and Description of the Project",
+      "paragraph": {
+        "spacing": {
+          "before": "240",
+          "after": "0",
+          "line": "480",
+          "lineRule": "auto"
+        },
+        "rPr": {
+          "rFonts": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman",
+            "cs": "Times New Roman"
+          },
+          "sz": {
+            "val": "24"
+          },
+          "szCs": {
+            "val": "24"
+          }
+        }
+      },
+      "first_run": {
+        "rFonts": {
+          "ascii": "Times New Roman",
+          "hAnsi": "Times New Roman",
+          "cs": "Times New Roman"
+        },
+        "sz": {
+          "val": "24"
+        },
+        "szCs": {
+          "val": "24"
+        }
+      }
+    },
+    {
+      "p": 16,
+      "text": "This project aims to incorporate the use o",
+      "paragraph": {
+        "spacing": {
+          "after": "0",
+          "line": "480",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLine": "720"
+        },
+        "jc": {
+          "val": "both"
+        },
+        "rPr": {
+          "rFonts": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman",
+            "cs": "Times New Roman"
+          },
+          "sz": {
+            "val": "24"
+          },
+          "szCs": {
+            "val": "24"
+          }
+        }
+      },
+      "first_run": {
+        "rFonts": {
+          "ascii": "Times New Roman",
+          "hAnsi": "Times New Roman",
+          "cs": "Times New Roman"
+        },
+        "sz": {
+          "val": "24"
+        },
+        "szCs": {
+          "val": "24"
+        }
+      }
+    },
+    {
+      "p": 17,
+      "text": "Objectives of the Project ",
+      "paragraph": {
+        "keepNext": {},
+        "keepLines": {},
+        "spacing": {
+          "before": "160",
+          "after": "120",
+          "line": "480",
+          "lineRule": "auto"
+        },
+        "outlineLvl": {
+          "val": "2"
+        },
+        "rPr": {
+          "rFonts": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman",
+            "cs": "Times New Roman"
+          },
+          "sz": {
+            "val": "24"
+          },
+          "szCs": {
+            "val": "28"
+          }
+        }
+      },
+      "first_run": {
+        "rFonts": {
+          "ascii": "Times New Roman",
+          "hAnsi": "Times New Roman",
+          "cs": "Times New Roman"
+        },
+        "sz": {
+          "val": "24"
+        },
+        "szCs": {
+          "val": "28"
+        }
+      }
+    },
+    {
+      "p": 18,
+      "text": "The project's primary objective is to crea",
+      "paragraph": {
+        "spacing": {
+          "line": "480",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLine": "720"
+        },
+        "jc": {
+          "val": "both"
+        },
+        "rPr": {
+          "rFonts": {
+            "ascii": "Times New Roman",
+            "eastAsia": "Cambria",
+            "hAnsi": "Times New Roman",
+            "cs": "Times New Roman"
+          },
+          "sz": {
+            "val": "24"
+          },
+          "szCs": {
+            "val": "24"
+          }
+        }
+      },
+      "first_run": {
+        "rFonts": {
+          "ascii": "Times New Roman",
+          "eastAsia": "Cambria",
+          "hAnsi": "Times New Roman",
+          "cs": "Times New Roman"
+        },
+        "sz": {
+          "val": "24"
+        },
+        "szCs": {
+          "val": "24"
+        }
+      }
+    },
+    {
+      "p": 19,
+      "text": "Educational: The game is designed to teach",
+      "paragraph": {
+        "pBdr": {
+          "top": {
+            "val": "nil"
+          },
+          "left": {
+            "val": "nil"
+          },
+          "bottom": {
+            "val": "nil"
+          },
+          "right": {
+            "val": "nil"
+          },
+          "between": {
+            "val": "nil"
+          }
+        },
+        "spacing": {
+          "after": "0",
+          "line": "480",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLine": "720"
+        },
+        "jc": {
+          "val": "both"
+        },
+        "rPr": {
+          "rFonts": {
+            "ascii": "Times New Roman",
+            "eastAsia": "Cambria",
+            "hAnsi": "Times New Roman",
+            "cs": "Times New Roman"
+          },
+          "sz": {
+            "val": "24"
+          },
+          "szCs": {
+            "val": "24"
+          }
+        }
+      },
+      "first_run": {
+        "rFonts": {
+          "ascii": "Times New Roman",
+          "eastAsia": "Cambria",
+          "hAnsi": "Times New Roman",
+          "cs": "Times New Roman"
+        },
+        "sz": {
+          "val": "24"
+        },
+        "szCs": {
+          "val": "24"
+        }
+      }
+    },
+    {
+      "p": 23,
+      "text": "Scope and Limitations of the Study",
+      "paragraph": {
+        "spacing": {
+          "before": "240",
+          "after": "0",
+          "line": "480",
+          "lineRule": "auto"
+        },
+        "rPr": {
+          "rFonts": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman",
+            "cs": "Times New Roman"
+          },
+          "sz": {
+            "val": "24"
+          },
+          "szCs": {
+            "val": "24"
+          }
+        }
+      },
+      "first_run": {
+        "rFonts": {
+          "ascii": "Times New Roman",
+          "hAnsi": "Times New Roman",
+          "cs": "Times New Roman"
+        },
+        "sz": {
+          "val": "24"
+        },
+        "szCs": {
+          "val": "24"
+        }
+      }
+    },
+    {
+      "p": 24,
+      "text": "The scope and limitations of this study ar",
+      "paragraph": {
+        "spacing": {
+          "after": "0",
+          "line": "480",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLine": "720"
+        },
+        "rPr": {
+          "rFonts": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman",
+            "cs": "Times New Roman"
+          },
+          "sz": {
+            "val": "24"
+          },
+          "szCs": {
+            "val": "24"
+          }
+        }
+      },
+      "first_run": {
+        "rFonts": {
+          "ascii": "Times New Roman",
+          "eastAsia": "Cambria",
+          "hAnsi": "Times New Roman",
+          "cs": "Times New Roman"
+        },
+        "sz": {
+          "val": "24"
+        },
+        "szCs": {
+          "val": "24"
+        }
+      }
+    },
+    {
+      "p": 25,
+      "text": "Scope",
+      "paragraph": {
+        "spacing": {
+          "before": "240",
+          "after": "0",
+          "line": "480",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "firstLine": "720"
+        },
+        "rPr": {
+          "rFonts": {
+            "ascii": "Cambria",
+            "hAnsi": "Cambria"
+          },
+          "sz": {
+            "val": "24"
+          },
+          "szCs": {
+            "val": "24"
+          }
+        }
+      },
+      "first_run": {
+        "rFonts": {
+          "ascii": "Cambria",
+          "hAnsi": "Cambria"
+        },
+        "sz": {
+          "val": "24"
+        },
+        "szCs": {
+          "val": "24"
+        }
+      }
+    },
+    {
+      "p": 26,
+      "text": "The scope outlines the application's funct",
+      "paragraph": {
+        "pBdr": {
+          "top": {
+            "val": "nil"
+          },
+          "left": {
+            "val": "nil"
+          },
+          "bottom": {
+            "val": "nil"
+          },
+          "right": {
+            "val": "nil"
+          },
+          "between": {
+            "val": "nil"
+          }
+        },
+        "spacing": {
+          "after": "0",
+          "line": "480",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "left": "720",
+          "firstLine": "720"
+        },
+        "jc": {
+          "val": "both"
+        },
+        "rPr": {
+          "rFonts": {
+            "ascii": "Times New Roman",
+            "eastAsia": "Cambria",
+            "hAnsi": "Times New Roman",
+            "cs": "Times New Roman"
+          },
+          "sz": {
+            "val": "24"
+          },
+          "szCs": {
+            "val": "24"
+          }
+        }
+      },
+      "first_run": {
+        "rFonts": {
+          "ascii": "Times New Roman",
+          "eastAsia": "Cambria",
+          "hAnsi": "Times New Roman",
+          "cs": "Times New Roman"
+        },
+        "sz": {
+          "val": "24"
+        },
+        "szCs": {
+          "val": "24"
+        }
+      }
+    },
+    {
+      "p": 28,
+      "text": "The game has a single-player mode",
+      "paragraph": {
+        "numPr": {
+          "ilvl": {
+            "val": "1"
+          },
+          "numId": {
+            "val": "3"
+          }
+        },
+        "pBdr": {
+          "top": {
+            "val": "nil"
+          },
+          "left": {
+            "val": "nil"
+          },
+          "bottom": {
+            "val": "nil"
+          },
+          "right": {
+            "val": "nil"
+          },
+          "between": {
+            "val": "nil"
+          }
+        },
+        "spacing": {
+          "after": "0",
+          "line": "480",
+          "lineRule": "auto"
+        },
+        "contextualSpacing": {},
+        "jc": {
+          "val": "both"
+        },
+        "rPr": {
+          "rFonts": {
+            "ascii": "Times New Roman",
+            "eastAsia": "Cambria",
+            "hAnsi": "Times New Roman",
+            "cs": "Times New Roman"
+          },
+          "sz": {
+            "val": "24"
+          },
+          "szCs": {
+            "val": "24"
+          }
+        }
+      },
+      "first_run": {
+        "rFonts": {
+          "ascii": "Times New Roman",
+          "eastAsia": "Cambria",
+          "hAnsi": "Times New Roman",
+          "cs": "Times New Roman"
+        },
+        "sz": {
+          "val": "24"
+        },
+        "szCs": {
+          "val": "24"
+        }
+      }
+    },
+    {
+      "p": 33,
+      "text": "Limitations of the study",
+      "paragraph": {
+        "keepNext": {},
+        "keepLines": {},
+        "spacing": {
+          "before": "160",
+          "after": "120",
+          "line": "480",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "left": "720"
+        },
+        "outlineLvl": {
+          "val": "2"
+        },
+        "rPr": {
+          "rFonts": {
+            "ascii": "Times New Roman",
+            "hAnsi": "Times New Roman",
+            "cs": "Times New Roman"
+          },
+          "sz": {
+            "val": "24"
+          },
+          "szCs": {
+            "val": "28"
+          }
+        }
+      },
+      "first_run": {
+        "rFonts": {
+          "ascii": "Times New Roman",
+          "hAnsi": "Times New Roman",
+          "cs": "Times New Roman"
+        },
+        "sz": {
+          "val": "24"
+        },
+        "szCs": {
+          "val": "28"
+        }
+      }
+    },
+    {
+      "p": 34,
+      "text": "The limitations specified the features and",
+      "paragraph": {
+        "spacing": {
+          "line": "480",
+          "lineRule": "auto"
+        },
+        "ind": {
+          "left": "720",
+          "firstLine": "720"
+        },
+        "jc": {
+          "val": "both"
+        },
+        "rPr": {
+          "rFonts": {
+            "ascii": "Times New Roman",
+            "eastAsia": "Cambria",
+            "hAnsi": "Times New Roman",
+            "cs": "Times New Roman"
+          },
+          "sz": {
+            "val": "24"
+          },
+          "szCs": {
+            "val": "24"
+          }
+        }
+      },
+      "first_run": {
+        "rFonts": {
+          "ascii": "Times New Roman",
+          "eastAsia": "Cambria",
+          "hAnsi": "Times New Roman",
+          "cs": "Times New Roman"
+        },
+        "sz": {
+          "val": "24"
+        },
+        "szCs": {
+          "val": "24"
+        },
+        "highlight": {
+          "val": "white"
+        }
+      }
+    },
+    {
+      "p": 36,
+      "text": "The game does not have multiplayer or onli",
+      "paragraph": {
+        "numPr": {
+          "ilvl": {
+            "val": "0"
+          },
+          "numId": {
+            "val": "2"
+          }
+        },
+        "spacing": {
+          "line": "480",
+          "lineRule": "auto"
+        },
+        "contextualSpacing": {},
+        "jc": {
+          "val": "both"
+        },
+        "rPr": {
+          "rFonts": {
+            "ascii": "Times New Roman",
+            "eastAsia": "Cambria",
+            "hAnsi": "Times New Roman",
+            "cs": "Times New Roman"
+          },
+          "sz": {
+            "val": "24"
+          },
+          "szCs": {
+            "val": "24"
+          }
+        }
+      },
+      "first_run": {
+        "rFonts": {
+          "ascii": "Times New Roman",
+          "eastAsia": "Cambria",
+          "hAnsi": "Times New Roman",
+          "cs": "Times New Roman"
+        },
+        "sz": {
+          "val": "24"
+        },
+        "szCs": {
+          "val": "24"
+        }
+      }
+    }
+  ],
+  "parts": [
+    {
+      "part": "[Content_Types].xml",
+      "bytes": 1445,
+      "sha256": "72e1a7e789e238175e21a964870a263fd2426d6877bd868693e211a4eb23e587"
+    },
+    {
+      "part": "_rels/.rels",
+      "bytes": 590,
+      "sha256": "e19238d7a71fa7a2490776252686f70e2de6238c87cd509b5e3a3cc07c2ea4df"
+    },
+    {
+      "part": "word/document.xml",
+      "bytes": 46579,
+      "sha256": "780f9d81a90f9dad895c2d6bda0fb1b42ac6d67aa8c7231780cb33dab489c265"
+    },
+    {
+      "part": "word/_rels/document.xml.rels",
+      "bytes": 950,
+      "sha256": "88f80560ab13c082cc73a423a90131d6040dbb0ef7e655d797a214a2f481cf8f"
+    },
+    {
+      "part": "word/theme/theme1.xml",
+      "bytes": 8717,
+      "sha256": "e7948e69d1ab51203d82e7e57d491987a16229547a1b6bfd124133a3a895c0ac"
+    },
+    {
+      "part": "word/settings.xml",
+      "bytes": 3467,
+      "sha256": "9d3edf881df664d0652c7dae5cb61165bc98d93ee476e4ae7fa3c39aab2d5706"
+    },
+    {
+      "part": "word/numbering.xml",
+      "bytes": 11672,
+      "sha256": "77587422c8af1bdd8529bc96a8d136209a61e46f212676a579774bf92565ecbf"
+    },
+    {
+      "part": "word/styles.xml",
+      "bytes": 43391,
+      "sha256": "8fd865704f5900a6cd01dadffb69fe63d1a5c302b42a867d82e0507dbe4cb071"
+    },
+    {
+      "part": "word/webSettings.xml",
+      "bytes": 1069,
+      "sha256": "f2f6fe7679634963bf49bae65f941f41934de42ceeb3a806afac4bab92274853"
+    },
+    {
+      "part": "word/fontTable.xml",
+      "bytes": 3081,
+      "sha256": "95aefd8fb41f6118ae3713997f9696fb9abd910397ae12aae6ff825e77abbfd7"
+    },
+    {
+      "part": "docProps/core.xml",
+      "bytes": 752,
+      "sha256": "4575bff0fcb4a482a5a9171f3a598d37600dfc6c803442e7ffdcc0cf104b233b"
+    },
+    {
+      "part": "docProps/app.xml",
+      "bytes": 720,
+      "sha256": "d00238752bd36d1bbebdebc32f84073f247f4a3b05bb3da338cd11d8e57fde6d"
+    }
+  ]
+}

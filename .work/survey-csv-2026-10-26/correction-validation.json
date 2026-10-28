@@ -1,0 +1,25 @@
+{
+  "research_csv_hashes_checked": 2,
+  "response_records_checked": 40,
+  "grade_counts": {
+    "Parent.csv": {
+      "4": 6,
+      "5": 6,
+      "6": 8
+    },
+    "Teacher.csv": {
+      "Kindergarten": 2,
+      "Grade 3": 4,
+      "Grade 4": 5,
+      "Grade 5": 5,
+      "Grade 6": 4
+    }
+  },
+  "external_reference_targets_checked": 3,
+  "word_tally_question_distributions_matched": 20,
+  "word_tally_rating_distributions_matched": 16,
+  "chapter_grade_date_corrected": true,
+  "grade5_target_preserved": true,
+  "long_sentence_candidates": [],
+  "errors": []
+}

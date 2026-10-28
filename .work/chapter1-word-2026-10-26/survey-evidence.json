@@ -1,0 +1,228 @@
+{
+  "Parent.csv": {
+    "grade5_records": 6,
+    "grade5_science_rating_counts": {
+      "5": 3,
+      "4": 3
+    },
+    "grade5_science_difficult_or_very_difficult": 6,
+    "grade5_explanation_difficulty": {
+      "Maybe": 1,
+      "Yes": 4,
+      "No": 1
+    },
+    "open_topic_answers": [
+      {
+        "record": 2,
+        "grade": "4",
+        "answer": "English = vocabulary\nMath = division\nScience = rocks"
+      },
+      {
+        "record": 3,
+        "grade": "4",
+        "answer": "English = Enumeration \nMath = Division\nFilipino = Tula\nScience = Speed calculation"
+      },
+      {
+        "record": 4,
+        "grade": "4",
+        "answer": "Science= movements "
+      },
+      {
+        "record": 5,
+        "grade": "4",
+        "answer": "Science = movements \nMapeh = traditional music"
+      },
+      {
+        "record": 6,
+        "grade": "4",
+        "answer": "N/A"
+      },
+      {
+        "record": 7,
+        "grade": "4",
+        "answer": "Science = Movements \nEnglish = Letter\nMath = Division"
+      },
+      {
+        "record": 8,
+        "grade": "5",
+        "answer": "Science = Minerals "
+      },
+      {
+        "record": 9,
+        "grade": "6",
+        "answer": "English = Revision & explanation \nScience = Condensation "
+      },
+      {
+        "record": 10,
+        "grade": "6",
+        "answer": "Science = melting\nMath = fraction\nEnglish = critical literacy "
+      },
+      {
+        "record": 11,
+        "grade": "6",
+        "answer": "English = structures "
+      },
+      {
+        "record": 12,
+        "grade": "6",
+        "answer": "Science= evaporation "
+      },
+      {
+        "record": 13,
+        "grade": "6",
+        "answer": "English= Advance sentence \nScience= melting\nMath = Algebra "
+      },
+      {
+        "record": 14,
+        "grade": "6",
+        "answer": "English = explanation text type "
+      },
+      {
+        "record": 15,
+        "grade": "6",
+        "answer": "English = critical literacy \nMath = decimal"
+      },
+      {
+        "record": 16,
+        "grade": "5",
+        "answer": "English = grammar \nScience = landforms \nMath = fraction "
+      },
+      {
+        "record": 17,
+        "grade": "5",
+        "answer": "English = grammar \nScience = soil formation "
+      },
+      {
+        "record": 18,
+        "grade": "5",
+        "answer": "English = grammar \nMath = Fraction \nScience= Landforms "
+      },
+      {
+        "record": 19,
+        "grade": "5",
+        "answer": "English = grammar \nMath = fraction \nScience = soil formation "
+      },
+      {
+        "record": 20,
+        "grade": "5",
+        "answer": "English = explanation description \nFilipino = panghalip, pandiwa\nScience= soil formation "
+      },
+      {
+        "record": 21,
+        "grade": "6",
+        "answer": "Mathematics= Ratio\nScience= Condensation "
+      }
+    ]
+  },
+  "Teacher.csv": {
+    "grade5_records": 5,
+    "grade5_science_rating_counts": {
+      "4": 3,
+      "3": 1,
+      "5": 1
+    },
+    "grade5_science_difficult_or_very_difficult": 4,
+    "open_topic_answers": [
+      {
+        "record": 2,
+        "grade": "Kindergarten",
+        "answer": "Mathematics = Subtraction\nEnglish = Reading"
+      },
+      {
+        "record": 3,
+        "grade": "Kindergarten",
+        "answer": "Mathematics = Subtraction"
+      },
+      {
+        "record": 4,
+        "grade": "Grade 3",
+        "answer": "N/A"
+      },
+      {
+        "record": 5,
+        "grade": "Grade 3",
+        "answer": "N/A"
+      },
+      {
+        "record": 6,
+        "grade": "Grade 3",
+        "answer": "Mathematics = Solving World Problem two or more options"
+      },
+      {
+        "record": 7,
+        "grade": "Grade 3",
+        "answer": "English = Reading Comprehension\nMathematics = Division"
+      },
+      {
+        "record": 8,
+        "grade": "Grade 4",
+        "answer": "English = Grammar\nScience = Rocks\nAraling Panlipunan = Likas na Yaman\nMathematics = Decimals"
+      },
+      {
+        "record": 9,
+        "grade": "Grade 4",
+        "answer": "Science = Movements, Speed\nMathematics = Fraction"
+      },
+      {
+        "record": 10,
+        "grade": "Grade 4",
+        "answer": "English = Grammar\nMAPEH = Notes\nScience = Evaporation"
+      },
+      {
+        "record": 11,
+        "grade": "Grade 4",
+        "answer": "Science = Force, Motion, Speed\nMathematics = Decimals"
+      },
+      {
+        "record": 12,
+        "grade": "Grade 4",
+        "answer": "English = Grammar\nMathematics = Decimals\nScience = Speed, Force"
+      },
+      {
+        "record": 13,
+        "grade": "Grade 5",
+        "answer": "N/A"
+      },
+      {
+        "record": 14,
+        "grade": "Grade 5",
+        "answer": "English = Grammar\nMathematics = Multiplication\nMAPEH = P.E\nEPP = Technology"
+      },
+      {
+        "record": 15,
+        "grade": "Grade 5",
+        "answer": "English = Grammar\nMathematics = Fraction\nScience = Minerals, Rocks, Soil"
+      },
+      {
+        "record": 16,
+        "grade": "Grade 5",
+        "answer": "Mathematics = Solving word problems involving two or more operations"
+      },
+      {
+        "record": 17,
+        "grade": "Grade 5",
+        "answer": "Science = Kinds of Rocks, Rocks Formation"
+      },
+      {
+        "record": 18,
+        "grade": "Grade 6",
+        "answer": "Mathematics = Problem Solving\nScience = Landforms"
+      },
+      {
+        "record": 19,
+        "grade": "Grade 6",
+        "answer": "N/A"
+      },
+      {
+        "record": 20,
+        "grade": "Grade 6",
+        "answer": "Science = Electricity, Evaporation"
+      },
+      {
+        "record": 21,
+        "grade": "Grade 6",
+        "answer": "English = 5-V Agreement, Complex Sentences\nMathematics = Ratio, Percentage World Problems\nAraling Panlipunan = Ekonomiya at Pamahalaan ng Pilipinas\nScience = Electric Circuits and Electricity\nEPP = Entrepreneurship"
+      }
+    ]
+  }
+}

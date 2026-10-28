@@ -1,0 +1,407 @@
+{
+  "files": {
+    "Parent.csv": {
+      "encoding": "UTF-8 (BOM accepted)",
+      "data_records": 20,
+      "columns": 24,
+      "grade_column_number": 3,
+      "grade_column_label": "Grade Level of Child:",
+      "grade_counts": {
+        "4": 6,
+        "5": 6,
+        "6": 8
+      },
+      "timestamp_date_counts": {
+        "2026/07/07": 20
+      },
+      "populated_name_email_fields": {
+        "Name (Optional):": 0,
+        "Email:": 0
+      },
+      "teacher_school_counts": null,
+      "closed_questions": [
+        {
+          "question": 1,
+          "csv_column_number": 6,
+          "label": "Is your child currently under a modular learning setup?",
+          "counts": {
+            "Yes": 20
+          }
+        },
+        {
+          "question": 2,
+          "csv_column_number": 7,
+          "label": "Do you personally assist your child in answering their modules?",
+          "counts": {
+            "Yes": 19,
+            "Maybe": 1
+          }
+        },
+        {
+          "question": 3,
+          "csv_column_number": 8,
+          "label": "Do you find it difficult to explain lessons in the modules to your child?",
+          "counts": {
+            "Yes": 17,
+            "Maybe": 1,
+            "No": 2
+          }
+        },
+        {
+          "question": 4,
+          "csv_column_number": 9,
+          "label": "Does your household have a smartphone, tablet, or computer your child could use for learning?",
+          "counts": {
+            "Yes": 18,
+            "Maybe": 1,
+            "No": 1
+          }
+        },
+        {
+          "question": 5,
+          "csv_column_number": 10,
+          "label": "Would you allow your child to use a mobile learning game as part of their studies?",
+          "counts": {
+            "Maybe": 2,
+            "Yes": 13,
+            "No": 5
+          }
+        },
+        {
+          "question": 6,
+          "csv_column_number": 11,
+          "label": "Do you think a mobile learning game would make it easier for your child to understand lessons?",
+          "counts": {
+            "Maybe": 7,
+            "Yes": 10,
+            "No": 3
+          }
+        },
+        {
+          "question": 7,
+          "csv_column_number": 12,
+          "label": "Do you believe your child would be interested in learning through a game-based app?",
+          "counts": {
+            "Yes": 15,
+            "Maybe": 4,
+            "No": 1
+          }
+        },
+        {
+          "question": 8,
+          "csv_column_number": 13,
+          "label": "Do you think a mobile learning game could support the lessons in your child's printed modules?",
+          "counts": {
+            "Yes": 14,
+            "Maybe": 4,
+            "No": 2
+          }
+        },
+        {
+          "question": 9,
+          "csv_column_number": 14,
+          "label": "Are you willing to monitor your child's use of a mobile learning application at home?",
+          "counts": {
+            "Yes": 20
+          }
+        },
+        {
+          "question": 10,
+          "csv_column_number": 15,
+          "label": "Do you feel that a mobile learning game would be a useful addition to your child's study routine?",
+          "counts": {
+            "Maybe": 7,
+            "Yes": 12,
+            "No": 1
+          }
+        }
+      ],
+      "ratings": [
+        {
+          "subject": "English",
+          "counts": {
+            "1": 0,
+            "2": 2,
+            "3": 2,
+            "4": 9,
+            "5": 7
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "counts": {
+            "1": 0,
+            "2": 4,
+            "3": 5,
+            "4": 7,
+            "5": 4
+          }
+        },
+        {
+          "subject": "Filipino",
+          "counts": {
+            "1": 2,
+            "2": 3,
+            "3": 10,
+            "4": 4,
+            "5": 1
+          }
+        },
+        {
+          "subject": "Araling Panlipunan (History)",
+          "counts": {
+            "1": 1,
+            "2": 2,
+            "3": 13,
+            "4": 3,
+            "5": 1
+          }
+        },
+        {
+          "subject": "Science",
+          "counts": {
+            "1": 0,
+            "2": 3,
+            "3": 0,
+            "4": 5,
+            "5": 12
+          }
+        },
+        {
+          "subject": "MAPEH (Music, Arts, Physical Education, and Health)",
+          "counts": {
+            "1": 0,
+            "2": 6,
+            "3": 10,
+            "4": 3,
+            "5": 1
+          }
+        },
+        {
+          "subject": "GMRC (Good Manners and Right Conduct)",
+          "counts": {
+            "1": 3,
+            "2": 4,
+            "3": 11,
+            "4": 1,
+            "5": 1
+          }
+        },
+        {
+          "subject": "EPP (Edukasyong Pantahanan at Pangkabuhayan)",
+          "counts": {
+            "1": 2,
+            "2": 4,
+            "3": 12,
+            "4": 1,
+            "5": 1
+          }
+        }
+      ]
+    },
+    "Teacher.csv": {
+      "encoding": "UTF-8 (BOM accepted)",
+      "data_records": 20,
+      "columns": 25,
+      "grade_column_number": 3,
+      "grade_column_label": "Grade Level Handled:",
+      "grade_counts": {
+        "Kindergarten": 2,
+        "Grade 3": 4,
+        "Grade 4": 5,
+        "Grade 5": 5,
+        "Grade 6": 4
+      },
+      "timestamp_date_counts": {
+        "2026/07/13": 20
+      },
+      "populated_name_email_fields": {
+        "Name (Optional):": 0,
+        "Email:": 0
+      },
+      "teacher_school_counts": {
+        "Baluan Elementary School": 20
+      },
+      "closed_questions": [
+        {
+          "question": 1,
+          "csv_column_number": 7,
+          "label": "Are you currently implementing modular learning in your class?",
+          "counts": {
+            "Yes": 20
+          }
+        },
+        {
+          "question": 2,
+          "csv_column_number": 8,
+          "label": "Do you find modular learning effective in helping students understand lessons?",
+          "counts": {
+            "Maybe": 5,
+            "No": 8,
+            "Yes": 7
+          }
+        },
+        {
+          "question": 3,
+          "csv_column_number": 9,
+          "label": "Does your classroom or school have access to a computer, projector, or stable internet connection?",
+          "counts": {
+            "Yes": 19,
+            "No": 1
+          }
+        },
+        {
+          "question": 4,
+          "csv_column_number": 10,
+          "label": "Are you familiar with game-based learning as a teaching strategy?",
+          "counts": {
+            "Yes": 19,
+            "Maybe": 1
+          }
+        },
+        {
+          "question": 5,
+          "csv_column_number": 11,
+          "label": "Have you used any mobile or digital learning tool in your teaching before?",
+          "counts": {
+            "Yes": 16,
+            "No": 3,
+            "Maybe": 1
+          }
+        },
+        {
+          "question": 6,
+          "csv_column_number": 12,
+          "label": "Do you think a mobile learning game could enhance your students' understanding of lessons when used alongside their printed modules?",
+          "counts": {
+            "Yes": 15,
+            "Maybe": 4,
+            "No": 1
+          }
+        },
+        {
+          "question": 7,
+          "csv_column_number": 13,
+          "label": "Would you be willing to add a mobile learning game to your modular learning strategy?",
+          "counts": {
+            "Yes": 16,
+            "Maybe": 3,
+            "No": 1
+          }
+        },
+        {
+          "question": 8,
+          "csv_column_number": 14,
+          "label": "Do you think students feel motivated to learn while playing games?",
+          "counts": {
+            "Yes": 18,
+            "No": 1,
+            "Maybe": 1
+          }
+        },
+        {
+          "question": 9,
+          "csv_column_number": 15,
+          "label": "Do you believe a mobile app could help you track student performance more easily?",
+          "counts": {
+            "Maybe": 10,
+            "No": 1,
+            "Yes": 9
+          }
+        },
+        {
+          "question": 10,
+          "csv_column_number": 16,
+          "label": "Would you recommend the use of a mobile learning game to other teachers?",
+          "counts": {
+            "Maybe": 6,
+            "Yes": 14
+          }
+        }
+      ],
+      "ratings": [
+        {
+          "subject": "English",
+          "counts": {
+            "1": 0,
+            "2": 0,
+            "3": 7,
+            "4": 11,
+            "5": 2
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "counts": {
+            "1": 0,
+            "2": 1,
+            "3": 3,
+            "4": 9,
+            "5": 7
+          }
+        },
+        {
+          "subject": "Filipino",
+          "counts": {
+            "1": 0,
+            "2": 3,
+            "3": 15,
+            "4": 2,
+            "5": 0
+          }
+        },
+        {
+          "subject": "Araling Panlipunan (History)",
+          "counts": {
+            "1": 1,
+            "2": 1,
+            "3": 14,
+            "4": 4,
+            "5": 0
+          }
+        },
+        {
+          "subject": "Science",
+          "counts": {
+            "1": 0,
+            "2": 0,
+            "3": 7,
+            "4": 5,
+            "5": 8
+          }
+        },
+        {
+          "subject": "MAPEH (Music, Arts, Physical Education, and Health)",
+          "counts": {
+            "1": 2,
+            "2": 1,
+            "3": 16,
+            "4": 1,
+            "5": 0
+          }
+        },
+        {
+          "subject": "GMRC (Good Manners and Right Conduct)",
+          "counts": {
+            "1": 3,
+            "2": 7,
+            "3": 9,
+            "4": 0,
+            "5": 1
+          }
+        },
+        {
+          "subject": "EPP (Edukasyong Pantahanan at Pangkabuhayan)",
+          "counts": {
+            "1": 2,
+            "2": 7,
+            "3": 8,
+            "4": 2,
+            "5": 1
+          }
+        }
+      ]
+    }
+  },
+  "word_tally_mismatches": []
+}

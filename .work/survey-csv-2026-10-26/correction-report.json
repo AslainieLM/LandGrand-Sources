@@ -1,0 +1,38 @@
+{
+  "new_note": "D:\\Projects\\LandGrand-Sources\\LandGrand\\Sources\\Baluan Survey CSV Records.md",
+  "raw_research_files": [
+    "D:\\Projects\\LandGrand-Sources\\Research Data\\Baluan Survey\\Parent.csv",
+    "D:\\Projects\\LandGrand-Sources\\Research Data\\Baluan Survey\\Teacher.csv"
+  ],
+  "changed_notes": [
+    "Sources/Project Clarifications 2026-10-26.md",
+    "Sources/Baluan Survey Tally.md",
+    "Project/Research and Evaluation.md",
+    "Manuscript/Evidence Register.md",
+    "Questions/Open Questions.md",
+    "Decisions/Decision Register.md",
+    "Manuscript/Drafts/Chapter I Introduction.md",
+    "Manuscript/Chapter I Revision Notes.md",
+    "Manuscript/Drafting Dashboard.md",
+    "Current Focus.md",
+    "Home.md",
+    "Maintenance/Change Log.md"
+  ],
+  "parent_grade_counts": {
+    "4": 6,
+    "5": 6,
+    "6": 8
+  },
+  "teacher_grade_counts": {
+    "Kindergarten": 2,
+    "Grade 3": 4,
+    "Grade 4": 5,
+    "Grade 5": 5,
+    "Grade 6": 4
+  },
+  "field_survey_date": "2026-07-07",
+  "google_form_version_date": "2026-07-13",
+  "main_word_count": 1862,
+  "context_word_count": 1037,
+  "word_tally_mismatches": []
+}

@@ -1,0 +1,105 @@
+{
+  "source": "D:\\Projects\\LandGrand-Sources\\LandGrand\\Sources\\Attachments\\Land Grand - Aslainie - Final.docx",
+  "metadata": {
+    "docProps/core.xml": {
+      "creator": "ethel",
+      "lastModifiedBy": "Marjovic",
+      "revision": "95",
+      "lastPrinted": "2026-07-24T18:16:00Z",
+      "created": "2026-07-08T15:17:00Z",
+      "modified": "2026-09-12T14:30:00Z"
+    },
+    "docProps/app.xml": {
+      "Template": "Normal.dotm",
+      "TotalTime": "237",
+      "Pages": "2",
+      "Words": "823",
+      "Characters": "4694",
+      "Application": "Microsoft Office Word",
+      "DocSecurity": "0",
+      "Lines": "39",
+      "Paragraphs": "11",
+      "ScaleCrop": "false",
+      "Company": "rmmc",
+      "LinksUpToDate": "false",
+      "CharactersWithSpaces": "5506",
+      "SharedDoc": "false",
+      "HyperlinksChanged": "false",
+      "AppVersion": "16.0000"
+    }
+  },
+  "tracked_insertions": 0,
+  "tracked_deletions": 0,
+  "drawings": 2,
+  "media": [
+    "word/media/image1.png",
+    "word/media/image2.jpeg"
+  ],
+  "blocks": [
+    {
+      "id": "B001",
+      "type": "table",
+      "rows": [
+        [
+          "RAMON MAGSAYSAY MEMORIAL COLLEGESOffice of the Program DirectorINFORMATION TECHNOLOGY EDUCATION PROGRAMGeneral Santos City, Philippines"
+        ],
+        [
+          "Document Type:",
+          "Document No.: DAP – 03 – 04 – 01 – 26 – ZY – 5"
+        ],
+        [
+          "THESIS / CAPSTONE PROJECT REPORTS (ISO 21001:2018) EOMS",
+          "Issue No.: 01 ",
+          "Revision No.: 00"
+        ],
+        [
+          "Document Title:",
+          "Effective Date:   August 1, 2025"
+        ],
+        [
+          "Pre-Proposal Statement",
+          "Page  of 1-1"
+        ]
+      ]
+    },
+    {
+      "id": "B002",
+      "type": "paragraph",
+      "style": "Heading1",
+      "text": "Pre-Proposal Statement"
+    },
+    {
+      "id": "B003",
+      "type": "paragraph",
+      "style": null,
+      "text": "NOTE: 1 for each of the 3 to 5 titles chosen by the adviser (strictly word-processed)"
+    },
+    {
+      "id": "B004",
+      "type": "table",
+      "rows": [
+        [
+          "Project Title:",
+          "Land Grand: An Interactive Exploration Game for Enhancing Grade 5 Learners’ Knowledge of Landforms, Rocks, and Minerals at Baluan Elementary School"
+        ],
+        [
+          "Proponents/Researcher:",
+          "Aslainie L. Maruhom"
+        ],
+        [
+          "Scope of the Study:",
+          "This study focuses on the development of Land Grand, a single-player Android educational game for Grade 5 learners at Baluan Elementary School. The game is designed to help learners improve their understanding of landforms, rocks, and minerals through interactive exploration and learning activities.The game includes four episodes that represent the four major landforms: Mountains, Hills, Plains, and Plateaus. Each episode contains rocks and minerals commonly found in that landform and provides simple lessons to help learners understand their characteristics.Each episode has three difficulty modes: Easy (3 levels), Normal (5 levels), and Hard (7 levels). Learners complete the levels in order, progressing from Easy to Normal and then to Hard. New episodes become available after the learner completes the previous episode.Each level allows learners to explore the environment, collect rocks and minerals, and read short descriptions about each item they find. The game also includes simple challenges such as obstacles, traps, pitfalls, and time limits to make learning more engaging.Before each level begins, learners are given a short lesson about the landform and the rocks or minerals they will encounter. After completing a level, the game displays the collected items, provides a short review, and awards up to three stars based on the learner's performance.The application is designed for Android devices and is intended to be used at home as additional learning support together with the printed learning materials provided by the school."
+        ],
+        [
+          "Limitations of the Study:",
+          "This study is limited to Grade 5 learners of Baluan Elementary School. The game covers only the four major landforms: Mountains, Hills, Plains, and Plateaus. It also includes only the selected rocks and minerals related to these landforms and does not cover all types of rocks, minerals, or other landforms.The game is a single-player application and does not support multiplayer or online features. It works without an internet connection and does not include online accounts, cloud storage, websites, or an administrator panel.The application is designed for Android phones and tablets running from Android 10 to Android 14. Player progress is saved only on the device being used.The game uses simple touch controls for movement and jumping. Learning is done through exploration and item collection, and it does not include separate quiz screens, GPS features, or real-world scanning."
+        ],
+        [
+          "Project Design/Development Plan:",
+          "Program SpecificationMain Menu options: Play, Settings, Tutorial, Exit.After selecting Play, the learner is taken to the Landform Map, which contains four episodes representing the major landforms: Mountains, Hills, Plains, and Plateaus. Only unlocked episodes can be selected, while the remaining episodes become available after completing the previous episode.Learners must complete the Easy levels before unlocking the Normal levels, and the Normal levels before unlocking the Hard levels.Before each level begins, a Lesson Screen introduces the selected landform and the rocks or minerals that can be found there using simple explanations.During gameplay, the learner controls an explorer character to explore the landform, collect rocks and minerals, and overcome challenges such as obstacles, traps, pitfalls, and time limits. When a rock or mineral is collected, a pop-up displays its name together with a short description.After completing a level, the Result Screen displays the learner's collected rocks and minerals, earned stars, and a short review of the lesson. Learners may then replay the level or continue to the next available level.After completing all required levels in an episode, a Landform Description Screen presents a short summary of the completed landform before unlocking the next episode. Once all four episodes have been completed, the game displays a Completion Screen showing the learner's total stars, collected rocks and minerals, and a congratulatory message.The application uses simple 2d graphics, large touch buttons, background music, and sound effects. The learner's progress, including the player's name, unlocked episodes, completed levels, earned stars, and collected rocks and minerals are automatically saved on the device and loaded the next time the game is playedSoftware SpecificationGame Engine: Unity EngineProgramming Language: C#Graphics Tools: Piskel and Clip Studio PaintOperating System for Development: Windows 11, 64-bitCode Editor: Visual Studio CodeHardware Specification   Developer:CPU – 11th Gen Intel(R) Core(TM) i7-1185G7 @ 3.00GHZRAM – 16 GB, 2400MhzGPU – Intel(R) Iris(TM) Xe GraphicsStorage – 256 GB SSD   User:OS: Android 10 and aboveRAM: 2GB RAM minimumStorage: 300MB free of space"
+        ]
+      ]
+    }
+  ],
+  "extra": {}
+}

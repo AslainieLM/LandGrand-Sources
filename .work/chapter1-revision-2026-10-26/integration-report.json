@@ -1,0 +1,31 @@
+{
+  "new_files": [
+    "Sources/Attachments/CHAPTER I only.docx",
+    "Sources/Chapter I Unrevised Draft.md",
+    "Sources/Chapter I Unrevised Draft Extract.md",
+    "Sources/Project Clarifications 2026-10-26.md",
+    "Sources/UNESCO GEM 2023 Technology.md",
+    "Sources/DepEd Distance Learning Strategies 2020.md",
+    "Sources/PHIVOLCS Sarangani Earthquake 2026.md",
+    "Manuscript/Chapter I Revision Notes.md"
+  ],
+  "updated_notes": [
+    "Manuscript/Drafts/Chapter I Introduction.md",
+    "Sources/Baluan Survey Tally.md",
+    "Project/Overview.md",
+    "Project/Research and Evaluation.md",
+    "Manuscript/Evidence Register.md",
+    "Questions/Open Questions.md",
+    "Decisions/Decision Register.md",
+    "Manuscript/Drafting Dashboard.md",
+    "Maintenance/Vault Guide.md",
+    "Current Focus.md",
+    "Home.md",
+    "Maintenance/Change Log.md"
+  ],
+  "original_paragraphs": 41,
+  "original_word_count": 1377,
+  "revised_word_count": 1791,
+  "context_word_count": 966,
+  "retained_sha256": "8701feed03dc35bf065cba7b20911eb7251335b14eee6e0ab58d3317962b72d7"
+}

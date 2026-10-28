@@ -1,0 +1,22 @@
+{
+  "installed": [
+    {
+      "name": "nature-polishing",
+      "path": "C:\\Users\\user\\.codex\\skills\\nature-polishing",
+      "files": 33
+    },
+    {
+      "name": "nature-shared",
+      "path": "C:\\Users\\user\\.codex\\skills\\nature-shared",
+      "files": 21
+    },
+    {
+      "name": "writing-clearly-and-concisely",
+      "path": "C:\\Users\\user\\.codex\\skills\\writing-clearly-and-concisely",
+      "files": 2
+    }
+  ],
+  "missing_references": [],
+  "nature_manifest_references_checked": 39,
+  "elements_of_style_reference_bytes": 71024
+}

@@ -1,0 +1,9 @@
+{
+  "tables_verified": 10,
+  "typed_paragraphs_verified": 9,
+  "embedded_images_verified": 2,
+  "source_archives_readable": true,
+  "connected_notes_verified": 7,
+  "known_source_discrepancy": "Mathematics topic frequencies sum to 13; source reports 14",
+  "errors": []
+}

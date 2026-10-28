@@ -1,0 +1,149 @@
+{
+  "closed_question_rows": 20,
+  "rating_rows": [
+    {
+      "table": 2,
+      "subject": "Science",
+      "n": 20,
+      "mean_from_counts": "4.3",
+      "sample_sd_from_counts": 1.0809352675491621
+    },
+    {
+      "table": 2,
+      "subject": "English",
+      "n": 20,
+      "mean_from_counts": "4.05",
+      "sample_sd_from_counts": 0.9445132413883326
+    },
+    {
+      "table": 2,
+      "subject": "Mathematics",
+      "n": 20,
+      "mean_from_counts": "3.55",
+      "sample_sd_from_counts": 1.050062654772261
+    },
+    {
+      "table": 2,
+      "subject": "Araling Panlipunan",
+      "n": 20,
+      "mean_from_counts": "3.05",
+      "sample_sd_from_counts": 0.8255779474818965
+    },
+    {
+      "table": 2,
+      "subject": "Filipino",
+      "n": 20,
+      "mean_from_counts": "2.95",
+      "sample_sd_from_counts": 0.998683343734455
+    },
+    {
+      "table": 2,
+      "subject": "MAPEH",
+      "n": 20,
+      "mean_from_counts": "2.95",
+      "sample_sd_from_counts": 0.8255779474818965
+    },
+    {
+      "table": 2,
+      "subject": "EPP",
+      "n": 20,
+      "mean_from_counts": "2.75",
+      "sample_sd_from_counts": 0.910465468000326
+    },
+    {
+      "table": 2,
+      "subject": "GMRC",
+      "n": 20,
+      "mean_from_counts": "2.65",
+      "sample_sd_from_counts": 0.9880869341680844
+    },
+    {
+      "table": 4,
+      "subject": "Mathematics",
+      "n": 20,
+      "mean_from_counts": "4.1",
+      "sample_sd_from_counts": 0.8522416262267903
+    },
+    {
+      "table": 4,
+      "subject": "Science",
+      "n": 20,
+      "mean_from_counts": "4.05",
+      "sample_sd_from_counts": 0.8870412083230169
+    },
+    {
+      "table": 4,
+      "subject": "English",
+      "n": 20,
+      "mean_from_counts": "3.75",
+      "sample_sd_from_counts": 0.6386663736585051
+    },
+    {
+      "table": 4,
+      "subject": "Araling Panlipunan",
+      "n": 20,
+      "mean_from_counts": "3.05",
+      "sample_sd_from_counts": 0.6863327411532597
+    },
+    {
+      "table": 4,
+      "subject": "Filipino",
+      "n": 20,
+      "mean_from_counts": "2.95",
+      "sample_sd_from_counts": 0.5104177855340405
+    },
+    {
+      "table": 4,
+      "subject": "MAPEH",
+      "n": 20,
+      "mean_from_counts": "2.8",
+      "sample_sd_from_counts": 0.6958523739384593
+    },
+    {
+      "table": 4,
+      "subject": "EPP",
+      "n": 20,
+      "mean_from_counts": "2.65",
+      "sample_sd_from_counts": 0.9880869341680844
+    },
+    {
+      "table": 4,
+      "subject": "GMRC",
+      "n": 20,
+      "mean_from_counts": "2.45",
+      "sample_sd_from_counts": 0.9445132413883326
+    }
+  ],
+  "topic_totals": [
+    {
+      "table": 5,
+      "calculated": 17,
+      "reported": 17
+    },
+    {
+      "table": 6,
+      "calculated": 9,
+      "reported": 9
+    },
+    {
+      "table": 7,
+      "calculated": 13,
+      "reported": 14
+    },
+    {
+      "table": 8,
+      "calculated": 2,
+      "reported": 2
+    },
+    {
+      "table": 9,
+      "calculated": 2,
+      "reported": 2
+    },
+    {
+      "table": 10,
+      "calculated": 2,
+      "reported": 2
+    }
+  ]
+}

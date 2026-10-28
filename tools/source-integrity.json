@@ -1,0 +1,70 @@
+{
+  "recorded": "2026-10-26",
+  "files": [
+    {
+      "path": "Sources/Attachments/Capstone Manuscript - BSIT.pdf",
+      "sha256": "57354ae8b6db46defc3a8c7aa926b0935b46861e8b79e23168f5c1b7b7aef930",
+      "role": "original"
+    },
+    {
+      "path": "Sources/Attachments/s02 CAPSTONE chapters 1-3.ppt",
+      "sha256": "ff3f2dcb083913d4811b7f2d040b58d64847f30c07e850fa5bcd61ebdc9e5af8",
+      "role": "original"
+    },
+    {
+      "path": "Sources/Attachments/Chapter1.docx",
+      "sha256": "72eeea5bd43fed019019f7a7e5836e6df020bc3e2b4f31aca19bdf972ef8bbae",
+      "role": "original"
+    },
+    {
+      "path": "Sources/Attachments/Land Grand - Aslainie - Final.docx",
+      "sha256": "9b753fecba2de5f50978395a4e38bbf7a336d358de9fab01eb1120508bd60d48",
+      "role": "original"
+    },
+    {
+      "path": "Sources/Attachments/Chapter1 Images/Chapter1 Image 01.png",
+      "sha256": "775940584f97566a1d2f138e1729fc8434300e5579cd4c567e6e766a8ab40668",
+      "role": "embedded-image"
+    },
+    {
+      "path": "Sources/Attachments/Chapter1 Images/Chapter1 Image 02.png",
+      "sha256": "26c5f4353216bcf9c135a4b21e290ee70d70a95bccc3d1f8c557675a86fa4496",
+      "role": "embedded-image"
+    },
+    {
+      "path": "Sources/Attachments/Chapter1 Images/Chapter1 Image 03.png",
+      "sha256": "11b6bf8316810c52f41d40a541ca410a6c1f653e38e2cad3c19372f98c4e0e9b",
+      "role": "embedded-image"
+    },
+    {
+      "path": "Sources/Attachments/Chapter1 Images/Chapter1 Image 04.png",
+      "sha256": "327991338d02b21baacc7dcae5afe93e42d6f54cf91fe2fce7f7e59e113feb86",
+      "role": "embedded-image"
+    },
+    {
+      "path": "Sources/Attachments/Chapter1 Images/Chapter1 Image 05.png",
+      "sha256": "1ac822c68160337b6b2c9bfad102d0f1861e7266de628a14a1ad2538d5b25d79",
+      "role": "embedded-image"
+    },
+    {
+      "path": "Sources/Attachments/Tally - Baluan.docx",
+      "sha256": "fe5824b25913542208f04c2ae7604f093f49833fd29c5796a69fe63fed3f946b",
+      "role": "original"
+    },
+    {
+      "path": "Sources/Attachments/Baluan Survey Tally Images/Baluan Survey Tally Image 01.png",
+      "sha256": "2d255c353239d130205b0b8c2d6051fea7ccd7bc6e91ce829a7b43baf28b1456",
+      "role": "embedded-image"
+    },
+    {
+      "path": "Sources/Attachments/Baluan Survey Tally Images/Baluan Survey Tally Image 02.png",
+      "sha256": "e8b8de0169ac7219bcfc2b55ded51ca8ce12324171bd7d2fe1a4cbb3a9b8a1a3",
+      "role": "embedded-image"
+    },
+    {
+      "path": "Sources/Attachments/CHAPTER I only.docx",
+      "sha256": "8701feed03dc35bf065cba7b20911eb7251335b14eee6e0ab58d3317962b72d7",
+      "role": "original"
+    }
+  ]
+}

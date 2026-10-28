@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Parent.csv",
+    "source": "G:\\Other computers\\My Computer (1)\\Lab Activities\\SUMMER\\CAPSTONE-1\\Aslainie\\Tally Sheet\\Parent.csv",
+    "bytes": 6761,
+    "modifiedUtc": "2026-07-29T01:53:44.0000000Z",
+    "sha256": "a772bdc1ece510fc6181b13390e42ce717c9ca4ec5d25ab72af4b54d40daae57"
+  },
+  {
+    "name": "Teacher.csv",
+    "source": "G:\\Other computers\\My Computer (1)\\Lab Activities\\SUMMER\\CAPSTONE-1\\Aslainie\\Tally Sheet\\Teacher.csv",
+    "bytes": 6867,
+    "modifiedUtc": "2026-07-12T02:15:36.0000000Z",
+    "sha256": "88e0291776f88f1ea925b14e0377cc46aec65a808698ab590c3329704a14f9ac"
+  }
+]

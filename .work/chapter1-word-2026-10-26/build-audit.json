@@ -1,0 +1,28 @@
+{
+  "output": "D:\\Projects\\LandGrand-Sources\\LandGrand\\Manuscript\\Drafts\\Land Grand - Chapter I - Revised.docx",
+  "reference_sha256": "8701feed03dc35bf065cba7b20911eb7251335b14eee6e0ab58d3317962b72d7",
+  "output_sha256": "502098ddb7579c73dfb0925235ad08c1cdf2e3c337cc2201f259908763adee23",
+  "paragraphs": 54,
+  "words": 1735,
+  "context_words": 909,
+  "preserved_parts": [
+    "[Content_Types].xml",
+    "_rels/.rels",
+    "word/_rels/document.xml.rels",
+    "word/theme/theme1.xml",
+    "word/settings.xml",
+    "word/numbering.xml",
+    "word/styles.xml",
+    "word/webSettings.xml",
+    "word/fontTable.xml",
+    "docProps/core.xml",
+    "docProps/app.xml"
+  ],
+  "headings": [
+    "Project Context",
+    "Purpose and Description of the Project",
+    "Objectives of the Project",
+    "Scope and Limitations of the Project"
+  ],
+  "specific_objectives": 4
+}

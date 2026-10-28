@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-28",
+  "output": "D:\\Projects\\LandGrand-Sources\\LandGrand\\Manuscript\\Drafts\\Land Grand - Chapter I - Revised.docx",
+  "sha256": "7a36e13c404ec006d00aef523847e59fa0fa0d49501df0c42f8ba856f90669f8",
+  "pages": 9,
+  "native_word_count": 1737,
+  "paragraphs": 54,
+  "context_start_page": 1,
+  "context_end_page": 5,
+  "changed_zip_parts": [
+    "word/document.xml",
+    "docProps/app.xml"
+  ],
+  "source_original_sha256": "8701feed03dc35bf065cba7b20911eb7251335b14eee6e0ab58d3317962b72d7",
+  "research_hashes": {
+    "Parent.csv": "a772bdc1ece510fc6181b13390e42ce717c9ca4ec5d25ab72af4b54d40daae57",
+    "Teacher.csv": "88e0291776f88f1ea925b14e0377cc46aec65a808698ab590c3329704a14f9ac"
+  },
+  "grade5_calculations": {
+    "Parent.csv": {
+      "row_locators": [
+        8,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "science_column": 20,
+      "topic_column": 24,
+      "science_rating_counts": {
+        "5": 3,
+        "4": 3
+      },
+      "topic_mentions": {
+        "landform": [
+          16,
+          18
+        ],
+        "mineral": [
+          8
+        ],
+        "rock": []
+      }
+    },
+    "Teacher.csv": {
+      "row_locators": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "science_column": 21,
+      "topic_column": 25,
+      "science_rating_counts": {
+        "4": 3,
+        "3": 1,
+        "5": 1
+      },
+      "topic_mentions": {
+        "landform": [],
+        "mineral": [
+          15
+        ],
+        "rock": [
+          15,
+          17
+        ]
+      }
+    }
+  },
+  "body_matches_native_word": true,
+  "markdown_body_matches_authoring_source": true,
+  "visual_review": "Passed: all nine final page PNGs inspected at full image detail; no clipping, overlap, missing glyphs, or stranded headings observed.",
+  "rendered_page_sha256": {
+    "page-1.png": "1e2007de650755de102a3ec80f16f61e5c452782166fc9c5e1307f8b9768ef24",
+    "page-2.png": "bdd93327fead46dccd1f6dfafaebf5b7613d6536d998a831831e305bd259f22b",
+    "page-3.png": "13b3c3e3b3739e40db26baaee408b1292469f38c93f8af1618b5f9b740df4fce",
+    "page-4.png": "d09a84b67a25184e924afc99fa8bbd72f59bafa712c46adaf8125b406c23f7b1",
+    "page-5.png": "9537494fb1511ffcff9e2de7eb1efcf676eb677f2a8b3326c3e9ce84b2775456",
+    "page-6.png": "c6a527144aace1c9de079e33449865cd2e2278c5af7ce48cb17bdd9a309ab4b1",
+    "page-7.png": "1a82f1668da902e2125cd74d17c822db15d798015ce6dd9f0b8f5b5ca7d5f125",
+    "page-8.png": "0d6ea4a631b9565a888d1cf2bea025cc6997a7bf5996ce386afcc78534140f9b",
+    "page-9.png": "de2397bee2c78acee0bf2ddd1fb408a71a5c31b13c992a80f96ae6a050b017f6"
+  },
+  "rendered_body_xml_sha256": "3de4b42d96d4475c21d887722df43838474ac467670f334cf18c74495ef905b1",
+  "metadata_refresh_changes_layout": false
+}

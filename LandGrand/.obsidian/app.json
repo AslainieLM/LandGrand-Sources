@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "Sources/Attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "promptDelete": true,
+  "defaultViewMode": "preview"
+}

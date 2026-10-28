@@ -1,0 +1,223 @@
+{
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "number": 1,
+      "text": "CHAPTER I"
+    },
+    {
+      "kind": "paragraph",
+      "number": 2,
+      "text": "INTRODUCTION"
+    },
+    {
+      "kind": "paragraph",
+      "number": 3,
+      "text": "This chapter presents the background of the project, along with its objectives, scope, and limitations, and discusses its significance and relevance to the community."
+    },
+    {
+      "kind": "paragraph",
+      "number": 4,
+      "text": "Project Context"
+    },
+    {
+      "kind": "paragraph",
+      "number": 5,
+      "text": "The educational system has been transformed by technological advances through the introduction of various mobile applications and web-based tools, such as Google Classroom, Photomath, and Zoom. These platforms support student learning, especially since Information and Communication Technology (ICT) has been widely incorporated into curricula across all grade levels, from elementary through college. Moreover, these applications help make instruction more engaging and effective in promoting literacy."
+    },
+    {
+      "kind": "paragraph",
+      "number": 6,
+      "text": "At present, mobile phones are common and have become an essential part of everyday life, used for communication, entertainment, finance, and education. With the help of different applications, it has become simpler to obtain information through websites such as Google, Facebook, and YouTube. Applications such as Messenger, Telegram, and Viber have made communication more convenient and are widely available through app stores, including Google Play and the App Store. When the pandemic began, various game-based learning applications became available to help students adjust to online classes."
+    },
+    {
+      "kind": "paragraph",
+      "number": 7,
+      "text": "From high school through college, students can watch instructional videos on YouTube and attend classes through applications such as Google Classroom, Google Meet, and Zoom. For elementary school students, however, the setup during that period looked different, as many schools in the Philippines shifted to modular learning, in which the government provided printed textbooks and answer sheets instead of relying on online classes. Children at this age typically have difficulty maintaining focus on independent seatwork. As a result, parents, siblings, or guardians often completed the modules on the children's behalf, while the children spent their time on mobile phones instead, particularly on entertainment platforms such as TikTok and YouTube. This pattern of improper phone use has been linked to negative effects on students' social, emotional, and academic development, as time spent on gaming and social media displaced time spent on schoolwork."
+    },
+    {
+      "kind": "paragraph",
+      "number": 8,
+      "text": "This study focuses on science, particularly landforms, rocks, and minerals, which teachers identified as challenging topics for Grade 5 learners at Baluan Elementary School. The survey findings also showed that many parents have difficulty explaining lessons from their children's printed modules, creating a need for additional at-home learning support. Therefore, this study aims to develop Land Grand, an Android educational game that gives learners an interactive way to explore landforms, collect rocks and minerals, and learn their characteristics through short lessons and engaging gameplay activities."
+    },
+    {
+      "kind": "paragraph",
+      "number": 9,
+      "text": "\t\tThe use of Android-based applications could be helpful to the Grade Five pupils of Baluan Elementary School. Mobile phones and digital games have become an integral part of learners' daily lives. The magnitude 7.8 offshore Sarangani earthquake that struck Mindanao on June 8, 2026, disrupted regular classes and prompted a shift to modular learning (PHIVOLCS, 2026). This disruption has created difficulties for students in adapting to their studies and maintaining focus. The development of the Android application serves only as a supplement to the traditional teaching methods used by Science teachers. It incorporates technology into instructional materials and enhances student engagement in learning Science concepts, particularly landforms, rocks, and minerals. With this, the researcher proposes an Android-based game application that addresses the problems and difficulties faced by Grade Five learners in studying landforms, rocks, and minerals."
+    },
+    {
+      "kind": "paragraph",
+      "number": 10,
+      "text": "\t\tThe project addresses several challenges, which are listed below:"
+    },
+    {
+      "kind": "paragraph",
+      "number": 11,
+      "text": "\tGrade Five pupils of Baluan Elementary School face difficulties in adapting to changes in the educational system brought about by the 2026 Sarangani earthquake and the resulting shift to modular learning "
+    },
+    {
+      "kind": "paragraph",
+      "number": 12,
+      "text": "\tStudents struggle to maintain focus and engagement within traditional learning environments "
+    },
+    {
+      "kind": "paragraph",
+      "number": 13,
+      "text": "\tThe widespread use of mobile phones and digital games has influenced students' learning habits, often diverting their attention away from academic content "
+    },
+    {
+      "kind": "paragraph",
+      "number": 14,
+      "text": "\tLearners have limited opportunities for real-world exposure to actual landforms, rocks, and minerals, making it difficult for them to visualize and fully understand these concepts through printed materials alone"
+    },
+    {
+      "kind": "paragraph",
+      "number": 15,
+      "text": "Purpose and Description of the Project"
+    },
+    {
+      "kind": "paragraph",
+      "number": 16,
+      "text": "This project aims to incorporate the use of technology, specifically a gaming application, in learning about landforms, rocks, and minerals. From the teachers' opinions and points of view, traditional methods of teaching Science have been observed to lack interactivity among students, leaving them disengaged and causing them to lose interest in the lessons. To address this ongoing problem among the young learners of Baluan Elementary School, the researcher proposes to develop Land Grand, an Android-based educational game designed to enhance the learning and engagement of Grade Five students. The application does not require an internet connection or mobile data to be used by the student. The offline game incorporates different interactive features such as short lessons, exploration, and the collection of rocks and minerals, and it contains four episodes representing the major landforms, namely Mountains, Hills, Plains, and Plateaus. Each episode offers three difficulty modes, Easy, Normal, and Hard, consisting of 3, 5, and 7 levels respectively, which unlock progressively as the learner completes the previous one, for a total of 60 levels across the entire game. The application makes learning about landforms, rocks, and minerals enjoyable and accessible for students."
+    },
+    {
+      "kind": "paragraph",
+      "number": 17,
+      "text": "Objectives of the Project "
+    },
+    {
+      "kind": "paragraph",
+      "number": 18,
+      "text": "The project's primary objective is to create an offline Android application that teaches the Grade Five students of Baluan Elementary School about landforms, rocks, and minerals interactively and engagingly. The application seeks to strengthen the students' knowledge of these topics. It aims to address the most common challenges in traditional teaching, namely students' lack of focus and interest in understanding lessons, difficulty grasping basic concepts about landforms, rocks, and minerals, and limited engagement during in-class participation. The qualities of the application are listed below:"
+    },
+    {
+      "kind": "paragraph",
+      "number": 19,
+      "text": "Educational: The game is designed to teach students about the four major landforms, Mountains, Hills, Plains, and Plateaus, along with the rocks and minerals commonly found in each, through short lessons and scientific facts. It also supports teachers in capturing students' attention when introducing these topics. "
+    },
+    {
+      "kind": "paragraph",
+      "number": 20,
+      "text": "Assessment: The game incorporates three difficulty modes per episode, Easy, Normal, and Hard, with 3, 5, and 7 levels respectively, to gradually assess and reinforce students' understanding of landforms, rocks, and minerals. Completing a level triggers a review of collected items along with a star rating, encouraging learners to reflect on what they have learned."
+    },
+    {
+      "kind": "paragraph",
+      "number": 21,
+      "text": "Tracking Progress: The application automatically saves the learner's progress, including unlocked episodes, completed levels, earned stars, and collected rocks and minerals, allowing both students and teachers to monitor learning achievements over time."
+    },
+    {
+      "kind": "paragraph",
+      "number": 22,
+      "text": "Accessibility: As an offline application, the game ensures that students can access educational content without needing an internet connection, making it suitable for use at home or in areas with limited connectivity, such as those still recovering from the 2026 Sarangani earthquake."
+    },
+    {
+      "kind": "paragraph",
+      "number": 23,
+      "text": "Scope and Limitations of the Study"
+    },
+    {
+      "kind": "paragraph",
+      "number": 24,
+      "text": "The scope and limitations of this study are mentioned in this section."
+    },
+    {
+      "kind": "paragraph",
+      "number": 25,
+      "text": "Scope"
+    },
+    {
+      "kind": "paragraph",
+      "number": 26,
+      "text": "The scope outlines the application's functions, content, and specifications. The educational application would be developed using Unity, C#, Piskel, and Clip Studio Paint, and only run on Android phones. "
+    },
+    {
+      "kind": "paragraph",
+      "number": 27,
+      "text": "The following would be included:\t"
+    },
+    {
+      "kind": "paragraph",
+      "number": 28,
+      "text": "The game has a single-player mode"
+    },
+    {
+      "kind": "paragraph",
+      "number": 29,
+      "text": "The game includes challenges such as obstacles, traps, pitfalls, and time limits, which the player must overcome to complete a level, with the option to replay the level if unsuccessful"
+    },
+    {
+      "kind": "paragraph",
+      "number": 30,
+      "text": "The player must complete each level's challenges to unlock the next available level, and read short lessons and facts about the corresponding landform, rocks, and minerals"
+    },
+    {
+      "kind": "paragraph",
+      "number": 31,
+      "text": "The game incorporates a difficulty mechanic, progressing from Easy to Normal to Hard, that gradually increases the challenge to keep players engaged"
+    },
+    {
+      "kind": "paragraph",
+      "number": 32,
+      "text": "The game tracks the student's progress in learning about landforms, rocks, and minerals, including completed levels, earned stars, and collected items"
+    },
+    {
+      "kind": "paragraph",
+      "number": 33,
+      "text": "Limitations of the study"
+    },
+    {
+      "kind": "paragraph",
+      "number": 34,
+      "text": "The limitations specified the features and elements that would not be included in the game application. "
+    },
+    {
+      "kind": "paragraph",
+      "number": 35,
+      "text": "The following would not be included:"
+    },
+    {
+      "kind": "paragraph",
+      "number": 36,
+      "text": "The game does not have multiplayer or online features"
+    },
+    {
+      "kind": "paragraph",
+      "number": 37,
+      "text": "The application does not have a database"
+    },
+    {
+      "kind": "paragraph",
+      "number": 38,
+      "text": "The application does not have an administrator panel"
+    },
+    {
+      "kind": "paragraph",
+      "number": 39,
+      "text": "The research covers only the four major landforms, namely Mountains, Hills, Plains, and Plateaus, along with the selected rocks and minerals related to these landforms, specific to the Grade Five learners of Baluan Elementary School"
+    },
+    {
+      "kind": "paragraph",
+      "number": 40,
+      "text": "The application can only be played on Android devices running Android 10+"
+    },
+    {
+      "kind": "paragraph",
+      "number": 41,
+      "text": "It serves as a foundation for additional exploration and in-depth study beyond the scope of this research"
+    },
+    {
+      "kind": "sectPr",
+      "text": ""
+    }
+  ],
+  "media": [],
+  "ancillary": {},
+  "revisions": {
+    "ins": 0,
+    "del": 0,
+    "drawing": 0,
+    "pict": 0,
+    "txbxContent": 0
+  },
+  "app_properties": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\r\n<Properties xmlns=\"http://schemas.openxmlformats.org/officeDocument/2006/extended-properties\" xmlns:vt=\"http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes\"><Template>Normal.dotm</Template><TotalTime>6</TotalTime><Pages>6</Pages><Words>1420</Words><Characters>8096</Characters><Application>Microsoft Office Word</Application><DocSecurity>0</DocSecurity><Lines>67</Lines><Paragraphs>18</Paragraphs><ScaleCrop>false</ScaleCrop><Company></Company><LinksUpToDate>false</LinksUpToDate><CharactersWithSpaces>9498</CharactersWithSpaces><SharedDoc>false</SharedDoc><HyperlinksChanged>false</HyperlinksChanged><AppVersion>16.0000</AppVersion></Properties>"
+}

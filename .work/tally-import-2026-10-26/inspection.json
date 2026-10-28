@@ -1,0 +1,902 @@
+{
+  "blocks": [
+    {
+      "kind": "table",
+      "number": 1,
+      "rows": [
+        [
+          "No.",
+          "Survey Question",
+          "Yes",
+          "No",
+          "Maybe",
+          "Total"
+        ],
+        [
+          "1",
+          "Is your child currently under a modular learning setup?",
+          "20",
+          "0",
+          "0",
+          "20"
+        ],
+        [
+          "2",
+          "Do you personally assist your child in answering their modules?",
+          "19",
+          "0",
+          "1",
+          "20"
+        ],
+        [
+          "3",
+          "Do you find it difficult to explain lessons in the modules to your child?",
+          "17",
+          "2",
+          "1",
+          "20"
+        ],
+        [
+          "4",
+          "Does your household have a smartphone, tablet, or computer your child could use for learning?",
+          "18",
+          "1",
+          "1",
+          "20"
+        ],
+        [
+          "5",
+          "Would you allow your child to use a mobile learning game as part of their studies?",
+          "13",
+          "5",
+          "2",
+          "20"
+        ],
+        [
+          "6",
+          "Do you think a mobile learning game would make it easier for your child to understand lessons?",
+          "10",
+          "3",
+          "7",
+          "20"
+        ],
+        [
+          "7",
+          "Do you believe your child would be interested in learning through a game-based app?",
+          "15",
+          "1",
+          "4",
+          "20"
+        ],
+        [
+          "8",
+          "Do you think a mobile learning game could support the lessons in your child's printed modules?",
+          "14",
+          "2",
+          "4",
+          "20"
+        ],
+        [
+          "9",
+          "Are you willing to monitor your child's use of a mobile learning application at home?",
+          "20",
+          "0",
+          "0",
+          "20"
+        ],
+        [
+          "10",
+          "Do you feel that a mobile learning game would be a useful addition to your child's study routine?",
+          "12",
+          "1",
+          "7",
+          "20"
+        ]
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "number": 1,
+      "text": "SURVEY QUESTIONNAIRE FOR PARENTS TALLY SHEET – BALUAN ELEMENTARY SCHOOL"
+    },
+    {
+      "kind": "paragraph",
+      "number": 2,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 3,
+      "text": "Part I."
+    },
+    {
+      "kind": "paragraph",
+      "number": 4,
+      "text": "\nPart II."
+    },
+    {
+      "kind": "paragraph",
+      "number": 5,
+      "text": "Descriptive Statistics for Subject Difficulty Ratings (Parents)"
+    },
+    {
+      "kind": "paragraph",
+      "number": 6,
+      "text": ""
+    },
+    {
+      "kind": "table",
+      "number": 2,
+      "rows": [
+        [
+          "Subject",
+          "Mean",
+          "SD",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        [
+          "Science",
+          "4.3",
+          "1.1",
+          "0",
+          "3",
+          "0",
+          "5",
+          "12"
+        ],
+        [
+          "English",
+          "4.1",
+          "0.9",
+          "0",
+          "2",
+          "2",
+          "9",
+          "7"
+        ],
+        [
+          "Mathematics",
+          "3.6",
+          "1.1",
+          "0",
+          "4",
+          "5",
+          "7",
+          "4"
+        ],
+        [
+          "Araling Panlipunan",
+          "3.1",
+          "0.8",
+          "1",
+          "2",
+          "13",
+          "3",
+          "1"
+        ],
+        [
+          "Filipino",
+          "3.0",
+          "1.0",
+          "2",
+          "3",
+          "10",
+          "4",
+          "1"
+        ],
+        [
+          "MAPEH",
+          "3.0",
+          "0.8",
+          "0",
+          "6",
+          "10",
+          "3",
+          "1"
+        ],
+        [
+          "EPP",
+          "2.8",
+          "0.9",
+          "2",
+          "4",
+          "12",
+          "1",
+          "1"
+        ],
+        [
+          "GMRC",
+          "2.7",
+          "1.0",
+          "3",
+          "4",
+          "11",
+          "1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "number": 7,
+      "text": "\n"
+    },
+    {
+      "kind": "paragraph",
+      "number": 8,
+      "text": "SURVEY QUESTIONNAIRE FOR TEACHERS TALLY SHEET – BALUAN ELEMENTARY SCHOOL"
+    },
+    {
+      "kind": "paragraph",
+      "number": 9,
+      "text": ""
+    },
+    {
+      "kind": "table",
+      "number": 3,
+      "rows": [
+        [
+          "No.",
+          "Survey Question",
+          "Yes",
+          "No",
+          "Maybe",
+          "Total"
+        ],
+        [
+          "1",
+          "Are you currently implementing modular learning in your class?",
+          "20",
+          "0",
+          "0",
+          "20"
+        ],
+        [
+          "2",
+          "Do you find modular learning effective in helping students understand lessons?",
+          "7",
+          "8",
+          "5",
+          "20"
+        ],
+        [
+          "3",
+          "Does your classroom or school have access to a computer, projector, or stable internet connection?",
+          "19",
+          "1 ",
+          "0",
+          "20"
+        ],
+        [
+          "4",
+          "Are you familiar with game-based learning as a teaching strategy?   ",
+          "19",
+          "0",
+          "1",
+          "20"
+        ],
+        [
+          "5",
+          "Have you used any mobile or digital learning tool in your teaching before?",
+          "16",
+          "3",
+          "1",
+          "20"
+        ],
+        [
+          "6",
+          "Do you think a mobile learning game could enhance your students' understanding of lessons when used alongside their printed modules?",
+          "15",
+          "1",
+          "4",
+          "20"
+        ],
+        [
+          "7",
+          "Would you be willing to add a mobile learning game to your modular learning strategy?",
+          "16",
+          "1",
+          "3",
+          "20"
+        ],
+        [
+          "8",
+          "Do you think students feel motivated to learn while playing games?",
+          "18",
+          "1",
+          "1",
+          "20"
+        ],
+        [
+          "9",
+          "Do you believe a mobile app could help you track student performance more easily? ",
+          "9",
+          "1",
+          "10",
+          "20"
+        ],
+        [
+          "10",
+          "Would you recommend the use of a mobile learning game to other teachers?",
+          "14",
+          "0",
+          "6",
+          "20"
+        ]
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "number": 10,
+      "text": "Part I."
+    },
+    {
+      "kind": "paragraph",
+      "number": 11,
+      "text": "\nPart II."
+    },
+    {
+      "kind": "paragraph",
+      "number": 12,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 13,
+      "text": "Descriptive Statistics for Subject Difficulty Ratings (Teachers)"
+    },
+    {
+      "kind": "paragraph",
+      "number": 14,
+      "text": ""
+    },
+    {
+      "kind": "table",
+      "number": 4,
+      "rows": [
+        [
+          "Subject",
+          "Mean",
+          "SD",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        [
+          "Mathematics",
+          "4.1",
+          "0.9",
+          "0",
+          "1",
+          "3",
+          "9",
+          "7"
+        ],
+        [
+          "Science",
+          "4.1",
+          "0.9",
+          "0",
+          "0",
+          "7",
+          "5",
+          "8"
+        ],
+        [
+          "English",
+          "3.8",
+          "0.6",
+          "0",
+          "0",
+          "7",
+          "11",
+          "2"
+        ],
+        [
+          "Araling Panlipunan",
+          "3.1",
+          "0.7",
+          "1",
+          "1",
+          "14",
+          "4",
+          "0"
+        ],
+        [
+          "Filipino",
+          "3.0",
+          "0.5",
+          "0",
+          "3",
+          "15",
+          "2",
+          "0"
+        ],
+        [
+          "MAPEH",
+          "2.8",
+          "0.7",
+          "2",
+          "1",
+          "16",
+          "1",
+          "0"
+        ],
+        [
+          "EPP",
+          "2.7",
+          "1.0",
+          "2",
+          "7",
+          "8",
+          "2",
+          "1"
+        ],
+        [
+          "GMRC",
+          "2.5",
+          "0.9",
+          "3",
+          "7",
+          "9",
+          "0",
+          "1"
+        ]
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "number": 15,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 16,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 17,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 18,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 19,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 20,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 21,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 22,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 23,
+      "text": "For any subject you rated 4 (Difficult) or 5 (Very Difficult) in the table above, please specify the topics. At least 1 subject that learners struggle with."
+    },
+    {
+      "kind": "paragraph",
+      "number": 24,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 25,
+      "text": ""
+    },
+    {
+      "kind": "table",
+      "number": 5,
+      "rows": [
+        [
+          "Science Topics",
+          "Frequency"
+        ],
+        [
+          "Speed",
+          "3"
+        ],
+        [
+          "Rocks / Kinds of Rocks / Rock Formation",
+          "3"
+        ],
+        [
+          "Evaporation",
+          "2"
+        ],
+        [
+          "Force",
+          "2"
+        ],
+        [
+          "Electricity / Electric Circuits",
+          "2"
+        ],
+        [
+          "Motion",
+          "1"
+        ],
+        [
+          "Movements",
+          "1"
+        ],
+        [
+          "Minerals",
+          "1"
+        ],
+        [
+          "Soil",
+          "1"
+        ],
+        [
+          "Landforms",
+          "1"
+        ],
+        [
+          "Total",
+          "17"
+        ]
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "number": 26,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 27,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 28,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 29,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 30,
+      "text": ""
+    },
+    {
+      "kind": "table",
+      "number": 6,
+      "rows": [
+        [
+          "English Topics",
+          "Frequency"
+        ],
+        [
+          "Grammar",
+          "5"
+        ],
+        [
+          "Subject-Verb Agreement",
+          "1"
+        ],
+        [
+          "Complex Sentences",
+          "1"
+        ],
+        [
+          "Reading",
+          "1"
+        ],
+        [
+          "Reading Comprehension",
+          "1"
+        ],
+        [
+          "Total",
+          "9"
+        ]
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "number": 31,
+      "text": "\n"
+    },
+    {
+      "kind": "table",
+      "number": 7,
+      "rows": [
+        [
+          "Mathematics Topics",
+          "Frequency"
+        ],
+        [
+          "Decimals",
+          "3"
+        ],
+        [
+          "Subtraction",
+          "2"
+        ],
+        [
+          "Fraction",
+          "2"
+        ],
+        [
+          "Word problems involving two or more operations",
+          "2"
+        ],
+        [
+          "Division",
+          "1"
+        ],
+        [
+          "Multiplication",
+          "1"
+        ],
+        [
+          "Problem Solving",
+          "1"
+        ],
+        [
+          "Ratio and Percentage word problems",
+          "1"
+        ],
+        [
+          "Total",
+          "14"
+        ]
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "number": 32,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 33,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 34,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 35,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 36,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 37,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 38,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 39,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 40,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 41,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 42,
+      "text": ""
+    },
+    {
+      "kind": "table",
+      "number": 8,
+      "rows": [
+        [
+          "MAPEH Topics",
+          "Frequency"
+        ],
+        [
+          "P.E.",
+          "1"
+        ],
+        [
+          "Notes",
+          "1"
+        ],
+        [
+          "Total",
+          "2"
+        ]
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "number": 43,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 44,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 45,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 46,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 47,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 48,
+      "text": ""
+    },
+    {
+      "kind": "table",
+      "number": 9,
+      "rows": [
+        [
+          "Araling Panlipunan Topics",
+          "Frequency"
+        ],
+        [
+          "Likas na Yaman",
+          "1"
+        ],
+        [
+          "Ekonomiya at Pamahalaan ng Pilipinas",
+          "1"
+        ],
+        [
+          "Total",
+          "2"
+        ]
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "number": 49,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 50,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 51,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 52,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 53,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 54,
+      "text": ""
+    },
+    {
+      "kind": "table",
+      "number": 10,
+      "rows": [
+        [
+          "EPP Topics",
+          "Frequency"
+        ],
+        [
+          "Entrepreneurship",
+          "1"
+        ],
+        [
+          "Technology",
+          "1"
+        ],
+        [
+          "Total",
+          "2"
+        ]
+      ]
+    },
+    {
+      "kind": "paragraph",
+      "number": 55,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 56,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 57,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 58,
+      "text": ""
+    },
+    {
+      "kind": "paragraph",
+      "number": 59,
+      "text": ""
+    },
+    {
+      "kind": "sectPr",
+      "text": ""
+    }
+  ],
+  "media": [
+    {
+      "name": "word/media/image1.png",
+      "bytes": 83931
+    },
+    {
+      "name": "word/media/image2.png",
+      "bytes": 78573
+    }
+  ],
+  "ancillary": {},
+  "revisions": {
+    "ins": 0,
+    "del": 0,
+    "drawing": 2,
+    "pict": 0,
+    "txbxContent": 0
+  },
+  "app_properties": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\r\n<Properties xmlns=\"http://schemas.openxmlformats.org/officeDocument/2006/extended-properties\" xmlns:vt=\"http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes\"><Template>Normal.dotm</Template><TotalTime>311</TotalTime><Pages>6</Pages><Words>566</Words><Characters>3230</Characters><Application>Microsoft Office Word</Application><DocSecurity>0</DocSecurity><Lines>26</Lines><Paragraphs>7</Paragraphs><ScaleCrop>false</ScaleCrop><HeadingPairs><vt:vector size=\"2\" baseType=\"variant\"><vt:variant><vt:lpstr>Title</vt:lpstr></vt:variant><vt:variant><vt:i4>1</vt:i4></vt:variant></vt:vector></HeadingPairs><TitlesOfParts><vt:vector size=\"1\" baseType=\"lpstr\"><vt:lpstr></vt:lpstr></vt:vector></TitlesOfParts><Company></Company><LinksUpToDate>false</LinksUpToDate><CharactersWithSpaces>3789</CharactersWithSpaces><SharedDoc>false</SharedDoc><HyperlinksChanged>false</HyperlinksChanged><AppVersion>16.0000</AppVersion></Properties>"
+}

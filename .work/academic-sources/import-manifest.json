@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-24",
+  "sources": [
+    {
+      "file": "Capstone Manuscript - BSIT.pdf",
+      "note": "Capstone Manuscript BSIT",
+      "extract": "Capstone Manuscript BSIT Extract",
+      "type": "PDF",
+      "origin": "G:\\Other computers\\My Computer (1)\\Lab Activities\\SUMMER\\CAPSTONE-1\\Capstone Manuscript - BSIT.pdf",
+      "sha256": "57354ae8b6db46defc3a8c7aa926b0935b46861e8b79e23168f5c1b7b7aef930",
+      "modified": "2026-06-12T12:34:13.443Z",
+      "role": "User-selected source for manuscript order, headings, and table-of-contents structure.",
+      "detail": "The two-page document is headed “Appendix D. Research / Project Manuscript Outline - BSIT.” Both pages were rendered and visually inspected to verify the hierarchy. Page references below mean physical PDF pages 1 and 2. The PDF specifies use of the MS Word Table of Contents feature for the final manuscript.",
+      "bytes": 187715
+    },
+    {
+      "file": "s02 CAPSTONE chapters 1-3.ppt",
+      "note": "Chapter 1-3 Guidelines",
+      "extract": "Chapter 1-3 Guidelines Extract",
+      "type": "Legacy PowerPoint PPT",
+      "origin": "G:\\Other computers\\My Computer (1)\\Lab Activities\\SUMMER\\CAPSTONE-2\\s02 CAPSTONE chapters 1-3.ppt",
+      "sha256": "ff3f2dcb083913d4811b7f2d040b58d64847f30c07e850fa5bcd61ebdc9e5af8",
+      "modified": "2026-10-21T11:36:50.039Z",
+      "role": "User-selected writing guidance for Chapters I–III, alongside the PDF outline.",
+      "detail": "The presentation is titled “Writing Chapters 1, 2, and 3 of the Research Proposal” and credits Ethel L. Oczon. It contains 33 presentation slides. Footers show “5/3/2014”; this literal date is retained without assuming its locale or treating it as a current policy revision. Text was read from the active slide order and current persisted objects in the legacy PPT file. The slide layout was not rendered. The five screenshots in the discussion document visually corroborate selected material from slides 17, 18, 20, 21, and 22.",
+      "bytes": 876544
+    },
+    {
+      "file": "Chapter1.docx",
+      "note": "Chapter1 Discussion Notes",
+      "extract": "Chapter1 Discussion Notes Extract",
+      "type": "Word DOCX discussion notes",
+      "origin": "G:\\Other computers\\My Computer (1)\\Lab Activities\\SUMMER\\CAPSTONE-2\\Chapter1.docx",
+      "sha256": "72eeea5bd43fed019019f7a7e5836e6df020bc3e2b4f31aca19bdf972ef8bbae",
+      "modified": "2026-10-24T09:34:25.787Z",
+      "role": "The user’s own discussion notes, used as supplemental Chapter I drafting guidance and recollection.",
+      "detail": "The user identified this file as notes created during discussion. It contains 10 nonblank typed paragraphs and five embedded screenshots. Typed text and explicit line breaks were extracted from OOXML; all five screenshots were extracted unchanged and visually inspected. Their visible text is transcribed separately from the typed notes. Word pagination was not rendered or verified. This snapshot covers saved content; unsaved edits in an open Word session are outside the file snapshot.",
+      "bytes": 730458
+    }
+  ],
+  "images": [
+    {
+      "image": 1,
+      "paragraph": 1,
+      "path": "Sources/Attachments/Chapter1 Images/Chapter1 Image 01.png",
+      "sha256": "775940584f97566a1d2f138e1729fc8434300e5579cd4c567e6e766a8ab40668"
+    },
+    {
+      "image": 2,
+      "paragraph": 3,
+      "path": "Sources/Attachments/Chapter1 Images/Chapter1 Image 02.png",
+      "sha256": "26c5f4353216bcf9c135a4b21e290ee70d70a95bccc3d1f8c557675a86fa4496"
+    },
+    {
+      "image": 3,
+      "paragraph": 15,
+      "path": "Sources/Attachments/Chapter1 Images/Chapter1 Image 03.png",
+      "sha256": "11b6bf8316810c52f41d40a541ca410a6c1f653e38e2cad3c19372f98c4e0e9b"
+    },
+    {
+      "image": 4,
+      "paragraph": 21,
+      "path": "Sources/Attachments/Chapter1 Images/Chapter1 Image 04.png",
+      "sha256": "327991338d02b21baacc7dcae5afe93e42d6f54cf91fe2fce7f7e59e113feb86"
+    },
+    {
+      "image": 5,
+      "paragraph": 22,
+      "path": "Sources/Attachments/Chapter1 Images/Chapter1 Image 05.png",
+      "sha256": "1ac822c68160337b6b2c9bfad102d0f1861e7266de628a14a1ad2538d5b25d79"
+    }
+  ],
+  "pdf_pages": 2,
+  "slides": 33,
+  "typed_paragraphs": 10
+}
