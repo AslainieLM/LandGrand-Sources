@@ -232,3 +232,10 @@ These checks cover saved files and references. The live Obsidian interface was n
 - Revised Context, Purpose, Scope and Limitations for consistency. Preserved the proposal baseline, Android 10+, local saving, existing exclusions and D-015's planned window/year distinction.
 - Rendered and inspected all eight pages. Context spans pages 1–4; numbered items are intact, and the first page is unchanged from revision 7. All preserve-only package parts, including numbering, match the reference.
 - Synchronized the Markdown manuscript, current pointers and dashboard. Consolidated the running revision note around the current draft while retaining historical anchors, a full pre-update snapshot, source feedback and prior Word versions.
+
+### Scope and Limitations wording review saved
+
+- Saved the user's latest section passage, shorter-language work, edited single-player sentence and eight review recommendations in [[Sessions/2026-10-28 - Chapter I Scope and Limitations|the session record]]. The user explicitly requested saving progress.
+- Linked the session from Current Focus, the dashboard, revision notes and feedback source. Marked later Word/Markdown integration as pending rather than claiming a new full revision.
+- Retained the existing requirements and open evidence questions. Mixed-grade survey coverage does not replace correctly labeled Grade 5 subgroup findings; device targets, content validation, scoring and evaluation remain qualified.
+- Restored the missing revision 8 Word file from the existing recovery copy after matching its recorded SHA-256. The restored bytes equal the previously inspected artifact; no later wording was inserted. Pre-save note backups and recovery audit are recorded in the session note.

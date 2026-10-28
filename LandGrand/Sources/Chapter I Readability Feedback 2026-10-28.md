@@ -99,3 +99,11 @@ After the four short statements and matching potential objectives were drafted, 
 > Can you revise the chapter 1 based on this one please?
 
 D-019 records authorization to integrate that set into [[Manuscript/Drafts/Land Grand - Chapter I - Revised - v8.docx|revision 8]]. The request confirms the chosen draft direction, not the factual existence of a physical-sample shortage. Revision 8 keeps the fourth statement conditional and uses the broader survey coverage for the first three. The separate Grade 5 interest observation is retained as a source but is not substituted for material-availability evidence.
+
+## Scope and Limitations language review and session save
+
+After revision 8, the user invoked nature-polishing and requested short sentences and easier English for Scope and Limitations. The user then supplied a revised passage for another analysis, including an explicit single-player bullet. Their final wording question proposed “The game will be single player only.” The edited response was **“The game will support single-player mode only.”**
+
+The user subsequently requested “save what we accomplish.” The [[Sessions/2026-10-28 - Chapter I Scope and Limitations|session record]] preserves the latest supplied passage, the edited single-player sentence and eight review recommendations. These recommendations cover paragraph separation, proposal tense, device testing, overall versus Grade 5 survey findings, omitted LG-23 exclusions, open star/completion rules and evaluation evidence.
+
+This saves the discussion without claiming adviser approval, new research findings or changed project scope. Word revision 8 and its synchronized Markdown do not yet contain the later wording edits. A missing revision 8 file was restored byte-for-byte from its verified recovery copy during the save; provenance is recorded in the session note.

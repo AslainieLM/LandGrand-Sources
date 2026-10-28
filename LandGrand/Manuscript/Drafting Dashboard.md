@@ -13,6 +13,9 @@ Use this as the entry point for the current manuscript work. Read the section bo
 
 ## Now
 
+- [x] Save the latest [[Sessions/2026-10-28 - Chapter I Scope and Limitations|Scope and Limitations wording review]], including the edited single-player sentence and pending recommendations.
+- [ ] Integrate those wording edits into the next full Word revision and synchronized Markdown when requested; then recheck the rendered pages. Revision 8 retains its previously checked content.
+
 - [x] Integrate the latest [[Manuscript/Drafts/Problem Candidates#Four-statement shortlist for review|four-statement shortlist]] and matching objectives into revision 8 under D-019. The eight-candidate pool remains reference material.
 - [ ] Confirm the physical rock/mineral sample limitation under Q-12 before treating problem 4 as an established local finding.
 
@@ -28,7 +31,7 @@ Use this as the entry point for the current manuscript work. Read the section bo
 | I — Project Context | [[Manuscript/Drafts/Chapter I Introduction#Project Context|Open section]] | Revised review draft; revision 8, 2026-10-28 | Broader survey coverage restored; confirm conditional problem 4 under Q-12. Context spans pages 1–4. |
 | I — Purpose and Description | [[Manuscript/Drafts/Chapter I Introduction#Purpose and Description of the Project|Open section]] | Ready for user/adviser review; revision 8, 2026-10-28 | Review short lessons, exploration and supplementary digital examples; no effectiveness or novelty claim is established. |
 | I — Objectives | [[Manuscript/Drafts/Chapter I Introduction#Objectives of the Project|Open section]] | Ready for user/adviser review; revision 8, 2026-10-28 | Four objectives match the selected problems 1–4. Digital examples supplement physical specimens; the shortage is unconfirmed. |
-| I — Scope and Limitations | [[Manuscript/Drafts/Chapter I Introduction#Scope and Limitations of the Project|Open section]] | Ready for user/adviser review; revision 8, 2026-10-28 | Existing offline Android/local-save scope retained; digital illustrations are supplementary, and detailed rules remain open. |
+| I — Scope and Limitations | [[Manuscript/Drafts/Chapter I Introduction#Scope and Limitations of the Project|Open section]] | Word revision 8 retained; later wording review saved, 2026-10-28 | Integrate the [[Sessions/2026-10-28 - Chapter I Scope and Limitations|saved review]] into a later Word revision. Keep device/evaluation qualifications, LG-23 exclusions and open game rules visible. |
 | II — Related Literature / Theoretical Background | [[Manuscript/Drafts/Chapter II Review of Related Literature#Related Literature / Theoretical Background|Open section]] | Scaffold only; sources needed | Select and read actual literature and theory sources; use E-06. |
 | II — Related Studies | [[Manuscript/Drafts/Chapter II Review of Related Literature#Related Studies|Open section]] | Scaffold only; sources needed | Read and compare real studies or projects; use E-07. |
 | III — Technicality of the project | [[Manuscript/Drafts/Chapter III Technical Background#Technicality of the project|Open section]] | Scaffold only; proposal available | Explain the proposed technical approach in paragraphs. |
@@ -56,6 +59,7 @@ Record actual user or adviser feedback here, with the reviewer, date, and a trac
 
 | Date and reviewer | Target section | Feedback and source | Action and evidence |
 | --- | --- | --- | --- |
+| 2026-10-28, user | I — Scope and Limitations | Requested short, easy academic sentences and a reread of the revised passage; later requested saving progress. [[Sources/Chapter I Readability Feedback 2026-10-28#Scope and Limitations language review and session save|Feedback record]]. | [[Sessions/2026-10-28 - Chapter I Scope and Limitations|Passage and recommendations saved]]. Edited single-player sentence recorded; Word integration remains pending. |
 
 ## Section readiness check
 

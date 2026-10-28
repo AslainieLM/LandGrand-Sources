@@ -22,6 +22,14 @@ The chapter has **eight rendered pages**. Project Context spans **pages 1–4**,
 
 The game target remains Grade 5. The survey is broader: parents of children in Grades 4–6 and teachers handling Kindergarten and Grades 3–6. Revision 8 uses the overall groups for the first three concerns. Earlier Grade 5 subgroup calculations remain valid as labeled subgroup checks, not descriptions of the entire survey.
 
+## Scope and Limitations wording follow-up
+
+The [[Sessions/2026-10-28 - Chapter I Scope and Limitations|saved wording-review session]] retains the user's latest passage, shorter-language work and recommendations for the next revision. The latest edited sentence is “The game will support single-player mode only.” This restates existing LG-02.
+
+Later edits have not been applied to Word revision 8 or its synchronized Markdown. Next integration should separate the Scope introduction, use consistent proposal tense, restore device-testing and LG-23 qualifications, distinguish overall survey findings from Grade 5 subgroup findings, and retain evaluation and star-rule uncertainties. The full recommendations and exact replacement sentences are owned by the session note.
+
+During the session save, the missing revision 8 Word file was restored from a recovery copy matching its recorded SHA-256 exactly. Its earlier content and visual-verification status are unchanged; the recovery did not create a new manuscript revision.
+
 ## Problem and objective alignment
 
 | No. | Current problem/concern | Matching proposed objective | Evidence basis | Requirement trace |
