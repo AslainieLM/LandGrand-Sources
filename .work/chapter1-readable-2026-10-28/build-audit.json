@@ -1,0 +1,20 @@
+{
+  "revision": 5,
+  "output": "D:\\Projects\\LandGrand-Sources\\LandGrand\\Manuscript\\Drafts\\Land Grand - Chapter I - Revised - v5.docx",
+  "paragraphs": 57,
+  "word_count": 1514,
+  "context_word_count": 657,
+  "opening_map": {
+    "Project Context": "Learning resources should help learners understand lessons and continue studying outside the classroom. The discussion begins with educational technology worldwide, then considers home learning in the Philippines and the needs reported at Baluan Elementary School.",
+    "Purpose and Description of the Project": "Land Grand is intended to provide an additional way to study selected Science lessons at home. Its purpose and main activities explain how the proposed game would support Grade 5 learners alongside printed learning materials.",
+    "Objectives of the Project": "The objectives describe what the project should produce during development. They connect the reported concerns and design needs with game features that can be built and checked.",
+    "Scope and Limitations of the Project": "The project has a defined audience, set of learning topics, and delivery platform. Its scope identifies the work included in Land Grand, while its limitations explain the boundaries of the game and the survey findings.",
+    "Scope": "The scope covers the learners, content, game activities, and technical requirements included in Land Grand. Project completion is planned for November–December 2026.",
+    "Limitations": "The limitations define what the game will not cover and how the survey findings should be understood. They keep the project focused on its intended learners, content, and offline use."
+  },
+  "specific_objectives": 4,
+  "mean_sentence_words": 13.5,
+  "sentences_over_30_words": [],
+  "old_mean_sentence_words": 15.6,
+  "old_sentences_over_30": 0
+}

@@ -123,3 +123,112 @@ These checks cover saved files and references. The live Obsidian interface was n
 - Native Microsoft Word read-only PDF export resolved the earlier layout-verification limitation. Inspected all six reference pages and all nine revised pages; Project Context spans pages 1–5. Preserved styles, numbering, margins, fonts, relationships, and author metadata. Only body XML and app statistics changed.
 - Updated Current Focus, dashboard, evidence, clarification and research notes, and Q-11. Chapter I is ready for user review; MW-01 and other documented evidence/design questions remain open. Chapters II–III remain scaffolds.
 - Final vault validation passed: 47 Markdown notes, 416 internal links, eight configuration files, and 13 retained-source fingerprints; no errors. Separate checks also confirmed both retained survey CSV fingerprints and the final DOCX ZIP/body integrity.
+
+### Chapter I readability revision, D-016
+
+- Recorded the user's request for basic academic English, reduced survey-number repetition, and introductory paragraphs for every section/subsection. The writing guide owns the persistent rules; skill routing and readiness checks point to it.
+- Saved revision 5 as a separate current Word copy because revision 4 was open and write-locked. Preserved the original manuscript, revision 4, complete tally, and raw survey data.
+- Replaced the tally catalogue with a short explanation of the relevant findings. Retained the sample/coverage and 85% once, along with mixed views, access limits, and small cross-grade samples.
+- Added and verified six separate introductory paragraphs. Revised prose contains 1,514 words, with 657 in Context under the consistent builder rule. All eight pages were visually inspected; Context spans pages 1–4.
+- Verified native Word/body agreement, unchanged title block and section geometry, and all preserve-only ZIP parts. Updated the Markdown mirror, dashboard, focus, evidence notes, and review history. Scope, open decisions, and adviser-approval status remain unchanged.
+- Final vault validation passed with 48 notes, 435 internal links, eight configuration files, and 13 retained-source fingerprints; no errors. Both external survey CSV hashes and the preserved revision 4 were also checked.
+
+### Chapter I opening wording follow-up
+
+- Clarified D-016 and the writing guide: every section/subsection introductory sentence starts with “This section.”
+- Saved revision 6 and synchronized its six revised introductions with the Markdown draft. Preserved revision 5 and all other paragraph content and formatting.
+- Rendered and inspected all eight pages. The six heading/intro page positions and the two-page Context requirement remain satisfied. Updated current vault links to revision 6.
+- Vault validation passed: 48 notes, 436 internal links, eight configuration files, and 13 retained-source fingerprints; no errors.
+
+### Survey-problem and objective alignment review
+
+- Checked all parent/teacher closed questions, subject ratings, and the recorded Grade 5 response locators against the current four statements.
+- Confirmed that current items 1–2 are supported reported concerns with limitations. Items 3–4 are design requirements, not additional survey-established problems.
+- Recorded D-017 and strengthened the writing rule: each numbered objective must address the matching evidenced problem. Saved a concrete two-pair recommendation in the owning revision note without approving the required problem count.
+- Marked Context and Objectives as needing structural revision. Preserved Word revision 6, its mirrored body, all source data, and project feature scope. MW-01 remains open rather than treating layout verification as substantive approval.
+- Prepared two manuscript-ready, survey-supported problem statements at the user’s request to finalize problems before objectives. Saved them in the owning revision note; retained MW-01 and preserved the current Word body pending this focused review.
+
+### Minimum four problems confirmed and rechecked
+
+- Recorded D-018: the user confirms at least four Chapter I problems, resolving MW-01's minimum count and superseding the two-pair drafting recommendation.
+- Rechecked Grade 5 CSV responses: parent explanation difficulty (4 Yes/1 No/1 Maybe among 6) and teacher modular-effectiveness views (1 Yes/2 No/2 Maybe among 5), plus direct landform and rock/mineral topic mentions.
+- Prepared four related, survey-grounded problem statements in the owning revision note. Replaced the broad Science item with two specifically evidenced content concerns rather than counting all three together.
+- Updated the writing guide, source locators, evidence register, dashboard, and current focus. Retained small-sample/perception limits, source data, Word revision 6, and the task order of finalizing problems before revising objectives.
+
+### Complete Chapter I integration, revision 7
+
+- Produced the full revised Word chapter and synchronized Markdown at the user's request. Integrated the confirmed four reported problems and four specific objectives in the same order under D-017/D-018.
+- Added separate restarted 1–4 lists for problems and objectives while retaining all original numbering definitions, page geometry, body fonts, styles, and original sources.
+- Updated Context's evidence discussion for the Grade 5 parent explanation concern, mixed teacher views of modular learning, and direct landform/rock/mineral topic reports. Preserved small-sample, cross-grade, access, and effectiveness limits without repeating tally distributions.
+- All six introductions begin This section. The chapter contains all four selected main sections, the planned completion window, and unchanged proposed scope/limitations.
+- Rendered and inspected all eight pages; Context spans pages 1–4. Checked native Word/body agreement, PDF list numbering, packaged image/text diff, preserve-only ZIP parts, original list definitions, and source hashes.
+- Updated the dashboard, current focus, Home, evidence status and revision notes. The chapter is ready for user/adviser review; no approval, implementation, or measured learning gain is claimed.
+- Final vault validation passed: 48 notes, 452 internal links, eight configuration files, and 13 retained-source fingerprints. Updated problem-section anchors to reflect the integrated revision; previous versions remain available.
+
+### Problem consolidation feedback
+
+- Recorded the user's request to combine the two module-related concerns and the two Science-content concerns into clearer statements.
+- Prepared two broad problem statements while preserving separate parent explanation and teacher-effectiveness findings. Retained D-018's minimum of four specific problems; no waiver or unsupported shared effectiveness judgment was inferred.
+- Marked Context grouping and objective alignment under review. Preserved Word revision 7, its mirrored body, survey data, and proposed scope.
+
+### Broad areas and specific-problem structure
+
+- Clarified that two broad problem areas can organize four numbered specific subproblems with distinct question/content evidence. Four unrelated broad issues are not automatically required by the minimum-count instruction.
+- Corrected the earlier overly strict suggestion that two additional concerns were necessarily needed. Recorded the hierarchy and proposed response mapping in the revision note, with adviser acceptance still separate.
+- Preserved the delivered Word file, survey data, requirement scope, and one-to-one objective rule.
+
+### Sample concerns and researcher-reported interest
+
+- Reviewed the proposed COVID/disaster, focus, gaming-distraction and real-world-exposure themes against the existing survey and school-context evidence.
+- Retained the user's reported observation of limited interest in the selected Science lessons as a new qualitative source, E-12. Kept the observation date/grade/behavior unconfirmed and separate from survey and teacher findings.
+- Recorded a possible four-problem structure using separate parent/teacher module concerns, combined Science-content difficulty, and the provisional interest observation. Scope and the delivered Word file remain unchanged pending the evidence follow-up.
+
+### Grade 5 interest clarification
+
+- Recorded the user's Grade 5 confirmation and reported appearance of boredom during lessons on landforms, rocks, and minerals. Kept the observation date, exact class and behavioral indicators unspecified.
+- Refined the provisional problem and purpose wording, distinguishing researcher observation from the intended benefit of gamification. Updated E-12, research context and current focus.
+- Preserved the delivered Word chapter, survey findings, proposed scope and absence of measured motivation results.
+
+### Eight potential problem candidates
+
+- Drafted the requested eight-candidate pool in Manuscript/Drafts/Problem Candidates. Clearly separated survey-supported reports (1–3), the preliminary researcher observation (4), and unverified hypotheses for checking (5–8).
+- Included validation routes, overlap warnings, scope limits and the requirement to map selected problems to objectives. Linked the pool from the revision notes and dashboard.
+- Preserved all source data, the current Word file, original evidence limits and the minimum-four requirement. Brainstorming did not promote potential claims to confirmed findings.
+
+### Problem-sentence variation
+
+- Revised all eight candidate sentences to vary their openings, using source attribution for reported findings and retaining conditional language for unverified possibilities.
+- Recorded the sentence-variety preference in the writing guide and feedback record. Preserved evidence limits, the final-problem selection process, and the delivered Word file.
+
+### Survey cohort versus Grade 5 target
+
+- Recorded the user's reminder that the survey is not limited to Grade 5. Reaffirmed the CSV coverage: parents Grades 4-6; teachers Kindergarten and Grades 3-6.
+- Corrected candidate statements 1-3 to use the overall survey groups, while retaining Grade 5 for the intended audience and the researcher's separate observation.
+- Added the reporting distinction to Current Focus, the writing guide, evidence register and revision notes. Preserved raw data and correctly labeled historical Grade 5 subgroup checks.
+
+### Shorter four-problem shortlist
+
+- Prepared four short sentences from the user's proposed set, retaining broader survey coverage for items 1-3.
+- Kept the demonstration-material shortage conditional and asked for its source and specific materials. Did not turn the proposed statement into a verified school finding.
+- Retained the separate Grade 5 interest observation, candidate pool, current Word file and source data.
+
+### Rock/mineral sample clarification
+
+- Narrowed the proposed fourth short problem to physical rock and mineral samples, following the user's clarification.
+- Kept the shortage conditional because its source, extent and date remain unspecified. Recorded that digital representations supplement physical examples rather than supply physical specimens.
+- Preserved the existing survey evidence, observation record, Word file and game scope.
+
+### Potential solutions for the short problem list
+
+- Drafted four concise objectives matching the user's four short problem statements in order, with links to existing requirement IDs.
+- Retained the Grade 5 game target and planned completion window separately from the broader survey cohort. Kept the possible material shortage unconfirmed and the digital examples supplementary to physical samples.
+- Saved the mapping in the candidate/revision notes. No new feature, research result, approved scope change or Word revision was claimed.
+
+### Chapter I revision 8: short problems and matching objectives
+
+- Recorded D-019 and produced the requested full Word revision using the latest four short concerns and four corresponding objectives.
+- Used the overall survey cohorts for the first three statements. Preserved the Grade 5 game target, all six This section introductions, short academic English, existing school formatting and separate numbered 1–4 lists.
+- Kept the fourth material concern conditional, added E-13/Q-12 for its source and extent, and clarified digital illustrations as supplementary visual examples. No sample-inventory result or physical-specimen supply was invented.
+- Revised Context, Purpose, Scope and Limitations for consistency. Preserved the proposal baseline, Android 10+, local saving, existing exclusions and D-015's planned window/year distinction.
+- Rendered and inspected all eight pages. Context spans pages 1–4; numbered items are intact, and the first page is unchanged from revision 7. All preserve-only package parts, including numbering, match the reference.
+- Synchronized the Markdown manuscript, current pointers and dashboard. Consolidated the running revision note around the current draft while retaining historical anchors, a full pre-update snapshot, source feedback and prior Word versions.

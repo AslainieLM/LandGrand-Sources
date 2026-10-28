@@ -1,0 +1,69 @@
+{
+  "revision": 8,
+  "output": "D:\\Projects\\LandGrand-Sources\\LandGrand\\Manuscript\\Drafts\\Land Grand - Chapter I - Revised - v8.docx",
+  "sha256": "14b0a5e619ff11b8fc7c44b4051b0c68c6ea2b8e352589c8b05b9108af68ca7a",
+  "pages": 8,
+  "paragraphs": 61,
+  "native_words": 1580,
+  "builder_words": 1569,
+  "context_words": 731,
+  "context_pages": [
+    1,
+    4
+  ],
+  "opening_pages": {
+    "Project Context": {
+      "heading_page": 1,
+      "intro_page": 1
+    },
+    "Purpose and Description of the Project": {
+      "heading_page": 4,
+      "intro_page": 4
+    },
+    "Objectives of the Project": {
+      "heading_page": 5,
+      "intro_page": 5
+    },
+    "Scope and Limitations of the Project": {
+      "heading_page": 6,
+      "intro_page": 6
+    },
+    "Scope": {
+      "heading_page": 6,
+      "intro_page": 6
+    },
+    "Limitations": {
+      "heading_page": 7,
+      "intro_page": 7
+    }
+  },
+  "problems": [
+    "Parents reported difficulty explaining printed module lessons to their children.",
+    "Teachers questioned whether modular learning helps learners understand lessons.",
+    "Survey responses identified landforms, rocks, and minerals as difficult Science topics.",
+    "Physical rock and mineral samples may be limited for classroom demonstrations."
+  ],
+  "objectives": [
+    "Provide short Science lessons before each level to support explanations during home study.",
+    "Implement interactive exploration and end-of-level reviews to supplement printed Science modules.",
+    "Develop four episodes covering Mountains, Hills, Plains, and Plateaus, including selected rock and mineral topics.",
+    "Present digital illustrations of selected rocks and minerals with names and short descriptions."
+  ],
+  "fourth_problem_evidence_status": "Conditional; E-13/Q-12 open",
+  "changed_zip_parts": [
+    "word/document.xml",
+    "docProps/app.xml"
+  ],
+  "rendered_body_sha256": "9b9ae5b5dfd5279828b5389e0457814cf86cefc1666a303bf2950863a46b41a8",
+  "visual_review": "All eight pages inspected; numbering, paragraph flow, fonts, glyphs and page layout clean.",
+  "page_sha256": {
+    "1": "874aa1d372aa1bf488193b14610c318ac5f8cb01b8423ca9c8ee32f32d33afd4",
+    "2": "deccc05a524815d5e6ca532dd8b92bfdd392fbccc99af40d4cc7a8d98fde12b0",
+    "3": "1a1252637350c81a03364b728164425cfdb3d4cc12b5221792efa487bbd83568",
+    "4": "28f1aa59095f66ecdc826ac3e8d531f84528e2af8b41416b737ef67969a1124c",
+    "5": "306e9972620933e6157590dcae881a0e6a0cab18f6ffac02ec8cbfc5599fe90c",
+    "6": "9a88a839da34e8295544d01def39844a4dab73326213555402b2fe44bd5ae728",
+    "7": "ab570dfc505fbde5fb22064f76ea3cf075f805ba385166d58e0e6ae40113488d",
+    "8": "6e2a6519931355af700ef4c9815e2e4c2099165b3167fe26d3162e184689ef9c"
+  }
+}

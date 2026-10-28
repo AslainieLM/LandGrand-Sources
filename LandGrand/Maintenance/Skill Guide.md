@@ -1,7 +1,7 @@
 ---
 type: guide
 status: active
-updated: 2026-10-24
+updated: 2026-10-28
 ---
 
 # LandGrand Skill Guide
@@ -16,8 +16,8 @@ Use `caveman` for chat until the user requests `stop caveman` or `normal mode`. 
 
 | Request | Read next |
 | --- | --- |
-| Draft or continue a chapter | Dashboard row for the target section, its working draft, and the relevant part of [[Manuscript/Chapter 1-3 Writing Guide|Writing Guide]] |
-| Improve existing prose | [[Manuscript/Chapter 1-3 Writing Guide#Language editing skills|Language editing skills]] |
+| Draft or revise a chapter | Read [[Manuscript/Chapter 1-3 Writing Guide#Readability and subsection openings|the required writing rules]], then the dashboard row, target draft, and relevant chapter guidance. |
+| Improve existing prose | Apply [[Manuscript/Chapter 1-3 Writing Guide#Readability and subsection openings|the required writing rules]] with the [[Manuscript/Chapter 1-3 Writing Guide#Language editing skills|language editing skills]]. |
 | Support a claim or add a reference | [[Manuscript/Evidence Register|Evidence Register]] and the actual source |
 | Read or produce Word, PDF, or slides | The matching available artifact skill and relevant source record |
 | Feature work, debugging, refactoring, or other workflows | Relevant branch in [[Maintenance/Skill Reference|Skill Reference]] |

@@ -30,11 +30,13 @@ This vault is the source of truth for the LandGrand capstone's documented purpos
 - [[Sources/Pre-proposal|Original proposal and provenance]] and [[Sources/Pre-proposal Extract|searchable source text]]
 - [[Sources/Baluan Survey Tally|Baluan survey tally]] — parent/teacher responses, subject difficulty ratings, and data checks for local context
 - [[Sources/Baluan Survey CSV Records|Survey CSV records]] — verified grade counts, corrected survey date, and retained response exports
-- [[Sources/Chapter I Unrevised Draft|Unrevised Chapter I]], [[Manuscript/Drafts/Chapter I Introduction|working revision]], and [[Manuscript/Drafts/Land Grand - Chapter I - Revised.docx|revised Word copy]] — original manuscript, revised prose, and [[Manuscript/Chapter I Revision Notes|review notes]]
+- [[Sources/Chapter I Unrevised Draft|Unrevised Chapter I]], [[Manuscript/Drafts/Chapter I Introduction|working revision]], and [[Manuscript/Drafts/Land Grand - Chapter I - Revised - v8.docx|current revised Word copy]] — original manuscript, revised prose, and [[Manuscript/Chapter I Revision Notes|review notes]]
 - [[Sources/Project Clarifications 2026-10-26|2026-10-26 project clarification]] — confirmed survey date/coverage and reported school context
 - [[Research/Proposal Review|Proposal review]] — inconsistencies, missing definitions, and derived workload
 - [[Questions/Open Questions|Open questions]] — decisions still needed
 - [[Decisions/Decision Register|Decision register]] — confirmed decisions and later changes
+
+- [[Sources/Researcher Observation - Science Interest 2026-10-28|researcher-reported observation]] — preliminary report of limited interest in the selected Science lessons; observation details are pending.
 
 ## Manuscript writing references
 

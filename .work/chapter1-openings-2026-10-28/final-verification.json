@@ -1,0 +1,40 @@
+{
+  "revision": 6,
+  "output": "D:\\Projects\\LandGrand-Sources\\LandGrand\\Manuscript\\Drafts\\Land Grand - Chapter I - Revised - v6.docx",
+  "pages": 8,
+  "words": 1505,
+  "openings": {
+    "Project Context": {
+      "heading_page": 1,
+      "intro_page": 1
+    },
+    "Purpose and Description of the Project": {
+      "heading_page": 4,
+      "intro_page": 4
+    },
+    "Objectives of the Project": {
+      "heading_page": 5,
+      "intro_page": 5
+    },
+    "Scope and Limitations of the Project": {
+      "heading_page": 6,
+      "intro_page": 6
+    },
+    "Scope": {
+      "heading_page": 6,
+      "intro_page": 6
+    },
+    "Limitations": {
+      "heading_page": 7,
+      "intro_page": 7
+    }
+  },
+  "changed_paragraphs": 6,
+  "other_paragraphs_unchanged": 51,
+  "changed_zip_parts": [
+    "word/document.xml",
+    "docProps/app.xml"
+  ],
+  "visual_review": "All eight pages inspected and clean.",
+  "output_sha256": "ac0d6c09f6b092c824132d351c0035d663afda281cba5505700e7c65981f4f55"
+}

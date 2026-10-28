@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manuscript/Table of Contents.md",
+                "file": "GLOSSARY.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Table of Contents"
+              "title": "GLOSSARY"
             }
           }
         ]
@@ -190,7 +190,21 @@
   },
   "active": "0ffc6a655506ade5",
   "lastOpenFiles": [
-    "Manuscript/Drafts/Land Grand - Chapter I - Revised.docx",
+    "Manuscript/Drafts/~WRL1257.tmp",
+    "Manuscript/Drafts/~WRD1253.tmp",
+    "Manuscript/Drafts/~WRL0824.tmp",
+    "Manuscript/Drafts/~WRD0816.tmp",
+    "Manuscript/Drafts/~$nd Grand - Chapter I - Revised - v8.docx",
+    "Manuscript/Drafts/Land Grand - Chapter I - Revised - v8.docx",
+    "Manuscript/Drafts/Problem Candidates.md",
+    "Sources/Researcher Observation - Science Interest 2026-10-28.md",
+    "Manuscript/Drafts/~$nd Grand - Chapter I - Revised - v7.docx",
+    "Manuscript/Drafts/Land Grand - Chapter I - Revised - v7.docx",
+    "Manuscript/Table of Contents.md",
+    "Manuscript/Drafts/Land Grand - Chapter I - Revised - v6.docx",
+    "Manuscript/Drafts/~$nd Grand - Chapter I - Revised - v5.docx",
+    "Sources/Chapter I Readability Feedback 2026-10-28.md",
+    "Manuscript/Drafts/Land Grand - Chapter I - Revised - v5.docx",
     "Manuscript/Evidence Register.md",
     "Manuscript/Drafting Dashboard.md",
     "Manuscript/Chapter I Revision Notes.md",
@@ -203,7 +217,6 @@
     "Sources/Project Clarifications 2026-10-26.md",
     "Sources/Chapter I Unrevised Draft Extract.md",
     "Sources/Chapter I Unrevised Draft.md",
-    "Sources/Attachments/CHAPTER I only.docx",
     "Maintenance/Skill Guide.md",
     "Maintenance/Skill Reference.md",
     "Maintenance/Vault Guide.md",
@@ -213,23 +226,10 @@
     "Current Focus.md",
     "Welcome.md",
     "Questions/Open Questions.md",
-    "Templates/Literature Note.md",
-    "Manuscript/Drafts/Chapter III Technical Background.md",
-    "Manuscript/Drafts/Chapter II Review of Related Literature.md",
-    "Manuscript/Drafts/Chapter I Introduction.md",
-    "Manuscript/Drafts",
-    "Manuscript",
     "Sources/Attachments/Chapter1 Images/Chapter1 Image 05.png",
     "Sources/Attachments/Chapter1 Images/Chapter1 Image 04.png",
     "Sources/Attachments/Chapter1 Images/Chapter1 Image 03.png",
     "Sources/Attachments/Chapter1 Images/Chapter1 Image 02.png",
-    "Sources/Attachments/Chapter1 Images/Chapter1 Image 01.png",
-    "Sources/Attachments/Chapter1 Images",
-    "Sources/Attachments/Capstone Manuscript - BSIT.pdf",
-    "Sources/Attachments/Chapter1.docx",
-    "Sources/Attachments/s02 CAPSTONE chapters 1-3.ppt",
-    "Sessions",
-    "Inbox",
-    "Templates"
+    "Sources/Attachments/Chapter1 Images/Chapter1 Image 01.png"
   ]
 }

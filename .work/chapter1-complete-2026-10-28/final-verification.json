@@ -1,0 +1,79 @@
+{
+  "revision": 7,
+  "output": "D:\\Projects\\LandGrand-Sources\\LandGrand\\Manuscript\\Drafts\\Land Grand - Chapter I - Revised - v7.docx",
+  "sha256": "1bc664f937cf9f49c3fedcb14f07e1b69aa84274bedf80f5ff22cd1be10ce594",
+  "pages": 8,
+  "paragraphs": 59,
+  "native_word_count": 1590,
+  "builder_word_count": 1579,
+  "context_words": 742,
+  "context_pages": [
+    1,
+    4
+  ],
+  "openings": {
+    "Project Context": {
+      "heading_page": 1,
+      "intro_page": 1
+    },
+    "Purpose and Description of the Project": {
+      "heading_page": 4,
+      "intro_page": 4
+    },
+    "Objectives of the Project": {
+      "heading_page": 5,
+      "intro_page": 5
+    },
+    "Scope and Limitations of the Project": {
+      "heading_page": 6,
+      "intro_page": 6
+    },
+    "Scope": {
+      "heading_page": 6,
+      "intro_page": 6
+    },
+    "Limitations": {
+      "heading_page": 7,
+      "intro_page": 7
+    }
+  },
+  "problem_objective_pairs": [
+    {
+      "number": 1,
+      "problem": "Some surveyed parents of Grade 5 learners reported difficulty explaining lessons in printed modules to their children.",
+      "objective": "Provide a short Science lesson before each level to give Grade 5 learners additional explanations during home study."
+    },
+    {
+      "number": 2,
+      "problem": "Some surveyed Grade 5 teachers did not consider modular learning effective in helping learners understand lessons.",
+      "objective": "Implement interactive exploration with movement and jumping controls and a review after each level to supplement printed Science learning materials."
+    },
+    {
+      "number": 3,
+      "problem": "Some parents of Grade 5 learners reported landforms as a difficult Science topic for their children.",
+      "objective": "Develop four episodes covering Mountains, Hills, Plains, and Plateaus, with lessons and exploration activities focused on these landforms."
+    },
+    {
+      "number": 4,
+      "problem": "Some Grade 5 parent and teacher responses identified rocks or minerals as difficult Science topics.",
+      "objective": "Implement rock and mineral collection, with a pop-up showing each collected item's name and short description."
+    }
+  ],
+  "changed_zip_parts": [
+    "word/document.xml",
+    "word/numbering.xml",
+    "docProps/app.xml"
+  ],
+  "rendered_body_sha256": "5de9eaf1a6423215b9789cde713253e01239fbaef49c53943de89de2b838d35a",
+  "visual_review": "All eight final pages inspected; both lists display 1\u20134, no clipping/overlap/missing glyphs/stranded headings.",
+  "page_sha256": {
+    "1": "874aa1d372aa1bf488193b14610c318ac5f8cb01b8423ca9c8ee32f32d33afd4",
+    "2": "42116a5c9995164f56d78a6f4df97790aa6656d2a5e8e4a5ed953e8ba8e0f833",
+    "3": "45b0cc6b2d2220591b6f3dd54737c0ebb331d514cbe0b05435534e1a35217602",
+    "4": "e41471324d3f43a11a2fb520220df33e3408279d96830c6085af3e3dc62d21aa",
+    "5": "56987902ac127ebd0fcd4d40ca286512d684c6929bd51e46c6dc8ad03938d10a",
+    "6": "727e5854e8f9080e4766a7e82a090963f55ce3005f44f14a8eee702bc9459367",
+    "7": "58e0b5a59f869b760cadb70e608c0c3d9997df73c42bb306145f5a8da3049bbf",
+    "8": "2f52ad61609277f5e1cb454c2bcabf8e2d9c5f9240f3f9a62a0973ea97061b9e"
+  }
+}

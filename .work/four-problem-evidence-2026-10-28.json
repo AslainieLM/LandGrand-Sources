@@ -1,0 +1,44 @@
+{
+  "Parent.csv": {
+    "sha256": "a772bdc1ece510fc6181b13390e42ce717c9ca4ec5d25ab72af4b54d40daae57",
+    "grade5_records": 6,
+    "question": "Do you find it difficult to explain lessons in the modules to your child?",
+    "column_one_based": 8,
+    "grade5_counts": {
+      "Maybe": 1,
+      "Yes": 4,
+      "No": 1
+    },
+    "relevant_topic_rows": {
+      "landform": [
+        16,
+        18
+      ],
+      "rock": [],
+      "mineral": [
+        8
+      ]
+    }
+  },
+  "Teacher.csv": {
+    "sha256": "88e0291776f88f1ea925b14e0377cc46aec65a808698ab590c3329704a14f9ac",
+    "grade5_records": 5,
+    "question": "Do you find modular learning effective in helping students understand lessons?",
+    "column_one_based": 8,
+    "grade5_counts": {
+      "Maybe": 2,
+      "Yes": 1,
+      "No": 2
+    },
+    "relevant_topic_rows": {
+      "landform": [],
+      "rock": [
+        15,
+        17
+      ],
+      "mineral": [
+        15
+      ]
+    }
+  }
+}

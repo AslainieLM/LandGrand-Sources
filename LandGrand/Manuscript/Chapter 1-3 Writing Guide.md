@@ -1,7 +1,7 @@
 ---
 type: writing-guide
 status: active
-updated: 2026-10-26
+updated: 2026-10-28
 sources:
   - "[[Sources/Capstone Manuscript BSIT]]"
   - "[[Sources/Chapter 1-3 Guidelines]]"
@@ -26,13 +26,25 @@ Start at [[Manuscript/Drafting Dashboard|Drafting Dashboard]] for working drafts
 
 The PDF’s subsection names remain the structural baseline. The deck’s “Related Theories” and “Related Projects” explain content to organize under the PDF’s Chapter II headings. [[Sources/Chapter I Unrevised Draft|CHAPTER I only.docx]] is the user-designated school-format reference under D-014. The user handles citation style and margins; retain the supplied layout and styles for later Word output. The PDF continues to control section order and names. No newer source in this set silently changes the game’s scope. If a writing reference or discussion recollection conflicts with another, retain the disagreement and seek a documented clarification.
 
+## Readability and subsection openings
+
+Apply these requirements whenever drafting or revising Chapters I–III. They implement D-016 and [[Sources/Chapter I Readability Feedback 2026-10-28|the user's readability feedback]].
+
+1. **Use basic academic English.** Choose familiar, precise words, direct verbs, and one main idea per sentence. Split sentences that combine several ideas. Keep necessary technical terms and explain unfamiliar ones when first used. Read each paragraph for a clear topic and a useful connection to the next paragraph. Vary problem-statement openings instead of repeating "Some"; use source-based wording such as "The survey identified," "Teacher responses raised concerns," or "The researcher noted." Preserve uncertainty and the scope of the evidence.
+2. **Introduce every section and subsection.** Place a separate, short introductory paragraph immediately after each heading and before detailed explanations or bullets. Begin its first sentence with the exact words **“This section”**, including under nested subsections such as Scope and Limitations. Usually 2–3 sentences should explain the topic and what the discussion will cover. In Chapter I, check Project Context, Purpose and Description, Objectives, Scope and Limitations, Scope, and Limitations. Keep the Objectives introduction separate from the general objective.
+3. **Summarize the survey to explain the problem.** State the survey date, sample size, and grade coverage once in Project Context. Select only the figures needed for the argument. Report a finding as a count or percentage once, with the relevant denominator clear. Explain its meaning rather than listing every answer category. Keep full distributions and calculations in the source notes.
+4. **Preserve evidence limits.** Include mixed or opposing views when they affect the interpretation. Retain the cross-grade coverage, small Grade 5 groups, and distinction between adult views and measured learning. Describe the overall survey using its actual respondent coverage. Keep the game's Grade 5 target and the separate Grade 5 observation distinct from that survey cohort. Label any Grade 5-only analysis explicitly as a subgroup. A shorter summary must remain faithful to the data.
+5. **Review before delivery.** Read the complete text for clarity, check every heading's opening paragraph, and remove repeated tally figures or repeated explanations. Verify the final Word pages and the two-page Context requirement. Meet required length through relevant discussion, not padding.
+
+Use normal academic prose in the manuscript; the concise chat preference applies to conversation. These rules change presentation, not project scope or the original research data.
+
 ## Chapter I – Introduction
 
 ### Project Context
 
 Lecture guidance: [[Sources/Chapter 1-3 Guidelines Extract#Slide 17|slide 17]] requires at least two pages of presentation and discussion, describing the prevailing problem from a global, national or regional, and local perspective. [[Sources/Chapter 1-3 Guidelines Extract#Slide 18|Slide 18]] calls for a strong justification and a link between the rationale and research problem.
 
-Your typed discussion notes add the following drafting reminders: begin sections with an introductory paragraph; use an inverted-pyramid introduction; move from global to national to local problems; retain problems the proposed project can address; present problems in bullets; and end with urgency and the reason to conduct the study. The notes say “atleast 4 problem.” Its exact counting scope is unresolved below.
+Your typed discussion notes add the following drafting reminders: begin sections with an introductory paragraph; use an inverted-pyramid introduction; move from global to national to local problems; retain problems the proposed project can address; present problems in bullets; and end with urgency and the reason to conduct the study. The notes say “atleast 4 problem.” The user confirms **at least four Chapter I problem statements** under D-018. Each must have a matching numbered objective under D-017 and support from relevant evidence.
 
 Evidence: [[Sources/Chapter1 Discussion Notes Extract#Paragraph 005|paragraph 5]], [[Sources/Chapter1 Discussion Notes Extract#Paragraph 006|paragraph 6]], [[Sources/Chapter1 Discussion Notes Extract#Paragraph 008|paragraph 8]], and [[Sources/Chapter1 Discussion Notes Extract#Paragraph 012|paragraph 12]].
 
@@ -54,13 +66,15 @@ Evidence: [[Sources/Chapter 1-3 Guidelines Extract#Slide 20|slide 20]] and [[Sou
 
 Your notes add an introductory paragraph, bullet-form objectives, alignment between each stated problem and its corresponding objective, and objectives that can be implemented in the system. Evidence: [[Sources/Chapter1 Discussion Notes Extract#Paragraph 013|paragraph 13]], [[Sources/Chapter1 Discussion Notes Extract#Paragraph 017|paragraph 17]], [[Sources/Chapter1 Discussion Notes Extract#Paragraph 018|paragraph 18]], and [[Sources/Chapter1 Discussion Notes Extract#Paragraph 019|paragraph 19]].
 
-As a drafting aid, make a problem-to-objective table and link each objective to a relevant requirement or documented evaluation plan. This table is a vault recommendation, not an additional required manuscript heading. Avoid committing to measured learning gains before defining the instrument and study method.
+Under D-017 and [[Sources/Chapter I Readability Feedback 2026-10-28#Problem evidence and objective alignment follow-up|the user's alignment instruction]], **Specific Problem 1 must match Specific Objective 1**, and so on. State the existing difficulty and its evidence before choosing the response. Each numbered objective should explain the planned response to its matching problem. A feature such as offline use, save/load, or touch controls belongs in scope unless evidence establishes a separate problem that the feature addresses. Do not count proposed features or favourable expectations as independently observed problems. Keep the distinction between a proposed response and demonstrated effectiveness.
+
+As a drafting aid, make a problem-to-objective table and link each objective to its problem evidence and a relevant requirement or documented evaluation plan. This table is a vault recommendation, not an additional required manuscript heading. Avoid committing to measured learning gains before defining the instrument and study method.
 
 ### Scope and Limitations of the Project
 
 Explain the deliverables, features, functions, tools, coverage, time frame, and boundaries. The deck distinguishes included work from exclusions in [[Sources/Chapter 1-3 Guidelines Extract#Slide 21|slides 21]] and [[Sources/Chapter 1-3 Guidelines Extract#Slide 22|22]].
 
-Reuse [[Project/Scope and Requirements|the canonical requirement inventory]] rather than making a second independent feature list. Preserve unresolved items, including Android support, star criteria, and completion rules. State a study time frame only when it is supplied and confirmed.
+Reuse [[Project/Scope and Requirements|the canonical requirement inventory]] rather than making a second independent feature list. Preserve unresolved items, including device validation, star criteria, and completion rules. Android 10 and above is settled under D-012. Use the documented planned completion window under D-015 without treating it as an exact approved deadline or full study period.
 
 ## Chapter II – Review of Related Literature
 
@@ -92,7 +106,7 @@ Methodology remains **Chapter IV** in both the PDF and deck. Keep a technical ex
 
 | ID | Open point | Why it matters |
 | --- | --- | --- |
-| MW-01 | Does “at least four problems” mean four overall, four local problems, or another grouping? | The typed note does not settle how the count applies. |
+| MW-01 | Minimum count resolved: at least four Chapter I problem statements, confirmed by the user under D-018. | Use four or more supported, relevant problems with matching objectives. Approval of wording and evidence limits remain separate. |
 | MW-02 | Format reference confirmed in D-014: use the supplied Chapter I Word file. The user handles citation style and margins. | Preserve the reference layout/styles and source metadata. Citation or margin choices are user-owned rather than unanswered agent prerequisites; final pagination still requires checking in Word. |
 | MW-03 | What evidence supports the actual local problem and any claim of local novelty? | Discussion recollection alone does not establish conditions at Baluan Elementary School. |
 | MW-04 | How should generic Chapter IV network/database-related headings be treated where they do not apply to the offline game? | Preserve the outline while obtaining adviser guidance on applicability. |
@@ -113,7 +127,7 @@ All three are installed under `C:\Users\user\.codex\skills`. For LandGrand, use 
 
 ## Before marking a chapter ready
 
-- Use the selected headings and maintain source locators for writing requirements.
+- Apply [[Manuscript/Chapter 1-3 Writing Guide#Readability and subsection openings|the readability and opening-paragraph requirements]], then use the selected headings and source locators.
 - Check each factual claim against project evidence or an actual cited reference.
 - Align problems, objectives, proposed features, and evaluation claims.
 - Preserve the canonical scope and clearly flag unresolved choices.

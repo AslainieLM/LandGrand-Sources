@@ -38,11 +38,21 @@ The supporting field is **column C**, data records **2–21**, in each file. Par
 
 No records list Grade 1 or Grade 2. Parent records therefore cover **Grades 4–6**. Teacher records cover **Kindergarten and Grades 3–6**. Zero means no such records in these exports; it does not describe school enrolment or staffing.
 
-There are six Grade 5 parent records and five Grade 5 teacher records available for a separate subgroup analysis. Chapter I revision 4 distinguishes the full 20-record groups from the separately calculated Grade 5 subsets below. Full-group results must not be relabeled as Grade 5-only findings or combined into one 40-person percentage. Names are blank, so record counts are not independent verification of unique identities.
+There are six Grade 5 parent records and five Grade 5 teacher records available for a separate subgroup analysis. Chapter I revision 5 identifies the mixed grade coverage and small Grade 5 groups in prose. The full 20-record groups and separately calculated Grade 5 subsets remain documented below. Full-group results must not be relabeled as Grade 5-only findings or combined into one 40-person percentage. Names are blank, so record counts are not independent verification of unique identities.
+
+## Survey-coverage reminder, 2026-10-28
+
+The user reiterated:
+
+> keep it note that Survey are not just Grade 5, it was consist of 4-6 also
+
+This reaffirms the broader survey coverage already recorded under D-011. Parent records cover Grades 4-6; teacher records cover Kindergarten and Grades 3-6 as shown in the CSV fields. The reminder does not erase the additional teacher-grade entries. Grade 5 is the game's intended audience, not the sole survey cohort. The researcher's separate classroom observation concerns Grade 5.
+
+Use the overall respondent groups when summarizing the overall survey. Identify any Grade 5-only filtering explicitly, including the relevant subgroup size. The problem-candidate wording has been adjusted to avoid presenting the entire survey as Grade 5-only. No raw records or verified grade counts have changed.
 
 ## Grade 5 subgroup check, 2026-10-28
 
-The revised Word chapter uses the following descriptive calculations from the unchanged retained CSVs. Filter column C by Grade 5, normalizing the numeric label `5` and the textual label `Grade 5`. Row locators refer to logical CSV records with the header as row 1; multiline fields do not create additional records.
+Revision 4 reported the following descriptive calculations from the unchanged retained CSVs. Revision 5 summarizes their meaning in words; the exact calculations and locators are retained here. Filter column C by Grade 5, normalizing the numeric label `5` and the textual label `Grade 5`. Row locators refer to logical CSV records with the header as row 1; multiline fields do not create additional records.
 
 | Group | Grade 5 record rows | Science field | Ratings 3 / 4 / 5 | Difficult or Very Difficult |
 | --- | --- | --- | --- | --- |
@@ -52,6 +62,21 @@ The revised Word chapter uses the following descriptive calculations from the un
 The parent scale labels 4 as Difficult and 5 as Very Difficult. Parent free-topic field X mentions landforms in rows 16 and 18 and minerals in row 8. Teacher free-topic field Y mentions minerals in row 15 and rock topics in rows 15 and 17. These support the chapter's limited statement that Grade 5 responses include those topics. The prose does not claim they are the most common difficulties. Other mentions, including soil, do not expand the game's scope.
 
 These small subsets describe respondent perceptions, not pupil test scores, unique-identity verification, all-school prevalence, or game effectiveness. The direct-response check does not adjudicate the Word tally's complete topic coding or resolve Q-10's mathematics total discrepancy. Source hashes were rechecked against the import fingerprints. Calculation records remain in `.work/chapter1-word-2026-10-26/final-verification.json` outside the vault; the aggregate method and locators here make the check reproducible from retained research sources.
+
+## Additional Grade 5 response check, 2026-10-28
+
+For the minimum-four-problem review, the unchanged CSVs were filtered again using column C. Both relevant closed questions are in **column H**:
+
+| Group and question | Grade 5 sample | Yes | No | Maybe | Interpretation |
+| --- | ---: | ---: | ---: | ---: | --- |
+| Parent question 3: difficulty explaining module lessons | 6 | 4 | 1 | 1 | Some Grade 5 parents report explanation difficulty; the question is not specific to Science. |
+| Teacher question 2: modular learning effective in helping learners understand lessons | 5 | 1 | 2 | 2 | Two Grade 5 teachers answered No and two Maybe. This supports a bounded concern, not a majority claim or measured ineffectiveness. |
+
+Grade 5 parent rows are 8, 16, 17, 18, 19, and 20; Grade 5 teacher rows are 13–17. Teacher No responses for question 2 are rows 15 and 16. The full teacher group is 7 Yes, 8 No, and 5 Maybe, matching the Word tally.
+
+Direct topic evidence remains parent column X (landforms rows 16/18, minerals row 8) and teacher column Y (rock topics rows 15/17, minerals row 15). These are different reported content areas. They do not establish a tested inability to identify, classify, or distinguish objects, and they do not identify each proposed landform separately.
+
+These small adult-response groups support four related concerns for drafting: explanation at home, teachers' views of modular learning, reported landform difficulty, and reported rock/mineral difficulty. The general Science concern is not counted again as an additional problem. Responses record the July survey context; they do not imply that the school is currently under modular learning. Both original CSV hashes still match the import record. The calculation record is .work/four-problem-evidence-2026-10-28.json outside the vault.
 
 ## Survey and encoding dates
 

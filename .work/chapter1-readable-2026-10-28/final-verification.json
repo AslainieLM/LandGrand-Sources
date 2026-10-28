@@ -1,0 +1,61 @@
+{
+  "revision": 5,
+  "output": "D:\\Projects\\LandGrand-Sources\\LandGrand\\Manuscript\\Drafts\\Land Grand - Chapter I - Revised - v5.docx",
+  "sha256": "acc409b000b6b67f1f0ddd8d95ef87f08b8376dcf96d373f775fc9e20563d857",
+  "pages": 8,
+  "native_word_count": 1517,
+  "builder_word_count": 1514,
+  "context_word_count": 657,
+  "context_start_page": 1,
+  "context_end_page": 4,
+  "opening_paragraphs": {
+    "Project Context": {
+      "heading_page": 1,
+      "intro_page": 1
+    },
+    "Purpose and Description of the Project": {
+      "heading_page": 4,
+      "intro_page": 4
+    },
+    "Objectives of the Project": {
+      "heading_page": 5,
+      "intro_page": 5
+    },
+    "Scope and Limitations of the Project": {
+      "heading_page": 6,
+      "intro_page": 6
+    },
+    "Scope": {
+      "heading_page": 6,
+      "intro_page": 6
+    },
+    "Limitations": {
+      "heading_page": 7,
+      "intro_page": 7
+    }
+  },
+  "specific_objectives": 4,
+  "changed_zip_parts": [
+    "word/document.xml",
+    "docProps/app.xml"
+  ],
+  "rendered_body_sha256": "67aabb1cf7b7635021791aa099346298916ffbc2799dba4543191630d50e22c2",
+  "visual_review": "Passed: all eight final PNGs inspected; no clipping, overlap, missing glyphs or stranded headings.",
+  "page_sha256": {
+    "1": "08e4c98b06b4f3ae50c255a6d0723f18e4964e66760d2e6168cb771285341146",
+    "2": "15cb253b741ac34fed20c986a01a9f026e7a3b5ba0c9c8c10e78bee35ac0c402",
+    "3": "6d924209f2c288f1c231fa11e70303e99cf567cdafd02535555c1d5ab0fe3d09",
+    "4": "d6e5e632a44ba61ad6c0aade8c681c97255845b0e6bab17dd2703a63fa468ea6",
+    "5": "e6c41cb15e5915f8d900995b4437c16d99d31fd2cb47176787a5ebcbcd61beee",
+    "6": "7dce846ea5bd3766474921a90ca8c5dbe792f5a9a5671b60ac6df60b732abe59",
+    "7": "6a601f6cfd06273e57b1700a59a63974daa512867af3be8f4b2f7624c3399041",
+    "8": "5e06ec81d5161f1b7ebc4984ec69a1ea1028954cd82e6e5fb7d6fe6c3a9802fd"
+  },
+  "survey_percentage_check": {
+    "parent_records": 20,
+    "yes": 17,
+    "percent": 85
+  },
+  "reference_sha256": "8701feed03dc35bf065cba7b20911eb7251335b14eee6e0ab58d3317962b72d7",
+  "previous_revision_sha256": "7a36e13c404ec006d00aef523847e59fa0fa0d49501df0c42f8ba856f90669f8"
+}

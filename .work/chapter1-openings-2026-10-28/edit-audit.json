@@ -1,0 +1,21 @@
+{
+  "source": "D:\\Projects\\LandGrand-Sources\\LandGrand\\Manuscript\\Drafts\\Land Grand - Chapter I - Revised - v5.docx",
+  "source_sha256": "acc409b000b6b67f1f0ddd8d95ef87f08b8376dcf96d373f775fc9e20563d857",
+  "output": "D:\\Projects\\LandGrand-Sources\\LandGrand\\Manuscript\\Drafts\\Land Grand - Chapter I - Revised - v6.docx",
+  "changed_paragraph_indices_zero_based": [
+    4,
+    20,
+    26,
+    34,
+    36,
+    49
+  ],
+  "openings": {
+    "Project Context": "This section explains the background and learning concerns that guide the development of Land Grand. It begins with educational technology worldwide, then discusses home learning in the Philippines and the needs reported at Baluan Elementary School.",
+    "Purpose and Description of the Project": "This section explains the purpose of Land Grand and describes its main learning activities. It shows how the proposed game would support Grade 5 learners alongside printed learning materials.",
+    "Objectives of the Project": "This section presents the general and specific objectives of Land Grand. The objectives connect the reported concerns and design needs with game features that can be built and checked.",
+    "Scope and Limitations of the Project": "This section describes the coverage and boundaries of the Land Grand project. It explains what the game includes and the limits of its use and the survey findings.",
+    "Scope": "This section outlines the learners, content, game activities, and technical requirements included in Land Grand. Project completion is planned for November–December 2026.",
+    "Limitations": "This section explains the limits of the game and how the survey findings should be understood. It identifies the boundaries of the project's learners, content, and offline use."
+  }
+}

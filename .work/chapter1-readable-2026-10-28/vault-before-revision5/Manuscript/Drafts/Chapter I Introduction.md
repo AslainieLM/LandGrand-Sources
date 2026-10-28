@@ -1,0 +1,124 @@
+---
+type: manuscript-draft
+status: proposed
+updated: 2026-10-28
+revision: 4
+sources:
+  - "[[Sources/Chapter I Unrevised Draft]]"
+  - "[[Manuscript/Chapter 1-3 Writing Guide]]"
+  - "[[Sources/Pre-proposal]]"
+  - "[[Sources/Baluan Survey Tally]]"
+  - "[[Sources/Baluan Survey CSV Records]]"
+  - "[[Sources/Project Clarifications 2026-10-26]]"
+  - "[[Sources/UNESCO GEM 2023 Technology]]"
+  - "[[Sources/DepEd Distance Learning Strategies 2020]]"
+  - "[[Sources/PHIVOLCS Sarangani Earthquake 2026]]"
+---
+
+# Chapter I Introduction
+
+> Revision 4, ready for user review. [[Manuscript/Drafts/Land Grand - Chapter I - Revised.docx|Open the revised Word copy]]. Native Word rendering and inspection cover all nine pages. The original school-format file is unchanged. The planned completion window is November–December 2026; the user supplied the months and 2026 is the disclosed contextual year assumption. See [[Manuscript/Chapter I Revision Notes|revision notes]] for evidence, source mapping, and remaining adviser questions. This is a review draft, not an approved manuscript or completed study.
+
+This chapter presents the context, purpose, objectives, scope, and limitations of Land Grand. The proposed educational game focuses on landforms, rocks, and minerals for Grade 5 learners at Baluan Elementary School.
+
+## Project Context
+
+Land Grand is proposed as a supplementary resource for Science learning at home. It would give Grade 5 learners another way to study landforms, rocks, and minerals alongside printed learning materials. Its rationale draws on international guidance on educational technology, Philippine distance-learning experience, and the concerns reported by parents and teachers at Baluan Elementary School.
+
+International discussions of educational technology emphasize whether a tool addresses a learning need in its intended setting. UNESCO's 2023 Global Education Monitoring Report recommends considering local suitability, inclusion, evidence, and sustainability when selecting educational technology. It places learners and teachers at the centre of these decisions (UNESCO, 2023). For this project, that guidance supports examining the relationship between the proposed content, learning activities, and learners' access to devices before assuming that digital delivery improves learning.
+
+An exploration game offers a way to connect explanations with activities such as moving through a landscape, identifying items, and reviewing their descriptions. For Land Grand, these activities would focus on selected Science concepts rather than serve only as rewards for completing a level. Their educational value would still require evaluation. Animation, collected items, and gameplay stars alone cannot establish that learners understand the concepts presented.
+
+In the Philippines, distance-learning arrangements during the COVID-19 period included printed and digital modular approaches. The Department of Education's 2020 guidance allowed supplementary resources, including interactive electronic materials, and described support from household learning facilitators (Department of Education, 2020, Appendix A and Appendix B). This historical experience provides a national context for supplementing home learning. It also directs attention to the explanations available to learners and the assistance parents may provide when children use printed modules.
+
+Disaster-related disruption is relevant to the regional setting. DOST-PHIVOLCS documented a magnitude 7.8 earthquake offshore Sarangani on June 8, 2026 (DOST-PHIVOLCS, 2026). As of October 2026, Baluan Elementary School holds face-to-face classes, with modular learning considered a contingency if another strong earthquake or other event disrupts classroom instruction. The proposed game would therefore support supplementary home study during regular schooling and potential disruptions.
+
+A preliminary school survey conducted on July 7, 2026 provides local information for the project. It contains 20 parent responses and 20 teacher responses. Respondent selection was reported as randomized. The parent group covered Grades 4–6 because those grades had a scheduled parents' orientation meeting.
+
+The parent responses cover Grades 4, 5, and 6, with six, six, and eight records, respectively. Teacher responses cover Kindergarten and Grades 3, 4, 5, and 6, with two, four, five, five, and four records, respectively. Full-group results describe perceptions across these grades; the Grade 5 subsets are considered separately below.
+
+Difficulty explaining module lessons emerged in the parent responses. Seventeen of 20 parents, or 85%, answered Yes when asked whether they had difficulty explaining lessons in modules to their child. Two answered No and one answered Maybe. These responses support considering additional explanations for home learning while recognizing that the reported difficulty was not shared by every respondent.
+
+Science ratings also relate to the proposed content area. Seventeen of 20 parent ratings and 13 of 20 teacher ratings placed Science in the Difficult or Very Difficult categories. Within the smaller Grade 5 subsets, all six parent ratings and four of five teacher ratings fell in these categories. Grade 5 free-text responses included mentions of landforms, minerals, and rocks. These small subgroups provide descriptive context for the proposed focus; they do not establish the prevalence of a learning deficit among all Grade 5 learners.
+
+Responses about mobile learning indicate interest in an additional resource. Fourteen of 20 parents believed that a mobile game could support printed modules; two answered No and four answered Maybe. Fifteen of 20 teachers believed that a mobile game could enhance understanding alongside modules; one answered No and four answered Maybe. These answers express expectations about a possible learning resource rather than evidence from using Land Grand.
+
+Access and willingness place limits on the proposed delivery format. Eighteen parents reported household access to a smartphone, tablet, or computer, while one answered No and one answered Maybe. Thirteen would allow their child to use a mobile learning game, five would not, and two were uncertain. The combined device-access question does not establish that every household has a compatible Android device available for learning. The game is consequently proposed as a supplement to existing materials and teacher guidance.
+
+The survey findings and the learning-continuity context identify the following concerns and design needs. The first two are reported concerns; the remaining two are proposed responses to the learning setting:
+
+- Parents reported difficulty explaining lessons in printed modules, indicating a need to consider additional explanations for home study.
+
+- Parents and teachers reported perceived Science difficulty, including within the small Grade 5 subsets, supporting consideration of a focused supplementary resource.
+
+- Favourable expectations about mobile learning support exploring an interactive activity that connects Science explanations with practice and review.
+
+- Potential interruptions to classroom instruction create a design need for an activity that operates offline and allows learners to resume saved progress.
+
+These concerns provide a reason to develop supplementary material while regular classes continue, before another disruption increases reliance on home study. Land Grand would connect short lessons with exploration, item descriptions, and review focused on the selected Science content. Its offline design and local progress records would support use across separate sessions. Developing the application would make these proposed activities available for subsequent review and evaluation; any conclusion about improved knowledge would require an appropriate study and actual results.
+
+## Purpose and Description of the Project
+
+The purpose of Land Grand is to support Grade 5 learners at Baluan Elementary School in studying landforms, rocks, and minerals through an offline Android exploration game. It is intended for supplementary use at home alongside printed learning materials and teacher guidance.
+
+The proposed game contains four episodes covering Mountains, Hills, Plains, and Plateaus. Before each level, the learner would read a short lesson about the landform and selected rocks and minerals. The learner would then control an explorer character, move through a two-dimensional environment, and collect items. Each collected item would display its name and a short description, linking the activity to the content introduced in the lesson.
+
+After a level, the game would display the collected items, a short review, and up to three gameplay stars. Learners could replay completed content or continue to the next available level. Progress would be saved on the device for later sessions. The project combines explanation, exploration, collection, and review for a defined audience and content area. Its proposed value lies in this connection between learning material and activity, while its effect on knowledge remains to be evaluated.
+
+## Objectives of the Project
+
+The objectives define the application deliverables intended to address the reported concerns and design needs. The general objective is to develop Land Grand, an interactive exploration game for enhancing Grade 5 learners’ knowledge of landforms, rocks, and minerals at Baluan Elementary School. The planned project completion window is November–December 2026.
+
+Specifically, the project seeks to complete the following deliverables within that planned window:
+
+- Provide a short lesson before every level and display the name and a short description of each collected rock or mineral to support explanations of the covered concepts.
+
+- Develop four landform episodes covering Mountains, Hills, Plains, and Plateaus, with selected rocks and minerals relevant to the intended Grade 5 content.
+
+- Implement touch-controlled movement, jumping, exploration, item collection, and an end-of-level review as interactive activities that supplement printed learning materials.
+
+- Enable offline single-player use on Android 10 and above, with automatic local saving and loading of the learner's name, unlocked episodes, completed levels, stars, and collected items.
+
+## Scope and Limitations of the Project
+
+This section defines the proposed application, its coverage, and its boundaries. Development concerns supplementary Science learning for Grade 5 learners at Baluan Elementary School, with project completion planned for November–December 2026.
+
+### Scope
+
+Land Grand is proposed as a single-player Android game developed using Unity and C#, with Piskel and Clip Studio Paint for graphical assets. The application would use simple two-dimensional graphics, large touch buttons, background music, and sound effects. Its proposed coverage includes the following:
+
+- Four episodes representing Mountains, Hills, Plains, and Plateaus, together with selected rocks and minerals associated with the covered content.
+
+- Easy, Normal, and Hard difficulty modes with 3, 5, and 7 levels per episode, respectively, for a proposed total of 60 levels across four episodes.
+
+- Short lessons before each level, item names and descriptions during collection, and review material after completion.
+
+- Touch controls for moving and jumping, with exploration and collection challenges involving obstacles, traps, pitfalls, and time limits.
+
+- Sequential progression through difficulty modes and episodes, with replay, continuation to available levels, a landform summary, and a final completion screen.
+
+- Up to three gameplay stars after a level, with detailed award and completion criteria to be specified during development.
+
+- A Main Menu offering Play, Settings, Tutorial, and Exit, and a Landform Map for selecting unlocked episodes.
+
+- Automatic local saving and loading of the player's name, unlocked episodes, completed levels, earned stars, and collected rocks and minerals.
+
+- Offline operation on Android phones and tablets running Android 10 and above. The declared minimum targets are 2 GB RAM and 300 MB free storage; actual compatibility remains subject to device testing.
+
+### Limitations
+
+The proposed application and the interpretation of the preliminary survey are subject to the following boundaries:
+
+- The intended learners are in Grade 5 at Baluan Elementary School. The preliminary survey also includes other grades; its full-group figures cannot be treated as Grade 5-only findings.
+
+- Content is limited to the four selected landforms and selected related rocks and minerals rather than all Earth Science topics. Detailed content and competency alignment require validation.
+
+- The game excludes multiplayer, online features, online accounts, cloud storage, websites, and an administrator panel.
+
+- Progress remains on the device being used. The proposed application provides no centralized teacher monitoring or shared learner-record system.
+
+- Learning activities exclude separate quiz screens, GPS features, and real-world scanning.
+
+- The application supplements printed materials and teacher guidance. Gameplay stars, collected items, and completed levels do not independently measure learning gains.
+
+- The preliminary survey describes perceptions and expectations. It does not establish the effectiveness of Land Grand; conclusions about learning outcomes require a defined evaluation method and actual results.
