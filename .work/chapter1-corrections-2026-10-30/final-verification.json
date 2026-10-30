@@ -1,0 +1,53 @@
+{
+  "revision": 9,
+  "source_sha256": "6ad898c79899c91d506b625b992959af921c53fee88167390d2151f581ada3ad",
+  "output": "D:\\Projects\\LandGrand-Sources\\LandGrand\\Manuscript\\Drafts\\Land Grand - Chapter I - Revised - v9.docx",
+  "sha256": "88fabf12546c187c050bd937a9c6b63a519a2a4483eb3aa91d139dcae5d9f20e",
+  "pages": 9,
+  "words": 1712,
+  "paragraphs": 68,
+  "context_pages": [
+    1,
+    4
+  ],
+  "heading_pages": {
+    "Project Context": 1,
+    "Purpose and Description of the Project": 4,
+    "Objectives of the Project": 5,
+    "Scope and Limitations of the Project": 6,
+    "Scope": 6,
+    "Limitations": 8,
+    "BIBLIOGRAPHY": 9
+  },
+  "comments": 7,
+  "bibliography_entries": 3,
+  "official_live_links": [
+    "https://region8.deped.gov.ph/wp-content/uploads/2020/07/DM-CI-2020-00162-2.pdf",
+    "https://tsunami.phivolcs.dost.gov.ph/Tsunami_Information/2026_Tsunami_Information/Jun/07/20260607_2337z_Advisory2_2.pdf",
+    "https://www.unesco.org/gem-report/en/publication/technology"
+  ],
+  "changed_original_parts": [
+    "[Content_Types].xml",
+    "word/document.xml",
+    "word/_rels/document.xml.rels",
+    "docProps/app.xml"
+  ],
+  "added_parts": [
+    "word/comments.xml"
+  ],
+  "visual_review": "All nine final page PNGs inspected; no clipping, overlap, missing glyphs or isolated final-limitation page.",
+  "source_and_earlier_word_files": "unchanged",
+  "survey_csvs": "unchanged",
+  "material_observation": "user-reported personal observation; date and sample details pending; no verified city-wide inventory",
+  "page_sha256": {
+    "1": "5bb94b024a0e4457716f4bbf3b7b11e2a5c8c949e8bb53a14f5eb913b973b141",
+    "2": "9c3e72ac1e106b056c942ee7aede061b5539c79a2873f817a64e6573b2e0195c",
+    "3": "c1e8806385614ce22f3bd1f5e034a9ecf15608de7a9e2917d03d9993557b7d42",
+    "4": "e223f47ec82663e4dd7ea1ee933aa0fe5e9d85ce5b60c0841fc7eb07ba553bb3",
+    "5": "f34ca368799dd8845fd058909bb72155f7c092e21d8e83b33533ef65abfcfec6",
+    "6": "ced42e9fdd4af93f3693bd6bf6476462ef35d024dce008dd418d7afa5e67c0fa",
+    "7": "aebe9ffbc8b2bc0c54a3cdcd9c409c3f482eb7e94a7024b7b45a14003653bb12",
+    "8": "41d0507ee30f40c646b2d0d76d46d64c40c47b9900e61055d1c14070252dfc2e",
+    "9": "cdac47d2506c45dd0cf294e473b77ba6d8738fab4964f2c34800b43b9d580615"
+  }
+}

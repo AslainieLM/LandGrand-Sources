@@ -1,7 +1,7 @@
 ---
 type: source-record
 status: source
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 # Chapter I Readability Feedback 2026-10-28
@@ -107,3 +107,15 @@ After revision 8, the user invoked nature-polishing and requested short sentence
 The user subsequently requested “save what we accomplish.” The [[Sessions/2026-10-28 - Chapter I Scope and Limitations|session record]] preserves the latest supplied passage, the edited single-player sentence and eight review recommendations. These recommendations cover paragraph separation, proposal tense, device testing, overall versus Grade 5 survey findings, omitted LG-23 exclusions, open star/completion rules and evaluation evidence.
 
 This saves the discussion without claiming adviser approval, new research findings or changed project scope. Word revision 8 and its synchronized Markdown do not yet contain the later wording edits. A missing revision 8 file was restored byte-for-byte from its verified recovery copy during the save; provenance is recorded in the session note.
+
+## Objectives section description follow-up
+
+On 2026-10-30, after revision 9 was delivered, the user requested a replacement for the Objectives introductory paragraph:
+
+> revise this one, that will be intended only for that section description, don't mention that it should be aligned with the problem
+
+D-022 records the presentation preference. The replacement prepared in chat is retained in [[Sessions/2026-10-30 - Chapter I Progress and Chapter II Handoff#Pending Objectives introduction|the handoff's pending paragraph]]. It has not been inserted into Word revision 9 or its mirrored Markdown. The actual matching-number problem/objective rule under D-017 remains unchanged.
+
+The user also asked whether Project Context needs full survey tallies or percentages. The reply applied the existing rule: give sample size once, use only relevant counts or percentages with clear denominators, explain their meaning and retain the full distributions in supporting records.
+
+The user then asked about Chapter II rules and requested that accomplishments and next steps be saved for other agents. [[Sessions/2026-10-30 - Chapter I Progress and Chapter II Handoff|The handoff]] records that Chapter II remains a scaffold with no selected anchor theory or related studies.

@@ -65,6 +65,12 @@
       "path": "Sources/Attachments/CHAPTER I only.docx",
       "sha256": "8701feed03dc35bf065cba7b20911eb7251335b14eee6e0ab58d3317962b72d7",
       "role": "original"
+    },
+    {
+      "path": "Sources/Attachments/CHAPTER 1 - FINAL - 2026-10-30.docx",
+      "sha256": "6ad898c79899c91d506b625b992959af921c53fee88167390d2151f581ada3ad",
+      "role": "original"
     }
-  ]
+  ],
+  "updated": "2026-10-30"
 }

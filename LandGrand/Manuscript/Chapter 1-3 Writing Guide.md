@@ -1,7 +1,7 @@
 ---
 type: writing-guide
 status: active
-updated: 2026-10-28
+updated: 2026-10-30
 sources:
   - "[[Sources/Capstone Manuscript BSIT]]"
   - "[[Sources/Chapter 1-3 Guidelines]]"
@@ -37,6 +37,8 @@ Apply these requirements whenever drafting or revising Chapters I–III. They im
 5. **Review before delivery.** Read the complete text for clarity, check every heading's opening paragraph, and remove repeated tally figures or repeated explanations. Verify the final Word pages and the two-page Context requirement. Meet required length through relevant discussion, not padding.
 
 Use normal academic prose in the manuscript; the concise chat preference applies to conversation. These rules change presentation, not project scope or the original research data.
+
+Under D-022, the **Objectives introduction describes only that section's purpose and content**. Keep the problem–objective alignment rule in drafting and review checks rather than announcing it in the introductory paragraph. [[Sources/Chapter I Readability Feedback 2026-10-28#Objectives section description follow-up|The user's follow-up]] and the linked prepared paragraph record this presentation change. D-017's substantive alignment requirement remains unchanged.
 
 ## Chapter I – Introduction
 

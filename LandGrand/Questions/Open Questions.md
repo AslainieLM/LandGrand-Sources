@@ -1,7 +1,7 @@
 ---
 type: questions
 status: open
-updated: 2026-10-28
+updated: 2026-10-30
 sources:
   - "[[Sources/Pre-proposal]]"
   - "[[Sources/Baluan Survey Tally]]"
@@ -24,6 +24,6 @@ These gaps come from reviewing the proposal and later supplied sources. They are
 | Q-09 | Before generalizing survey findings | D-011 establishes the corrected date/grade records. D-013 records user-reported randomized selection and the parent-orientation context. What exact randomization steps, separate teacher recruitment details, and original administration/approval records document that account? | [[Sources/Baluan Survey CSV Records|CSV provenance]] and [[Sources/Baluan Survey Tally|Word tally]] | Selection account confirmed by user; methodological documentation remains incomplete |
 | Q-10 | Before citing topic totals | Why does the mathematics-topic table report 14 when its listed frequencies sum to 13? Are the topic frequencies parent responses, teacher responses, or a combination, and how were multiple mentions coded? | [[Sources/Baluan Survey Tally#Data checks|Survey data checks]] | Open |
 | Q-11 | Before formal schedule approval or evaluation | The user supplied November–December as the planned completion window (D-015); the draft assumes 2026 from context. What exact approved deadline and full development/evaluation schedule will be documented? | [[Manuscript/Chapter I Revision Notes#Pending confirmations|Chapter I revision]] | Drafting window supplied; exact date, explicit year confirmation, and full study schedule remain undocumented |
-| Q-12 | Before finalizing the material-shortage claim | Which researcher observation or teacher report, date, and inventory details establish limited physical rock/mineral samples for demonstrations? The material type is clarified; extent and source remain unspecified. | [[Manuscript/Drafts/Problem Candidates#Four-statement shortlist for review|Current shortlist]] and [[Sources/Chapter I Readability Feedback 2026-10-28#Physical-sample clarification|User clarification]] | Open; revision 8 uses conditional wording |
+| Q-12 | Before formalizing the material observation | D-021 identifies the researcher's personal observation as the source. What actual observation date, setting, available/missing specimens and extent document the reported limitation? No city-wide inventory has been supplied. | [[Sources/Researcher Observation - Rock and Mineral Samples 2026-10-30|Observation record]] and [[Manuscript/Chapter I Revision Notes#Pending confirmations|Current revision]] | Partly clarified: source type confirmed; observation date and sample details remain open |
 
 No answers have been inferred from the Unity project. The confirmed user instruction to make this vault authoritative for project knowledge is recorded separately as D-001.

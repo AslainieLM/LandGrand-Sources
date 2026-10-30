@@ -1,7 +1,7 @@
 ---
 type: manuscript-dashboard
 status: active
-updated: 2026-10-28
+updated: 2026-10-30
 sources:
   - "[[Manuscript/Table of Contents]]"
   - "[[Manuscript/Chapter 1-3 Writing Guide]]"
@@ -13,14 +13,24 @@ Use this as the entry point for the current manuscript work. Read the section bo
 
 ## Now
 
+- [x] Save [[Sessions/2026-10-30 - Chapter I Progress and Chapter II Handoff|the current session handoff]] with accomplishments, pending wording and Chapter II next steps.
+- [ ] Begin verified Chapter II source collection when the user continues that work; no anchor theory or related-study set is selected yet.
+- [ ] Apply the [[Sessions/2026-10-30 - Chapter I Progress and Chapter II Handoff#Pending Objectives introduction|prepared Objectives introduction]] during the next requested Word pass, synchronize Markdown and verify the edited pages.
+
+- [x] Produce [[Manuscript/Drafts/Land Grand - Chapter I - Revised - v9.docx|revision 9]] from the supplied Word base, with synchronized Markdown, bibliography, restored scope details and seven local comments. All nine pages passed visual review.
+- [ ] Document the remaining observation date/sample details, content validation, game rules and methodology points in [[Manuscript/Chapter I Revision Notes#Pending confirmations|pending confirmations]].
+
+- [x] Read and render the [[Sources/Chapter I Final User Draft 2026-10-30|latest user-supplied Chapter I]], inspect all eight pages and verify its three public citation sources. [[Manuscript/Chapter I Final Review 2026-10-30|Review and source details saved]].
+- [x] Apply the latest review's bibliography, Scope, paragraph-separation and survey-wording corrections. D-021 now supplies personal-observation attribution for problem 4; its remaining details and other factual/game-rule decisions are identified in comments.
+
 - [x] Save the latest [[Sessions/2026-10-28 - Chapter I Scope and Limitations|Scope and Limitations wording review]], including the edited single-player sentence and pending recommendations.
-- [ ] Integrate those wording edits into the next full Word revision and synchronized Markdown when requested; then recheck the rendered pages. Revision 8 retains its previously checked content.
+- [x] Identify which saved wording edits appear in the new user-supplied file. Its single-player sentence and shorter objectives are present; the remaining corrections are tracked in the latest review. Revision 8 retains its previously checked content.
 
 - [x] Integrate the latest [[Manuscript/Drafts/Problem Candidates#Four-statement shortlist for review|four-statement shortlist]] and matching objectives into revision 8 under D-019. The eight-candidate pool remains reference material.
-- [ ] Confirm the physical rock/mineral sample limitation under Q-12 before treating problem 4 as an established local finding.
+- [ ] Complete Q-12's observation date, setting and sample details. D-021 already identifies the source as the researcher's personal observation.
 
 - [x] Revise all four Chapter I sections in basic academic English and save [[Manuscript/Drafts/Land Grand - Chapter I - Revised - v8.docx|revision 8 Word]] with synchronized Markdown (2026-10-28). [[Manuscript/Chapter I Revision Notes|Revision notes]] record eight inspected pages, six “This section” introductions, and four matching numbered problem/objective pairs.
-- [x] Preserve matching numbered problems/objectives under D-017/D-018. Three concern statements are survey-based; the fourth is a conditional material limitation. User/adviser approval remains separate.
+- [x] Preserve matching numbered problems/objectives under D-017/D-018. In revision 9, three statements are survey-based and the fourth is attributed to researcher observation under D-021. Observation details and adviser approval remain separate.
 - [ ] Complete the remaining evidence and provenance checks in [[Manuscript/Evidence Register|Evidence Register]]; initial global/national sources and the local tally are now linked.
 - [x] Record the supplied Word school-format reference and the user's ownership of citation style/margins under D-014; see MW-02 in [[Manuscript/Chapter 1-3 Writing Guide#Clarifications to retain|writing clarifications]].
 
@@ -28,10 +38,10 @@ Use this as the entry point for the current manuscript work. Read the section bo
 
 | Chapter and section | Working draft | Status | Next action |
 | --- | --- | --- | --- |
-| I — Project Context | [[Manuscript/Drafts/Chapter I Introduction#Project Context|Open section]] | Revised review draft; revision 8, 2026-10-28 | Broader survey coverage restored; confirm conditional problem 4 under Q-12. Context spans pages 1–4. |
-| I — Purpose and Description | [[Manuscript/Drafts/Chapter I Introduction#Purpose and Description of the Project|Open section]] | Ready for user/adviser review; revision 8, 2026-10-28 | Review short lessons, exploration and supplementary digital examples; no effectiveness or novelty claim is established. |
-| I — Objectives | [[Manuscript/Drafts/Chapter I Introduction#Objectives of the Project|Open section]] | Ready for user/adviser review; revision 8, 2026-10-28 | Four objectives match the selected problems 1–4. Digital examples supplement physical specimens; the shortage is unconfirmed. |
-| I — Scope and Limitations | [[Manuscript/Drafts/Chapter I Introduction#Scope and Limitations of the Project|Open section]] | Word revision 8 retained; later wording review saved, 2026-10-28 | Integrate the [[Sessions/2026-10-28 - Chapter I Scope and Limitations|saved review]] into a later Word revision. Keep device/evaluation qualifications, LG-23 exclusions and open game rules visible. |
+| I — Project Context | [[Manuscript/Drafts/Chapter I Introduction#Project Context|Current section]] | Corrected review copy; revision 9, 2026-10-30 | Context spans pages 1–4. Researcher attribution for problem 4 is supplied; observation and sampling records remain qualified. |
+| I — Purpose and Description | [[Manuscript/Drafts/Chapter I Introduction#Purpose and Description of the Project|Current section]] | Corrected review copy; revision 9, 2026-10-30 | Retains supplementary lessons, exploration, collection and review. No effectiveness or local-novelty result is claimed. |
+| I — Objectives | [[Manuscript/Drafts/Chapter I Introduction#Objectives of the Project|Current section]] | Delivered revision 9; later intro wording prepared in chat | Apply the description-only introduction under D-022 during the next Word pass. Keep the four numbered objectives aligned with their problems. |
+| I — Scope and Limitations | [[Manuscript/Drafts/Chapter I Introduction#Scope and Limitations of the Project|Current section]] | Corrected review copy; revision 9, 2026-10-30 | Restored tools, LG-23 exclusions and device-testing qualification; added prospective validation/first-level checks. Detailed game rules remain open. |
 | II — Related Literature / Theoretical Background | [[Manuscript/Drafts/Chapter II Review of Related Literature#Related Literature / Theoretical Background|Open section]] | Scaffold only; sources needed | Select and read actual literature and theory sources; use E-06. |
 | II — Related Studies | [[Manuscript/Drafts/Chapter II Review of Related Literature#Related Studies|Open section]] | Scaffold only; sources needed | Read and compare real studies or projects; use E-07. |
 | III — Technicality of the project | [[Manuscript/Drafts/Chapter III Technical Background#Technicality of the project|Open section]] | Scaffold only; proposal available | Explain the proposed technical approach in paragraphs. |
@@ -45,11 +55,11 @@ Progress states: **Scaffold only**, **Drafting**, **Needs evidence**, **Ready fo
 - Develop the remaining sections in the order the user requests.
 - Keep problem/objective alignment in the Chapter I working file and claim/source tracking in Evidence Register.
 - Apply grammar and academic polishing after each section's meaning and evidence are stable.
-- Word revision 8 preserves the supplied Chapter I format and has passed layout verification. Integrate the automatic TOC when assembling the full manuscript; no TOC page was inserted into this chapter-only reference.
+- Word revision 9 preserves the supplied Chapter I format and has passed nine-page layout verification; its added bibliography is included for the standalone chapter. Integrate the automatic TOC when assembling the full manuscript; no TOC page was inserted into this chapter-only reference.
 
 ## Blocked claims and decisions
 
-D-011 corrects the field-survey date to July 7, 2026 and uses [[Sources/Baluan Survey CSV Records|CSV grade counts]]: parents Grades 4–6; teachers Kindergarten and Grades 3–6. Revision 8 summarizes the overall survey groups and keeps the Grade 5 game target separate; exact distributions and subgroup calculations remain in the source notes. The user reports random selection and explains the parent orientation context. Exact procedure documentation, topic coding, and one topic-total discrepancy remain unresolved. Stronger local problem claims and local novelty claims still need supporting evidence. Literature/theory claims need actual sources. MW-01’s minimum count is resolved under D-018; the latest statements and matching objectives are integrated in revision 8, with Q-12 preserving the conditional fourth concern. MW-02 records the confirmed Word format and user ownership of citation style/margins. D-012 settles Android wording; Q-01 now concerns future device validation. Detailed scoring and unlocking decisions affect descriptions of those rules, not every manuscript section.
+D-011 establishes July 7, 2026 as the field-survey date and the actual coverage: parents Grades 4–6; teachers Kindergarten and Grades 3–6. Revision 9 keeps overall survey views separate from the Grade 5 game target and any subgroup analysis. D-013 records user-reported random selection; its procedure, administration records and topic coding still need documentation. Three current problems are survey-based. D-021 attributes the fourth to the researcher's personal observation, with date/setting/sample details still open under Q-12. MW-01's minimum-four count and MW-02's school-format ownership are settled; D-012 fixes Android 10+ as the target, with testing separate. Chapter II theory and related-study sources remain missing under E-06/E-07. These specific evidence gaps should qualify affected claims rather than block all independent drafting work.
 
 Research evaluation belongs under the supplied Chapter IV structure. For Chapters I–III, describe an intended benefit or objective honestly; do not present invented learning gains or a completed study.
 
@@ -59,6 +69,7 @@ Record actual user or adviser feedback here, with the reviewer, date, and a trac
 
 | Date and reviewer | Target section | Feedback and source | Action and evidence |
 | --- | --- | --- | --- |
+| 2026-10-30, user | Full Chapter I | Asked ask-matt to route a final-chapter bottleneck and reference-legitimacy review. [[Sources/Chapter I Final User Draft 2026-10-30|Supplied source]]. | [[Manuscript/Chapter I Final Review 2026-10-30|Eight-page review saved]], with three verified official sources and bibliography information. Source retained unchanged; corrections remain recommendations. |
 | 2026-10-28, user | I — Scope and Limitations | Requested short, easy academic sentences and a reread of the revised passage; later requested saving progress. [[Sources/Chapter I Readability Feedback 2026-10-28#Scope and Limitations language review and session save|Feedback record]]. | [[Sessions/2026-10-28 - Chapter I Scope and Limitations|Passage and recommendations saved]]. Edited single-player sentence recorded; Word integration remains pending. |
 
 ## Section readiness check

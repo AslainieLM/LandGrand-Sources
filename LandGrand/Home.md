@@ -1,7 +1,7 @@
 ---
 type: index
 status: active
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 # LandGrand
@@ -9,6 +9,8 @@ updated: 2026-10-28
 This vault is the source of truth for the LandGrand capstone's documented purpose, scope, decisions, and evidence. Start here before planning or changing the game.
 
 [[Current Focus]] records the user's active priority and the recommendations retained for later sessions. Read it before choosing the next project task.
+
+[[Sessions/2026-10-30 - Chapter I Progress and Chapter II Handoff|Latest session handoff]] records accomplishments, pending manuscript wording and the proposed Chapter II research steps for the next agent.
 
 > [!info] Current baseline
 > The supplied **Pre-Proposal Statement** is the initial proposal baseline. Its filename contains “Final,” but approval and implementation have not been established. Confirmed changes belong in the decision register and the relevant canonical note.
@@ -30,7 +32,8 @@ This vault is the source of truth for the LandGrand capstone's documented purpos
 - [[Sources/Pre-proposal|Original proposal and provenance]] and [[Sources/Pre-proposal Extract|searchable source text]]
 - [[Sources/Baluan Survey Tally|Baluan survey tally]] — parent/teacher responses, subject difficulty ratings, and data checks for local context
 - [[Sources/Baluan Survey CSV Records|Survey CSV records]] — verified grade counts, corrected survey date, and retained response exports
-- [[Sources/Chapter I Unrevised Draft|Unrevised Chapter I]], [[Manuscript/Drafts/Chapter I Introduction|working revision]], and [[Manuscript/Drafts/Land Grand - Chapter I - Revised - v8.docx|current revised Word copy]] — original manuscript, revised prose, and [[Manuscript/Chapter I Revision Notes|review notes]]
+- [[Sources/Chapter I Unrevised Draft|Unrevised Chapter I]], [[Manuscript/Drafts/Chapter I Introduction|working revision]], and [[Manuscript/Drafts/Land Grand - Chapter I - Revised - v9.docx|current revised Word copy]] — original manuscript, revised prose, and [[Manuscript/Chapter I Revision Notes|review notes]]
+- [[Sources/Chapter I Final User Draft 2026-10-30|Latest user-supplied Chapter I review input]] — unchanged final-named Word file, searchable extract and [[Manuscript/Chapter I Final Review 2026-10-30|review with verified reference information]]. The user subsequently authorized correction into revision 9; [[Manuscript/Chapter I Revision Notes|current revision notes]] distinguish implemented edits from open evidence and game-rule questions.
 - [[Sources/Project Clarifications 2026-10-26|2026-10-26 project clarification]] — confirmed survey date/coverage and reported school context
 - [[Research/Proposal Review|Proposal review]] — inconsistencies, missing definitions, and derived workload
 - [[Questions/Open Questions|Open questions]] — decisions still needed

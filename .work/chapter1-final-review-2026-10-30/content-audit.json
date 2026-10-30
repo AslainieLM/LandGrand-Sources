@@ -1,0 +1,49 @@
+{
+  "pages": 8,
+  "native_word_count": 1588,
+  "paragraph_count": 60,
+  "context_pages": [
+    1,
+    4
+  ],
+  "heading_pages": {
+    "Project Context": 1,
+    "Purpose and Description of the Project": 4,
+    "Objectives of the Project": 5,
+    "Scope and Limitations of the Project": 6,
+    "Scope": 6,
+    "Limitations": 7
+  },
+  "intro_count": 6,
+  "scope_intro_merged_with_details": true,
+  "reference_heading_present": false,
+  "citation_paragraphs": [
+    {
+      "paragraph": 6,
+      "page": 1,
+      "text": "Educational technology should respond to the needs of learners and teachers. UNESCO's 2023 Global Education Monitoring Report recommends choosing technology that fits local conditions and supports fair access to learning. It also stresses the need for evidence and resources that can be maintained over time (UNESCO, 2023). These points guide the proposed use of a learning game at Baluan Elementary School."
+    },
+    {
+      "paragraph": 8,
+      "page": 2,
+      "text": "In the Philippines, printed and digital modules were among the learning options used during the COVID-19 period. The Department of Education's 2020 guidance allowed supporting materials, including interactive electronic resources, alongside distance-learning activities. It also described the role of adults who assist learners at home (Department of Education, 2020, Appendix A and Appendix B). This experience provides a national background for developing resources that support learning beyond the classroom."
+    },
+    {
+      "paragraph": 9,
+      "page": 2,
+      "text": "Disasters can also affect the arrangements needed for learning at home. DOST-PHIVOLCS recorded a magnitude 7.8 earthquake offshore Sarangani on June 8, 2026 (DOST-PHIVOLCS, 2026). As of October 2026, Baluan Elementary School holds face-to-face classes. Modular learning is considered an option if another disaster interrupts classroom instruction. Land Grand is therefore intended to support home study during regular schooling and possible disruptions."
+    }
+  ],
+  "long_sentences": [],
+  "numbered_labels": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "visual_review": "All eight page PNGs inspected. No clipping, overlap or missing glyphs. Context spans pages 1-4; heading text is visible; separate Scope introduction is merged with audience details."
+}

@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-10-30",
+  "sources": [
+    {
+      "citation": "UNESCO, 2023",
+      "url": "https://www.unesco.org/gem-report/en/publication/technology",
+      "inspected_section_url": "https://gem-report-2023.unesco.org/recommendations/",
+      "claim_match": "Context-appropriate, learner-centered, equitable, evidence-based and sustainable technology; no Land Grand effectiveness claim."
+    },
+    {
+      "citation": "Department of Education, 2020, Appendix A and Appendix B",
+      "url": "https://region8.deped.gov.ph/wp-content/uploads/2020/07/DM-CI-2020-00162-2.pdf",
+      "title": "Suggested Strategies in Implementing Distance Learning Delivery Modalities (DLDM) for School Year 2020-2021",
+      "date": "2020-07-21",
+      "identifier": "DM-CI-2020-00162",
+      "inspected_pdf_pages": [
+        1,
+        3,
+        4,
+        6
+      ],
+      "claim_match": "Historical printed/digital modular arrangements, supplementary interactive resources and household support."
+    },
+    {
+      "citation": "DOST-PHIVOLCS, 2026",
+      "url": "https://tsunami.phivolcs.dost.gov.ph/Tsunami_Information/2026_Tsunami_Information/Jun/07/20260607_2337z_Advisory2_2.pdf",
+      "title": "Tsunami Information No. 2: Cancellation of Tsunami Warning",
+      "date": "2026-06-08",
+      "time": "3:19 PM",
+      "inspected_pdf_pages": [
+        1
+      ],
+      "claim_match": "June 8, 2026 magnitude 7.8 offshore Sarangani earthquake; no school-specific closure or teaching-modality claim."
+    }
+  ],
+  "references_in_supplied_file": 0,
+  "bibliography_location": "Full manuscript back matter in selected BSIT outline",
+  "source_original_edited": false
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "anchor": "An initial survey at Baluan Elementary School on July 7, 2026 gathered responses from 20 parents and 20 teachers. Parent responses covered Grades 4–6, while teacher responses covered Kindergarten and Grades 3–6. The parent group was available during the scheduled parents' orientation meeting. The researcher reported using random selection.",
+    "text": "Q-09: Wording now attributes random selection to the researcher. Record the actual selection steps, eligible parent/teacher groups and separate recruitment details in the methodology; no specific random-sampling technique has been inferred."
+  },
+  {
+    "id": 1,
+    "anchor": "Survey responses identified landforms, rocks, and minerals among the Science topics considered difficult. These reports provide a basis for selecting content for the game. The final lessons and selected items will be reviewed for scientific accuracy and Grade 5 Science curriculum alignment.",
+    "text": "Q-04: The text now states planned scientific-accuracy and curriculum checks. Identify the exact Grade 5 competencies, selected items, authoritative content sources and reviewer before content is finalized. No completed validation is claimed."
+  },
+  {
+    "id": 2,
+    "anchor": "The researcher observed limited rock and mineral samples for classroom demonstrations.",
+    "text": "Q-12 / E-13: The researcher identified personal observation as the source on October 30, 2026. The statement is now attributed accordingly. Record the actual observation date, school setting and available/missing samples before final submission. The separate perception of city-wide scarcity is not a verified materials inventory."
+  },
+  {
+    "id": 3,
+    "anchor": "This section outlines the learners, content, game activities, and technical requirements included in Land Grand.",
+    "text": "Separated the Scope introduction from the learner/tool details, as required by the writing guide. Restored Unity/C#, Piskel and Clip Studio Paint in the following paragraph; this is the existing proposal baseline."
+  },
+  {
+    "id": 4,
+    "anchor": "Players may earn up to three stars per level. Star and completion rules will be defined during development.",
+    "text": "Q-02 / Q-03: Specify star metrics, level-completion conditions and unlock requirements before implementing these systems. The existing up-to-three-star scope is retained; thresholds have not been invented."
+  },
+  {
+    "id": 5,
+    "anchor": "Development will test one complete level before expanding to all 60 levels. Checks will cover content, controls, item descriptions, review, local saving, and device performance.",
+    "text": "Added a proposed first-level content/device check to address the 60-level production dependency. This is a planned sequence, not proof that the prototype, device tests or schedule are complete."
+  },
+  {
+    "id": 6,
+    "anchor": "BIBLIOGRAPHY",
+    "text": "Added the three verified institutional sources matching the in-text citations, with official links. Retain this list with the standalone chapter, or place the entries in the full manuscript BIBLIOGRAPHY. Apply the school's final citation style consistently."
+  }
+]

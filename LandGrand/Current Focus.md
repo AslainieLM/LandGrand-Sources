@@ -1,12 +1,16 @@
 ---
 type: focus
 status: active
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 # Current Focus
 
 The user's current priority is drafting **Land Grand Chapters I–III**. This priority was confirmed in D-006. Use it when interpreting requests to continue the project, unless the user's latest request specifies a different task.
+
+## Latest session handoff
+
+For a resumed session or status question, read [[Sessions/2026-10-30 - Chapter I Progress and Chapter II Handoff|the 2026-10-30 handoff]]. It records completed Chapter I corrections, the chat-only Objectives introduction, Chapter II readiness and suggested next steps. Chapter II source collection is the next proposed substantive task; the user's latest request determines the actual work.
 
 ## Manuscript work now
 
@@ -15,9 +19,10 @@ The user's current priority is drafting **Land Grand Chapters I–III**. This pr
 - Follow [[Manuscript/Table of Contents|the selected BSIT outline]] for Chapter I Introduction, Chapter II Review of Related Literature, and Chapter III Technical Background.
 - Use [[Manuscript/Chapter 1-3 Writing Guide|the writing guide]] for the lecture guidance, discussion reminders, and language-editing skills.
 - Use [[Sources/Pre-proposal|the pre-proposal]] and the canonical project notes for LandGrand facts. Keep unresolved claims and decisions visible instead of inventing answers.
-- Distinguish [[Sources/Chapter1 Discussion Notes|discussion notes]] from [[Sources/Chapter I Unrevised Draft|the original school-format manuscript]]. [[Manuscript/Drafts/Land Grand - Chapter I - Revised - v8.docx|Revision 8]] and its synchronized Markdown integrate the selected four short problems and matching objectives under D-019. Eight pages were inspected; Context spans pages 1–4 and six introductions begin This section. Problem 4 remains conditional pending [[Questions/Open Questions|Q-12]] on physical rock/mineral samples.
+- Distinguish [[Sources/Chapter1 Discussion Notes|discussion notes]] from [[Sources/Chapter I Unrevised Draft|the original school-format manuscript]]. [[Manuscript/Drafts/Land Grand - Chapter I - Revised - v9.docx|Revision 9]] and its synchronized Markdown apply the authorized corrections under D-020. Nine pages were inspected; Context spans pages 1–4 and the three-entry bibliography is on page 9. Problem 4 is attributed to the researcher under D-021; Q-12 retains its missing observation details.
 - [[Manuscript/Chapter I Revision Notes|Revision notes]] own the current mapping, checks and remaining evidence questions. The [[Sources/Researcher Observation - Science Interest 2026-10-28|Grade 5 interest observation]] remains separate from survey and material-availability evidence. The planned window remains November–December, with 2026 the disclosed contextual year assumption under D-015.
-- Latest session: [[Sessions/2026-10-28 - Chapter I Scope and Limitations|Scope and Limitations wording review]]. Shorter prose, the edited single-player sentence and remaining review recommendations are saved there. They await integration into a later Word revision; revision 8 and its mirrored Markdown retain their existing content.
+- Latest source and correction: [[Sources/Chapter I Final User Draft 2026-10-30|the user-supplied final-named chapter]] is preserved unchanged. The [[Manuscript/Chapter I Final Review 2026-10-30|prior review]] led to revision 9, which adds verified bibliography entries, restores scope details and clarifies survey wording. [[Manuscript/Chapter I Revision Notes|Current revision notes]] own the seven local comments and remaining decisions.
+- Earlier [[Sessions/2026-10-28 - Chapter I Scope and Limitations|Scope wording work]] is retained for history. Its principal wording/format corrections now appear in revision 9. The latest handoff proposes Chapter II source collection next. Document remaining observation, content, game-rule and method details when they affect the requested work; these do not block all independent manuscript research.
 - Survey coverage is not Grade 5-only: parent responses cover Grades 4-6; teacher responses cover Kindergarten and Grades 3-6. Grade 5 is the game audience and the separate observed class. Use [[Sources/Baluan Survey CSV Records#Survey-coverage reminder, 2026-10-28|the coverage reminder]] and label any subgroup analysis explicitly.
 - Keep chat concise under the caveman preference. Write manuscript prose in normal academic English and preserve the school's requirements.
 

@@ -1,7 +1,7 @@
 ---
 type: log
 status: active
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 # Change Log
@@ -239,3 +239,31 @@ These checks cover saved files and references. The live Obsidian interface was n
 - Linked the session from Current Focus, the dashboard, revision notes and feedback source. Marked later Word/Markdown integration as pending rather than claiming a new full revision.
 - Retained the existing requirements and open evidence questions. Mixed-grade survey coverage does not replace correctly labeled Grade 5 subgroup findings; device targets, content validation, scoring and evaluation remain qualified.
 - Restored the missing revision 8 Word file from the existing recovery copy after matching its recorded SHA-256. The restored bytes equal the previously inspected artifact; no later wording was inserted. Pre-save note backups and recovery audit are recorded in the session note.
+
+
+### User-supplied Chapter I final draft review, 2026-10-30
+
+- Retained the supplied final-named Word chapter unchanged, recorded its SHA-256 in the source-integrity manifest and added a searchable 60-paragraph extract. The filename is not treated as adviser approval.
+- Saved [[Manuscript/Chapter I Final Review 2026-10-30|the full review]] with source/page locators, problem/objective alignment, survey checks, scope omissions and exact wording recommendations. All eight rendered pages were inspected; Context spans pages 1–4 and both lists display 1–4.
+- Reopened the three cited official UNESCO, DepEd and DOST-PHIVOLCS sources, checked the relevant claims and recorded legitimate bibliography information. The supplied chapter contains no bibliography entries; the selected BSIT outline places BIBLIOGRAPHY in the full manuscript.
+- Updated Current Focus, Home, the dashboard and revision notes to distinguish the newest supplied review input from the agent-generated revision 8 pair. No new requirements, research findings or corrected Word artifact were approved or produced.
+- Preserved the source file, revision 8, its mirrored Markdown and both survey CSVs. Review/source records and recovery checks are retained under the task-local work folder.
+
+
+### Chapter I correction implemented in revision 9, 2026-10-30
+
+- Recorded D-020 and edited a copy of the user's supplied Word chapter, preserving its school geometry, typography, styles, numbering and original files. Added three verified bibliography entries with live official links on page 9.
+- Restored development tools, excluded quiz/GPS/scanning functions and device-testing qualification. Separated Scope's opening, clarified mixed-grade survey interpretation, corrected 2D and proposal tense, and preserved historical survey expectations.
+- Recorded the user's personal-observation clarification under D-021 in [[Sources/Researcher Observation - Rock and Mineral Samples 2026-10-30|its source record]]. Attributed problem 4 to the researcher, retained date/setting/sample details under Q-12 and kept the unsupported city-wide inventory claim out of the manuscript.
+- Made content/curriculum review and a complete-level content/device check prospective. Kept seven local Word comments for the remaining evidence, method and game-rule dependencies; no thresholds, completed validations or research results were invented.
+- Rendered and inspected every final page. The copy has nine pages, Context on pages 1–4, restarted 1–4 lists and Bibliography on page 9. Verified native text, hyperlinks, PDF URI targets, comment wiring, preserve-only parts and the packaged source/final diff.
+- Synchronized Markdown, current pointers, dashboard, revision notes, evidence status and research context. Earlier review history, Word copies, source documents and both raw survey CSVs remain unchanged. Backups and final checks are in the task-local correction folder.
+
+
+### Chapter I progress and Chapter II handoff saved, 2026-10-30
+
+- Saved [[Sessions/2026-10-30 - Chapter I Progress and Chapter II Handoff|the new session handoff]] at the user's request for other agents. Linked it near the top of Current Focus and Home, and from the drafting dashboard.
+- Recorded D-022 and the focused Objectives-introduction preference in the writing guide and feedback record. Preserved the prepared paragraph as chat-only, pending a future Word/Markdown editing pass; the actual problem–objective alignment rule remains unchanged.
+- Recorded the Project Context survey-summary advice as an application of existing rules. Confirmed Chapter II's two sections, source requirements and scaffold-only status; no theory, related study or new manuscript research was invented.
+- Recorded verified Chapter I revision 9 status, its bibliography and comments, the personal-observation source and remaining evidence details. Corrected stale current dashboard wording so it no longer presents the fourth concern as an unidentified hypothesis.
+- Kept the delivered Word and mirrored Markdown unchanged. Proposed Chapter II source collection as the next substantive task, with the user's next request controlling actual work. Game implementation remains deferred.

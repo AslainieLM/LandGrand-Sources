@@ -1,51 +1,47 @@
 ---
 type: revision-review
 status: reviewed
-updated: 2026-10-28
+updated: 2026-10-30
 sources:
-  - "[[Sources/Chapter I Unrevised Draft]]"
-  - "[[Sources/Chapter I Readability Feedback 2026-10-28]]"
-  - "[[Sources/Baluan Survey Tally]]"
+  - "[[Sources/Chapter I Final User Draft 2026-10-30]]"
+  - "[[Sources/Researcher Observation - Rock and Mineral Samples 2026-10-30]]"
   - "[[Sources/Baluan Survey CSV Records]]"
   - "[[Manuscript/Chapter 1-3 Writing Guide]]"
+  - "[[Project/Scope and Requirements]]"
 ---
 
 # Chapter I Revision Notes
 
 ## Revision and status
 
-**Revision 8, revised review draft, 2026-10-28.** [[Manuscript/Drafts/Land Grand - Chapter I - Revised - v8.docx|Open the current Word copy]] or [[Manuscript/Drafts/Chapter I Introduction|the synchronized Markdown]]. D-019 authorizes integration of the latest short problems and objectives. This is not adviser approval or confirmation of all local claims.
+**Revision 9, corrected review copy, 2026-10-30.** [[Manuscript/Drafts/Land Grand - Chapter I - Revised - v9.docx|Open the current Word copy]] or [[Manuscript/Drafts/Chapter I Introduction|the synchronized Markdown]]. The user requested: “Implement and fix those bottlenecks, use the existing word pasted.” D-020 records this authorization. The base is the unchanged [[Sources/Chapter I Final User Draft 2026-10-30|user-supplied final-named chapter]], not a blank document or redesign.
 
-The chapter has **eight rendered pages**. Project Context spans **pages 1–4**, meeting the two-page requirement. All six section/subsection introductions begin **This section**. The problem and objective lists each restart at **1** and run through **4** in matching order.
+The corrected copy has **nine rendered pages**, including **BIBLIOGRAPHY on page 9**. Context spans **pages 1–4**. All six Chapter I introductions begin **This section** and are separate from details. The bibliography also has a short This section opening. The numbered problem and objective lists each run 1–4.
 
-**Material evidence remains open:** The fourth statement says physical rock/mineral samples **may be limited**. It is a potential constraint, not a finding established by the survey. Q-12 tracks the source, date and extent needed before using definite shortage wording. Digital illustrations remain supplementary visual material.
+Problem 4 is now **The researcher observed limited rock and mineral samples for classroom demonstrations.** D-021 records the user's identification of personal observation as its source. This is an attributed qualitative report, separate from survey findings. The observation date, exact setting and sample details remain pending under Q-12. No city-wide scarcity claim or independent inventory result is asserted.
 
-The game target remains Grade 5. The survey is broader: parents of children in Grades 4–6 and teachers handling Kindergarten and Grades 3–6. Revision 8 uses the overall groups for the first three concerns. Earlier Grade 5 subgroup calculations remain valid as labeled subgroup checks, not descriptions of the entire survey.
+This is a reviewable correction, not adviser approval, completed curriculum validation or demonstrated learning effectiveness. Seven Word comments identify changes and remaining dependencies at their relevant passages.
+
+**Post-delivery wording request:** D-022 narrows the Objectives introduction to its section description. [[Sessions/2026-10-30 - Chapter I Progress and Chapter II Handoff#Pending Objectives introduction|The replacement paragraph]] is prepared in chat only and awaits the next Word/Markdown editing pass. Revision 9 and its existing verification still describe the delivered file; no later Word revision has been created.
 
 ## Scope and Limitations wording follow-up
 
-The [[Sessions/2026-10-28 - Chapter I Scope and Limitations|saved wording-review session]] retains the user's latest passage, shorter-language work and recommendations for the next revision. The latest edited sentence is “The game will support single-player mode only.” This restates existing LG-02.
+The shorter wording saved in [[Sessions/2026-10-28 - Chapter I Scope and Limitations|the earlier session]] is integrated through the user's newer chapter and this correction. Revision 9 keeps the single-player sentence, separates Scope's introduction, restores Unity/C#/Piskel/Clip Studio Paint, restores the LG-23 exclusions and device-testing qualification, and clarifies overall versus Grade 5 survey findings. Planned-action wording is consistent, while historical survey expectations retain could. The abbreviation is 2D.
 
-Later edits have not been applied to Word revision 8 or its synchronized Markdown. Next integration should separate the Scope introduction, use consistent proposal tense, restore device-testing and LG-23 qualifications, distinguish overall survey findings from Grade 5 subgroup findings, and retain evaluation and star-rule uncertainties. The full recommendations and exact replacement sentences are owned by the session note.
-
-During the session save, the missing revision 8 Word file was restored from a recovery copy matching its recorded SHA-256 exactly. Its earlier content and visual-verification status are unchanged; the recovery did not create a new manuscript revision.
+Scientific/curriculum review is described as prospective work. A complete-level content/device check precedes expansion to 60 levels as a proposed production sequence. No star threshold, unlock condition, validated competency list or completed test was invented.
 
 ## Problem and objective alignment
 
-| No. | Current problem/concern | Matching proposed objective | Evidence basis | Requirement trace |
-| --- | --- | --- | --- | --- |
-| 1 | Parents reported difficulty explaining printed module lessons to their children. | Provide short Science lessons before each level to support explanations during home study. | Parent question 3; overall group | LG-07 |
-| 2 | Teachers questioned whether modular learning helps learners understand lessons. | Implement interactive exploration and end-of-level reviews to supplement printed Science modules. | Teacher question 2; mixed overall-group views | LG-08, LG-12 |
-| 3 | Survey responses identified landforms, rocks, and minerals as difficult Science topics. | Develop four episodes covering Mountains, Hills, Plains, and Plateaus, including selected rock and mineral topics. | Direct topic responses; not learner tests | LG-03–LG-04, LG-07 |
-| 4 | Physical rock and mineral samples may be limited for classroom demonstrations. | Present digital illustrations of selected rocks and minerals with names and short descriptions. | Potential constraint; E-13/Q-12 unverified | LG-09–LG-10, LG-18 |
+| No. | Current reported problem | Matching specific objective | Evidence and scope |
+| --- | --- | --- | --- |
+| 1 | Parents reported difficulty explaining lessons in printed modules. | Provide short Science lessons before each level to help parents explain the selected topics during home study. | Overall parent question 3. Module difficulty is general; the game supports only the selected Science content. |
+| 2 | Teacher responses raised concerns about the effectiveness of modular learning. | Add interactive exploration and reviews after each level to support learning alongside printed Science modules. | Overall teacher question 2. Views are mixed, not universal agreement or measured ineffectiveness. |
+| 3 | Survey responses identified landforms, rocks, and minerals as difficult Science topics. | Develop four episodes covering Mountains, Hills, Plains, and Plateaus, with selected rock and mineral content. | Parent/teacher topic mentions, not pupil test scores or a claim of the most prevalent difficulty. |
+| 4 | The researcher observed limited rock and mineral samples for classroom demonstrations. | Present digital illustrations of selected rocks and minerals with names and short descriptions. | User-reported personal observation under D-021; date and sample details pending. Illustrations provide supplementary visual examples, not physical specimens. |
 
-The objectives are observable development deliverables within the planned November–December 2026 window under D-015. The user supplied the months; the year remains the disclosed contextual assumption. No exact approved deadline, evaluation protocol, measured knowledge gain or motivation gain is invented.
-
-Parent explanation difficulty concerns modules generally. The proposed game offers support only for the selected Science content. Teacher views are mixed; negative and uncertain answers are not combined as proof of ineffectiveness. Topic mentions do not establish that these are the most common difficulties or prove a tested identification/classification deficit.
+The game audience remains Grade 5. The survey covers parents of Grades 4–6 learners and teachers handling Kindergarten and Grades 3–6. Correctly labeled Grade 5 subgroup analysis remains separate. Dates, sample size and the selected 85% finding are stated once in Context.
 
 ## Writing and page checks
-
-The revision follows the four selected main headings, global-to-national/regional-to-local Context sequence, clear section introductions and short academic sentences. Problem openings vary without repeating Some. Required uncertainty is retained.
 
 | Heading | Heading page | Introductory paragraph page |
 | --- | ---: | ---: |
@@ -54,46 +50,46 @@ The revision follows the four selected main headings, global-to-national/regiona
 | Objectives of the Project | 5 | 5 |
 | Scope and Limitations of the Project | 6 | 6 |
 | Scope | 6 | 6 |
-| Limitations | 7 | 7 |
+| Limitations | 8 | 8 |
+| BIBLIOGRAPHY | 9 | 9 |
 
-The sample size, grade coverage and field-survey date appear once in Context; the 85% parent finding appears once. Full No/Maybe distributions, subgroup counts and source locators remain in the source notes. Parent views about allowing mobile learning and device-access limits remain visible. Public citations retain their existing author–date form; the user handles citation style and margins.
-
-Word count: **1569** by the reproducible builder rule; **731** in Context; **1580** by native Word. Count differences include Word's list labels and token conventions.
+Native Word word count is **1,712**, including bibliography text. The body contains 68 paragraphs. The section geometry, existing typography and double spacing are preserved. The final limitation stays with the other limitations on page 8; no nearly empty continuation page remains.
 
 ## Verification
 
-- Native Microsoft Word 16.0 rendered the document read-only. All eight final page PNGs were inspected. No clipped text, overlap, missing glyphs or stranded headings were observed.
-- Both numbered lists display 1–4; no numbered problem/objective paragraph splits across pages. PDF numbering and native Word paragraph text match the authoring source.
-- Page size, margins, section XML, typography, spacing, list definitions, styles, relationships and author metadata are unchanged from revision 7. Only body XML and refreshed app statistics differ.
-- The complete first page is pixel-identical to revision 7. The packaged image/text diff records intended later body changes.
-- The original manuscript and earlier Word versions remain unchanged. Both research CSV hashes match the retained import values; no survey data was edited.
-- Scope retains the four episodes, 3/5/7 level modes, offline Android 10+, proposed minimum device targets, local saves, menus, controls, tools and exclusions. No quiz, 3D viewer, specimen-supply program or online feature was added.
-- Digital illustrations are described as a supplement. The separate [[Sources/Researcher Observation - Science Interest 2026-10-28|Grade 5 interest observation]] remains a source but is not used as evidence of sample shortages or measured game effectiveness.
-
-QA contract, source snapshot, builder, native render audit, packaged diff and final verification record: D:\Projects\LandGrand-Sources\.work\chapter1-revision8-2026-10-28. PDF/PNG files are internal QA. A full pre-update snapshot of these review notes is retained there under vault-before-revision8.
+- Native Word opened the file read-only and exported document content without printing comments. The packaged render_docx.py adapter produced all nine final page PNGs; every page was inspected.
+- XML body text matches native Word paragraph text, accounting for manual line breaks in bibliography entries. Both PDF lists display 1–4. All three official URLs are live hyperlinks in Word and are preserved as PDF URI targets.
+- Seven comments have matching start/end/reference anchors, a comments relationship and the required content type. Comments are verified structurally because page rendering does not show them reliably.
+- Only body XML, the necessary hyperlink/comment relationships, the comments content type and refreshed app statistics changed; comments.xml was added. All source styles, numbering definitions, section XML, original relationships, core metadata and opaque parts are preserved.
+- The packaged source/final image and text diff records expected body changes and the added bibliography page. No source, prior Word version or raw survey CSV was edited. Pre-update note backups are retained.
+- Internal contract, reference evidence, builder, native audit, comparison and final verification: D:\Projects\LandGrand-Sources\.work\chapter1-corrections-2026-10-30. PDF/PNG files are internal QA, not requested deliverables.
 
 ## Reference and source mapping
 
-| Citation/source | Supported use |
+The three already verified official sources now have matching bibliography entries in the corrected Word file. Each entry has the institutional author, year/date, exact work title and official link. The user retains ownership of final citation style and margins. The standalone bibliography can be moved into the full manuscript's back matter when assembling the complete capstone.
+
+| Source | Supported use |
 | --- | --- |
-| [[Sources/UNESCO GEM 2023 Technology|UNESCO, 2023]] | Context-appropriate educational technology rationale; no game-effectiveness claim. |
-| [[Sources/DepEd Distance Learning Strategies 2020|Department of Education, 2020]] | Historical distance-learning and supplementary-resource context. |
-| [[Sources/PHIVOLCS Sarangani Earthquake 2026|DOST-PHIVOLCS, 2026]] | Earthquake occurrence/date/magnitude; not proof of Baluan closure. |
-| [[Sources/Baluan Survey Tally|Survey tally]] and [[Sources/Baluan Survey CSV Records|response exports]] | Reported module/Science concerns, views and grade coverage. |
-| [[Sources/Project Clarifications 2026-10-26|User clarifications]] | Corrected survey date, current/contingency school context, Android target, format ownership and planned completion window. |
-| [[Sources/Chapter I Readability Feedback 2026-10-28|Revision feedback]] | Selected short wording, physical-sample clarification and revision authorization; not a verified inventory. |
+| [[Sources/UNESCO GEM 2023 Technology|UNESCO 2023 report recommendations]] | Context-appropriate technology, inclusion, evidence and sustainability; not a Land Grand effectiveness result. |
+| [[Sources/DepEd Distance Learning Strategies 2020|DepEd memorandum DM-CI-2020-00162]] | Historical printed/digital modular arrangements, supplementary resources and household support. |
+| [[Sources/PHIVOLCS Sarangani Earthquake 2026|DOST-PHIVOLCS advisory]] | June 8, 2026 magnitude 7.8 offshore Sarangani earthquake; not a Baluan closure or modality order. |
+| [[Sources/Baluan Survey CSV Records|Survey CSVs]] | Adult responses, actual grade coverage, mixed views and the 17/20 parent-explanation result. |
+| [[Sources/Researcher Observation - Rock and Mineral Samples 2026-10-30|Researcher observation clarification]] | Source of the fourth concern, with date/setting/sample details still pending. |
+| [[Sources/Project Clarifications 2026-10-26|User clarifications]] | Survey dates, school context, Android range, school format and planned completion window. |
 
 ## Pending confirmations
 
-- **Q-12 / E-13:** Source, date, availability and extent of the proposed physical rock/mineral sample shortage.
-- **Q-04–Q-05:** Final content/curriculum validation and any method supporting learning or motivation claims.
-- **Q-09–Q-10:** Detailed sampling/administration records, complete topic coding and the mathematics total discrepancy.
-- **Q-11:** Exact approved deadline, explicit year confirmation and full study schedule beyond the supplied November–December window.
-- **Q-02–Q-03 and Q-06–Q-08:** Detailed game rules, save/progression behavior and proposal approval remain separate decisions.
-- **MW-01:** Minimum four is resolved under D-018; the fourth current concern still needs factual confirmation. **MW-02:** Word format and user ownership of citation style/margins are settled. Novelty claims remain unverified under MW-03.
+- **Q-12 / E-13:** Actual observation date, setting and available/missing sample details. Personal observation is the supplied source; a city-wide inventory is not established.
+- **Q-02–Q-03 and Q-06–Q-07:** Detailed scoring, completion, progression and save behavior. Revision 9 retains proposed features without inventing rules.
+- **Q-04–Q-05:** Exact curriculum/content mapping, validation responsibility and research evaluation method. Planned checks are not completed validation or measured gains.
+- **Q-09–Q-10:** Actual selection/recruitment procedure, administration records, topic coding and the unrelated mathematics-table discrepancy.
+- **Q-11:** Exact approved deadline, explicit year confirmation and full schedule. November–December is user-supplied; 2026 remains the recorded contextual year assumption under D-015.
+- **Q-08 / MW-03:** Adviser approval and any local novelty claim remain separate evidence matters. MW-01's minimum-four requirement and MW-02's school-format ownership remain settled.
+
+## Revision 8 historical record
+
+[[Manuscript/Drafts/Land Grand - Chapter I - Revised - v8.docx|Revision 8]] remains unchanged, with eight inspected pages and Context on pages 1–4. D-019 integrated the broader-survey short statements and conditional fourth concern. The user then supplied the newer final-named chapter for review. The review findings remain available in [[Manuscript/Chapter I Final Review 2026-10-30|the pre-correction review]], and full earlier notes are preserved in the task-local backups.
 
 ## Four problem statements in revision 7
 
-This stable historical anchor preserves earlier source/decision links. [[Manuscript/Drafts/Land Grand - Chapter I - Revised - v7.docx|Revision 7]] used separate landform and rock/mineral concerns with Grade 5-specific evidence. D-019 supersedes that draft structure with the broader-survey short statements, one combined content concern and a conditional material limitation.
-
-Earlier review history is retained in the feedback source, pre-update review-note snapshot and previous Word versions. Revision 5 simplified the language; revision 6 standardized This section openings; revision 7 introduced explicit matching numbering. None of those deliveries established adviser approval or learning effectiveness.
+This stable historical anchor preserves earlier source/decision links. [[Manuscript/Drafts/Land Grand - Chapter I - Revised - v7.docx|Revision 7]] used separate landform and rock/mineral concerns with labeled Grade 5 subgroup evidence. D-019 replaced that structure with broader-survey statements and a conditional material concern. D-021 now supplies researcher-observation attribution for that fourth concern; the source details remain qualified.

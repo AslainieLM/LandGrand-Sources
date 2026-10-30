@@ -1,0 +1,15 @@
+{
+  "changed_original_parts": [
+    "[Content_Types].xml",
+    "word/document.xml",
+    "word/_rels/document.xml.rels"
+  ],
+  "added_parts": [
+    "word/comments.xml"
+  ],
+  "preserve_only_parts": "unchanged",
+  "comment_anchor_triplets": 7,
+  "live_official_hyperlinks": 3,
+  "section_geometry": "unchanged",
+  "introductions": 7
+}

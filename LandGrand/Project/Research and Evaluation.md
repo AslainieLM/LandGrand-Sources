@@ -1,7 +1,7 @@
 ---
 type: research
 status: proposal-baseline
-updated: 2026-10-28
+updated: 2026-10-30
 sources:
   - "[[Sources/Pre-proposal]]"
   - "[[Sources/Baluan Survey Tally]]"
@@ -30,6 +30,12 @@ Under D-015, the user supplied **November–December** as the planned project co
 ## Researcher-reported interest observation
 
 On 2026-10-28, the user reported observing that pupils were not interested in Science lessons on landforms, rocks, and minerals. The [[Sources/Researcher Observation - Science Interest 2026-10-28|researcher-reported observation]] retains the exact statement and distinguishes the record date from the unknown observation date. This is preliminary qualitative context, not a survey answer or a formal assessment. The user subsequently confirmed Grade 5 and described learners as bored while the teacher taught the topics. The observation date, exact class and specific behavioral indicators remain undocumented. The user’s expectation that gamification will motivate learners is recorded as an intended benefit; no engagement instrument, causal explanation, or tested motivation result for Land Grand is inferred.
+
+## Researcher-reported material observation
+
+On 2026-10-30, the user identified personal observation as the source of the concern about limited rock and mineral samples for classroom demonstrations. [[Sources/Researcher Observation - Rock and Mineral Samples 2026-10-30|The source record]] retains the exact reply and its limits. D-021 supports researcher attribution in Chapter I; it does not establish an independently checked materials inventory. The actual observation date, setting and sample details remain open under Q-12. The user's additional city-wide scarcity perception is not generalized in the manuscript.
+
+Revision 9 describes scientific/curriculum review and a complete-level content/device check as prospective development work. No validation, prototype, device test or evaluation result is claimed. Q-02–Q-05 retain the detailed decisions needed for later development and research.
 
 ## What remains undocumented
 

@@ -1,0 +1,15 @@
+{
+  "source_sha256": "6ad898c79899c91d506b625b992959af921c53fee88167390d2151f581ada3ad",
+  "output": "D:\\Projects\\LandGrand-Sources\\.work\\chapter1-corrections-2026-10-30\\stage3.docx",
+  "paragraphs": 68,
+  "comments": 7,
+  "references": 3,
+  "editable_package_parts": [
+    "word/document.xml",
+    "word/_rels/document.xml.rels",
+    "[Content_Types].xml",
+    "word/comments.xml"
+  ],
+  "section_sha256": "1f986e6e0171b6d0789fc6babcf4ad1338c7fd6e502d091456bc00dcd1cf36db",
+  "word_count": 1733
+}
