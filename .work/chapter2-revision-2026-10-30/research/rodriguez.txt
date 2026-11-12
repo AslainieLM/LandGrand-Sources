@@ -1,0 +1,1062 @@
+
+--- PDF PAGE 1 ---
+TYPE Original Research
+PUBLISHED /zero.tnum/two.tnum June /two.tnum/zero.tnum/two.tnum/three.tnum
+DOI /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/one.tnum/six.tnum/three.tnum/four.tnum/four.tnum/one.tnum
+OPEN ACCESS
+EDITED BY
+Markus Talvio,
+Sharjah Education Academy, United
+Arab Emirates
+REVIEWED BY
+Cara Williams,
+Sharjah Education Academy, United
+Arab Emirates
+Budi Cahyono,
+Walisongo State Islamic University, Indonesia
+Aman Rassouli,
+Bahçe¸ sehir Cyprus University, Cyprus
+*CORRESPONDENCE
+Ana Manzano-León
+aml/five.tnum/seven.tnum/zero.tnum@ual.es
+RECEIVED /one.tnum/zero.tnum February /two.tnum/zero.tnum/two.tnum/three.tnum
+ACCEPTED /one.tnum/three.tnum April /two.tnum/zero.tnum/two.tnum/three.tnum
+PUBLISHED /zero.tnum/two.tnum June /two.tnum/zero.tnum/two.tnum/three.tnum
+CITATION
+Rodríguez-Ferrer JM, Manzano-León A,
+Fernández-Jiménez C, Luque de la Rosa A,
+Fernández-Campoy JM and Aguilar-Parra JM
+(/two.tnum/zero.tnum/two.tnum/three.tnum) Shall we play together? Game-based
+learning for engagement and classroom
+climate in Spanish socially deprived
+communities. Front. Psychol. /one.tnum/four.tnum:/one.tnum/one.tnum/six.tnum/three.tnum/four.tnum/four.tnum/one.tnum.
+doi: /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/one.tnum/six.tnum/three.tnum/four.tnum/four.tnum/one.tnum
+COPYRIGHT
+© /two.tnum/zero.tnum/two.tnum/three.tnum Rodríguez-Ferrer, Manzano-León,
+Fernández-Jiménez, Luque de la Rosa,
+Fernández-Campoy and Aguilar-Parra. This is
+an open-access article distributed under the
+terms of the
+Creative Commons Attribution
+License (CC BY) . The use, distribution or
+reproduction in other forums is permitted,
+provided the original author(s) and the
+copyright owner(s) are credited and that the
+original publication in this journal is cited, in
+accordance with accepted academic practice.
+No use, distribution or reproduction is
+permitted which does not comply with these
+terms.
+Shall we play together?
+Game-based learning for
+engagement and classroom
+climate in Spanish socially
+deprived communities
+José M. Rodríguez-Ferrer /one.tnum, Ana Manzano-León /two.tnum*,
+Carolina Fernández-Jiménez/three.tnum, Antonio Luque de la Rosa /four.tnum,
+Juan M. Fernández-Campoy /four.tnumand José M. Aguilar-Parra /two.tnum
+/one.tnumDepartment of Developmental and Educational Psychology, Univers idad de Jaén, Jaén, Spain, /two.tnumHealth
+Research Centre, Department of Developmental and Educationa l Psychology, Universidad de Almería
+(UAL), Almería, Spain, /three.tnumDepartment of Psychology, Universidad de Granada, Granada, Spa in,
+/four.tnumDepartment of Education, Universidad de Almería, Almería, Sp ain
+Purpose: The purpose of this study is to analyze the eﬀects of a game-base d
+learning (GBL) program on the classroom climate and engagement of high schools
+in socially deprived communities in Spain.
+Methods: The study included /two.tnum/seven.tnum/seven.tnum students from two secondary schools located
+in Southern Spain, situated in Zones in Need of Social T ransformat ion. Sampling
+was non-probabilistic and accidental, based on the accessibility of the school
+and the willingness of the management and teaching staﬀ to partici pate in the
+GBL program. The study employed a control group and two experime ntal groups
+(cooperative games group only and cooperative and competitive g ames group)
+to compare pre-test and post-test data in both groups. The Bri ef Class Climate
+Scale and Engagement Inventory, validated in academic literature , were used as
+assessment instruments.
+Results: The study used a series of ANOVA tests to compare the experiment al
+groups with the control group. The results indicated statistica lly signiﬁcant
+changes in all study variables. In all cases, the experimental gr oups demonstrated
+greater beneﬁts than the control group.
+Discussion and conclusion: The study ﬁndings reveal that games can provide
+signiﬁcant beneﬁts to students, regardless of whether they are cooperative or
+competitive. The study provides evidence of the beneﬁts of GBL in high schools
+located in socially deprived communities in Spain.
+KEYWORDS
+game-based learning, games, engagement, classroom climate, high school, teenagers
+/one.tnum. Introduction
+/one.tnum./one.tnum. Classroom climate in socially deprived communities
+Classroom climate refers to the perceptions and opinions of students and teachers about
+the educational environment within the classroom ( Villanueva, 2020). During adolescence,
+classroom climate is especially critical as it is a crucial stage in emotional development and
+where students spend most of their time socializing in school (
+Wang and Eccles, 2012 ).
+Frontiers in Psychology /zero.tnum/one.tnum frontiersin.org
+
+--- PDF PAGE 2 ---
+Rodríguez-Ferrer et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/one.tnum/six.tnum/three.tnum/four.tnum/four.tnum/one.tnum
+A positive classroom climate is characterized by respectful
+and emotionally supportive relationships between teachers and
+students. In contrast, a hostile classroom climate implies a
+lack of emotional connections between teachers and students,
+which can encourage disrespect, insults, and even aggression
+(
+Cohen, 2021 ), leading to academic demotivation and emotional
+disconnection with education ( Sakiz, 2012). Extensive research has
+been conducted on the relationship between teachers and students,
+concluding that teachers should be emotionally competent and
+oﬀer sympathetic treatment to students to help them feel respected
+in the classroom (
+Brackett, 2019 ; García-Moya et al., 2020 ).
+They should also create motivating learning situations that can
+promote positive feelings toward learning (
+LeBlanc, 2022 ). In
+the meta-analysis study by Wang et al. (2020), it is evident
+that classroom climate has a positive relationship with social
+competencies, motivation, engagement, and academic performance
+while damaging relationships with socioemotional distress and
+antisocial behaviors.
+In Spain, Decree-Law 7/2013, of 30 April 2013, on
+extraordinary and urgent measures for the ﬁght against poverty
+and social exclusion (BOJA no. 85 of 03/05/2013) deﬁnes Zones in
+Need of Social Transformation (ZNTS) as speciﬁc and physically
+delimited urban spaces where the population experiences severe
+poverty and social marginalization. Socioeconomic diﬃculties,
+such as deterioration or deﬁcits of infrastructures and public
+services, high unemployment rates, hygienic-sanitary deﬁciencies,
+and low parental education, can manifest in these areas, leading
+to an inability to accompany students to school. This can also
+result in socio-educational diﬃculties related to social exclusion,
+high absenteeism rates, and school failure (
+Fernández-García et al.,
+2019).
+Children and teenagers socialized in ZNTS, socially deprived
+communities, may exhibit antisocial and violent behavior patterns
+that directly aﬀect the classroom climate and negatively manage
+classroom conﬂicts (
+Narváez Burbano et al., 2020). Therefore, their
+education requires a set of general and speciﬁc measures and
+resources to facilitate ﬂexible groupings, preventive programs, open
+and ﬂexible organization of spaces and times, an adaptation of
+didactic programs, and educational reinforcement to compensate
+for possible family, economic, and sociocultural deﬁciencies and
+reinforce the learning of basic skills (
+Ruiz-Román et al., 2019 ).
+Creating and strengthening peer relationships have been critical in
+generating a positive classroom climate (
+Urdan and Schoenfelder,
+2006; Okada, 2021). To achieve this support, teachers should create
+learning situations that allow peer relationships and cooperation
+(
+Cecchini Estrada et al., 2019 ).
+/one.tnum./two.tnum. Engagement and academic motivation
+Engagement in education refers to the degree to which students
+are immersed in classroom activities (Clynes et al., 2020). The more
+engaged the students are, the more focused and participative they
+are likely to be in the task (
+Bergdahl et al., 2020 ; Xie et al., 2020 ).
+Engagement is inﬂuenced by various factors, including teaching
+style, sociocultural context, and motivation toward the task (
+Kahu
+et al., 2020 ). Behaviors related to student engagement are dynamic
+and interconnected with the environment. In socially deprived
+communities, students often exhibit lower academic motivation
+and low expectations regarding their abilities, leading to academic
+demotivation, absenteeism, and school failure (
+Ricard and Pelletier,
+2016; Artuch-Garde et al., 2017 ). Engagement is associated with
+positive emotions that enable student participation (Shelton-Strong
+and Mynard, 2021 ). High engagement leads to positive changes
+in behavior and represents a proactive attitude toward learning,
+leading to reduced school dropouts (
+Marôco et al., 2020 ; Abreu
+Alves et al., 2022).
+Engagement comprises three interrelated dimensions: emotion
+or aﬀect, behavioral aspect, and cognitive aspect ( Christenson
+et al., 2012 ). Emotion refers to the positive emotions experienced
+and the absence of negative emotions in the environment, which
+encourages the student to continue in that situation (
+Skinner et al.,
+2008). The behavioral aspect refers to all the energy mobilized
+to satisfy expectations related or unrelated to learning, which is
+associated with the social and cultural context (
+Medrano et al.,
+2015). Finally, the cognitive aspect refers to the cognitive strategies
+that the learner performs to achieve the set goals ( Galikyan and
+Admiraal, 2019). Engagement is closely related to motivation, and
+intrinsic motivation is a prerequisite for engagement to occur
+(
+Delaney and Royal, 2017 ). Engagement protects against school
+dropouts ( Álvarez-Pérez et al., 2021 ) and is positively associated
+with school performance ( Estévez et al., 2021 ) and socioemotional
+wellbeing ( Wang et al., 2019 ). Intrinsic motivation and actual
+engagement positively correlate and inﬂuence learning outcomes
+(
+Saeed and Zyngier, 2012 ). Teachers should use educational
+strategies that promote motivation and meaningful learning to
+enhance engagement and prevent student disengagement (
+Balwant,
+2018; Lira Munizaga and Pérez-Salas, 2022 ).
+Students in ZNTS are at a higher risk of failing to complete their
+studies successfully (Rydell, 2010) and exhibit lower motivation and
+academic achievement ( Leggett and Harrington, 2021 ). Therefore,
+measures and resources should be put in place to support these
+students, such as ﬂexible groupings, preventive programs, an
+adaptation of didactic programs, and educational reinforcement
+to compensate for possible family, economic, and sociocultural
+deﬁciencies and reinforce the learning of basic skills (
+Ruiz-Román
+et al., 2019 ). Engagement can help students overcome these
+challenges and succeed in their academic pursuits.
+/one.tnum./three.tnum. Game-based learning
+Games have the potential to facilitate cognitive and behavioral
+changes and can be used as learning resources (
+Buelow et al., 2015 ;
+Krath et al., 2021 ). Playful activities are associated with the need
+for expression and the search for gratifying emotions, and this
+dimension of human development is known as the playful universe,
+or homo ludens (
+Bayeck, 2020 ). Games are cultural phenomena
+that can provide rewarding learning experiences. The educational
+ﬁeld has shown interest in exploring games and playful strategies
+as innovative learning spaces (
+Wu et al., 2012 ; Manzano-León
+et al., 2021a ,b) to promote esthetic experiences of enjoyment and
+generate diﬀerences from traditional didactic materials that only
+focus on content (
+Barría, 2022).
+Frontiers in Psychology /zero.tnum/two.tnum frontiersin.org
+
+--- PDF PAGE 3 ---
+Rodríguez-Ferrer et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/one.tnum/six.tnum/three.tnum/four.tnum/four.tnum/one.tnum
+Game-based learning (GBL) is the systematic use of analog
+or digital games to work on speciﬁc contents or skills previously
+established by the teacher (
+Cornellà et al., 2020). GBL can be used in
+education through two channels: a rational and analytical channel
+that highlights its formal structure formed by rules, mechanics,
+dynamics, and procedures, and an emotional and experiential
+channel that highlights those elements that motivate players, such
+as fun, competition, cooperation, or challenges (
+Olejniczak et al.,
+2020).
+Although GBL has shown many possibilities and beneﬁts,
+potential limitations have also been noted, such as the negative
+perception of play by families and even teachers as a distraction
+to learning (
+Kirstavridou et al., 2020 ) and the discomfort and
+stress that game competition can cause for some students ( Jääska
+and Aaltonen, 2022 ). Students may also prefer traditional learning
+methods due to the diﬃculty and demand of gamiﬁed lessons
+(
+Scepanovic et al., 2015).
+Learning is linked to play through motivation as playing is
+enjoyable for humans and can serve as an engine for learning
+diﬀerent contents, values, and competencies. Playful learning is
+theorized to foster greater motivation and fun while working on
+concepts, skills, and behaviors (
+Fulya Eyupoglu and Nietfeld, 2019).
+GBL aims to achieve greater motivation and fun while working
+on these same concepts, skills, and behaviors. Recent research has
+highlighted the simplicity of GBL ’s mechanics and game dynamics,
+as well as its aﬀordability and accessibility, which favor its use
+in both formal education and informal learning environments
+(
+Wonica, 2017).
+At a conceptual level, GBL can be a refreshing approach to
+learning in secondary education, fostering knowledge construction
+while encouraging creativity and imagination. Play involves
+learning as participants engage with play and learn to interact with
+play (
+Steinkuehler et al., 2012). GBL can also support constructivist
+learning, where learning is embedded in participation, engagement,
+and interaction with and around games (
+Gee, 2005 ). Learning
+occurs not only through knowledge acquisition or behavioral
+change but also in the various practices and interactions that players
+engage in within the play experience (
+Ke et al., 2016).
+/one.tnum./four.tnum. Research objectives
+This study focuses on the eﬀects of a GBL program on
+the classroom climate and engagement of high school students
+in socially deprived communities. It is a longitudinal quasi-
+experimental study (pre-post-test) conducted among Spanish high
+school students. The program designed and evaluated a board game
+initiative during a 12-week tutoring period to promote positive
+coexistence. While there is evidence of a positive relationship
+between games and classroom climate (
+Huizenga et al., 2019 ;
+Coleman and Money, 2020), gamiﬁcation on engagement and ﬂow
+(Manzano-León et al., 2023 ) has been studied, and the application
+of GBL to the study of classroom climate with socially deprived
+communities is underexplored. This study aims to address the
+following research questions:
+• Does the GBL inﬂuence the student’s perception of the
+classroom climate?
+TABLE /one.tnum Study participants.
+Sex Age Total
+N
+Men Female M DT
+Control 57 54 13.49 1.48 111
+Experimental 1
+(cooperative
+games)
+38 34 14.66 1.46 72
+Experimental 2
+(cooperative and
+competitive
+games)
+49 45 14.79 1.47 94
+Total 144 133 13.55 1.47 277
+• Does the implementation of GBL have any impact on
+student engagement?
+• Does selecting games [cooperative only or mixed (cooperative
+and competitive)] inﬂuence school climate and engagement?
+/two.tnum. Materials and methods
+/two.tnum./one.tnum. Participants
+The selected sample for this study consisted of high school
+students from nine classes located in the southern region of
+Spain within ZNTS. Randomization was used to determine which
+classes would participate in the control group and which classes
+would be assigned to the experimental group. The sample size and
+distribution are shown in
+Table 1.
+The sample was non-probabilistic and selected based on the
+accessibility of the schools and the willingness of the management
+and teaching staﬀ to participate in the GBL initiative. To be eligible
+for either the experimental or control group, students had to meet
+the following criteria: students should (a) be enrolled in ZNTS; (b)
+be between the ages of 13 and 16 years; and (c) have attended at
+least 60% of the tutoring classes during the period being evaluated.
+Before data collection, the students were fully informed about
+the nature of the research and were assured of anonymity. The GBL
+program was integrated into the tutoring curriculum. This study
+adhered to the recommendations of the American Psychological
+Association and the Declaration of Helsinki, and ethical approval
+was obtained from the Research Ethics Committee of the University
+of Almería (ref. 01/2021).
+/two.tnum./two.tnum. Instruments
+The Brief Classroom Climate Scale (
+Bisquerra and López-
+Gonzalez, 2013 ) is a questionnaire consisting of 11 items,
+which are divided into two dimensions (Group cohesion and
+Group leadership) and ﬁve subdimensions (satisfaction and
+involvement, peer cohesion, teacher–student relationship, order
+and organization, and task orientation). The items are classiﬁed
+on a four-point Likert scale, which presents four response options:
+never, sometimes, frequently, and always. The total scale has a high
+internal consistency, with a Cronbach’s alpha value of 0.83.
+Frontiers in Psychology /zero.tnum/three.tnum frontiersin.org
+
+--- PDF PAGE 4 ---
+Rodríguez-Ferrer et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/one.tnum/six.tnum/three.tnum/four.tnum/four.tnum/one.tnum
+The Engagement Inventory ( Wang et al., 2014 ) is a
+questionnaire that has been validated for use with Spanish-
+speaking populations through a conﬁrmatory factor analysis
+(
+Manzano-León et al., 2021a ,b). The questionnaire assesses
+students’ engagement and consists of items that measure
+behavioral, cognitive, and emotional engagement. The internal
+consistency of the questionnaire is high, with Cronbach’s alpha
+values exceeding 0.80.
+/two.tnum./three.tnum. Procedure
+To address the research questions, a quasi-experimental
+longitudinal design with pre-post-evaluation and a control group
+was conducted. Before the intervention, a preliminary assessment
+was carried out to ensure equivalence between the groups on the
+variables under study. The experimental group received 12 sessions
+of a GBL workshop in the tutoring subject of the 1st and 2nd years
+of high school, while the control group watched videos related
+to tutoring, completed reading assignments, and did homework
+on other subjects during tutoring classes. After the intervention,
+the same questionnaires were administered during school hours. It
+was agreed with the participating schools that if the GBL program
+was beneﬁcial for the students, the control group classes would
+participate in the following school year.
+For the GBL workshop, commercial board games that could
+eﬀectively enhance classroom climate and student engagement in
+the tutoring class were selected by researchers who specialized in
+ludic strategies. The GBL program was designed using competitive
+and cooperative dynamics in the chosen games. Competitive games
+have traditionally been used to create an enjoyable experience
+for players, allowing them to stay interested in the activity
+for longer (
+Camacho-Sánchez et al., 2023 ), which can increase
+motivation and participation. However, using only competitive
+dynamics can create a tense and even violent atmosphere (
+Adachi
+and Willoughby, 2011 ). On the other hand, cooperative games
+can promote relationships between participants and allow for
+more social interaction, encouraging socialization and greater
+understanding between people (
+Creighton and Szymkowiak, 2014).
+The selected games had a variety of game mechanics, dynamics,
+and esthetically appealing features to young adolescent audiences.
+The games selected were as follows (see
+Table 2).
+To address the third research question, the experimental group
+was divided into two subgroups: one played only cooperative
+games, and the other played all the selected games, both cooperative
+and competitive. The workshop was conducted during one
+trimester of the tutoring course, with 12 1-h sessions during school
+hours. The classroom teacher and two principal investigators
+jointly conducted the workshop. Before starting the program,
+the teachers received training on GBL, and the games used in
+the program.
+/two.tnum./four.tnum. Data analysis
+The data processing for this research study utilized R Studio
+software in version 4.01 with the Tidyverse package. To calculate
+TABLE /two.tnum Selection of board games.
+Name
+(editorial)
+Game
+type
+Components Game objective
+Batalla de
+genios (Lúdilo)
+Competitive Board and dice Be the ﬁrst to place the
+pieces in an orderly
+sequence, avoiding the
+wooden obstacles indicated
+by the dice.
+Camel up (Más
+que Oca)
+Competitive Dice, cards, and
+board
+Earn as much money as
+possible by supporting the
+Camel they believe will win
+each Stage and the one that
+will win and lose the entire
+race.
+Días de Radio
+(Guerra de
+Mitos)
+Cooperative Cards Narrate a story in
+real-time, using ideas from
+the scripts (letters)
+provided by their
+classmates.
+Isla prohibida
+(Devir)
+Cooperative Board and cards Collect the four treasures
+on the island without any
+player being cut oﬀ or the
+tide rising high enough.
+Players must cooperate to
+collect the treasures, secure
+the grounds, and reach the
+helicopter.
+Rhino Hero
+(Haba)
+Competitive Cards Build a tower as high as
+possible, selecting special
+eﬀects from your cards,
+such as having another
+player draw cards, jumping
+turns, or placing Rhino
+Hero (a piece of wood) on
+top of the tower.
+Sherlock Q
+(Guerra de
+Mitos)
+Cooperative Cards Solve a mystery from the
+cards, reviewing important
+information and solving
+direct and inferential
+questions.
+Sí Señor
+Oscuro
+(Asmodee)
+Competitive Cards Make excuses with the text
+or images on the cards and
+incriminate another player
+Speed Cups
+(Mercurio)
+Competitive Cutlery, cards,
+and bell
+Be the ﬁrst to arrange the
+colored cups as indicated
+on the cards and ring the
+bell.
+Story cubes
+(Asmodee)
+Cooperative Dice Tell or write an invented
+story related to the dice
+drawings.
+T aco, gato,
+cabra, queso,
+pizza (Ludilo)
+Competitive Cards Be the ﬁrst player to run
+out of cards. When a
+player discards a card that
+matches the word he says,
+he places his hand on the
+center pile; the last player
+to place his hand on the
+center pile gets all the cards
+in the pile.
+Virus (Tranjis
+Games)
+Competitive Cards Get a healthy body (4
+organ cards) in your game
+space. In the game, you can
+place organs, put viruses
+on others, cure viruses, or
+use cards with special
+eﬀects.
+Source: own elaboration.
+Frontiers in Psychology /zero.tnum/four.tnum frontiersin.org
+
+--- PDF PAGE 5 ---
+Rodríguez-Ferrer et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/one.tnum/six.tnum/three.tnum/four.tnum/four.tnum/one.tnum
+TABLE /three.tnum Means and standard deviations of the variables studied before and after the intervention.
+Control Competitive Competitive-cooperative
+M SD M SD M SD
+Pre engagement inventory
+Aﬀective motivation 16.67 3.05 17.49 3.48 17.37 3.23
+Motivation behavior 16.00 2.82 16.67 2.82 16.18 2.68
+Class participation 16.65 2.97 17.34 2.83 17.32 2.92
+Cognitive motivation 33.63 6.76 34.53 6.34 33.74 6.04
+Disengagement 6.38 2.39 5.89 2.74 6.10 2.30
+Pre-classroom climate
+Satisfaction climate 6.40 1.46 6.30 1.50 6.19 1.59
+Cohesion climate 5.94 1.42 5.74 1.27 6.06 1.55
+Full cohesion 12.33 2.48 12.04 2.28 12.26 2.70
+Relationship climate 5.82 1.27 5.67 1.05 5.65 1.30
+Order climate 5.35 1.20 5.36 1.24 5.19 1.07
+Orientation climate 7.41 1.68 7.34 1.29 7.26 1.58
+Driving climate 18.59 3.43 18.37 2.73 18.10 3.16
+Post engagement inventory
+Aﬀective motivation 16.70 2.43 18.87 2.96 19.59 2.35
+Motivation behavior 16.47 2.54 17.49 2.39 18.40 2.57
+Class participation 17.13 3.01 18.97 3.32 18.69 3.34
+Cognitive motivation 34.18 6.79 42.27 7.04 42.76 6.39
+Disengagement 5.58 2.15 4.64 1.52 4.43 1.28
+Post-classroom climate
+Satisfaction climate 5.92 0.96 7.64 1.04 7.61 1.23
+Cohesion climate 6.03 1.23 6.94 1.51 7.04 1.35
+Full cohesion 11.96 1.63 14.58 2.08 14.65 2.12
+Relationship climate 6.08 0.98 7.36 1.24 6.92 1.25
+Order climate 5.76 1.01 6.20 1.20 6.07 1.02
+Orientation climate 7.45 1.35 8.50 1.59 8.26 1.49
+Driving climate 19.29 2.42 22.08 3.02 21.26 2.75
+the direct scores for each factor containing the instruments used in
+this research, responses from the participants in each group were
+taken and processed according to the manuals of the instruments.
+Before starting the statistical analysis, an ANOV A test was
+conducted to verify the equivalence of the groups at the start of
+the investigation, using the pre-test scores. To answer the research
+questions, another ANOV A test was conducted using the post-
+test scores of the participants, with post-hoc tests conducted after
+statistically signiﬁcant diﬀerences were determined.
+The Bonferroni adjustment method was used for post-hoc
+tests, and ANOV A tests were chosen instead of t-tests to avoid
+type 2 errors. This decision was made due to the sample size
+potentially causing the accumulation of small diﬀerences to be
+interpreted as statistically signiﬁcant diﬀerences when there may be
+no meaningful diﬀerences.
+/three.tnum. Results
+The analysis of the results was guided by the research questions
+posed in this study. Therefore, this section has been structured
+according to the research questions.
+Table 3 reports the means and
+standard deviations of the control and two experimental groups
+(cooperative and competitive-cooperative).
+The initial comparison between groups was conducted using
+the pre-intervention scores, and an ANOV A test was performed
+for each study variable. The results of the analysis are presented
+in
+Table 4. The statistical tests showed no statistically signiﬁcant
+diﬀerences (p < 0.05) between the groups for any of the variables
+analyzed. Therefore, it can be concluded that the groups started
+from a statistically equal baseline in the variables analyzed in
+this research.
+Frontiers in Psychology /zero.tnum/five.tnum frontiersin.org
+
+--- PDF PAGE 6 ---
+Rodríguez-Ferrer et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/one.tnum/six.tnum/three.tnum/four.tnum/four.tnum/one.tnum
+TABLE /four.tnum ANOVA tests of variables on scores before intervention.
+F p η2p
+Pre engagement inventory
+Aﬀective motivation 2.883 0.091 0.01
+Motivation behavior 0.293 0.589 0.001
+Class participation 3.181 0.76 0.011
+Cognitive motivation 0.129 0.72 <0.001
+Disengagement 0.686 0.408 0.002
+Pre-classroom climate
+Satisfaction climate 0.617 0.85 0.003
+Cohesion climate 0.411 0.522 0.001
+Full cohesion 0.036 0.849 <0.001
+Relationship climate 0.732 0.849 <0.001
+Order climate 0.799 0.372 0.003
+Orientation climate 0.308 0.579 0.001
+Driving climate 0.873 0.351 0.003
+The analysis of the ﬁrst research question regarding the
+students’ perception of classroom climate shows that ANOV A tests
+performed with the scores obtained after the intervention was
+completed yielded statistically signiﬁcant diﬀerences ( p < 0.05)
+between the control group and the experimental groups in all
+study variables.
+Table 3 demonstrates that these diﬀerences were in
+favor of the experimental groups, indicating that the intervention
+positively modiﬁed the classroom climate perception in the
+experimental groups. Another way to reinforce this statement is
+to observe the eﬀect sizes found in the statistical analysis, reported
+by partial eta squared ( η_p2), which ranged from moderate (0.02–
+0.09) to strong sizes ( >0.09).
+The analysis of the ﬁrst research question regarding the
+students’ perception of classroom climate shows that ANOV A
+tests performed with the scores obtained after the intervention
+was completed yielded statistically signiﬁcant diﬀerences ( p <
+0.05) between the control group and the experimental groups
+in all study variables.
+Table 3 demonstrates that these diﬀerences
+were in favor of the experimental groups, indicating that the
+intervention positively modiﬁed the classroom climate perception
+in the experimental groups. Another way to reinforce this statement
+is to observe the eﬀect sizes found in the statistical analysis,
+reported by partial eta squared ( η2
+p), which ranged from moderate
+(0.02–0.09) to strong sizes ( >0.09).
+Regarding the second research question, which deals with
+student engagement, ANOV A tests were also performed with
+the scores obtained after the intervention, showing statistically
+signiﬁcant diﬀerences ( p < 0.05) between the experimental and
+control groups in the variables studied. Post-hoc tests revealed
+diﬀerences in favor of the experimental groups. Eﬀect sizes found
+varied from moderate to strong, suggesting that the intervention
+modiﬁed student engagement, increasing it in the experimental
+groups (see
+Table 5).
+Finally, the third research question aimed to explore whether
+the mechanics used in the experimental groups, one with
+TABLE /five.tnum ANOVA andpost-hoc tests for scores after intervention.
+F p η2p Post-hoc
+Post-engagement inventory
+Aﬀective
+motivation
+67.71 ∗∗∗ 0.197 Control-
+Exp1∗∗∗ /Exp1-
+Exp2∗∗∗
+Motivation
+behavior
+28.08 ∗∗∗ 0.092 Control-
+Exp1∗∗∗ /Exp1-Exp2
+= 0.03
+Class participation 12.75 ∗∗∗ 0.044 Control-
+Exp1∗∗∗ /Control-
+Exp2∗∗∗
+Cognitive
+motivation
+80.09 ∗∗∗ 0.225 Control-
+Exp1∗∗∗ /Control-
+Exp2∗∗∗
+Disengagement 5.365 ∗∗∗ 0.069 Control-
+Exp1∗∗ /Control-
+Exp2∗∗∗
+Post-classroom climate
+Satisfaction climate 112.47 ∗∗∗ 0.29 Control-
+Exp1∗∗∗ /Control-
+Exp2∗∗∗
+Cohesion climate 26.23 ∗∗∗ 0.087 Control-
+Exp1∗∗∗ /Control-
+Exp2∗∗∗
+Full cohesion 90.18 ∗∗∗ 0.246 Control-
+Exp1∗∗∗ /Control-
+Exp2∗∗∗
+Relationship
+climate
+24.83 ∗∗∗ 0.083 Control-
+Exp1∗∗∗ /Control-
+Exp2∗∗∗
+Order climate 4.32 0.03 0.015 Control-Exp1∗
+Orientation climate 14.19 ∗∗∗ 0.049 Control-
+Exp1∗∗∗ /Control-
+Exp2∗∗∗
+Driving climate 24.36 ∗∗∗ 0.081 Control-
+Exp1∗∗∗ /Control-
+Exp2∗∗∗
+∗p < 0.5; ∗∗ p < 0.01; ∗∗∗ p < 0.001; Control, control group; Exp1, group cooperative games;
+Exp2, cooperative and competitive group games.
+only cooperative games and the other mixing competitive and
+cooperative games, had any eﬀect on the perception of classroom
+climate and student engagement. To answer this question,
+post-hoc tests were conducted and are shown in
+Table 5. No
+statistically signiﬁcant diﬀerences were found when comparing the
+experimental groups. However, diﬀerences were found between the
+control group and each of the experimental groups. Therefore, it
+can be deduced that the mechanics used in the groups did not have
+a statistically signiﬁcant inﬂuence on the variables studied.
+/four.tnum. Discussion and conclusion
+The ZNTS faces signiﬁcant economic and social challenges
+that require a comprehensive approach to promote sustainable
+and equitable development (
+Chapman and Ainscow, 2019 ; Vela-
+Jiménez et al., 2022 ). Providing quality educational opportunities
+Frontiers in Psychology /zero.tnum/six.tnum frontiersin.org
+
+--- PDF PAGE 7 ---
+Rodríguez-Ferrer et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/one.tnum/six.tnum/three.tnum/four.tnum/four.tnum/one.tnum
+that give access to students to improve their living conditions and
+have a promising professional future is one of these challenges.
+Barriers to delivering such education include limited access to
+education, inadequate infrastructure, and gender equity issues
+(
+Cárdenas-Rodríguez et al., 2018 ). Additionally, Abuya et al.
+(2013) identify the general lack of motivation toward school as
+another obstacle. Therefore, ﬁnding educational methodologies
+and strategies to promote student engagement and motivation
+in compulsory education is a leading topic in educational
+research (
+Rumberger and Rotermund, 2012 ; Keyes, 2019). Among
+these methodologies, game-based learning and gamiﬁcation are
+increasingly prominent (
+Abdul Jabbar and Felicia, 2015 ; Pratama,
+2020; Jayawardena et al., 2022 ). This research aims to integrate
+a GBL experience to evaluate its impact on the engagement and
+classroom climate of Spanish high school students in ZNTS.
+In response to the ﬁrst research question (does GBL inﬂuence
+students’ perception of the classroom climate?), this study provides
+new insights into GBL as an eﬀective strategy for improving the
+classroom climate in ZNTS. The results demonstrate that students
+who played board games during tutorials experienced statistically
+signiﬁcant improvements in all the variables studied. However, it
+should be noted that some eﬀect sizes were small, which may limit
+their impact on individuals, such as in the classroom climate and
+climate orientation within the climate scale, and class participation
+in the engagement inventory. Despite these limitations, students
+who played board games during tutorials exhibited improvements
+in the study variables compared to those who attended regular
+tutoring sessions. These ﬁndings align with previous research
+reporting the beneﬁts of GBL in the classroom (
+Pinedo et al., 2022).
+Therefore, board games can be a valuable resource for students,
+improving the classroom climate through game mechanics and
+dynamics that favor cooperation, communication, and conﬂict
+resolution, leading to better group dynamics and a more positive
+and welcoming classroom environment (
+Smith and Golding, 2018 ;
+Bauserman et al., 2021).
+After answering the second research question (Does the
+implementation of GBL impact student engagement?), this
+study examined GBL as an inﬂuential variable in student
+engagement in ZNTS. The research compared the engagement and
+disengagement of the three groups (control, experimental group of
+cooperative board games, and experimental group of competitive
+and cooperative board games). The results indicate statistically
+signiﬁcant improvements in all the variables studied, with the
+motivation variables of the engagement inventory and the total
+cohesion of the classroom climate experiencing signiﬁcant changes.
+The increase in motivation coincides with the aﬃrmation of board
+games in the classroom as a motivating activity, as indicated by
+previous studies (
+Acquah and Katz, 2020; Teixeira et al., 2022).
+Revised: With regard to the comparison between the groups
+that played competitive games and a mixture of competitive and
+cooperative games, the study found no statistically signiﬁcant
+diﬀerences in any of the study variables. This aspect of the
+study is signiﬁcant because it explores how the type of game
+aﬀects social behavior in the classroom, which has yet to be
+previously investigated.
+The focus of this study is to inform the scientiﬁc and
+educational community about the potential of GBL with both
+cooperative and competitive board games for improving classroom
+climate and engagement, particularly in ZNTS. However, the main
+limitation of this research is the sample size of secondary school
+students, which is limited to a single Spanish city with ZNTS.
+To further validate the ﬁndings, future research should replicate
+this investigation in other disadvantaged contexts. Additionally,
+studying the long-term eﬀect (follow-up test) of the use of GBL
+on the variables studied, as well as the inﬂuence of GBL on other
+variables of interest such as academic performance, emotional
+intelligence, and school absenteeism, should be considered in future
+studies. Overall, it can be concluded that GBL can be an innovative
+and eﬀective educational methodology to promote a positive
+classroom climate. Board games allow students to interact with each
+other in a playful environment, which encourages cooperation,
+communication, and conﬂict resolution among students, leading
+to better group dynamics and a more positive and welcoming
+classroom environment.
+Data availability statement
+The original contributions presented in the study are included
+in the article/supplementary material, further inquiries can be
+directed to the corresponding author.
+Ethics statement
+The studies involving human participants were reviewed and
+approved by the Research Ethics Committee of the University of
+Almería (ref. 01/2021). Written informed consent to participate
+in this study was provided by the participants’ legal guardian/next
+of kin.
+Author contributions
+JR-F and AM-L contributed to the conception and design of
+the study. JR-F organized the database and performed the statistical
+analysis. AM-L wrote the ﬁrst draft of the manuscript. CF-J, AL,
+JF-C, and JA-P revised sections of the manuscript. All authors
+contributed to the manuscript revision, read, and approved the
+submitted version.
+Funding
+This research is part of the Educational Research Project
+entitled Instagamers (PIV-023/21), called under the Order of 14
+January 2009 (BOJA No. 21, February 2, 2009).
+Acknowledgments
+We are grateful for the fundamental collaboration of teachers
+Raquel Soler and Jesús Martín in participating in the project.
+Conﬂict of interest
+The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be
+construed as a potential conﬂict of interest.
+Frontiers in Psychology /zero.tnum/seven.tnum frontiersin.org
+
+--- PDF PAGE 8 ---
+Rodríguez-Ferrer et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/one.tnum/six.tnum/three.tnum/four.tnum/four.tnum/one.tnum
+Publisher’s note
+All claims expressed in this article are solely those of the
+authors and do not necessarily represent those of their aﬃliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.
+References
+Abdul Jabbar, A. I., and Felicia, P. (2015). Gameplay engagemen t and
+learning in game-based learning:a systematic review. Rev. Educ. Res. 85, 740–779.
+doi: 10.3102/0034654315577210
+Abreu Alves, S., Sinval, J., Lucas Neto, L., Marôco, J., Gonçalve s Ferreira,
+A., and Oliveira, P. (2022). Burnout and dropout intention in m edical
+students: the protective role of academic engagement. BMC Med. Educ. 22, 83.
+doi: 10.1186/s12909-021-03094-9
+Abuya, B., Oketch, M., and Musyoka, P. (2013). Why do pupils dropo ut when
+education is ‘free’? Explaining school dropout among the urban poor in Nairobi.
+Compare J. Comp. Int. Educ. 43, 740–762. doi: 10.1080/03057925.2012.707458
+Acquah, E. O., and Katz, H. T. (2020). Digital game-based L2 lea rning outcomes for
+primary through high-school students: a systematic literatu re review. Comput. Educ.
+143, 103667. doi: 10.1016/j.compedu.2019.103667
+Adachi, P. J. C., and Willoughby, T. (2011). The eﬀect of video g ame competition
+and violence on aggressive behavior: which characteristic h as the greatest inﬂuence?
+Psychol. Violence 1, 259–274. doi: 10.1037/a0024908
+Álvarez-Pérez, P. R., López-Aguilar, D., and V alladares-Hernán dez, R. A. (2021).
+La inﬂuencia del ≪ engagement≫ en las trayectorias formativas de los estudiantes
+de Bachillerato [The inﬂuence of “engagement” on the education al trajectories of
+baccalaureate students]. Estudios Sobre Educ. 40, 27–50. doi: 10.15581/004.40.27-50
+Artuch-Garde, R., González-Torres, M., d,. C., de La Fuente, J ., Vera, M. M.,
+Fernández-Cabezas, M., et al. (2017). Relationship between r esilience and self-
+regulation: a study of Spanish youth at risk of social exclusion . Front. Psychol. 8, 612.
+doi: 10.3389/fpsyg.2017.00612
+Balwant, P. T. (2018). The meaning of student engagement and d isengagement in
+the classroom context: lessons from organisational behaviour. J. Further High. Educ. 42,
+389–401. doi: 10.1080/0309877X.2017.1281887
+Barría, D. (2022). “Implicancias de la experiencia estética en lo s juegos con
+propósitos de aprendizaje [Implications of aesthetic experience for learning games], ”
+in Antología del aprendizaje lúdico. Aproximaciones teóricas , ed N. E. Y. O. D. J. Tero
+ediciones (Tero Ediciones), 75–86.
+Bauserman, S., Jin, L., Sheﬃeld, J. W., and Mattingly, M. (2021 ).
+“Serious Cooperative Board Games as an Innovative Approach in a
+Study Abroad Course in Peru, ” in People-Centered Approaches Toward the
+Internationalization of Higher Education , ed G. Malfatti (IGI Global), 218–232.
+doi: 10.4018/978-1-7998-3796-1.ch011
+Bayeck, R. Y. (2020). Examining board gameplay and learning: a m ultidisciplinary
+review of recent research. Simul. Gaming 51, 411–431. doi: 10.1177/1046878119901286
+Bergdahl, N., Nouri, J., Fors, U., and Knutsson, O. (2020). En gagement,
+disengagement and performance when learning with technologie s in upper secondary
+school. Comput. Educ. 149, 103783. doi: 10.1016/j.compedu.2019.103783
+Bisquerra, R., and López-Gonzalez, L. (2013). V alidación y anális is de una escala
+breve para evaluar el clima de clase en educación secundaria [V ali dation and analysis
+of a short scale to assess classroom climate in secondary educat ion]. ISEP Sci. 5, 62–77.
+Brackett, M. (2019). Permission to Feel: Unlocking the Power of Emotions to Help
+Our Kids, Ourselves, and Our Society Thrive . Celadon Books.
+Buelow, M. T., Okdie, B. M., and Cooper, A. B. (2015). The inﬂuenc e of video
+games on executive functions in college students. Comput. Hum. Behav. 45, 228–234.
+doi: 10.1016/j.chb.2014.12.029
+Camacho-Sánchez, R., Manzano-León, A., Rodríguez-Ferrer , J. M., Serna, J.,
+and Lavega-Burgués, P. (2023). Game-based learning and gami ﬁcation in physical
+education: a systematic review. Educ. Sci. 13, 183. doi: 10.3390/educsci13020183
+Cárdenas-Rodríguez, R., Terrón-Caro, T., and Monreal Gimen o, M. C. (2018).
+Educación Primaria y alumnas gitanas. Análisis de las barreras sociales en contextos de
+exclusión [Primary education and Roma pupils. Analysis of social barriers in contexts
+of exclusion]. Revista Invest. Educ. 37, 75–91. doi: 10.6018/rie.37.1.326221
+Cecchini Estrada, J. A., González González-Mesa, C., Llamedo, R. , Sánchez
+Martínez, B., and Rodríguez Pérez, C. (2019). The impact of co operative learning on
+peer relationships, intrinsic motivation and future intentio ns to do sport. Psicothema
+31, 163–169. doi: 10.7334/psicothema2018.305
+Chapman, C., and Ainscow, M. (2019). Using research to promote equity
+within education systems: possibilities and barriers. Br. Educ. Res. J. 45, 899–917.
+doi: 10.1002/berj.3544
+Christenson, S. L., Reschly, A. L., Cathy, W., and Widiasani, A. (2012).
+Handbook of Student Engagement . Academic Press. doi: 10.1007/978-1-4614-
+2018-7
+Clynes, M., Sheridan, A., and Frazer, K. (2020). Student enga gement in higher
+education: a cross-sectional study of nursing students’ par ticpation in college-
+based education in the republic of Ireland. Nurse Educ. Today 93, 104529.
+doi: 10.1016/j.nedt.2020.104529
+Cohen, J. (2021). School safety and violence: research and cli nical understandings,
+trends, and improvement strategies. Int. J. Appl. Psychoanalyt. Stud. 18, 252–263.
+doi: 10.1002/aps.1718
+Coleman, T. E., and Money, A. G. (2020). Student-centred digit al game–based
+learning: a conceptual framework and survey of the state of the art. High. Educ. 79,
+415–457. doi: 10.1007/s10734-019-00417-0
+Cornellà, P., Estebanell, M., and Brusi, D. (2020). Gamiﬁcacióny aprendizaje basado
+en juegos [Gamiﬁcation and game-based learning]. Enseñanza Ciencias Tierra28, 5–19.
+Creighton, S., and Szymkowiak, A. (2014). The eﬀects of coope rative and
+competitive games on classroom interaction frequencies. Procedia Soc. Behav. Sci. 140,
+155–163. doi: 10.1016/j.sbspro.2014.04.402
+Delaney, M. L., and Royal, M. A. (2017). Breaking engagement apa rt: the role of
+intrinsic and extrinsic motivation in engagement strategi es. Ind. Organ. Psychol. 10,
+127–140. doi: 10.1017/iop.2017.2
+Estévez, I., Rodríguez-Llorente, C., Piñeiro, I., González-S uárez, R., and V alle,
+A. (2021). School engagement, academic achievement, and se lf-regulated learning.
+Sustainability 13, 3011. doi: 10.3390/su13063011
+Fernández-García, A., Poza-Vilches, F., and Llamas, J. L. G. (2 019). Educational
+needs of spanish youths at risk of social exclusion: future cha llenges before school
+failure. J. Educ., Cult. Psychol. Stud. 20, 59–82. doi: 10.7358/ecps-2019-020-fern
+Fulya Eyupoglu, T., and Nietfeld, J. L. (2019). “Intrinsic motiv ation in game-based
+learning environments, ” inGame-Based Assessment Revisited, eds D. Ifenthaler and Y.
+J. Kim (Springer International Publishing), 85–102. doi: 10.1007/978-3-030-15569-8_5
+Galikyan, I., and Admiraal, W. (2019). Students’ engagement i n asynchronous
+online discussion: the relationship between cognitive presen ce, learner
+prominence, and academic performance. Internet High Educ. 43, 100692.
+doi: 10.1016/j.iheduc.2019.100692
+García-Moya, I., Brooks, F., and Moreno, C. (2020). Humaniz ing and
+conducive to learning: an adolescent students’ perspective on t he central
+attributes of positive relationships with teachers. Eur. J. Psychol. Educ. 35, 1–20.
+doi: 10.1007/s10212-019-00413-z
+Gee, J. P. (2005). Learning by design: good video games as learn ing machines.
+E-Learn. Digital Media 2, 5–16. doi: 10.2304/elea.2005.2.1.5
+Huizenga, J., Admiraal, W., Dam, G., t., and Voogt, J. (2019). M obile game-
+based learning in secondary education: students’ immersion , game activities,
+team performance and learning outcomes. Comput. Hum. Behav. 99, 137–143.
+doi: 10.1016/j.chb.2019.05.020
+Jääska, E., and Aaltonen, K. (2022). Teachers’ experiences of using game-based
+learning methods in project management higher education. Project Lead. Soc. 3,
+100041. doi: 10.1016/j.plas.2022.100041
+Jayawardena, N. S., Ross, M., Quach, S., Behl, A., Gupta, M., and Lang, L. D.
+(2022). Eﬀective online engagement strategies through gami ﬁcation: a systematic
+literature review and a future research agenda. J. Glob. Inform. Manag. 30, 1–25.
+doi: 10.4018/JGIM.290370
+Kahu, E. R., Picton, C., and Nelson, K. (2020). Pathways to eng agement: a
+longitudinal study of the ﬁrst-year student experience in the educational interface.
+High. Educ. 79, 657–673. doi: 10.1007/s10734-019-00429-w
+Ke, F., Xie, K., and Xie, Y. (2016). Game-based learning engag ement: a theory- and
+data-driven exploration. Br. J. Educ. Technol. 47, 1183–1201. doi: 10.1111/bjet.12314
+Keyes, T. S. (2019). A qualitative inquiry: factors that promote classroom belonging
+and engagement among high school students. Schl. Commun. J. 29, 171–200.
+Kirstavridou, D., Kousaris, K., Zafeiriou, C., and Tzaﬁlkou , K. (2020). Types of
+game-based learning in education: a brief state of the art and the implementation in
+Greece. Eur. Educ. Res. 3, 87–100. doi: 10.31757/euer.324
+Frontiers in Psychology /zero.tnum/eight.tnum frontiersin.org
+
+--- PDF PAGE 9 ---
+Rodríguez-Ferrer et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/one.tnum/six.tnum/three.tnum/four.tnum/four.tnum/one.tnum
+Krath, J., Schürmann, L., and von Korﬂesch, H. F. O. (2021). Re vealing the
+theoretical basis of gamiﬁcation: a systematic review and a nalysis of theory in research
+on gamiﬁcation, serious games and game-based learning. Comput. Hum. Behav. 125,
+106963. doi: 10.1016/j.chb.2021.106963
+LeBlanc, R. (2022). Being a ‘fun’ teacher: an interaction rit ual chains approach. J.
+Curric. Pedag. 1–18. doi: 10.1080/15505170.2021.2004957
+Leggett, G., and Harrington, I. (2021). The impact of Project B ased Learning (PBL)
+on students from low socio economic statuses: a review. Int. J. Inclus. Educ. 25,
+1270–1286. doi: 10.1080/13603116.2019.1609101
+Lira Munizaga, J., and Pérez-Salas, C. (2022). Compromiso aca démico en
+universitarios del Programa de Acceso a la Educación Superior (PACE) [Academic
+engagement in university students in the Access to Higher Ed ucation programme].
+Calidad Educ. 56, 78–96. doi: 10.31619/caledu.n56.1159
+Manzano-León, A., Camacho-Lazarraga, P., Guerrero, M. A., Gu errero-Puerta, L.,
+Aguilar-Parra, J. M., Trigueros, R., et al. (2021a). Between le vel up and game over:
+a systematic literature review of gamiﬁcation in education. Sustainability 13, 3801.
+doi: 10.3390/su13042247
+Manzano-León, A., Rodríguez-Ferrer, J. M., and Aguilar-Par ra, J. M. (2023).
+Gamiﬁcation in science education: challenging disengagemen t in socially deprived
+communities. J. Chem. Educ. 100, 170–177. doi: 10.1021/acs.jchemed.2c00089
+Manzano-León, A., Rodríguez-Ferrer, J. M., Aguilar-Parra, J. M., Trigueros, R., del
+Pilar Díaz-López, M. P., Torres-López, N., et al. (2021b). Testi ng the Factorial V alidity
+of the Classroom Engagement Inventory with Spanish Students. Psychol. Res. Behav.
+Manag. 1011–1018. doi: 10.2147/PRBM.S316048
+Marôco, J., Assunção, H., Harju-Luukkainen, H., Lin, S.-W. , Sit, P.-S., Cheung,
+K.-c., et al. (2020). Predictors of academic eﬃcacy and dropou t intention in
+university students: can engagement suppress burnout? PLoS ONE 15, e0239816.
+doi: 10.1371/journal.pone.0239816
+Medrano, L. A., Moretti, L., and Ortiz, A. (2015). Medición d el engagement
+académico en estudiantes universitarios [measuring acade mic engagement in
+university students]. Rev. Iberoamericana Diagn. Eval Avaliação Psicol. 2, 114–124.
+Narváez Burbano, J. H., Gutiérrez García, R. A., Cotes Cotes, J. E., and Ascencio
+Tafur, L. M. (2020). Deprivación sociocultural y violencia bar rial en adolescentes
+con disrupción escolar en la ciudad de Pasto–Colombia [socio-cu ltural deprivation
+and neighbourhood violence in adolescents with school disrupt ion in the city of
+Pasto-Colombia]. Arch. Venezolanos Farmacol. Terap. 39, 285–289.
+Okada, R. (2021). Autonomy-supportive classroom climate in mix ed-grade
+classes in a Japanese elementary school. J. Educ. Dev. Psychol. 11, 39–46.
+doi: 10.5539/jedp.v11n2p39
+Olejniczak, K., Newcomer, K. E., and Meijer, S. A. (2020). Adv ancing evaluation
+practice with serious games. Am. J. Eval. 41, 339–366. doi: 10.1177/1098214020905897
+Pinedo, R., García-Martín, N., Rascón, D., Caballero-San Jos é, C., and Cañas, M.
+(2022). Reasoning and learning with board game-based learnin g: a case study. Curr.
+Psychol. 41, 1603–1617. doi: 10.1007/s12144-021-01744-1
+Pratama, G. A. (2020). Students perception of gamiﬁcation to pro mote classroom
+engagement and motivation in senior high school. Lang. Res. Soc. 1, 58–68.
+doi: 10.33021/lrs.v1i1.1040
+Ricard, N. C., and Pelletier, L. G. (2016). Dropping out of high sch ool:
+the role of parent and teacher self-determination support, recipr ocal
+friendships and academic motivation. Contemp. Educ. Psychol. 44–45, 32–40.
+doi: 10.1016/j.cedpsych.2015.12.003
+Ruiz-Román, C., Molina, L., and Alcaide, R. (2019). ‘We have a c ommon
+goal’: support networks for the educational and social developme nt of children in
+disadvantaged areas. Br. J. Soc. Work 49, 1658–1676. doi: 10.1093/bjsw/bcz063
+Rumberger, R. W., and Rotermund, S. (2012). “The relationshi p between
+engagement and high school dropout, ” in Handbook of Research on Student
+Engagement, eds S. L. Christenson, A. L. Reschly, and C. Wylie (Springer US), 491–513.
+doi: 10.1007/978-1-4614-2018-7_24
+Rydell, A.-M. (2010). Family factors and children’s disruptive b ehaviour: an
+investigation of links between demographic characteristics , negative life events and
+symptoms of ODD and ADHD. Soc. Psychiatry Psychiatr. Epidemiol. 45, 233–244.
+doi: 10.1007/s00127-009-0060-2
+Saeed, S., and Zyngier, D. (2012). How motivation inﬂuences s tudent engagement:
+a qualitative case study. J. Educ. Learn. 1, 252–267. doi: 10.5539/jel.v1n2p252
+Sakiz, G. (2012). Perceived instructor aﬀective support in rela tion to
+academic emotions and motivation in college. Educ. Psychol. 32, 63–79.
+doi: 10.1080/01443410.2011.625611
+Scepanovic, S., Zaric, N., and Matijevic, T. (2015). “Gamiﬁc ation in Higher
+Education Learning - State of the art, challenges and opportunit ies, ” in The Sixth
+International Conference on e-Learning (eLearning-2015), 24–25.
+Shelton-Strong, S. J., and Mynard, J. (2021). Promoting posit ive feelings and
+motivation for language learning: the role of a conﬁdence-build ing diary. Innov. Lang.
+Learn. Teach. 15, 458–472. doi: 10.1080/17501229.2020.1825445
+Skinner, E., Furrer, C., Marchand, G., and Kindermann, T. (2008). Engagement and
+disaﬀection in the classroom: part of a larger motivational dyn amic? J. Educ. Psychol.
+100, 765–781. doi: 10.1037/a0012840
+Smith, E., and Golding, L. (2018). Use of board games in higher education literature
+review. MSOR Connect. 16, 24. doi: 10.21100/msor.v16i2.624
+Steinkuehler, C. A., Squire, K., and Barab, S. (2012). Games, Learning, and
+Society: Learning and Meaning in the Digital Age . Cambridge University Press.
+doi: 10.1017/CBO9781139031127
+Teixeira, J. d. S., Angeluci, A. C. B., Prates Junior, P., and P rado Martin, J. G.
+(2022). ‘Let’s play?’: a systematic review of board games in bi ology. J. Biol. Educ. 1–20.
+doi: 10.1080/00219266.2022.2041461
+Urdan, T., and Schoenfelder, E. (2006). Classroom eﬀects on st udent motivation:
+goal structures, social relationships, and competence beliefs . J. Schl. Psychol. 44,
+331–349. doi: 10.1016/j.jsp.2006.04.003
+Vela-Jiménez, R., Sianes, A., López-Montero, R., and Delgado- Baena, A. (2022).
+The incorporation of the 2030 agenda in the design of local polici es for social
+transformation in disadvantaged urban areas. Land 11, 197. doi: 10.3390/land110
+20197
+Villanueva, R. K. (2020). Clima de aula en secundaria: un análisis entre las
+interacciones de estudiantes y docentes [classroom climate i n secondary school: an
+analysis of student and teacher interactions]. Rev. Peruana Invest. Educ. 12, 187–216.
+doi: 10.34236/rpie.v12i12.178
+Wang, M.-T., Degol, J. L., and Henry, D. A. (2019). An integrat ive development-
+in-sociocultural-context model for children’s engagement in learning. Am. Psychol. 74,
+1086–1102. doi: 10.1037/amp0000522
+Wang, M.-T., and Eccles, J. S. (2012). Social support matters: lo ngitudinal eﬀects of
+social support on three dimensions of school engagement from m iddle to high school.
+Child. Dev. 83, 877–895. doi: 10.1111/j.1467-8624.2012.01745.x
+Wang, M.-T. L., Degol, J., Amemiya, J., Parr, A., and Guo, J. (20 20). Classroom
+climate and children’s academic and psychological wellbeing: a sy stematic review and
+meta-analysis. Dev. Rev. 57, 100912. doi: 10.1016/j.dr.2020.100912
+Wang, Z., Bergin, C., and Bergin, D. A. (2014). Measuring eng agement in fourth to
+twelfth grade classrooms: the classroom engagement inventory . Schl. Psychol. Quart.
+29, 517. doi: 10.1037/spq0000050
+Wonica, P. (2017). Learning to evaluate analog games for educa tion. Analog Game
+Stud. 2, 61–67.
+Wu, W.-H., Hsiao, H.-C., Wu, P.-L., Lin, C.-H., and Huang, S. -H. (2012).
+Investigating the learning-theory foundations of game-based learning: a meta-analysis.
+J. Comput. Assisted Learn. 28, 265–279. doi: 10.1111/j.1365-2729.2011.00437.x
+Xie, K., Vongkulluksn, V. W., Lu, L., and Cheng, S.-L. (2020). A person-centered
+approach to examining high-school students’ motivation, eng agement and academic
+performance. Contemp. Educ. Psychol. 62, 101877. doi: 10.1016/j.cedpsych.2020.101877
+Frontiers in Psychology /zero.tnum/nine.tnum frontiersin.org

@@ -1,0 +1,23 @@
+{
+  "replaced_original_indices": [
+    4,
+    5,
+    6,
+    12,
+    22,
+    37
+  ],
+  "insert_after_original_index": 6,
+  "bibliography_removed": "mayer",
+  "bibliography_added": {
+    "id": "cutting",
+    "author": "Cutting, J., & Deterding, S.",
+    "year": "2024",
+    "title": "The task-attention theory of game learning: A theory and research agenda",
+    "journal": "Human–Computer Interaction",
+    "volume": "39",
+    "issue": "5–6",
+    "pages": "257–287",
+    "url": "https://doi.org/10.1080/07370024.2022.2047971"
+  }
+}

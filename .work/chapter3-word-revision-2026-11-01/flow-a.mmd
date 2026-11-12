@@ -1,0 +1,11 @@
+flowchart TD
+ S([Open installed game]) --> L[Read available local progress]
+ D[(Device storage)] -.->|Load| L
+ L --> M[Main Menu]
+ M -->|Settings| Settings[Settings]
+ M -->|Tutorial| T[Tutorial]
+ M -->|Exit| E([Exit])
+ M -->|Play| Map[B: Landform Map]
+ Map --> Ep[Choose an unlocked episode]
+ Ep --> Level[Choose an available mode and level]
+ Level --> A([A: Lesson and gameplay])

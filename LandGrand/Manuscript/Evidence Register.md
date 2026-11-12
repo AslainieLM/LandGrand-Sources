@@ -1,7 +1,7 @@
 ---
 type: evidence-register
 status: active
-updated: 2026-10-30
+updated: 2026-11-01
 ---
 
 # Manuscript Evidence Register
@@ -19,7 +19,7 @@ Track what a draft may claim and where that claim is supported. “Missing” me
 | E-05 | Novelty or absence of similar local projects | [[Sources/Chapter1 Discussion Notes Extract#Paragraph 013|Discussion recollection]] only | Unverified | Purpose and Chapter II: verify the comparison and its limits before claiming no comparable local project exists. |
 | E-06 | Selected theory and supporting literature | No theory or literature sources selected in the retained sources | Missing | Chapter II: record actual references and explain their relevance; do not invent an anchor theory. |
 | E-07 | Related studies, games, or systems and their findings | No specific related-study references entered | Missing | Chapter II: record each study's method, participants, findings, limitations, and relevance. |
-| E-08 | Technical choices, versions, and operation | [[Project/Technical Baseline|Declared technical baseline]] and [[Project/Game Flow|proposed flow]] | Proposal | Chapter III: use original documentation for technical explanations and direct project evidence for actual version/configuration claims. |
+| E-08 | Technical choices, versions, and operation | [[Project/Technical Baseline|Declared baseline and dated configuration inspection]], [[Project/Game Flow|proposed flow]], and [[Manuscript/Chapter III Revision Notes#Technical source verification|four verified technical references]] | Proposed operation; supporting documentation inspected; configuration conflict retained | [[Manuscript/Drafts/Chapter III Technical Background|Chapter III revision 1]] separates project intent from source capabilities. [[Manuscript/Chapter III References|Matching bibliography]]. API reconciliation, installed dependencies, actual hardware, and device/build performance remain unverified. |
 | E-09 | Supported Android version range | [[Project/Scope and Requirements#Device requirements|LG-25]] and [[Sources/Project Clarifications 2026-10-26|D-012 user confirmation]] | Confirmed target; compatibility testing separate | Use Android 10 and above in Chapters I and III. The original source conflict is resolved for current requirements; do not present this as completed device testing. |
 | E-10 | Measured learning effectiveness | [[Project/Research and Evaluation|Evaluation method and results are undocumented]]; [[Sources/Baluan Survey Tally|the survey tally]] reports perceptions and expectations | Missing | Describe the intended benefit; establish a method and results before claiming effectiveness. Survey expectations are not evidence of Land Grand learning gains. |
 | E-11 | Planned completion window | [[Sources/Project Clarifications 2026-10-26#Completion-window follow-up, 2026-10-28|User's November–December reply]] and D-015 | Months user-supplied; 2026 inferred and disclosed | Revision 9 retains November–December 2026 as a planned window, not an exact approved deadline or full study period. |
@@ -27,6 +27,8 @@ Track what a draft may claim and where that claim is supported. “Missing” me
 | E-13 | Researcher-reported limited rock/mineral samples for demonstrations | [[Sources/Researcher Observation - Rock and Mineral Samples 2026-10-30|Personal-observation clarification]] under D-021 | Source identified by the user; date, setting and extent remain undocumented | Revision 9 attributes the observation to the researcher. It is not a survey finding, teacher report or independently verified inventory. Q-12 retains the missing details; no city-wide scarcity claim is made. Digital illustrations remain supplementary. |
 
 ## Adding a reference
+
+Apply [[Manuscript/Chapter 1-3 Writing Guide#Reference publication years|the publication-year rule]] before selecting or adding a manuscript reference.
 
 Use [[Templates/Literature Note|the Literature Note template]] for a new source note. Fill it from the actual source, then connect its supported claims to this register.
 

@@ -1,0 +1,30 @@
+{
+  "chapter1": {
+    "source": "G:\\Other computers\\My Computer (1)\\Lab Activities\\SUMMER\\CAPSTONE-2\\Aslainie\\Land Grand - Chapter I FINAL.docx",
+    "copy": "D:\\Projects\\LandGrand-Sources\\.work\\final-chapters-review-2026-11-01\\chapter1.docx",
+    "sha256": "cde49deeeb1814d89dbcc34a08f85a7167ef65544091bf6b4119f555a6deeb5e",
+    "bytes": 23068,
+    "footnote_markers": 0,
+    "endnote_markers": 0,
+    "tracked_insertions": 0,
+    "tracked_deletions": 0,
+    "tables": 0,
+    "drawings": 0,
+    "comment_markers": 0,
+    "nonempty_paragraphs": 67
+  },
+  "chapter2": {
+    "source": "G:\\Other computers\\My Computer (1)\\Lab Activities\\SUMMER\\CAPSTONE-2\\Aslainie\\CHAPTER 2 - FINAL.docx",
+    "copy": "D:\\Projects\\LandGrand-Sources\\.work\\final-chapters-review-2026-11-01\\chapter2.docx",
+    "sha256": "d457b46310274f1682cd4c2af560ffd9d233b89c6d61ab569c3ec6a9b3d32dac",
+    "bytes": 23978,
+    "footnote_markers": 0,
+    "endnote_markers": 0,
+    "tracked_insertions": 0,
+    "tracked_deletions": 0,
+    "tables": 0,
+    "drawings": 0,
+    "comment_markers": 0,
+    "nonempty_paragraphs": 40
+  }
+}

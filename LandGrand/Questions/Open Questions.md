@@ -1,7 +1,7 @@
 ---
 type: questions
 status: open
-updated: 2026-10-30
+updated: 2026-11-01
 sources:
   - "[[Sources/Pre-proposal]]"
   - "[[Sources/Baluan Survey Tally]]"
@@ -13,7 +13,7 @@ These gaps come from reviewing the proposal and later supplied sources. They are
 
 | ID | Priority | Question | Owner note | Status |
 | --- | --- | --- | --- | --- |
-| Q-01 | Before device validation | Android 10 and above is confirmed under D-012. Which device/build combinations will demonstrate compatibility with that target? | [[Project/Scope and Requirements#Device requirements|Scope and Requirements]] | Android range resolved; validation remains future implementation work |
+| Q-01 | Before an aligned-build claim or device validation | Android 10 and above is confirmed under D-012. How will the recorded minimum-API setting be reconciled with that requirement, and which device/build combinations will demonstrate compatibility? | [[Project/Scope and Requirements#Device requirements|Scope and Requirements]] and [[Project/Technical Baseline#Configuration inspection, 2026-11-01|dated configuration evidence]] | Target range resolved; API 26 was recorded on 2026-11-01 rather than Android 10's API 29. Configuration reconciliation and device validation remain open; no settings changed. |
 | Q-02 | Before scoring | What metrics award each star, what permits level completion, and does any star threshold affect unlocking? | [[Project/Scope and Requirements|Scope and Requirements]] | Open |
 | Q-03 | Before progression | What is the episode order and initially unlocked episode? Does episode completion require all 15 levels? Are the stated counts separate playable levels or variations of shared content? | [[Project/Game Flow|Game Flow]] | Open |
 | Q-04 | Before lesson production | Which curriculum competencies, rocks, minerals, and landform associations will be taught, and who validates the content? | [[Project/Learning Content|Learning Content]] | Open |
@@ -26,4 +26,4 @@ These gaps come from reviewing the proposal and later supplied sources. They are
 | Q-11 | Before formal schedule approval or evaluation | The user supplied November–December as the planned completion window (D-015); the draft assumes 2026 from context. What exact approved deadline and full development/evaluation schedule will be documented? | [[Manuscript/Chapter I Revision Notes#Pending confirmations|Chapter I revision]] | Drafting window supplied; exact date, explicit year confirmation, and full study schedule remain undocumented |
 | Q-12 | Before formalizing the material observation | D-021 identifies the researcher's personal observation as the source. What actual observation date, setting, available/missing specimens and extent document the reported limitation? No city-wide inventory has been supplied. | [[Sources/Researcher Observation - Rock and Mineral Samples 2026-10-30|Observation record]] and [[Manuscript/Chapter I Revision Notes#Pending confirmations|Current revision]] | Partly clarified: source type confirmed; observation date and sample details remain open |
 
-No answers have been inferred from the Unity project. The confirmed user instruction to make this vault authoritative for project knowledge is recorded separately as D-001.
+Unity configuration observations are recorded separately from user decisions and test results. The dated Q-01 finding does not change the confirmed target or resolve device compatibility. The confirmed user instruction to make this vault authoritative for project knowledge is recorded separately as D-001.

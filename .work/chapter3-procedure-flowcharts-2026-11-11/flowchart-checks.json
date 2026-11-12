@@ -1,0 +1,11 @@
+{
+  "charts": 4,
+  "cross_panel_links": 6,
+  "reachable_control_nodes": 31,
+  "pngs_verified_at_400_ppi": 4,
+  "source_chapter_hashes_matched": 3,
+  "terminal_states": [
+    "Close game",
+    "Completion Screen"
+  ]
+}

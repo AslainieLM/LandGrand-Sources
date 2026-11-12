@@ -1,14 +1,14 @@
 ---
 type: technical
 status: proposal-baseline
-updated: 2026-10-26
+updated: 2026-11-01
 sources:
   - "[[Sources/Pre-proposal]]"
 ---
 
 # Technical Baseline
 
-These are the pre-proposal's declared specifications. Installed versions, build configuration, performance, and implemented save behavior have not been audited.
+These are the pre-proposal's declared specifications. The limited file-level configuration inspection below is separate from those declarations. Installed dependencies, build output, performance, and implemented save behavior have not been audited.
 
 ## Proposed development environment
 
@@ -37,3 +37,9 @@ Evidence: [[Sources/Pre-proposal Extract#Software Specification|Software Specifi
 ## Implementation evidence
 
 The Unity workspace is `D:\Projects\LandGrand`. When checking implementation, record the relevant revision, files, build, or test results separately from proposal intent. Use [[Decisions/Decision Register|Decision Register]] for confirmed changes and [[Questions/Open Questions|Open Questions]] for unresolved differences.
+
+## Configuration inspection, 2026-11-01
+
+Direct file reads during the [[Sources/Chapter III Unrevised Draft 2026-11-01#Limited Unity configuration inspection|Chapter III review]] recorded Unity editor version `6000.5.6f1` (revision `0e0577a1a2ac`) in `ProjectSettings/ProjectVersion.txt`, and `AndroidMinSdkVersion: 26` with `AndroidTargetSdkVersion: 0` in `ProjectSettings/ProjectSettings.asset` lines 180–181. These are dated configuration values, not proof of installed build dependencies or a working Android build. Recheck the files before making current implementation claims.
+
+The minimum value does not enforce the confirmed Android 10+ floor: Android 10 is API 29 and API 26 corresponds to Android 8.0, as documented by [Android Developers](https://developer.android.com/guide/topics/manifest/uses-sdk-element). Keep the requirement unchanged and track configuration reconciliation/device validation under Q-01. No project settings were changed, and no earlier-Android support or successful device test is established.

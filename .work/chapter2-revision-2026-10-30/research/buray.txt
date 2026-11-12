@@ -1,0 +1,690 @@
+
+--- PDF PAGE 1 ---
+DIGITAL GAME-BASED LEARNING: ITS CONTRIBUTION TO  
+NUMERACY SKILLS AMONG GRADE 1 LEARNERS  
+ 
+ 
+ 
+ 
+PSYCHOLOGY AND EDUCATION: A MULTIDISCIPLINARY JOURNAL 
+ 
+Volume: 34 
+Issue 5 
+Pages: 592-602 
+Document ID: 2025PEMJ3280 
+DOI: 10.70838/pemj.340504 
+Manuscript Accepted: 02-28-2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PDF PAGE 2 ---
+592/602 
+ 
+ 
+ 
+ 
+ 
+Buray & Alferez 
+Psych Educ, 2025, 34(5): 592-602, Document ID:2025PEMJ3280, doi:10.70838/pemj.340504, ISSN 2822-4353 
+Research Article 
+Digital Game-Based Learning: Its Contribution to Numeracy Skills among Grade 1 Learners 
+ 
+Aimee A. Buray,* Reynilda C. Alferez 
+For affiliations and correspondence, see the last page. 
+ 
+Abstract 
+ 
+The purpose of the study was to assessed the contributions of Digital Game -Based Learning to the numeracy skills 
+among Grade 1 learners. It took place at Andales Integrated School, Initao North District, Division of Misamis Oriental 
+during the Second Quarter of the School Year 2024-2025. Using a quasi-experimental design, 34 learners were treated 
+using Digital Game-Based learning. The mean, standard deviation, and paired t -test were applied to the statement of 
+the problem. With the Rapid Mathemati cs Assessment as a tool, the participants were tested before and after the 
+treatment. Results indicated that there was a significant shift in scores from the pretest to the posttest, indicating a 
+marked improvement in the numeracy skills of the first grade rs following the implementation of digital game -based 
+learning strategies. This implied that adding digital games to classroom settings can promote a more engaging and 
+successful instructional process. The study offered suggestions for integrating digital game-based learning in 
+classroom settings and emphasized how it improved the performance of learners. As a result, school officials may 
+keep looking for support to allocate funds for the school’s technology upgrades.  
+ 
+Keywords:  digital game-based learning, pretest, posttest, quasi-experimental design, rapid mathematics assessment 
+ 
+Introduction 
+ 
+At present, first-graders encountered many obstacles as they work to improve their numeracy abilities. A variety of factors, including 
+individual learning variations, the school environment, instructional approaches, and developmental factors, might contribute to these 
+issues. Thus, gaining a strong conceptual grasp of fundamental numeracy ideas like counting, recognizing numbers, and perform ing 
+simple addit ion and subtraction arithmetic operations can be difficult. Understanding the significance and connections between 
+numbers may be difficult for certain learners. 
+Learners started developing the foundational numeracy skills in Grade 1, which serve as the basis for more complex math ideas in later 
+grades. These abilities included recognizing numbers, counting, comprehending quantities, and doing simple arithmetic operations like 
+addition and subtraction. For daily chores like handling money, recognizing dimen sions, determining the time, and performing simple 
+computations, numeracy abilities were crucial. Learners frequently meet real -life circumstances that can be immediately applied to 
+these practical skills. First-grade numeracy proficiency establishes a solid basis for future academic achievement. As they move through 
+the educational system, it helped learners interact with arithmetic topics with greater confidence, which enhanced their overall academic 
+performance. 
+Learners in Grade 1 were still working on their capacity to pay attention and concentrate for prolonged amounts of time. They might 
+find it difficult to focus during numeracy exercises, which resulted in unfinished work or computation errors. Learners with varying 
+learning needs and skills were co mmonly seen in first -grade classrooms. Uneven academic development and comprehension gaps 
+might result from teachers' struggles to deliver differentiated education that was tailored to each learner's unique requirem ents. 
+Numerous government initiatives and reforms, such as teacher training programs, curriculum adjustments, and interventions to address 
+learning gaps, have been implemented in an effort to increase numeracy abilities. Nonetheless, the effects of these programs may differ 
+in various locales and educational institutions. The Guidelines on the Early Language, Literacy, and Numeracy Program, also known 
+as Department Order Number 12 series 2015, serve as the foundation for one of the Department of Education's primary attempts to 
+close the gaps in nu meracy. The Department of Education's Early Language, Literacy, and Numeracy Program aimed to prepare all 
+Filipino children for academic success and lifetime learning by making sure they develop the fundamentals of language, litera cy, and 
+numeracy early in their school careers, however, still encountered gaps. 
+On the other hand, using digital game -based learning to improve first -graders numeracy skills were entertaining and engaging given 
+the state of technology. Due to the growing interest of children in p laying video games, the usage of these games has become a hot 
+topic.  Sabirli and Coklar (2020), which investigated how educational games affect learners' academic achievement, found that  
+incorporating digital instructional games into the curriculum improv ed learners accessed to the material and boosts their performance 
+noticeably. A variety of subjects have been taught through digital games. Topics include language, social science, science, a nd nature, 
+either social and soft skills (i.e., science, mathematics, or talents for teamwork) (Andersen & Rustad, 2022).  
+Hussein et al. (2022) stated that learning through digital games was a learner -centered method, where instructional objectives and 
+materials were interwoven in gaming activities and inspired learner s to study and advance their abilities and expertise by giving them 
+fun and engaging experience surroundings for learning. Digital game -based learning will be employed to make sure that learners 
+improved their numeracy abilities and grasp mathematical idea s. Therefore, this study aimed to determine the contribution of digital 
+game-based learning to the numeracy skills of Grade 1 learners. This study was conducted in Andales Integrated School, Initao Nort h 
+
+--- PDF PAGE 3 ---
+593/602 
+ 
+ 
+ 
+ 
+ 
+Buray & Alferez 
+Psych Educ, 2025, 34(5): 592-602, Document ID:2025PEMJ3280, doi:10.70838/pemj.340504, ISSN 2822-4353 
+Research Article 
+District, Division of Misamis Oriental, for the School Year 2024-2025.  
+The researcher has been a Grade 1 adviser for nearly two years, and she was excited to carry out this study to address learni ng gaps, 
+particularly in numeracy. The researcher hoped that the study's findings greatly help first -grade learners by enhancing their numeracy 
+abilities. This study thereby helped first-grade educators in providing timely, high-quality instruction that was precisely tailored to the 
+requirements and interests of the learners in the first grade.     
+Research Questions 
+The study aimed to assess the contributions of digital game -based learning to the numeracy abilities of Grade 1 learners at Andales 
+Integrated School, Initao North District, Division of Misamis Oriental, in the School Year 2024 –2025. Thus, this study answered the 
+following specific questions: 
+1. What are the pretest scores of the respondents? 
+2. What are the posttest scores of the respondents? 
+3. Is there a significant difference between the pretest and posttest scores of the respondents?  
+4. What action plan can be advised from the results of the study? 
+Methodology 
+Research Design 
+The research design used in this study was the one -group pretest and posttest research design. A pretest -posttest design involved 
+measuring the dependent variable twice: once before the implementation of the treatment and once following it (Chiang et al.,  2020). 
+To employ this research design, the participants were given pretest to measure their prior knowledge. After the pretest, the researcher 
+conducted the math lessons using the Digital Game -Based Learning. After the implementation, posttest was given to  the participants 
+to measure the effectiveness of the Digital Game-Based Learning.  
+Respondents 
+The participants of the study were the Grade 1 learners, which comprised one section with 57 learners of Andales Integrated S chool, 
+Initao North District, Divis ion of Misamis Oriental, during the second quarter of the School Year 2024 -2025. With the learners' 
+academic performance during the first quarter, the participants were chosen based on their academic performance in Mathematic s. 
+Those learners whose grades belong to 75 -79 (fairly satisfactory) and 80 -84 (satisfactory) ratings were the participants of the study. 
+Overall, there were 34 participants in the study based on their academic performance in Mathematics. They had the pretest usi ng the 
+Rapid Mathematics  Assessment, and they received Digital Game -Based Learning as treatment. According to Rivas et al. (2020), 
+pretests gave researchers a baseline against which to compare the findings of posttests. After the treatment, they received a  posttest.  
+Using a pret est as part of the sampling process provided the researcher with a special chance to improve the learner's sturdiness and 
+comprehension of the target population. Pretesting provided valuable insights that immediately influenced the participants' s election 
+process, resulting in a more rigorous and reliable research procedure.  
+Instrument 
+Based on DM -CT-2024, the Rapid Math Assessment, Comprehensive Rapid Literacy Assessment (CRLA) for Grades 1 –3, and 
+Philippine Informal Reading Inventory (Phil -IRI) Assessmen t for Grades 4 –6 was administered nationwide by the Department of 
+Education (DepEd) through the Curriculum and Teaching Strand.  
+One thorough and effective way to assess pupils' mathematical competency was through the use of Rapid Mathematics Assessment 
+(RMA). It was a formative evaluation that gave teachers important information about how well their learners grasp mathematical ideas 
+and abilities, empowering them to plan lessons and deliver interventions accordingly. Based on fundamental learning competenc ies, 
+the rapid mathematics assessment was intended to pinpoint learners' areas of strength and growth in their mathematical aptitu de. To 
+gauge progress, there were two assessments: an oral pre-assessment at the beginning of a five-week program and a post-assessment at 
+the conclusion. A teacher's guide, student materials, and automated scoring sheets are included in the assessment resources.  
+The resources for delivering the Grade 1 Rapid Mathematics Assessment were included in the booklet. It was ready to e nsure that the 
+required resources were accessible when the test was administered. Most of the tasks in this evaluation call for respondents to work 
+with cutouts, pictures, and objects. The participants responded to the assessment tasks orally. On the mater ials, they did not write. For 
+most assessment tasks, one set of materials might be adequate for every participant, although some might require copying and cutting. 
+It's recommended to paste these materials on cardboard and use them again. The researcher was responsible for making sure all required 
+materials were ready and for reading the Teacher's Booklet that goes with the test. It was anticipated that the researcher was acquainted 
+with the resources, including how to use them and what to use them for.  
+The Rapid Mathematics Assessment process was child -centered. The researcher created a laid -back atmosphere and friendly 
+relationship with the respondents. The researcher started the conduct of Rapid Mathematics Assessment, both pretest and postt est, by 
+
+--- PDF PAGE 4 ---
+594/602 
+ 
+ 
+ 
+ 
+ 
+Buray & Alferez 
+Psych Educ, 2025, 34(5): 592-602, Document ID:2025PEMJ3280, doi:10.70838/pemj.340504, ISSN 2822-4353 
+Research Article 
+having brief discussions with the participants about subjects they might find interesting. This took the researcher one to two minut es 
+to complete. It was advantageous if participants viewed this assessment as more similar to a fun game or activity than a test  that 
+respondents fear. The researcher informed the participants that the evaluation did not function as a test and that the result s did not 
+impact their math grades. The participants did each job within the allotted time and had to provide their responses v erbally. To 
+determine when the time is up, a timer was employed. The researcher started the assessment as soon as the participant was pre pared. 
+Procedure 
+The study commenced with the approved request letters from the Schools Division Superintendent, Public Schools District Supervisor, 
+and School Principal. It took place in the second quarter of the School Year 2024 -2025 at Andales Integrated School, Initao North 
+District, Division of Misamis Oriental.  
+With the learners' academic performance during the first quarter, the participants were chosen based on their grades. Those l earners 
+who garnered 75-79 (fairly satisfactory) and 80-84 (satisfactory) grades were the participants of the study. They had the pretest using 
+the Rapid Mathematics Assessment, and they received Digital Game -Based Learning as a treatment. After the presentation of lessons 
+through Digital Game-Based Learning, a posttest was administered to determine any changes in the respondent`s knowledge about the 
+lessons presented. Thus, the first quarter grades of the respondents have been evaluated to determine the participants of the study. Strict 
+confidentiality has been emphasized in handling resp ondents` information. When the researcher has the data needed, the results were 
+collated and submitted to the accredited Statistician of the school. 
+Data Analysis 
+To obtain the actual details required, the data were tallied and evaluated. The subsequent statistical instruments were utilized to address 
+the various issues raised:  
+For Problems 1 and 2, Frequency and Percentage were used to determine the pretest and posttest scores of the participants.  
+For Problem 3, a Wilcoxon Signed-Rank Test was used to test the significant difference between the pretest and posttest scores of the 
+participants.  
+Results and Discussion 
+Presentation, analysis, and interpretation of data were covered in this chapter. It presented the collected data, analysis of  the statistical 
+results, and analysis of the results. These were presented in tables following the sequence of the specific research question  addressed 
+by the application of Digital Game-Based Learning to Grade 1 learners. 
+Problem 1. What are the pretest scores of the participants? 
+Table 1 presented the pretest scores of the participants. The data revealed that the highest frequency count was found in the "Developing 
+(Nearly Proficient)" category, with 21 participants (61.8%), while the lowest frequency count was in the "Emerging (Low Proficient)" 
+category, with 13 participants (38.2%). This distribution indicated that while a significant number of participants were developing their 
+numeracy skills, a notable proportion was still emerging, suggesting a need for targeted instructional strategies. The presence of learners 
+in the "Emerging" category highlighted the importance of understanding the diverse proficiency levels within the classroom, which can 
+inform the design of effective educational interventions. 
+Table 1. Pretest Scores  
+Score Range Frequency Count Percentage (%) Description 
+1 – 8 0 0 Emerging (Not Proficient) 
+9 – 17 13 38.2 Emerging (Low Proficient) 
+18 – 26 21 61.8 Developing (Nearly Proficient) 
+27 – 29 0 0 Transitioning (Proficient) 
+30 -35 0 0 At Grade Level (Highly Proficient) 
+Total 34 100.0 
+ 
+ 
+The same findings were obtained by Tallud and Caballes (2023), who assessed the numeracy proficiency of learners from Jose 
+Magsaysay Elementary School using a modified local assessment tool. They found that a sizable portion of the learners were no t 
+reaching the required competency levels indicating serious gaps in numeracy. According to Bezuidenhout (2020), these findings have 
+important implications as well. They suggested that early intervention may harm learners as they advance through the academic  
+program year by year, ultimately resulting in long-term academic difficulties. The numeracy skills of first-graders still have much room 
+for improvement, according to these findings. One possible tactic to support this development was use of digital game -based learning 
+(DGBL).  
+There was proof that using games can significantly increase learners’ motivation and engagement, two critical elements that have wide-
+ranging effects on numeracy development. For example, Rohendis (2019), game -assisted multimedia interven tion for mathematics 
+learning, reported greater interest and engagement in the adventure games vocabulary learning and problem -solving tasks, which led 
+
+--- PDF PAGE 5 ---
+595/602 
+ 
+ 
+ 
+ 
+ 
+Buray & Alferez 
+Psych Educ, 2025, 34(5): 592-602, Document ID:2025PEMJ3280, doi:10.70838/pemj.340504, ISSN 2822-4353 
+Research Article 
+to improved mathematics attainment. According to the results of one study, supplementing educational med ia with locally sourced 
+elements improved learners' numeracy skills, and culturally rich content could increase pedagogical efficacy (Hidayah et al.,  2021).  
+As the paper notes, engaging and dynamic learning environments are also essential for the success of numeracy instruction. Learners 
+who employed these strategies outperformed those who used more traditional approaches in terms of numeracy on problem -based 
+learning with an ethnomathematics twist (Utama, 2023). It begs the question of whether employing i nteractive and culturally 
+appropriate teaching strategies like those found in video games can significantly impact learners' early numeracy development . 
+Developing instructional materials that incorporate problem - and project -based learning can greatly boo st learners' creativity and 
+motivation for learning, which are critical qualities for academic success (Sutama et al., 2023).  
+This was especially crucial in the Philippine context, where putting instructional strategies into practice that motivate lea rners to 
+actively study could improve their academic performance. Consequently, learning through Digital Game -Based Learning not only 
+increased enjoyment but also gradually improved academic performance. The results of the pretest indicated a statistically si gnificant 
+distribution of participants' abilities, which indicated that the percentage of participants in both the developing and emerging categories 
+was significant. This showed receptivity to particular interventions like Digital Game -Based Learning, which could help people learn 
+numeracy skills. The previous research was corrected when it suggested that a few practical learning techniques that were sup ported 
+by pretest results can help learners learn much more effectively.  
+Problem 2. What are the posttest scores of the participants? 
+Table 2 displayed the posttest scores of the participants after the integration of digital game -based learning into the class session. The 
+data revealed that the highest frequency count was found in the "Developing (Nearly Prof icient)" category, with 27 participants 
+(79.4%), while the lowest frequency count was in the "Emerging (Low Proficient)" category, with only 4 participants (11.8%). This 
+significant shift in scores from the pretest to the posttest indicated a marked improv ement in the numeracy skills of the first graders 
+following the implementation of digital game-based learning strategies. The absence of participants in the "Emerging (Not Proficient)" 
+and "At Grade Level (Highly Proficient)" categories further emphasized the effectiveness of the intervention, suggesting that the 
+majority of learners have moved toward a more proficient understanding of numeracy concepts.  
+Table 2. Posttest Scores  
+Score Range Frequency Count Percentage (%) Description 
+1 – 9 0 0 Emerging (Not Proficient) 
+10 – 17 4 11.8 Emerging (Low Proficient) 
+18 – 26 27 79.4 Developing (Nearly Proficient) 
+27 – 29 3 8.8 Transitioning (Proficient) 
+30 -35 0 0 At Grade Level (Highly Proficient) 
+Total 34 100.0 
+ 
+ 
+The significance of all data cannot be overstated, particularly in shaping educational strategies to enhance learners' numeracy skills. 
+The predominance of participants in the "Developing" category highlights that incorporating Digital Game -Based Learning (DGBL) 
+was a compelling approach. It not only captured learners' interest but also actively involved them in their educational journey. Evidence 
+consistently supported the effectiveness of game-based learning in boosting academic outcomes. For instance, research by Sáez-López 
+et al. (2022), underscored how gamification markedly enhanced learners’ participation and academic results in elementary education, 
+underscoring the advantages of interactive learning environments. These findings aligned with the current study's conclusions , which 
+demonstrated that digital game-based learning was a fresh, dynamic, and highly effective pedagogical method.  
+Moreover, existing research highlighted the critical role of interactive and engaging learning settings in developing numerac y skills. 
+On the other hand, Patmanthara et al. (2019) showed that using educational games can significantly enhance learning outcomes across 
+various disciplines, including mathematics. This evidence supported the idea that incorporating game-based strategies into educational 
+programs can deepen learners' comprehension and practical application of mathematical concepts. The improved performance in post-
+test results further validated the potential of technology integration in creating more dynamic and impactful learning experi ences. 
+Aligned with this perspective, the posttest findings emphasized the critical need for continuous assessment to evaluate the s uccess of 
+educational initiatives. Gu et al. (2021) explored how assessment plays a pivotal role in pinpointing areas that req uire attention and in 
+customizing teaching approaches to address the unique needs of learners. In this study, the pretest functioned as an initial benchmark, 
+enabling educators to assess the effect of the DGBL strategy on student achievement. The findings highlighted the necessity of regular 
+assessments to guide teaching methods and ensure that learners are making substantial and meaningful progress.  
+This was particularly shown to help the enhancement of numeracy in elementary learners like Grade 1 students from a study of Digital 
+Game-Based Learning (DGBL). A systematic review of the literature on Digital Game -Based Learning identified several studies 
+indicating the benefits of Digital Game-Based Learning among learners in relation to their mathematical abilities. A specific study, for 
+example, by Sabirli and Çoklar (2020), investigated the influenced of educational digital games on the motivation of some ele mentary 
+school learners as well as their learning attitudes. Results showed that learners exposed to a digital game exhibited greater problem -
+solving ability and more favorable attitudes toward mathematics than learners who were not exposed to the digital game suppor ting 
+
+--- PDF PAGE 6 ---
+596/602 
+ 
+ 
+ 
+ 
+ 
+Buray & Alferez 
+Psych Educ, 2025, 34(5): 592-602, Document ID:2025PEMJ3280, doi:10.70838/pemj.340504, ISSN 2822-4353 
+Research Article 
+this assertion that digital game -based learning can be effectively utilized to improv e numeracy skills in young children. This fits in 
+with the broader literature that highlighted exciting educational tools as one strategy for developing a love for learning an d academic 
+achievement since they may promote a love of learning. 
+Also, Hamidah e t al. and Gokhan (2023) studied Wordwall as a game -based learning interactive media and found that game -based 
+learning positively affected the literacy and numeracy of elementary school learners. Interactive digital tools have been found to foster 
+responsive classrooms with opportunities for skill development, a finding emphasized in their research. This was especially true for 
+the Philippines because there was a need for innovative ways of teaching to meet diverse learning needs.  
+Problem 3. Is there a significant difference in the posttest and pretest scores of the participants? 
+Table 3 presented the difference between the posttest and pretest scores of the participants. The data revealed that the post test scores 
+had a highly significant difference between the posttest scores of the participants. Thus, the null hypothesis, which stated that there was 
+no significant difference between the posttest and pretest scores of the participants, was rejected. The results suggested that the Digital 
+Game-Based Learning (DGBL) intervention has had a substantial positive impact on the participants' numeracy skills (Anwar et al., 
+2022). 
+Table 3. Difference1 Posttest and Pretest Scores    
+Static Df p-value Mean 
+Difference 
+SE 
+Difference 
+Posttest  Pretest 4.4 33.0 <0.001 0.353 0.0832 
+Note: 2 – Wilcoxon Signed-Rank Test     **   - p < 0.01    *** - p < 0.001    – p > 0.05   * - p < 0.05 
+These findings have important implications for educational practices aimed at enhancing the numeracy skills of young children . The 
+enhancement witnessed in post-test scores indicated that digital game-based learning might be beneficial in learners’ engagement and 
+in making mathematical concepts comprehensible. This was consistent with a recent emerging body of research that supported the 
+efficacy of game-based learning in classrooms. 
+These findings significantly affected the teaching strategies for enhancing young pupils' arithmetic abilities. Digital game -based 
+learning was one approach that would maintain learners' interest and even support their understanding of mathematical concepts, as 
+seen from improved exam scores. This is related to the growing body of research that confirmed games as an appropriate additi on to 
+the classroom. For example, Sutama et al. (2023), found out that lea rners enhanced their arithmetic aptitude after making use of new 
+learning resources like games. Learners usually do better if one is teaching by being fun and experiential, they added.  
+In addition, the results were usually consistent with Dewi's research, which revealed that the presence of games in learning motivated 
+and improved the overall learning of learners (Dewi, 2023). This was due to the fact that Digital Game -Based Learning was able to 
+develop an interesting and interactive learning environment, which served as the foundation and was of paramount importance to young 
+learners, whose learning was enhanced by experiential and engaging learning experiences. This can be attributed to the constr uctivist 
+concept that learning occurs through interactive and active means, such as engaging with the environment.  
+Additionally, Mukh et al. (2021) provided insights into the effectiveness of digital games in the learning process through th eir study 
+on the Digital Learning Games Scale (DLGS). Their research, which involved teachers from elementary schools, found that digital 
+games significantly contributed to enhancing learners' learning experiences and outcomes. This underscored the importance of teacher 
+training and support in successfully implementing Digital Game-Based Learning strategies. 
+Thus, a study by Travinio and Gonzales (2022), investigated the use of game-based applications to improve learners’ performance and 
+engagement in the Philippine environment. This was consistent with the findings  of the current study, which showed that post -test 
+scores significantly improved when Digital Game-Based Learning was incorporated. 
+Problem 4. What action plan can be designed based on the results of the study?  
+I. Rationale  
+Numeracy in early childhood education served as the foundations for later school achievement, including, but not limited to, problem-
+solving abilities. Example, counting, addition, and subtraction were some of the most important numeracy skills for a child's first-grade 
+cognitive and ac ademic progress (LC). Unfortunately, there were a lot of us smart young learners who, because of inadequately 
+pedagogical content, do not wished to learn such fundamental stuff due to lack of interest and engagement and because they we re not 
+compelling and experiential. 
+As a result of the increasing digital world, there was a tendency to apply Digital Game-Based Learning (DGBL) in a practical form, by 
+using it to teach numeracy in a classroom environment. Several studies suggested that interactive computer games have the ability to 
+produce, facilitate, and deliver relevant feedback to young learners. Hence, the learners learned the knowledge at the speed that they 
+judged to be appropriate for them, as dictated by the individual differences in the learning speed the students exhibit. Another effective 
+way that gaming can help overcome "mathemaphobia" was by either promoting a sense of mastery over the topic or by making 
+mathematics appealing and preventing a bad experience.  
+
+--- PDF PAGE 7 ---
+597/602 
+ 
+ 
+ 
+ 
+ 
+Buray & Alferez 
+Psych Educ, 2025, 34(5): 592-602, Document ID:2025PEMJ3280, doi:10.70838/pemj.340504, ISSN 2822-4353 
+Research Article 
+The application of Digital Game -Based Learning in fields such as mathematics offered an opportunity to transform educational 
+approaches in the Philippines, where classroom materials may be lacking and traditional teaching was not always effective in reaching 
+all children. No matter what baseline in numeracy levels the learner starts with, the tools that can support the education towards building 
+a good numeracy foundation were available for the teacher to use, by integrating technology into the teaching process. problem-solving, 
+through Digital Game-Based Learning. 
+Aiming to enhance numeracy skills, this action plan intended to introduce digital game -based learning tools to the Grade 1 classroom. 
+The strategy was designed to increase student motivation, engagement, and learning results in a s timulating and effective way by 
+introducing interactive, game-like math learning activities. 
+II. Objectives 
+The major aimed of this action plan were to tackle current numeracy challenges faced by year -one children and to the benefits of 
+including digital game-based learning in the curriculum: 
+1. Before digital games -based learning was available, a pretest was employed to measure the degree of numeracy skill of the first -
+graders, especially regarding concepts of counting, number sense and additive/subtractiv e computation of their grade level., number 
+identification, and shallow additive and subtractive operation. 
+2. To provide interactive games that supported the recall of key numeracy concepts in everyday classroom mathematics by utili zing 
+digital game-based learning tools. In order to schedule at least 10 to 15 min of a digital game session per lesson, emphasis was given 
+to elementary concepts (e.g., simple addition, subtraction, and even ordinal number recognition).  
+3. Employing post-tests and game progress logs from digital applications, conduct periodic progress assessments to track and evaluate 
+the effect of digital game-based learning on numeracy skills in order to determine whether the use of digital game -based learning has 
+affected students' numeracy levels. 
+4. For the sake of giving parents an opportunity to further develop the numeracy of their children beyond the classroom and reinforced 
+the numeracy skills they have learned in school; we briefly wanted to show the ways in which the use of digital ga me based-learning 
+apps can be taught by parents in and out of the classroom. 
+5. For providing an intensive learning environment, for instance, in which children were motivated and enthusiastic to learn math using 
+digital games and acknowledged (e.g., digital badges, stickers, progress reports) fulfilling achievements with rewards. 
+6. To ensure the longevity of the program by providing teachers with the resources and guidance they needed to continue using  digital 
+game-based learning in their classrooms and explored the funding avenues for the development of digital resources).  
+Conclusions 
+This study assessed the contribution of digital game-based learning on Grade 1 learners' numeracy skills in the school year 2024-2025 
+at Andales Integrated School, Initao North District, Division of Misamis Oriental. The results indicated that DGBL could be employed 
+as a useful method to enhance the development of learners' numeracy skills, considering the vast improvement in the post -test score 
+upon its implementation. The majority of learners showed noticeable progress from their pretest to posttest results, with a shift towards 
+higher proficiency categories. This suggested that digital games, when integrated effectively into the learning process, can enhance 
+learner engagement, understanding, and application of mathematical concepts.  
+Overall, the large variation between pretest and posttest scores, as established by the Wilcoxon Signed -Rank Test, represented how 
+actual Digital Game-Based Learning really was in its approach to teaching numeracy development. However, while the learners have 
+made measurable advancements, some were still not at the "At Grade Level" standard. This meant that more support and strategi es 
+may need to be employed to ensure that all le arners achieve full proficiency. In so doing, the importance of using technology in 
+education lies more so in early grade levels, where it fosters a fun and active learning environment that encourages active participation 
+and building foundational skills. 
+This study highlighted the potential of digital game -based learning in revolutionizing traditional pedagogy, thereby affording more 
+immersive and personalized learning. It also opens up worthwhile insights to educators, school administrators, and policymak ers on 
+the actual teaching-learning advantages that could be reaped by simply tapping into educational technology. The findings of this study 
+suggested that involving digital games in the classroom improved the numeracy skills of first -grade learners as well as their academic 
+performance. Now, since schools are embracing advancements in technology, it became even more important to discuss other ways  
+digital game-based learning can be developed and used to accomplish the task of developing different abilitie s in learners. 
+Based on the findings of this study, the following recommendations are proposed:  
+The entry of digital game -based learning to the Grade 1 curriculum in Mathematics may be recommended for enhancing numeracy 
+skills among school heads. School districts may conduct professional development activities on the part of teachers that would enable 
+the implementation, in an age-specific manner, of relevant digital game -based learning stools like I Know It, Mindly, Education.com, 
+
+--- PDF PAGE 8 ---
+598/602 
+ 
+ 
+ 
+ 
+ 
+Buray & Alferez 
+Psych Educ, 2025, 34(5): 592-602, Document ID:2025PEMJ3280, doi:10.70838/pemj.340504, ISSN 2822-4353 
+Research Article 
+Math Games, Math Play Ground, and Top Marks. There shall also be digital learning stations, either with tablets or computers. These 
+will be available for small group rotations to ensure that all learners have constant access to these educational resources. To continue 
+the use of digital game-based learning in a nondenominational way across different subjects, schools should develop a common digital 
+pool of lesson plans, teaching strategies, and other resources. It will also be essential to explore obtaining funding for the program from 
+external funding or grants to expand technology and digital tools access. Collaboration among teachers and the sharing of best practices 
+will also help to continue developing and perfecting the program. 
+For teachers, providing consistent and structure d opportunities for learners to practice numeracy skills through digital game -based 
+learning should be a key strategy in the classroom. Teachers should be able to add 10-15 minutes of digital game sessions to their daily 
+lessons, providing instant feedback  for learners. Recording learners' performance through game progress reports will enable the 
+identification of areas where individual learners may need additional support, thereby conducting targeted interventions to a ddress 
+specific learning needs. Studen t progress assessment is essential to monitor whether the digital game -based learning intervention 
+improves learning outcomes. The administration of pre- and post-assessments to measure the learning effects of students in numeracy 
+areas is highly recommended. Furthermore, by reviewing the game progress reports, teachers can continuously monitor each student's 
+performance, so adjustments on the instructional approach may be made appropriately.  
+For parents, facilitating more involvement in the learning process will help solidify numeracy skills at home. To this end, schools will 
+educate parents on the values of DGBL and how to assist their children in digitalized ways of their learning. This can be fur ther 
+enhanced by the following: a) printed guides, b) reco mmended educational apps, and c) online platforms created for communication 
+and feedback (for example, Facebook groups). 
+For learners, digital game-based learning can impart numeracy skills innovatively and with fun. Including games in their study routine 
+may have an impact on improving your confidence, allowing you to gain an enhanced comprehension of mathematical ideas, and 
+sharpening your problem -solving skills. You can maintain their motivation by keeping a check on their development and exercising 
+patience while overcoming various obstacles and levels. The secret is that one should use games for additional general mathematic al 
+development and, of course, to seek out ones that are at the same time entertaining and instructive.  
+Digital game-based learning needs to be communicated to the community, which includes game creators and neighborhood 
+organizations, so they understand their role in the development of numeracy. Communities could provide a lighthearted, hands-on, and 
+time-effective means by which people of all ages may develop their numeracy skills through collective efforts at involving, promoting, 
+and enhancing the use of learning games. Whether in a classroom, home, or community center, digital game -based learning offers a 
+special opportunity to make math learning enjoyable and effective. Future researchers can tap promising opportunities in future studies 
+into fields like digital game -based learning and the development of numeracy skills. Filling the gaps in the current literatur e on the 
+topic and further inquiry into new technologies, differences among various learner demographics, and the cognitive processes 
+underlying Digital Game -Based Learning are key ways to enhance creating and utilizing educational games. Empirical researc h can 
+add to our understanding of the impact of Digital Game -Based Learning on numeracy abilities and further develop a use for such to 
+assist learners in different communities and situations.  
+References 
+Akram, H., & Abdelrady, A. H. (2023). Application o f ClassPoint tool in reducing EFL learners’ test anxiety: an empirical evidence 
+from Saudi Arabia. Journal of Computers in Education, 10(3), 529–547. https://doi.org/10.1007/s40692-023-00265-z 
+Andersen, R., & Rustad, M. (2022). Using Minecraft as an educat ional tool for supporting collaboration as a 21st -century skill. 
+Computers and Education Open, 3, 100094. 
+Anderson, A., & Liu, Y. (2021). Barriers to adoption of digital game -based learning. International Journal of Game -Based Learning, 
+11(3), 1-18. 
+Anwar, M., Suhartono, T., & Suryanto, T. (2022) Development of synectic learning model to improve explanation text writing ability. 
+*EAI Conference Proceedings*. https://doi.org/10.4108/eai.20-9-2022.2324704   
+Asian Development Bank. (2020). Philippines: Educati on Sector Assessment, Strategy, and Road Map. Retrieved from 
+https://www.adb.org 
+Bezuidenhout, H. S. (2020). The interface between early numeracy, language and learning environments: pedagogical implication s. 
+South African Journal of Childhood Education, 10(1). https://doi.org/10.4102/sajce.v10i1.923 
+Brau, A. (2020). Constructivism: A Theoretical Review of Learning. International Journal for Research in Education, 2(1), 1 -10. 
+Chen, C. H., & Tu, H. T. (2021). Digital game-based learning in higher education: A quasi-experimental study of learning achievement, 
+cognitive load, motivation, and flow. 
+Cherry, K. (2022). Experiential Learning Theory. Verywell Mind. https://www.verywellmind.com/experiential -learning-theory-
+2795435 
+
+--- PDF PAGE 9 ---
+599/602 
+ 
+ 
+ 
+ 
+ 
+Buray & Alferez 
+Psych Educ, 2025, 34(5): 592-602, Document ID:2025PEMJ3280, doi:10.70838/pemj.340504, ISSN 2822-4353 
+Research Article 
+Chiang, S. T., Lee, V., & Yen, C. F. (2020). Development and validation of the Chinese version of the adolescent health risk behaviors 
+assessment. Journal of School Health, 90(11), 843-854. 
+Chi, J. (2023). Recent results of the Program for International Student Assessment (PISA) reveal poor performance of Filipino learners 
+in mathematics, reading, and science. Journal of Educational Research and Development, 24(2), 123 -130. 
+Chiu, L. (2022). The role of active learning in facilitating deeper conceptual understanding. Journal of Education and L earning, 12(2), 
+123-134. 
+Clements, D. H., & Sarama, J. (2019). Early childhood mathematics education  research: Learning trajectories for young children. New 
+York: Routledge. 
+Dabbous, O., Nouri, N., & Al-Khraishi, M. (2022). Game-Based Learning in Science Education: A Systematic Review. Sustainability, 
+14(3), 1429. 
+De Freitas, S., & Oliver, M. (2019). The cost of game-based learning: A systematic review. British Journal of Educational Technology, 
+50(4), 1524-1540. 
+Deabanico, G. J., & Caballes, D. G. (2023). Revolutionizing Learning: How eGamification Assessment is Changing Teaching? Zenodo 
+(CERN European Organization for Nuclear Research). https://doi.org/10.5281/zenodo.8168422  
+Dede, C., & Richards, J. (2019). Collaborative Learning with Digital Games: A Rev iew of the Literature. *Journal of Educational 
+Computing Research*, 57(4), 550-569 
+Dettori, J. R., Norvell, D. C., & Chapman, J. R. (2019). Grab control! Choosing the right comparison group in an observationa l study. 
+Global Spine Journal, 9(4), 456–458. https://doi.org/10.1177/2192568219847206 
+Dewi, B. I. P. (2023). Implementation of the class 6 teaching campus program to improve students' literacy and numeracy abili ties at 
+smpn 2 lenek. Polyhedron International Journal in Mathematics Education, 1(2), 94 -105. https://doi.org/10.59965/pijme.v1i2.49 
+Dizon, J. (2024). Rapid Mathematics Assessment. Scribd 
+Inc.https://www.scribd.com/document/700774539/RapidMathematicsAssessment  
+Emperador, MN. (2020). Claveria Approach Through Multime -Aided Teaching: Its Contribut ion to Reading Skills among Grade 1 
+Learners [A Master’s thesis study, St. Peter’s College] 
+Fitriana, N. (2023). Increasing Student Activeness Through Classpoint Percentage Media And Educational Games (Quizizz & Kahoot) 
+In Chemistry Learning. Action: Journal of Classroom and School Action Research Innovation, 3(1), 35–41. 
+Galvez, D. (2019). Poor PISA scores a wake up call for PH education system - DepEd Chief. Inquirer.net. 
+https://newsinfo.inquirer.net/1199952/fwd-briones-low-ph-pisa-results-a-wake-up-call#ixzz8fZFdfg4h 
+Garcia, E. (2020). Learning styles and student success. Educational Review, 23(4), 123 -145. 
+Gigante, N. (2020). Numeracy among Filipino learners. Sun.star Pampanga. 
+https://www.pressreader.com/philippines/sunstarpampanga/20201016/281625307780356  
+Ginsburg, H. P. (2021). The development of mathematical thinking. New York:Routledge.  
+Go, M. B., A, G. R., Velos, S. P., Dayupay, J., Dionaldo, W., Cababat, F., Bongo, M. F., Troussas, C., & Ocampo, L. (2022). Evaluating 
+digital mathematical games in improving the basic mathematical skills of university students. International Journal of Mathem atical 
+Education in Science and Technology. Advance online publication. https://doi.o rg/10.1080/0020739X.2022.2089604 
+Gu, L., Zhang, W., & Li, H. (2021). Estimating difference -score reliability in pretest –posttest settings. *Journal of Educational and 
+Behavioral Statistics*, 46(2), 1-20. https://doi.org/10.3102/1076998620986948   
+Hamidah, F., Setiawan, F., & Mirnawati, L. B. (2023). Strenghthening digital literacy of elementary school students through utilization 
+of wordwall as game -based learning interactive media. Jurnal Ilmiah Sekolah Dasar, 7(2), 215 -223. 
+https://doi.org/10.23887/jisd.v7i2.55807 
+Heng, C. S. & Saed, S. A. R. (2020). Digital game -based learning (DGBL): An overview of studies, learning domains, and digital 
+game-based learning types. International Journal of Information and Education Technology, 10(3), 176 -181. 
+Hidayah, I. R ., Kusmayadi, T. A., & Fitriana, L. (2021). E -book based on local wisdom to improve students’ numeracy skill: is it 
+effective?. Advances in Social Science, Education and Humanities Research. https://doi.org/10.2991/assehr.k.211122.020  
+Holbrey, C. E. (2020) . Kahoot! Using a game -based approach to blended learning to support effective learning environments and 
+student engagement in traditional lecture theatres. Technology, Pedagogy and Education, 29(2), 191 -202.Available at: 
+https://doi.org/10.1080/1475939X.2020.1737568. 
+
+--- PDF PAGE 10 ---
+600/602 
+ 
+ 
+ 
+ 
+ 
+Buray & Alferez 
+Psych Educ, 2025, 34(5): 592-602, Document ID:2025PEMJ3280, doi:10.70838/pemj.340504, ISSN 2822-4353 
+Research Article 
+Huang, Y., & Liao, C. (2023). The Impact of Digital Games on Cognitive Skills Development in Elementary Students. *Computers in 
+Human Behavior*, 137, 107162. 
+Hussein, M. H., Al-Rawashdeh, A. H., & Al-Qadi, O. A. (2022). The Use of Digital Game s in Education: A Comprehensive Review. 
+International Journal of Interactive Mobile Technologies , 16(15), 91-106. 
+Irina, K. (2023). The Impact of Educational Game-Based Learning on Student Motivation: A Comprehensive Investigation. Journal of 
+Educational Technology, 45(2), 120-145. 
+Jones, D., Smith, P., & Brown, L. (2019). The role of digital games in reducing math anxiety in young learners. *International Journal 
+of Game-Based Learning*, 9(2), 1-16. 
+Kangan Institute, (2021). The importance of literacy and  numeracy skills. Kangan Institute Blog. https://www.kangan.edu.au/study -
+with-us/our-blog/the-importance-of-literacy-and-numeracy-skills 
+Kaur, R., & Kaur, G. (2022). Using digital game -based learning to support students with learning difficulties in mathem atics. 
+*International Journal of Educational Research*, *54*, 101-112. 
+Khuda, B., Muhammad, H., Shumaila, S., Bushra, N., & Muhammad, F. F. (2022). Effectiveness of digital game-based learning strategy 
+in higher educational perspectives. Journal of Education and e-Learning Research, 9(4), 258-268. 10.20448/jeelr.v9i4.4247 
+Kim, M.K., & Chang, K. (2020). The Effects of Digital Game -Based Learning on Academic Performance: A Meta -Analysis. 
+*Computers & Education*, 144, 103703. 
+Lee, H., Kim, J., & Park, S. (2021 ). The effectiveness of a digital game intervention on number sense development in first -grade 
+students. *Journal of Early Childhood Education*, 49(3), 221-234. 
+Lee, J. C., & Campbell, J. P. (2020). Digital game -based learning: Not the panacea for every le arning objective. Educational 
+Technology Research and Development, 68(4), 1283-1305. 
+Limniou Haratsis, A. (2021). Collaborative learning and peer interaction in higher education: A literature review. Procedia C omputer 
+Science, 183, 130-136. 
+Lorenzo-Alvarez, R., Rudolphi-Solero, T., Ruiz-Gomez, M. J., & Sendra-Portero, F. (2020). Game-based learning in virtual worlds: A 
+multiuser online game for medical undergraduate radiology education within second life. Anatomical Sciences Education, 13(5),  602- 
+617.Available at: https://doi.org/10.1002/ase.1927. 
+Mandinach, E. B., & Fisher, M. G. (2019). Digital game -based learning for middle school social studies: Exploring the impact on 
+student learning. Contemporary Issues in Technology and Teacher Education, 19(3), 630 -654. 
+Means, B., & Krause, K. L. (2021). Digital game-based learning: A systematic review. Journal of Computer Assisted Learning, 37(5), 
+456-479. 
+Minkiewicz, J., & Mejia, A. (2022). The ethics of data collection in digital game-based learning. International Journal of Game-Based 
+Learning, 12(1), 1-20. 
+Mix, K. S., Huttenlocher, J., & Levine, S. C. (2021). Spatial Reasoning and Early.Math Abilities: A Meta-Analysis. Child Development, 
+92(5), 1681-1699. 
+Moral-Sanchez, S. N. (2021). Game -based learning and Brea kout as comprehension techniques in solving math problems in primary 
+education. Universidad De Málaga. https://hdl.handle.net/10630/22556  
+Morata, Jan Angelo & Morata, G & Caballes, Dennis. (2024). The use of digital game-based learning on numeracy of grade 7 students 
+using class point: an input to professional development of teachers. 177 -188. 
+Mukh, Y. N. A., Hashaikeh, S. A., & Abd -Rabo, A. M. (2021). Digital learning games scale (dlgs): a scale development study. 
+International Journal of Emerging Technologies in Learning (iJET), 16(11), 140. https://doi.org/10.3991/ijet.v16i11.20709  
+Nasir, N. A., Nawawi, A., & Ismail, M. A. (2021). The accessibility of digital game-based learning: A systematic review. International 
+Journal of Educational Technology in Higher Education, 18(1), 1-15. 
+National Center for Education Statistics. (2023). *National Center for EducationStatistics*. Retrieved from https://nces.ed.g ov/ 
+Ngoc Dan, T., Nguyen, H. T., & Tran, T. T. (2024). Research issues in elementary mathematics core areas: A review of techniques and 
+gaming modes. Journal of Mathematics Education, 25(3), 456-468. 
+Noroozi, O., Mulder, R. H., Biemans, H. J. A., & Tormey, R. (2020). Effects of applying game -based learning approach on students’ 
+problem-solving skills and engagement. British Journal of Educational Technology, 51(6), 1921-1938. 
+
+--- PDF PAGE 11 ---
+601/602 
+ 
+ 
+ 
+ 
+ 
+Buray & Alferez 
+Psych Educ, 2025, 34(5): 592-602, Document ID:2025PEMJ3280, doi:10.70838/pemj.340504, ISSN 2822-4353 
+Research Article 
+Obenza-Tanudtanud, Dianne & Obenza, Brandon. (2024). Assessment of Educational Digital Game -Based Learning and Academic 
+Performance of Grade Six Pupils. 3. 1-9. 10.54536/ajiri.v3i1.2338. 
+O'Brien, H. L., & Barton, M. (2020). The impact of digital game-based learning on student engagement and social interaction. Journal 
+of Educational Technology Systems, 48(4), 496-517. 
+OECD. (2019). PISA 2018 Results (Volume I): What Students Know and Can Do. Retrieved from 
+https://www.oecd.org/pisa/publications/pisa-2018-results-volume-I.htm 
+OECD. (2022). Teachers and Digital Technologies: A Global Perspective. https://www.oecd.org/education/teachers -and-digital-
+technologies-aglobal-perspective.htm 
+Owston, R., Wideman, H., & Park, G. (2020). Technical challenges in the implementation of game -based learning. Educational 
+Technology Research and Development, 68(2), 641-654. 
+Patmanthara, S., Yuliana, O. D., Dwiyanto, F. A., & Wibawa, A. P. (2019). The u se of ladder snake games to improve learning 
+outcomes in computer networking. International Journal of Emerging Technologies in Learning (iJET), 14(21), 243. 
+https://doi.org/10.3991/ijet.v14i21.10953 
+Philippine Statistics Authority. (2021). Philippine Education: Analytical Reports. https://psa.gov.ph 
+Prensky, M. (2019). *Digital Game-Based Learning*. Routledge. 
+Project Management Institute. (2020). A Guide to the Project Management Body of Knowledge (PMBOK® Guide) – Sixth Edition. 
+Newtown Square, PA: Project Management Institute, Inc. 
+Raudenbush, S. W., & Willms, J. D. (2020). How Value -Added Measures of Teacher Effectiveness Can and Cannot Be Constructed 
+from Test Score Data. Educational Researcher, 49(5), 302-315. ResearchGate.https://www.researchgate.net/publication/36 
+Reyes, F. J. F. D., & Caballes, D. G. (2022). Digital technology as a mode of instruction: An analysis. 
+ResearchGate.https://www.researchgate.net/publication/36  
+Rivas, J. J., Arteaga, A. L., & López, M. I. (2020). The impact of pretests and  posttests on research outcomes. Journal of Applied 
+Research in Higher Education, 12(2), 202-215. 
+Rohendis, I. (2019). Game-assisted multimedia intervention for mathematics learning. Journal of Research in Mathematics Education, 
+50(4), 425-440. 
+Rosas, R., Nussbaum, M., & Heffernan, N. (2020). Digital game -based learning for mathematics: A meta -analysis. *Computers & 
+Education*, *153*, 103809. 
+Roschelle, J., Pea, R., Hoadley, C.M., Gordin, D.N., Henry, L., & Means, B. (2020). The Future of Learning: A Resear ch Agenda for 
+the Next Decade. Educational Researcher, 49(7), 402-417. 
+Sabirli, Z. E. and Çoklar, A. N. (2020). The effect of educational digital games on education, motivation and attitudes of el ementary 
+school students against course access. World Journa l on Educational Technology: Current Issues, 12(4), 325 -338. 
+https://doi.org/10.18844/wjet.v12i3.4993 
+Sabourin, J., & Lester, J. (2019). Game -based learning: A pedagogical Perspective.In Digital Game -Based Learning (pp. 3 -18). 
+Springer. 
+Sáez-López, J., Váz quez‐Cano, E., Cadavieco, J. F., & López -Meneses, E. (2022). Gamification and gaming proposals, teachers’ 
+perceptions and practices in primary education. Interaction Design and Architecture(s), (53), 213-229. https://doi.org/10.55612/s-5002-
+053-011 
+Serrano, Katrina, "The effect of digital game-based learning on student learning: A literature review" (2020). Graduate Research Papers. 
+943. https://scholarworks.uni.edu/grp/943 
+Smith, M., Johnson, D., & Williams, R. (2020). The influence of digital games on motivation and engagement in mathematics learning 
+for first-grade students. *Journal of Educational Psychology*, 112(5), 942-956. 
+Squire, K. (2021). *Video Games and Learning*. MIT Press. 
+Sun & Chen, (2021). Digital Game-based Pedagogical Activities in Primary Education: A Review of Ten Years' Studies. International 
+Journal of Technology in Teaching and Learning. 16. 78-92. 10.37120/ijttl.2020.16.2.02. 
+Sutama, S., Asta, W. G., Purnomo, D. A., & Utomo, M. A. (2023). The effect of Problem -Based Learning (PBL) and Project-Based 
+Learning (PjBL) on student’s creativity and motivation. Jurnal Pendidikan MIPA, 24(2), 283 –293. 
+https://doi.org/10.23960/jpmipa/v24i2.2023.2840 
+
+--- PDF PAGE 12 ---
+602/602 
+ 
+ 
+ 
+ 
+ 
+Buray & Alferez 
+Psych Educ, 2025, 34(5): 592-602, Document ID:2025PEMJ3280, doi:10.70838/pemj.340504, ISSN 2822-4353 
+Research Article 
+Tallud, N. S. M. & Caballes, D. G. (2023). Bridging the gap of Jose Magsaysay Elementary  school learners in numeracy: Makati 
+localized numeracy assessment tool for stage 1 (grades 1 -3). World Journal of Advanced Research and Reviews, 17(2), 678 -685. 
+https://doi.org/10.30574/wjarr.2023.17.2.0289 
+Travinio, R. D. J. & Gonzales, M. A. S. (2022). Game-based applications to enhance students’ engagement and performance. 
+International Journal of Research Publications, 103(1). https://doi.org/10.47119/ijrp1001031620223484  
+UNESCO. (2020). COVID-19 and Education: A Global Perspective. https://unesdoc.unesco.org/ark:/48223/pf0000373490 
+UNESCO. (2020). Education Sector Analysis: Philippines. Retrieved from  https://en.unesco.org  
+Utama, F., Zaenuri, Z., & Pranoto, Y. K. s. (2023). Students numerical literacy ability in problem based learning with ethnomatematics 
+nuances. Prima: Jurnal Pendidikan Matematika, 7(2), 98. https://doi.org/10.31000/prima.v7i2.8387  
+Van Eck, R., & Dempsey, J. V. (2020). *Educational Technology: Research and Practice*. Pearson Education.  
+Waltz-Budert, T. (2023). Pretest -Posttest Design  | Definition, Types Examples.Study.com.https://study.com/learn/lesson/pretest -
+posttest 
+World Bank. (2021). The Digital Divide in Education.       https://www.worldbank.org/en/topic/education/brief/the -digital-divide-in-
+education 
+Wu, H., Chang, K., & Kim, M.K. (2021). The Role of Motivation in Digital Game-Based Learning. *Educational Psychology Review*, 
+33(2), 415-438. 
+Yang, L., Chen, S., & Zhang, W. (2023). The effect of a game -based program on problem -solving abilities in Grade 1 students. 
+*International Journal of Educational Technology in Higher Education*, 20(1), 1-15. 
+Affiliations and Corresponding Information 
+Aimee A. Buray 
+Andales Integrated School  
+Department of Education – Philippines 
+ 
+Reynilda C. Alferez, PhD 
+St. Peter’s College – Philippines 
+ 
+ 

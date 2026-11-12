@@ -1,0 +1,26 @@
+{
+  "changed_notes": [
+    "Current Focus.md",
+    "Home.md",
+    "Decisions\\Decision Register.md",
+    "Maintenance\\Change Log.md",
+    "Maintenance\\Skill Guide.md",
+    "Manuscript\\Chapter 1-3 Writing Guide.md",
+    "Manuscript\\Drafting Dashboard.md",
+    "Project\\Technical Baseline.md",
+    "Questions\\Open Questions.md",
+    "Manuscript\\Drafts\\Chapter III Technical Background.md"
+  ],
+  "added_files": [
+    "Manuscript\\Chapter III Drafting Guide.md",
+    "Sources\\Chapter III Unrevised Draft 2026-11-01.md",
+    "Sources\\Chapter III Unrevised Draft Extract 2026-11-01.md",
+    "Sources\\Attachments\\Chapter III - Original Procedure - 2026-11-01.jpg",
+    "Sources\\Attachments\\Chapter III - Unrevised - 2026-11-01.docx"
+  ],
+  "removed_files": [],
+  "existing_artifacts_unchanged": true,
+  "five_comments_saved": true,
+  "rollback_archive_valid": true,
+  "retained_word_archive_valid": true
+}

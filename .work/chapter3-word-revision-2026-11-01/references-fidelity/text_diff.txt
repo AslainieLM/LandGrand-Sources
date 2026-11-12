@@ -1,0 +1,54 @@
+--- a
++++ b
+@@ -1,45 +1,6 @@
+-CHAPTER III
+-TECHNICAL BACKGROUND
+-This chapter describes the technical aspects of the Android application, the tools used in its development, and how it will function. It presents the software and hardware used to build the application, explains the role of each tool, and describes the overall process by which the learner will use the game.
+-The Technicality of the Project
+-In developing the project, the proponent gathered all the relevant information and considered various technology options before selecting the tools to be used. Through these tools, learners can study the content of Land Grand, which covers landforms, rocks, and minerals, while enjoying an interactive game experience. The main tools used in the development of the application include the Unity Engine, Piskel, Clip Studio Paint, and Visual Studio Code, with C# as the programming language.
+-Development
+-This section covers the tools used to create the Android application, including both the software and hardware components of the project. The selected components were chosen to meet the requirements of the game application and to ensure good performance, compatibility, and efficiency. The proponent recognizes that Unity offers a strong and flexible development platform that supports two-dimensional game development, real-time rendering, and an extensive library of assets, which makes it well suited for developing an interactive and educational game application such as Land Grand.
+-The Unity Engine was founded in Copenhagen, Denmark, and was designed by David Helgason, Joachim Ante, and Nicholas Francis. It is one of the well-known game engines used to create a wide range of games and applications. The Unity Engine can be used without payment for its core features, and numerous tutorials are available for learning how to use it, which makes it accessible for student developers.
+-Android Operating System
+-Android was developed by a consortium of developers known as the Open Handset Alliance, with Google leading the development of its most widely used version. It is an open-source platform, and Android applications can be developed using several programming languages such as Java, Kotlin, C#, C++, and others. The Android Software Development Kit (SDK) includes the tools, libraries, and application programming interfaces (APIs) needed for building Android applications. Land Grand is designed to run on Android devices from Android 10 to Android 14.
+-Android Package
+-Android applications are packaged into Android Package (APK) files for distribution. Unity, together with the Android build tools, can generate an installable APK file that can be deployed and run on Android phones and tablets. This allows Land Grand to be installed directly on a learner's device and used offline, without the need for an internet connection.
+-The proponent uses Unity as the main framework for developing the project. Because it is free and easily accessible, the application's graphics and sprites are created and edited using Piskel and Clip Studio Paint, and the application is built using two-dimensional bitmap graphics. The application is programmed in C#, and Visual Studio Code was chosen as the integrated development environment (IDE) for editing the program and its functionalities.
+-This section presents the details of the tools used in creating the application, including the hardware, software, and peopleware.
+-Hardware
+-The following are the specifications of the computer used by the developer in creating the application:
+-•  Processor: 11th Gen Intel(R) Core(TM) i7-1185G7 @ 3.00 GHz
+-•  RAM: 16 GB, 2400 MHz
+-•  Graphics: Intel(R) Iris(TM) Xe Graphics
+-•  Storage: 256 GB SSD
+-The following are the minimum specifications required for the end-user's Android device in order to run the application:
+-•  Operating System: Android 10 and above (up to Android 14)
+-•  RAM: 2 GB minimum
+-•  Storage: 300 MB of free space
+-Software
+-Software refers to the programs installed on the computer that are used to develop and run the application. The following software was used in developing the project:
+-Operating System
+-•  Windows 11, 64-bit - the operating system used by the developer during development.
+-Game Engine
+-•  Unity Engine - the main game engine used to build the two-dimensional educational game, handle gameplay logic, and generate the Android build.
+-Editing Software
+-•  Piskel - a free editor used to create pixel art and animated sprites. It allows the developer to create and modify animation frames and to export work in sprite sheet, PNG, and GIF formats.
+-•  Clip Studio Paint - a digital illustration and painting software used to create and edit the artwork and assets for the game. It is widely used by professional digital artists and animators.
+-Integrated Development Environment
+-•  Visual Studio Code - the code editor selected for writing and editing the C# scripts of the application. It provides features such as autocompletion, which makes programming more efficient.
+-Programming Language
+-•  C# - the programming language used to develop the functionality and logic of the application within the Unity Engine.
+-Peopleware
+-Peopleware refers to the people involved in the study, including those who will use and benefit from the application. For Land Grand, the intended users are the Grade Five learners of Baluan Elementary School, who will use the application as additional learning support at home, together with the printed learning materials provided by the school. The teachers of these learners are also considered, as the application is designed to support their teaching of landforms, rocks, and minerals.
+-How Will the Project Work?
+-The main goal of this Android application is to teach the learner about landforms, rocks, and minerals through interactive exploration and simple lessons. The application saves the learner's progress on the device to monitor gameplay and session progress, and the user interface is designed to be simple and easy to use.
+-Figure 4. Procedures
+-The process for using the application is clear and straightforward. The first step is to run the application on an Android device, which requires the learner to download and install the application beforehand. From the Main Menu, the learner can choose Play, Settings, Tutorial, or Exit. After selecting Play, the learner is taken to the Landform Map, which contains four episodes representing the major landforms: Mountains, Hills, Plains, and Plateaus. Only unlocked episodes can be selected, and the remaining episodes become available after the learner completes the previous episode.
+-Before each level begins, a Lesson Screen introduces the selected landform and the rocks or minerals that can be found there using simple explanations. During gameplay, the learner controls an explorer character to move through the landform, collect rocks and minerals, and overcome challenges such as obstacles, traps, pitfalls, and time limits. When a rock or mineral is collected, a pop-up displays its name together with a short description, giving the learner information about the item before continuing.
+-The learner must complete the Easy levels before unlocking the Normal levels, and the Normal levels before unlocking the Hard levels. After completing a level, the Result Screen displays the collected rocks and minerals, the stars earned, and a short review of the lesson. The learner may then replay the level or continue to the next available level.
++BIBLIOGRAPHY
++This section lists the technical sources cited in Chapter III.
++Celsys. (2025, March 12). Clip Studio Paint Ver. 4.0 available now! New features that bring more fun to your creations.https://www.clipstudio.net/en/news/202503/12_01/
++Google. (2025, February 10). Application fundamentals. Android Developers.https://developer.android.com/guide/components/fundamentals
++Microsoft. (2023, August 4). Unity development with VS Code. Visual Studio Code.https://code.visualstudio.com/docs/other/unity
++Unity Technologies. (2026, July 2). Android environment setup. Unity User Manual 2022.3.https://docs.unity3d.com/2022.3/Documentation/Manual/android-sdksetup.html

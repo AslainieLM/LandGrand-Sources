@@ -1,0 +1,2032 @@
+
+--- PDF PAGE 1 ---
+ 
+ 
+ 
+www.ijte.net 
+The Impact of Using Educational and Digital 
+Games on Middle Schoo l Students Science 
+Achievement  
+ 
+ 
+Asli Bahar Ivgin  
+Yildiz Technical University, Turkiye 
+ 
+Hakan Akcay  
+Bogazici University, Turkiye 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+To cite this article:  
+ 
+Ivgin, A.B. & Akcay, H. (2024 The impact of using educational and digital games on middle 
+school students science achi evement. International Journal of Technology in Education 
+(IJTE), 7(3), 386-416. https://doi.org/10.46328/ijte.781 
+ 
+ 
+ 
+ 
+ 
+The International Journal of Technology in Education (IJTE) is a peer -reviewed scholarly online journal. 
+This article may be used  for research, teaching, and private study purposes. Authors alone are responsible 
+for the contents of their articles. The journal owns the copyright of the articles. The publisher shall not be 
+liable for any loss, actions, claims, proceedings, demand, or costs or damages whatsoever or howsoever 
+caused arising directly or indirectly in connection with or arising out of the use of the research material. All 
+authors are requested to disclose any actual or potential conflict of interest including any financial, personal 
+or other relationships with other people or organizations regarding the submitted work. 
+ 
+ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
+ 
+ 
+ 
+
+
+--- PDF PAGE 2 ---
+ 
+International Journal of Technology in Education  
+ 2024, Vol. 7, No. 3, 386-416 https://doi.org/10.46328/ijte.781 
+ 
+386 
+The Impact of Using Educational and Digital Games on Middle School 
+Students Science Achievement   
+ 
+Asli Bahar Ivgin, Hakan Akcay 
+ 
+Article Info  Abstract 
+Article History 
+Received: 
+14 November 2023 
+Accepted: 
+03 May 2024 
+ 
+ Game-based learning has attracted great interest in science education as an 
+effective way to increase student achievement. Most studies in this field have 
+focused on digital or non -digital games. In the literature, some studies generally 
+compare educational games with traditional teaching methods. More studies need 
+to be conducted to compare the effects of digital and non -digital games on 
+achievement. For this reason, the study's primary purpose is to examine the impact 
+of different types of games, namely e ducational and digital games, and their 
+combinations on students' academic achievement and views on the learning 
+process. In this context, the researcher used three different methods to be applied 
+to three experimental groups and one control group. The research was carried out 
+on 77 5th-grade students studying in a public school in Turkey. Both quantitative 
+and qualitative research methods were used in the quasi-experimental design. Data 
+were obtained through the 'Human and Environment Unit Achievement Test' and 
+semi-structured interviews. The results showed that students in the educational 
+and digital games sections were significantly better at science achievement than 
+students in the textbook -oriented section. No significant difference was found 
+between the digital game-based and educational game-based students in terms of 
+achievement. The academic achievement of the group in which these two game 
+types were used together was higher than the others. In addition, most students 
+were satisfied with the using educational and digital games in science lessons and 
+found the games fun and motivating. 
+Keywords 
+Educational games 
+Digital games 
+Science education 
+Academic achievement 
+ 
+ 
+ 
+Introduction 
+ 
+Due to technological advances and rapid development, researchers are looking for new ways to stimulate students' 
+learning and meet the increasing educational demands. (Liu et al., 2020) In modern times, it is seen that classroom 
+activities and academic env ironments have shown significant changes compared to traditional educational 
+methods (Yıldız, 2022). The teacher -centered method means that the teacher presents content knowledge, 
+experiments are only demonstrated, and there is limited interaction between students (Dimitrios et al., 2013; Eilks 
+et al., 2013; Nzeyimana & Ndihokubwayo, 2019). Traditional teaching methods and some applications are 
+insufficient to meet today's student needs (Kalogiannakis, M et al. 2021). 
+ 
+
+--- PDF PAGE 3 ---
+International Journal of Technology in Education (IJTE) 
+ 
+387 
+Accordingly, student-centered education has emerged, and education is based on the student's active participation 
+in the classroom. With the change and updating of educational environments, the process of adapting games that 
+previously seemed meaningless, known only as children's entertainment , to educational environments has also 
+begun (Jurakulovna et al., 2022). According to Dominguez et al. (2013) and Crocco et al. (2016), educational 
+researchers have used games with great interest. Studies in the last two decades have focussed on the theory  of 
+game-based learning and why games are a powerful teaching tool. Among these important studies are Prensky 
+(2003), Gee (2003), Oblinger (2004), and Squire et al. (2003). 
+ 
+ In the Literature, it is argued that the use of games for instructional purposes enables students to enjoy learning, 
+feeds their self -confidence, imagination, and creative thinking, and guides them to the correct information by 
+providing instant feedback (Alıcı, 2016; Gürpınar, 2017). These can be considered as factors that strengthen 
+student success. In addition, educational games, a learner-centered technique, enable students to have fun, make 
+the lessons more enjoyable and efficient, direct all attention to the subject, and trigger motivation. (Boghian et al., 
+2019; Plass et al., 2015; Vlachopoulos D, Marki A.2017) This brings effective learning and success (Talan et al., 
+2020). There are related studies that show that the educational use of games positively affects learning and is 
+effective in increasing achievement (Brezovszky B et al., 2018; Chen, Tseng, et al., 2018; Chian-Wen, 2014; Liao 
+et al., 2010; Tokaç et al., 2019). 
+ 
+However, few studies have compared the effects of game -based learning on students' learning and achievement 
+between digital and non-digital games. (Whang & Zeng, 2021) Research on the impact of non-digital or traditional 
+classroom games is either old-fashioned or limited (Talan et al., 2020). This fact has been echoed in the Literature 
+on the use of educational games, and it is noted that there are reviews examin ing various essential aspects of 
+games that promote learning. However, they are pretty old (Talan et al., 2020). This is a sign that research into 
+educational games is declining in favor of research into the educational potential of digital games (Yu et al., 2020).  
+ 
+Game-based learning can transform science teaching and learning (Hamari et al., 2016; Khan et al., 2017; Cardinot 
+& Fairfield, 2019). The literature also contains some research findings that show that non -digital games can 
+provide more benefits than digital games (Edwards, 2014; Ernest et al., 2014; Talan et al., 2020; Yang&Chen, 
+2023; von Gillern & Alaswad, 2016). Several studies have reported the positive effects of using educational games 
+in science education (Lester et al., 2013; Li et al., 2016; Lin et al., 2013; Sung & Hwang, 2013; Wang & Zheng, 
+2021). Educational games have been demonstrated to impact students' problem-solving abilities positively (Lester 
+et al., 2013; Li et al., 2016), motivation to learn science (Yıldız et al., 2017), and achievement in science (Sung & 
+Hwang, 2013; Wang & Zheng, 2021).  
+ 
+In recent years, there has been a proliferation of literature reviews and meta-analysis studies on the use of different 
+types of educational games in science education (Arztman  et al., 2022; Cheng et al., 2015; Chen et al., 2022; 
+Kalogiannakis et al., 2021; Riopel et al., 2019; Tsai & Tsai, 2020; Wang et al., 2022). However, more research is 
+needed to determine which types of games are most effective in increasing students' scie nce achievement. 
+Therefore, this study aimed to go beyond using a single game type and investigate the effects of educational and 
+digital game types used together and separately on students' achievement in science education and students' views 
+
+--- PDF PAGE 4 ---
+Ivgin & Akcay 
+ 
+388 
+on the process. 
+Theoretical Framework 
+Game-Based Learning (GBL) 
+ 
+De Freitas defined educational games as 'games for learning'. These games create 'creative, interactive and 
+captivating environments' where learners can engage in 'role plays,' showcase their skills, and  engage in various 
+types of learning individually or in co-operation with a team. Mayer (2020) states that GBL occurs when there is 
+a change in the student's skills or academic knowledge as a result of playing games. Such knowledge and skill 
+development ar e enhanced through game activities that create problem -solving opportunities and challenges, 
+providing students with a sense of winning (Qian & Clark, 2016).  
+ 
+The definition of game-based learning can be ambiguous due to the variety of genres and subject areas in which 
+it is applied. Game -based learning (GBL) combines course outcomes and games to enhance students' learning 
+experiences (Jayasinghe & Dharmaratne, 2013; Roodt & Ryklief, 2019). GBLs are structured materials that 
+provide fun learning, develop t hinking skills, and encourage learning through games (Azizan et al., 2021). 
+Educational games are a type of GBL used in education and focus on developing games with specific educational 
+purposes in mind (Anastasiadis et al., 2018; Games & Carvalho, 2022).   Dimitra et al. (2020) identified seven 
+main types of GBL approaches applied in education:  (i) memory games, (ii) simulation games, (iii) interactive 
+games, (iv) quiz games, (v) puzzles, (vi) strategy games, and (vii) reality testing games.  
+ 
+Currently, GB L is a popular, innovative method widely applied in various disciplines. In contrast to more 
+traditional teaching approaches, the primary method of GBL is to introduce various game elements into subject 
+areas to encourage student engagement and increase pa rticipants' motivation. Game -based learning (GBL) 
+combines educational theories, course curricula, and digital games to enhance the learning experience (Jayasinghe 
+& Dharmaratne, 2013; Roodt & Ryklief, 2019). 
+ 
+The scope of GBL is vast and encompasses non-technological and technological integration of games within the 
+educational and training activity. The concept of GBL is fun learning by doing/playing and specially designed, 
+structured game learning materials that can promote the development of thinking skills and self-directed learning 
+among students (Azizan et al., 2021). Educational games are the most common type of GBL used in education, 
+focusing on the development of games with specific educational purposes in mind (Anastasiadis et al., 2018; 
+Games & Carvalho, 2022), leading to increased enthusiasm for play and academic performance (Zhonggen, 2019). 
+Educational games not only improve students' academic achievement and conceptual understanding but also 
+increase their motivation to learn and have fun whil e making sense of the learned content (Arnold et al., 2021; 
+Baek et al., 2015; Balakrishnan N., 2021; Byusa et al., 2020; Oliveira et al., 2021; Roodt & Ryklief, 2019; Partovi 
+& Razavi, 2019). 
+ 
+Digital Game-Based Learning (DGBL) 
+Definition of Digital Games 
+ 
+
+--- PDF PAGE 5 ---
+International Journal of Technology in Education (IJTE) 
+ 
+389 
+Digital game-based learning is using digital games as educational appliances to achieve desired learning outcomes 
+(Prensky, 2001). Prensky (2003) emphasizes that today's generation is interested in video games because of their 
+natural learning experiences. Various terms are associated with digital games in the Literature (Garris et al., 2002), 
+leading to a broad understanding of what constitutes a digital game. These terms include computer games, digital 
+games, electronic games, mobile games, and video games. To briefly describe digital games as "systems subject 
+to certain rules" in which players achieve variable results or scores by making efforts (Clark et al.,2016). 
+According to Prensky (2006), a game can be defined as digital based on six characteristics leading to grammatical 
+engagement. These items; These are listed as: 
+ The rules of the game 
+ The aims of the game 
+ Conclusion and feedback 
+ The factor of conflict/ competition/ challenge 
+ Interaction factor 
+ The representation of a story or plot. 
+ 
+According t o Whitton (2010), there needs to be a well -accepted definition of digital games in the academic 
+Literature. Researchers from various disciplines have different perspectives on this subject. Whitton (2010) 
+investigated the characteristics of digital games t aken part in the Literature, focusing mainly on the qualities 
+related to their use in training contexts, and these qualities are summarized in Table 1: 
+ 
+Table 1. Expressions Describing Game Characteristics 
+Characteristics Definition 
+Competition It is to be superior to others to achieve a result. 
+Challenge Tasks require effort and are difficult to solve. 
+Exploring There is an environment that is searchable and special to the subject. 
+Imagination There is an imaginary environment, characters, or story. 
+Objectives There are aims and objectives, which are stated clearly. 
+Interaction There is an action that can change the course or situation and create feedback. 
+Results There are measurable results in the game process (for example, scoring) 
+Participant The other individuals participate. 
+Rules  Artificial restrictions limit the activity. 
+Security The activity has no consequences in the real world. 
+"Whitton, N. (2010). Learning with digital games: A practical guide to engaging students in higher education. 
+New York: Routledge." 
+ 
+Digital-based educational games are computer -based programs designed to create an entertaining learning 
+environment by simulating real -world scenarios (Kapp, 2012). They are much more effective than non -digital 
+game-based learning. (Zhonggen, 2019). The digital game is a computer -based program designed for 
+entertainment and learning purposes by simulating real -world scenarios (Kapp, 2012). It is more effective than 
+non-serious game-based learning (Zhonggen, 2019). 
+
+--- PDF PAGE 6 ---
+Ivgin & Akcay 
+ 
+390 
+ 
+Benefits of GBL and DGBL 
+ 
+Game-based learning is an emerging field of research with significant potential. Many previous studies have 
+shown that learning motivation and efficiency can be increased through educational games. The benefits of digital 
+and educational games, as discussed in the Literature, are presented in Table 2 below. 
+ 
+Table 2. Summarizing the Benefits of GBL and DGBL as Reflected in the Literature 
+Benefits of Games 
+The challenges created by games are conducive to learning (Hamari et al., 2016). 
+Motivates GBL for the improvement of critical thinking (Noroozi et al., 2020) 
+GBL has the potential to promote critical thinking, which is in line with problem -based learning and theories 
+of social conflict (Noroozi et al., 2020). 
+It develops 21st -century general skills such as decision -making, critical thinking, problem -solving, 
+collaboration, and creativity (Anastasiadis et al., 2018; Qian & Clark, 2016; Klopfer & Thompson, 2020). 
+It has a positive impact on student motivation by engaging them in action. (Breien and Wasson, 2021; Hamzeh 
+et al., 2017; Huizenga et al., 2017,). 
+It facilitates learning with increased student participation (de Freitas, 2018; Plass et al., 2015) 
+It can facilitate both cognition and affective and motivational learning (Ke, 2016; Wouters et al., 2013). 
+Educational games effectively improve students' academic performance (Chen, Tseng, et al., 2018; Chian-Wen, 
+2014; Liao et al., 2010; Tokaç et al., 2019). 
+Games allow students to gain various conflicting information and perspectives on controversial issues. 
+(Noroozi et al., 2016) 
+It positively impacts learning outcomes in science and engineering education and STEM. (Chang et al., 2020; 
+Gao, F. et al. 2020; Gui, Y. et al. 2023; Wang, LH. et al. 2020) 
+ 
+Summary of Findings in the Literature 
+ 
+The theoretical background is summarized in Table 3 to clarify existing knowledge and to analyze and support 
+the findings of this study. 
+ 
+Table 3. Information on Some Studies in the Literature on the Effects of Educational and Digital Games on 
+Education, lesson and Academic Success of Student 
+Title Authors/ 
+Year 
+Purpose of Study Method Game name/ 
+type 
+Results 
+EDUTainment: 
+Effectiveness of 
+Game-based 
+Activities in 
+Teaching 
+Lasala N. 
+Jr (2023) 
+This study sought 
+to determine the 
+effectiveness of 
+the developed 
+game-based 
+The quasi-
+experimental 
+study used a 
+mixed-
+method 
+The Conquest: 
+Non-digital 
+game 
+Eco-
+Challenge: 
+The results of this 
+study support the 
+suitability of 
+using game-based 
+activities as 
+
+--- PDF PAGE 7 ---
+International Journal of Technology in Education (IJTE) 
+ 
+391 
+Title Authors/ 
+Year 
+Purpose of Study Method Game name/ 
+type 
+Results 
+Ecosystem Topics activities 
+(GBAs)in terms 
+of conceptual 
+understanding and 
+the nature of 
+student 
+engagement. 
+approach. Game board 
+Eco-dama: 
+Dama Board 
+Eco-Warrior: 
+Board game 
+pedagogical and 
+learning tools. 
+They can improve 
+students' 
+understanding of 
+concepts and their 
+engagement in 
+lessons and the 
+learning process. 
+Effects of game-
+based learning 
+Supports on 
+students' math 
+performance and 
+perceived game 
+flow 
+Pan, Y ., 
+Ke, F. 
+(2023) 
+ 
+ 
+ 
+ 
+ 
+The aim is to 
+investigate the 
+effects of three 
+types of game-
+based learning 
+support, such as 
+modeling, on 
+secondary school 
+students' 
+mathematics 
+achievement and 
+perceived game 
+flow. 
+Pretest–
+posttest 
+experimental 
+design 
+ERebuild: 3D 
+game 
+The findings 
+showed that 
+students' overall 
+math performance 
+was significantly 
+higher than before 
+the game. 
+The Impact of In-
+Classroom Non-
+Digital Game-
+Based Learning 
+Activities on 
+Students 
+Transitioning to 
+Higher Education 
+Balakrishn
+a C. 
+(2023) 
+ 
+ 
+ 
+ 
+ 
+This study 
+explores the 
+impact of in-
+classroom, 
+non-digital game-
+based learning 
+techniques on 
+academic 
+performance, 
+classroom 
+engagement, 
+Moreover, peer 
+interaction among 
+first-year 
+university 
+students studying 
+The mixed 
+methods 
+approach 
+was used in 
+this study, 
+which 
+involves 
+using both 
+quantitative 
+and 
+qualitative 
+approaches. 
+Collaboration-
+based 
+gameplay 
+ 
+Role-play 
+game 
+ 
+Challenge-
+based 
+gameplay 
+ 
+Construction-
+based 
+gameplay 
+In the group 
+component, the 
+average score of 
+the experimental 
+group participants 
+was 86, while the 
+control group 
+participants' 
+average score was 
+71. Collaborative 
+and interactive in-
+class game-based 
+learning activities 
+enabled the 
+experimental 
+group participants 
+
+--- PDF PAGE 8 ---
+Ivgin & Akcay 
+ 
+392 
+Title Authors/ 
+Year 
+Purpose of Study Method Game name/ 
+type 
+Results 
+computing 
+qualification. 
+to perform better 
+in the course. 
+The Affordances 
+of Minecraft 
+Education 
+as a Game-Based 
+Learning Tool for 
+Atomic Structure 
+in Junior High 
+School Science 
+Education 
+Nkadimen
+g, M., 
+Ankiewicz
+, P. (2022). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This article aimed 
+to explore the 
+advantages of 
+Minecraft Edu for 
+learning atomic 
+structure in 
+secondary school 
+by exploring 
+students' 
+experiences using 
+Minecraft Edu as 
+a learning tool. 
+The main research 
+question was: 
+What are the 
+benefits of 
+Minecraft Edu for 
+learning atomic 
+structure in 
+secondary school? 
+Qualitative Minecraft Edu Findings showed 
+that students were 
+motivated and 
+interested in 
+critical thinking 
+while 
+collaborating, and 
+the abstractness of 
+the atomic 
+structure was 
+alleviated. While 
+not all features of 
+Minecraft Edu 
+encourage active 
+and deep learning 
+of abstract 
+concepts, it does 
+include some 
+advantages to 
+make the atomic 
+structure less 
+abstract for 
+students. 
+The effect of 
+digital learning 
+on the academic 
+achievement and 
+motivation of 
+natural sciences 
+learners: a case 
+study of a South 
+African 
+ındependent 
+school 
+ 
+ 
+Ramaila, 
+S., 
+Mpinga, 
+N. P. 
+(2022). 
+The study aimed 
+to examine the 
+effect of digital 
+learning on 
+academic 
+achievement and 
+motivation among 
+grade 9 Natural 
+Sciences learners. 
+ 
+Mixed 
+method 
+approach as 
+part of a 
+quasi-
+experimental 
+design 
+Kahoot and 
+Edpuzzle 
+Significant 
+differences were 
+observed between 
+pre-test and post-
+test scores due to 
+using digital 
+resources. 
+Digital resources 
+positively 
+impacted both 
+academic 
+achievement and 
+learner 
+
+--- PDF PAGE 9 ---
+International Journal of Technology in Education (IJTE) 
+ 
+393 
+Title Authors/ 
+Year 
+Purpose of Study Method Game name/ 
+type 
+Results 
+motivation. 
+Theoretical 
+implications for 
+technology-
+enhanced teaching 
+and learning were 
+discussed. 
+The influence of 
+digital 
+educational 
+games on 
+preschool 
+Children's 
+creative thinking 
+Xiong, Z., 
+Liu, Q., & 
+Huang, X. 
+(2022) 
+It aimed to 
+examine the 
+effectiveness of 
+an educational 
+digital game 
+called Thinking 
+Paradise on the 
+creative thinking 
+of preschool 
+children. 
+Quantitative 
+approach 
+Thinking 
+Paradise 
+The results 
+showed that all 
+indicators of 
+creative thinking 
+were significantly 
+supported in 
+children playing 
+the educational 
+digital game and 
+could effectively 
+improve their 
+creative thinking. 
+Educational 
+computer game 
+for earthquake 
+Yılmaz 
+İnce, E., 
+Sancak, 
+M.E. 
+(2022). 
+This study aims to 
+examine the 
+effectiveness of 
+an educational 
+digital game 
+created using the 
+UNITY program 
+for earthquake 
+education. 
+Design 
+based 
+approach 
+Unity Game 
+Engine 
+The research 
+suggests that the 
+digital game 
+developed could 
+be effective in 
+teaching 
+earthquakes. 
+Different features 
+can be added to 
+the game to make 
+it more effective. 
+Pre-Service 
+Teachers' 
+Experiences in 
+the Development 
+of Educational 
+Science Board 
+Games 
+Botes, W. 
+(2022) 
+This study 
+investigated how 
+science teacher 
+candidates 
+experienced the 
+development of 
+educational 
+science board 
+A qualitative 
+case study 
+considered a 
+focus-group 
+discussion 
+and photo-
+voice 
+methodology 
+Science 360: 
+board game 
+Caught in the 
+Web: board 
+game 
+Findings from the 
+study revealed 
+how their 
+participation in 
+the development 
+of educational 
+sciences board 
+games had an 
+
+--- PDF PAGE 10 ---
+Ivgin & Akcay 
+ 
+394 
+Title Authors/ 
+Year 
+Purpose of Study Method Game name/ 
+type 
+Results 
+games. It is based 
+on a conceptual 
+understanding of 
+game-based 
+education that 
+allows for 
+integrating board 
+game mechanics, 
+board game 
+aesthetics, and 
+board game 
+thought. 
+as data 
+collection. 
+impact on their 
+personal skill 
+development, 
+professional 
+teacher 
+development, 
+development of 
+pedagogical 
+content 
+knowledge, and 
+development of 
+applicable 
+evaluation 
+methodology 
+related to the 
+teaching of the 
+subject. 
+“Student, parent, 
+and teacher 
+perceptions 
+towards digital 
+educational 
+games: How they 
+differ and 
+influence each 
+other.” 
+Xie, J., et. 
+al. (2021). 
+This research 
+aims to examine 
+the perceptions of 
+students, parents, 
+and teachers 
+towards 
+educational 
+digital games, to 
+what extent they 
+affect each other, 
+and how they 
+differ. 
+Mixed-
+method 
+approach 
+Electricity and 
+circuits 
+The research 
+revealed that 
+students, parents, 
+and teachers had a 
+specific digital 
+game experience 
+but limited 
+knowledge about 
+educational digital 
+games. Students' 
+perceptions of 
+educational digital 
+games are more 
+favorable than 
+those of parents 
+and teachers. 
+Using game-
+based learning to 
+support Learning 
+Science: A Study 
+with middle 
+Wang, M., 
+& Zheng, 
+X. (2021). 
+This study 
+implements an 
+experiment to 
+compare the 
+effects of digital 
+Experimenta
+l pre-post 
+test 
+Lazors Game: 
+digital game 
+ 
+Laser Maze: 
+Non-digital 
+Results show that 
+students in GBL 
+groups performed 
+significantly 
+better in the 
+
+--- PDF PAGE 11 ---
+International Journal of Technology in Education (IJTE) 
+ 
+395 
+Title Authors/ 
+Year 
+Purpose of Study Method Game name/ 
+type 
+Results 
+school students and non-digital 
+game approaches. 
+game learning content 
+than those in the 
+traditional lecture 
+group. 
+Game On: 
+Exploring the 
+Effectiveness of 
+Game-based 
+Learning 
+Hartt  M.,  
+et. al. 
+(2020) 
+This study 
+investigates the 
+effectiveness of 
+game-based 
+techniques in 
+improving 
+students' 
+perceptions of 
+learning, 
+participation, and 
+teamwork. 
+Qualitative 
+analysis of 
+the semi-
+structured 
+interviews. 
+Lifetime: 
+board game 
+The study's results 
+demonstrate the 
+potential of game-
+based learning in 
+higher education. 
+Students generally 
+preferred the 
+gamified course 
+and showed more 
+participation. 
+It has been 
+reported that 
+enjoyment, peer 
+interaction, and 
+idea-sharing skills 
+are more effective 
+in gamified 
+lessons. 
+“Digital game-
+based learning in 
+a Shanghai 
+primary-school 
+mathematics 
+class: A case 
+study.” 
+Deng, L., 
+et. al. 
+(2020). 
+This study aimed 
+to examine the 
+perceptions of 
+teachers and 
+students regarding 
+digital game-
+based teaching in 
+the 2nd-grade 
+mathematics 
+course. 
+ Digital game The research data 
+showed that 
+students' interest 
+and motivation in 
+learning increased 
+when digital 
+games were used 
+once a day for six 
+days. 
+ 
+CheMakers: 
+playing a 
+collaborative 
+board game to 
+understand 
+organic chemistry 
+Zhang, Z., 
+et. al. 
+(2020) 
+In this study, a 
+board game was 
+developed to 
+develop students' 
+higher-order 
+thinking skills and 
+Qualitative 
+Survey 
+Chemakers: 
+board game 
+ 
+Surveys before 
+and after the trial 
+showed that 
+CheMakers did 
+not increase 
+students' interest 
+
+--- PDF PAGE 12 ---
+Ivgin & Akcay 
+ 
+396 
+Title Authors/ 
+Year 
+Purpose of Study Method Game name/ 
+type 
+Results 
+ as a teaching tool 
+to support the 
+subject of organic 
+chemistry. This 
+board game 
+explores the 
+importance of 
+analyzing 
+chemical 
+mechanisms. 
+in organic 
+chemistry. 
+ 
+The findings 
+suggest that 
+although game-
+based learning 
+may increase 
+students' 
+confidence in the 
+subject, more is 
+needed to make 
+them more 
+interested. 
+Students find 
+games engaging 
+and fun but also 
+unique, 
+competitive, and 
+collaborative. 
+Learning how to 
+recycle waste 
+using a game 
+Gaggi, O., 
+et. 
+al.(2020). 
+In this paper, we 
+have presented 
+and discussed 
+PadovaGoGreen, 
+a serious game 
+developed to 
+teach people how 
+to match the 
+various types of 
+waste with the 
+corresponding 
+trash can to 
+increase waste 
+recycling 
+effectiveness. 
+Case Study PadovaGoGre
+en, :serious 
+game 
+The severe game 
+proves its 
+effectiveness in 
+achieving the 
+educational goal 
+and allows users 
+to improve their 
+waste separation 
+skills. 
+Junkbox is a 
+waste 
+management 
+Gizzi, V ., 
+et. al 
+(2019) 
+It is a game for 
+children aged 3-5. 
+It teaches them to 
+Case Study Junbox: 
+EducationalGa
+me 
+In line with the 
+data obtained 
+from the research, 
+
+--- PDF PAGE 13 ---
+International Journal of Technology in Education (IJTE) 
+ 
+397 
+Title Authors/ 
+Year 
+Purpose of Study Method Game name/ 
+type 
+Results 
+educational game 
+for preschool 
+kids. 
+ separate 
+recyclable waste 
+and put it in the 
+correct bin. 
+it is stated that the 
+children who 
+played the game 
+enjoyed it and that 
+the purpose of the 
+research was 
+achieved with the 
+game. The game 
+developed will 
+help in waste 
+separation and in 
+getting more 
+information on the 
+subject. 
+Considering 
+students' 
+epistemic beliefs 
+to facilitate their 
+argumentative 
+discourse and 
+attitudinal change 
+with a digital 
+dialogue game 
+Noroozi, 
+O. (2018) 
+The primary 
+purpose of this 
+study is to 
+investigate how 
+students 
+participate in 
+argumentative 
+discourse through 
+a digital dialogue 
+game. The second 
+aim is to shed 
+light on the 
+effects of 
+students' 
+epistemic beliefs 
+on their 
+argumentative 
+discourse in the 
+digital dialogue 
+game, and the 
+third aim is to 
+investigate the 
+role of students' 
+epistemic beliefs 
+ Inter Loc: 
+Digital 
+Dialogue 
+Game 
+The results 
+showed that the 
+digital dialogue 
+game could guide 
+students toward 
+an interactive and 
+argumentative 
+discourse style. 
+Students' 
+epistemic beliefs 
+are an essential 
+factor in attitude 
+change. The game 
+supported critical 
+reasoning and 
+discussion by 
+increasing 
+students' 
+willingness to 
+discuss. 
+ 
+
+--- PDF PAGE 14 ---
+Ivgin & Akcay 
+ 
+398 
+Title Authors/ 
+Year 
+Purpose of Study Method Game name/ 
+type 
+Results 
+in their attitude 
+changes. 
+The Effects of a 
+Digital Dialogue 
+Game on Higher 
+Education 
+Students' 
+Argumentation-
+Based Learning 
+ 
+Noroozi O. 
+(2016) 
+This study 
+explored how 
+undergraduate 
+students engage in 
+argumentation 
+discourse 
+activities 
+designed to 
+intensify the 
+debate. 
+ A pre-test, 
+post-test 
+design 
+ Digital: 
+Dialogue 
+game 
+The results show 
+that the Digital 
+Dialogue Game 
+can facilitate 
+discussion-based 
+learning. The 
+Digital Dialogue 
+Game was also 
+rated positively 
+regarding student 
+satisfaction and 
+learning 
+experience. 
+ 
+Studies in the Literature have shown that the benefits of educational and digital games in an educational context 
+are relatively compatible, and similar results have been reported. However, no study in the Literature examines 
+the success of three different types of games in science education.  The contributions that can be made with this 
+study, which aims to determine the effect of educational and digital games on academic performance in science 
+courses, are presented below. 
+ Contribute to the Literature on educational and digital games.  
+ Will be able to determine whether types of games affect academic performance in the science course. 
+ 
+Method 
+Research Design 
+ 
+The mixed method was employed in this study, which aimed to ascertain the impact of the educational and digital 
+game method employed in the science course on students' academic performance in Humans and Environment 
+and their evaluation of the process (Teddlie & Tashakkori, 2009). The mixed method, the process is executed by 
+concurrently collecting and evaluating qualitative and quantitative data (Punch, 2005). This study employed the 
+sequential explanatory method, a type of mixed method. In this method, quantitative data is collected and analyzed 
+first, followed by the collection and analysis of qualitative data (Creswell & Plano Clark, 2011). 
+ 
+Participants 
+ 
+The study was conducted with a group of 77 5th-grade students from a public school in Turkey who had an  
+Internet connection. The students were around 10 -11 years old a nd enrolled in four different 5th -grade science 
+
+--- PDF PAGE 15 ---
+International Journal of Technology in Education (IJTE) 
+ 
+399 
+classes taught by the same teacher. Each of the four 5th-grade classes was randomly assigned to one of the groups. 
+Table 4 shows how they were distributed among the four groups. 
+ 
+Table 4. Distribution of Participants by Groups 
+Groups Group Definition Number of Students 
+Experimental Group I Digital Games 21 
+Experimental Group II Educational Games 20 
+Experimental Group III Educational and Digital Games’ Combination 18 
+Control Group Traditional Lecture 18 
+ 
+Data Collection Tool 
+Academic Test 
+ 
+We used a questionnaire developed by Ekinci (2019) to measure students' achievement. The achievement test 
+comprises 25 questions and measures secondary school students' science class achievement. For the reliability 
+analysis of this test, which consisted of 25 items, the KR20 value was calculated using the TAP (Test Analysis 
+Program). As a result of the analysis, it was determined that the reliability of the achievement test consisting of 
+25 multiple-choice question items was 100 (KR20 = 0.83). Since this calculated value is considerably higher than 
+the lower value of 0.70 determined for achievement tests, it can be said that the test is reliable. 
+Interview  
+ 
+The second data collection tool employed in this research is the  semi-structured interview form, designed to 
+ascertain the students' perceptions regarding the efficacy of educational and digital games in the classroom. The 
+researchers developed the interview form and subsequently reviewed it by two academics with expertise in science 
+education, who provided feedback on the initial draft of the questions. This led to the creation of the first version 
+of the interview questions. These interview questions were then applied to students who did not participate in the 
+study. The questions that were not understood were edited with the feedback received from these students, and 
+the final version of the questions was created with the guidance of the experts.  
+ 
+The interview questions prepared by the researcher to collect the qualitative data for the research are listed below: 
+1. Have you ever learned educational games? 
+2. What do you think about using educational/digital games in the lesson? 
+ 
+ Implementation 
+ 
+The study employed an experimental design. Students in the four groups were exposed to different teaching 
+approaches (see Fig. 1). The efficacy of three distinct teaching methods, implemented in three experimental groups 
+and one control group, was evaluated in terms of students’ academic achievement. The study spanned five weeks, 
+with four lessons per week. The research period was limited to 20 sessions. 
+
+--- PDF PAGE 16 ---
+Ivgin & Akcay 
+ 
+400 
+Figure 1. Experimental Design for the Learning Activities 
+ 
+Table 5. Information on the Game with Acquirements 
+Weeks Educational 
+Games 
+Group-II 
+Educational 
+&Digital 
+Games 
+Group-III 
+Digital 
+Games 
+ 
+Group-I 
+Acquirements 
+ 
+1st 
+Week 
+ 
+Animal Farm 
+ 
+Catch a mole 
+Animal Farm 
+ 
+Catch a mole 
+ 
+The importance of biodiversity for natural life. 
+ 
+2nd 
+Week 
+ 
+Scienceboard 
+ 
+ 
+ 
+Scienceboard 
+Space attack 
+ 
+Space attack 
+ 
+The importance of biodiversity for natural life. 
+ 
+3th 
+Week 
+ 
+Gameboard 
+ 
+Gameboard 
+Space Sale 
+ 
+Space Sale 
+ 
+The factors that threaten biodiversity 
+ 
+4nd 
+Week 
+ 
+Sciencebox 
+ 
+Çevko- 
+Recycle 
+Science box 
+ 
+Recyclebus 
+The importance of the interaction between 
+humans and the environment 
+ 
+5nd 
+Week 
+ 
+Taboo 
+ 
+Taboo 
+Big Risk! 
+ 
+Falling! 
+ 
+The importance of the interaction between 
+humans and the environment 
+ 
+
+
+--- PDF PAGE 17 ---
+International Journal of Technology in Education (IJTE) 
+ 
+401 
+ 
+Gameboard 
+ 
+Gameboard 
+ 
+Sciencebox 
+ 
+Sciencebox 
+ 
+Science-race 
+ 
+Science-race 
+Figure 2. Educational Game Examples 
+ 
+ 
+Catch a Mole 
+ 
+ 
+Space Sale 
+ 
+Space attack 
+ 
+Çevko 
+ 
+Çevko-Recycle 
+ 
+Falling! 
+Figure 3. Digital Games Examples 
+
+
+--- PDF PAGE 18 ---
+Ivgin & Akcay 
+ 
+402 
+Students in all groups started with the academic test as a pretest. Students of group I used digital games, while 
+students of group II used educational games. Students of group III used a combination of educational games and 
+digital games. Group IV was the  control group and used the traditional lecture method. All four classes were 
+taught by the same teacher. At the end of the study, the same academic test was given as a post -test. Game-play 
+instructions and photographs taken while playing are given in the figures (Figure 2 and 3) regarding the activities 
+for the educational and digital games experimental group. 
+ 
+Data Analysis 
+Quantitative Data Analysis 
+ 
+First, the data from the academic test were analyzed  using an ANOVA that compared the pretest scores of the 
+four groups. The homogeneity of variances test (Levene test) was checked before each ANOVA test —other 
+assumptions (normality, independent observations, and sample independence). Then, paired -sample t-tests were 
+conducted to compare the pretesting and post-test scores within the four groups to determine whether there were 
+significant changes in academic achievement. Finally, an ANCOVA was used to compare all classes' post -test 
+scores, taking the relevan t pretesting scores as covariates. ANCOVA assumptions (normality, homogeneity, 
+homogeneity of regression slopes, linearity, and independent observations) were checked before each ANCOVA 
+test. All the statistical analyses were made using SPSS V22.0. All sta tistically significant results are reported at 
+.05 level. 
+ 
+Qualitative Data Analysis 
+ 
+Data from semi-structured interviews with students in the experimental groups were analyzed using descriptive 
+analysis, frequencies, and percentages, which are qualitative analysis techniques. Themes were created to explain 
+the data in general with codes and to collect these codes under specific categories. To ensure the reliability of the 
+research, the student interviews were coded under the supervision of an expert science educator. 
+ 
+Results 
+Comparison of the Pre-Test Scores 
+ 
+All classes’ pretesting scores were compared in a univariate analysis of variance (ANOVA). Two main 
+assumptions were checked before using an ANOVA. One of them is that the distribution of each sample is normal, 
+and the other is homogeneity of variances, which was tested using the Levene test. 
+ 
+Table 6 Descriptive Statistics and the ANOVA Result of Students’ Academic Achievement Pretesting 
+Groups N Mean+Sd Levene F p 
+Group-I  Digital Games 21 10.33±3.37 2.678 (0.053) 0.432 0.731 
+Group-II Educational Games 20 11.15±3.17 
+Group-III Educational and Digital Games  18 10.72±5.26 
+Group-IV Control Group 18 9.78±3.44 
+
+--- PDF PAGE 19 ---
+International Journal of Technology in Education (IJTE) 
+ 
+403 
+The ANOVA results showed no differences among the conditions on the pretest [F(3, 74) = 0,432; p >0.05]. 
+ 
+Comparison of the Pre- Post-test Scores 
+ 
+ Separate paired sample t-tests showed that each class significantly increased its mean score on the academic test. 
+Table 7 shows the paired samples’ t-test results for each condition. 
+ 
+Table 7. Paired Samples t-test Results for the Academic Test by Condition 
+  Pre-test Post-test   
+ N M Sd M Sd t Sig. 
+Group-I 21 10.33 3.37 15.86 2.89 -10.455 0.000* 
+Group-II 20 11.15 3.17 15.25 3.85 -10.006 0.000* 
+Group-III 18 10.72 5.26 18.72 3.30 -8.097 0.000* 
+Group-IV 18 9.78 3.44 12.94 3.57 -7.210 0.000* 
+ 
+According to the paired samples t -test results shown in Table 7, there is a significant difference in favor of the 
+post-test in the Achievement test scores of Group -I, Group -II, and Group-III students before and after the 
+implementation of educational and digital game -based activities (t= -10455;-10,006;-8,097;-7,210, p< .05). In 
+other words, the academic achievement levels of experimental group students before and after the practices are 
+different. 
+ 
+Comparison of the Post-test Scores 
+ 
+ANCOVA analysis was used to eliminate the effect of pre -test results on post-test results. ANCOVA results are 
+given in Table 8.  
+ 
+Table 8. ANCOVA Results of the Post-test Points Corrected by the Pre-test Scores 
+Source Sum of Square df Mean Square F p Eta square 
+Corrected Model 731.465 4 182.866 35.293 <0.001 0.662 
+İntercept 728.783 1 728.783 140.656 <0.001 0.661 
+Pre Test 425.823 1 425.823 82.184 <0.001 0.533 
+Group 260.469 3 86.823 16.757 <0.001 0.411 
+Error 373.054 72 5.181 - - - 
+Total 20056.000 77 - - - - 
+Corrected total 1104.519 76  - - - 
+ 
+Levene's test analyzed whether the error variances were homogeneous between the groups. According to the result 
+of Levene's test, it was concluded that the error variances were homogeneous between the groups (p=0.565>0.05). 
+Whether the standardized residuals satisfy the assumption of normal distribution was examined by the 
+Kolmogorov-Smirnov test, and the errors satisfy the assumption of normal distribution (p=0.194>0.05). When the 
+
+--- PDF PAGE 20 ---
+Ivgin & Akcay 
+ 
+404 
+results given in Table 8 were analyzed, the difference between the group averages was statistically significant 
+(F=16.757, p<0.001). The effect of pre-test scores on post-test scores was significant (F=82.184, p<0.001). 
+ 
+The finding revealed that the classes differed on the post -test scores [F(3, 74) = 16,757; p = .0001, partial ƞ 2 = 
+0.411].In other words, the post -test scores were significantly different due to the different teaching methods. 
+Furthermore, post hoc analysis was performed to examine specific differences in achievement between the groups 
+(see Table 9). A Tukey's HSD post hoc test revealed that Group III's scores were significantly higher than those 
+of Group II and Group I.  
+ 
+Table 9. Post-hoc Comparisons for the Academic Achievement Test 
+                                                                            Group Standard Deviation Sig. (2- tailed) 
+Digital Games (Group I) 
+Educational 1.118 0.713 0.729 
+Combination -2.622 0.732 <0.004 
+Control 2.565 0.732 <0.004 
+Educational Games (Group II) 
+Digital -1.118 0.713 0.729 
+Combination -3.740 0.740 <0.001 
+Control 1.447 0.746 <0.004 
+Educational and Digital Games’ combination 
+(Group III) 
+Digital 2.622 0.732 <0.004 
+Educational 3.740 0.740 <0.001 
+Control 5.187 0.762 <0.001 
+Control Group 
+Digital -2.565 0.732 <0.004 
+Educational -1.447 0.746 <0.004 
+Combination -5.187 0.762 <0.001 
+ 
+ Interview Results 
+ 
+Regarding the research question, what are the students' remarks on the process of classes with educational games? 
+Initially, "Have you ever learned with educational games?" was asked, and 20 students expressed that they had 
+never had any lessons through games. The frequency levels of the students' answers are presented in Table 10. 
+ 
+Table 10. Answers to the Student's "Have you ever used educational games in your lessons before" Question 
+“Have you ever learned with 
+educational games?” 
+Educational Games Digital Games F Percentage % 
+Yes  4 2 6 30 
+No 6 8 14 70 
+ 
+70% of students said they had not previously used educational or digital games in their lessons. 30% of the students 
+stated that they had previously received education supported by educational games. While only 4 of these students 
+stated that they had experienced educational games, two said they played educational and digital games. Later, 
+
+--- PDF PAGE 21 ---
+International Journal of Technology in Education (IJTE) 
+ 
+405 
+the students were asked, "What do you think about using educational/digital games in the lesson?" The answers 
+are listed in Table 11. 
+ 
+Table 11. The Frequency of Students' Answers to the Question, “What do you think about using 
+educational/digital games in the lesson?” 
+Theme Category Educational 
+Game 
+Digital    
+Game 
+Total (f) 
+ 
+Percentage (%) 
+Cognitive                     
+ 
+Make it easier to understand 7 5 12 60 
+Repetition 4 3 7 35 
+Reinforcement of the topic 5 2 7 35 
+Permanent Learning 6 4 10 50 
+Ease of remembering 8 5 13 65 
+Sentimental 
+ 
+  
+Excited 8 10 18 90 
+Motivation 6 5 11 55 
+Fun 8 8 16 80 
+Eager/ Interest 5 4 9 45 
+ 
+ 
+Student 2 
+ 
+Student 6 
+ 
+Student 10 
+ 
+Student 11 
+Figure 4. Examples of Student Views 
+ 
+The answers to the question “What do you think about using educational/digital games in the lesson?” were 
+categorized under two themes: cognitive aspects and sentimental. It was determined that the students who 
+
+
+--- PDF PAGE 22 ---
+Ivgin & Akcay 
+ 
+406 
+expressed make it easier to understand (60%), Repetition (35%), Permanent Learning (50%), ease of remembering 
+(65%), and Reinforcement (35%) through cognitive aspects. In terms of sentimental aspects, it was determined 
+that the students who expressed educational games made the lesson process exciting  (90%), motivating (55%), 
+fun (80%), and interesting (45%). 
+Student S1 stated, "I had much fun and was looking forward to the next lesson. "When it was my turn, I 
+wanted to play as soon as possible; I was so happy." 
+Student T7 stated, "I had difficulties i n some subjects in science class, but I learned more easily with 
+games." 
+S 12 student said, "It was easier to learn by playing games. I was stressed initially, but I thought it was 
+more enjoyable." 
+Student S18 stated the following: “I got excited when I competed with my friends; the lesson was more 
+enjoyable that way. Sometimes science class can be tedious, but I liked it better this way. 
+ 
+Discussion  
+ 
+This study aimed to investigate the impact of different types of games on the academic achievement of secondary 
+school students. The results showed that the digital and non-digital game-based group outperformed the traditional 
+lecture group. Several empirical studies have found that students in game-based learning classrooms show better 
+learning performance than students in traditional learning classrooms (Arztmann et al., 2023; McLaren et al., 
+2017; Riopel et. 2019; Tsai ve Tsai, 2020; Wang et al., 2022) . It was observed that the students trained through 
+game-based learning were more successful than those in the control group trained through traditional methods. 
+Therefore, it is believed that using games to teach can be more beneficial in different educational settings (Cavus 
+et al., 2011; Giannakos, 2013; Mayo, 2009; Meluso et al., 2012).  
+Students who utilize GBL demonstrate enhanced learning outcomes compared to those who do not. The effect of 
+game-based learning on student achievement is similar to previ ous studies (Baran et al., 2018; Kaya & Elgun, 
+2015; Keçeci et al., 2021; Mc Laren et al., 2017; Wang et al., 2018; Yıldız et al., 2016). Consequently, the 
+integration of GBL may have a favorable impact on student's academic performance (Chen, PY. et al. 2022). 
+ 
+According to Morrison et al. (2019), students need opportunities to use and transfer their acquired knowledge, 
+skills, and practical experience. The possible explanation for the lower success of students in the control group is 
+that traditional teaching methods need to give students more opportunities to actively apply the knowledge they 
+have learned, which reduces their ability to learn and supports their development. From this perspective, games, 
+regardless of the type of game, have a positive effect on student achievement. 
+ 
+Another result of the study is that there is no significant difference in students' science learning between digital 
+and non-digital play groups. The results show that digital and non -digital games have similar positive effects on 
+students' science learning. In the study conducted by Talan et al. (2020), it was seen that the highest overall effect 
+size in terms of game types played was in non-digital games. Some research findings in the Literature report that 
+non-digital games may provide more benefits than digital games (Edwards, 2014; Ernest et al., 2014; Talan et. al, 
+2020; Yang&Chen, 2023; von Gillern & Alaswad, 2016). 
+
+--- PDF PAGE 23 ---
+International Journal of Technology in Education (IJTE) 
+ 
+407 
+The results of this study show that the students who participated in the experimental group (Group -III), where 
+educational and digital games were used together, were more successful. The students in this group are believed 
+to be more successful than the other experimental groups in terms of academic achievement due to the use of 
+educational and digital games. Another reason for the students' higher academic achievement in the experimental 
+group (experimental group -III), in which educational and digital games were integrated, can be attributed to 
+Vygotsky's (social constructivism) theory and Bandura's social learning theory. 
+ 
+The theory (Bandura, 1986) emphasizes that students can learn most of their emotional, cognitive, social, and 
+psychomotor learning skills more effectively through observation. It is also stated that the student's interaction 
+with his friends a nd teacher during observation contributes to developing cognitive functions (Bandura, 1986). 
+Play is believed to influence students' learning greatly (Russ, 2003; Zabelina & Robinson, 2010). Children can 
+express themselves through play and gain experiences to structure their knowledge. 
+ 
+Based on these learning approaches, it can be said that the students who participated in the course conducted with 
+a combination of digital and non-digital educational games were more successful than the students in other groups 
+in gaining experience through observation, practice, communication, and information. In this context, combining 
+digital and non-digital educational games in science education can lead to more effective learning results. We can 
+attribute the reasons why the students in the experimental group, where digital and non-digital educational games 
+were used together, had higher academic achievement scores than the other groups to the fact that they interact 
+with each other, observe the process, and are in constant communication. 
+ 
+According to the types of games played, the highest overall average score belongs to the group of games 
+(Experimental Group -III) in which combinations of digital and non -digital games are used together.  It was 
+concluded that combining d igital and non -digital games may be more effective in students' development and 
+learning, as these games offer more opportunities for peer -to-peer interaction, a more comprehensive range of 
+activities, greater flexibility in content, and the opportunity to learn in different environments. An assessment of 
+the related Literature shows that studies have been conducted to examine the effects of educational and digital 
+games on students' motivation, engagement, self-efficacy, and cognitive develop in science education rather than 
+comparing the effects of different game types on achievement (Chen et al., 2019; Hung et al., 2014; Domínguez 
+et al., 2013; Li & Tsai, 2013; Nietfeld et al., 2014; Wang & Zheng, 2021). 
+ 
+A review of the relevant literature reveals a need  for more research comparing the effects of using these three 
+games on students' science achievement. De Freitas (2007), it is clear that the lack of empirical data supporting 
+game-based learning is one of the main obstacles to adopting games in education.  This situation has prevented 
+understanding how to integrate games into the educational environment and how to use them most effectively 
+(Hartt, 2020). This renders the current study's findings of significant importance in this context. 
+ 
+Interview 
+ 
+As part of the qualitative part of the study, semi -structured interviews were conducted with the students in the 
+
+--- PDF PAGE 24 ---
+Ivgin & Akcay 
+ 
+408 
+experimental groups. The results showed that most students were satisfied with using educational and digital 
+games in science class. It was noted duri ng the interviews that the students in the two groups included in the 
+gaming experiment had similar thoughts. When the interviews with the experimental group students who were 
+educated with digital games were examined, it was received that “make it easier to understand," "fun," and 
+"excitement" had high frequencies. In the interviews conducted with the experimental group of students who were 
+educated with educational game activities, the codes of "Ease of remembering," "fun," and "motivation" came to 
+the fore. In addition, all these content codes are consistent in both experimental groups and support the game -
+based learning approach applied in this study. Interviews with students showed that they enjoyed science lessons 
+with educational and digital game meth ods and wanted to use these game types in other lessons. Game -based 
+learning increases course success, reduces anxiety, and provides a fun learning environment (Lim et a l., 2006). 
+The results of this study align with those of previous studies in the field,  which have consistently demonstrated 
+the positive impact of digital and non-digital features of games compared to traditional teaching (Alrehaili & Al 
+Osman,2019; Chen et al., 2019; Chen,2020; Partovi et al., 2019; Su & Cheng,2015) 
+ 
+Conclusions 
+ 
+The results of this study demonstrated that both educational games and digital games had a positive effect on 
+students' thoughts about science classes. There was no significant difference between the students' thoughts in the 
+experimental group, but they had similar views. The study's findings concluded that educational and digital games 
+positively affected the students' success in the 5 th-grade science class. Student interviews further supported and 
+clarified this finding. The current study suggests several recommendations for researchers, educators, and future 
+developers. This study demonstrated that educational and digital games improved pupil achievement in the 
+"Human and environment" subject. Future research can analyze the effect of educational games on st udents' 
+performance in various units. Moreover, if larger sample sizes and more extended implementation periods are 
+used, it might be able to generalize this beneficial effect. Due to the advantages of educational and digital games, 
+scientists and educatio nal game developers must continue developing and producing new digital games that 
+support science teaching. Consequently, developing more educational and digital games for teaching science can 
+improve the quality of science education. 
+ 
+Acknowledgments  
+ 
+This work has been supported by Yildiz Technical University Scientific Research Projects Coordination Unit 
+under project number FDK-2022- 4853. 
+ 
+References 
+ 
+Alıcı, D. (2016). A research on the effects of educational games in science and technology courses on students ’ 
+academic achievement and knowledge retention (Master ’s thesis). Kahramanmaras¸ Sutcu Imam 
+University,  Kahramanmaras¸, Turkey 
+Alrehaili, E.A., & Osma n, H.A. (2019). A virtual reality role -playing serious game for experiential 
+
+--- PDF PAGE 25 ---
+International Journal of Technology in Education (IJTE) 
+ 
+409 
+learning. Interactive Learning Environments, 30, 922–935. 
+Anastasiadis, T., Lampropoulos, G., & Siakas, K. (2018). Digital Game -based Learning and Serious Games in 
+Education. International Journal of Advances in Scientific Research and Engineering , 4(12), 139 –
+144. https://doi.org/10.31695/ijasre.2018.33016 
+Arnold, M., North, B., Fischer, H., Mueller, J., & Diab, M. (2021). Game-Based Learning in Vet Schools: A 
+Learning Architecture for Educators in V ocational Education. INTED2021 Proceedings, 1(April), 3297–
+3303. https://doi.org/10.21125/inted.2021.0692 
+Arztmann, M., Domínguez Alfaro, J. L., Hornstra, L., Jeuring, J., & Kester, L. (2023). In-game performance: The 
+role of students' socioeconomic status, self -efficacy, and situational interest in an augmented reality 
+game. British Journal of Educational Technology, 00, 1–15. https://doi.org/10.1111/bjet.13395 
+Azizan, I. D., Alias, M., & Mustafa, M. Z. (2021). Effect of game-based learning in vehicle air-conditioning course 
+on cognitive and affective skills of vocational st udents. Journal of Technical Education and 
+Training, 13(3), 146–154. https://doi.org/10.30880/jtet.2021.13.03.014 
+Balakrishnan Nair, B. (2021). Endorsing gamification pedagogy as a helpful strate gy to offset the COVID -19-
+induced disruptions in tourism education.  Journal of Hospitality, Leisure, Sport and Tourism 
+Education, September, 100362. https://doi.org/10.1016/j.jhlste.2021.100362 
+Bandura, A. (1986). Social foundations of thought and action: A social cognitive theory. Prentice-Hall Inc. 
+Baran, M., Maskan, A., & Yaşar, Ş. (2018). I was learning physics through project -based learning game 
+techniques. International Journal of Instruction, 11(2), 221–234. 
+Bodrova, E., & Leong, D. J. (2015). Vygotskian and post-Vygotskian views on children’s play. American  
+Boghian, I., Cojocariu, V . M., Popescu, C. V ., & Mâţӑ, L. (2019). Game-based learning. Using board games in 
+adult education. Journal of Educational Sciences & Psychology, 9(1). 
+Botes, W. (2022). Pre-Service Teachers’ Experiences on the Development of Educational Science Board Games. 
+European Journal of STEM Education, 7(1), 02. https://doi.org/10.20897/ejsteme/11784 
+Breien, F. S., & Wasson, B. (2021). Narrative categorization in digital game ‐based learning: Engagement, 
+motivation & learning. British Journal of Educational Technology, 52(1), 91-111. 
+Brezovszky, B., McMullen, J., Veermans, K., Hannula-Sormunen, M.M., Rodríguez-Aflecht, G., Pongsakdi, N., 
+Laakkonen, E., & Lehtinen, E. (2019). Effects of a mathematics game -based learning environment on 
+primary school students' adaptive number knowledge. Comput. Educ., 128, 63-74. 
+Cardinot, A., & Fairfield, J.A. (2019). Game -Based Learning to Engage Students With Physics and Astronomy 
+Using a Board Game. Int. J. Game Based Learn., pp. 9, 42–57. 
+Cavuş, R., Kulak, B., Berk, H., & Öztuna Kaplan, A. (2011). Game activities in science and technology teaching 
+and adaptation of games in daily life. Science and Technology Teachers Summit, 26 Mart, İstanbul 
+Chang, K. E., Wu, L. J., Weng, S. E., & Sung, Y. T. (2012). Embedding game-based problem-solving phase into 
+problem-posing system for mathematics learning. Computers & Education, 58(2), 775–786. 
+Chen, C. H. (2020). Impacts of augmented reality and a digital game on students’ science learning with reflection 
+prompts in multimedia learning. Educational Technology Research and Development, 68(6), 3057–3076 
+Chen, C. K., Huang, N. T. N., & Hwang, G. J. (2019). Findings and implications of flipped science learning 
+research: A review of journal publications. Interactive Learning Environments. https://doi.org/ 
+10.1080/10494820.2019.1690528 
+
+--- PDF PAGE 26 ---
+Ivgin & Akcay 
+ 
+410 
+Chen, M. H., Tseng, W. T., & Hsiao, T. Y . (2018). The effectiveness of digital game‐based vocabulary learning: A 
+framework‐based view of meta‐analysis. British Journal of Educational Technology, 49(1), 69–77. 
+Chen, PY., Hwang, GJ., Yeh, SY. et al. (2022). Three decades of game-based learning in science and mathematics 
+education: an integrated bibliometric analysis and systematic review.  J. Comput. E duc. 9, 455 –476. 
+https://doi.org/10.1007/s40692-021-00210-y 
+Chian-Wen, K. A. O. (2014). The effects of digital game -based learning task in English as a foreign language 
+contexts: A meta-analysis.  42(2), 113–141. 
+Chu, H.-C., & Hung, C.-M. (2015). Effects of the Digital Game-Development Approach on Elementary School 
+Students’ Learning Motivation, Problem Solving, and Learning Achievement.  International Journal of 
+Distance Education Technologies, 13(1), 87–102. doi:10.4018/ijdet.2015010105 
+Cicchino, M. I. (2015). Using game -based learning to foster critical thinking in student discourse. 
+Interdisciplinary Journal of Problem-Based Learning, 9(2), 1–18. doi:10.7771/1541-5015.1481 
+Clark, D.B., Tanner-Smith, E.E.& Killingsworth, S.S. (2016). Digital Games, Design, and Learning: A Systematic 
+Review and Meta -Analysis. Review of Educational Research, 86 (1), 79 –
+122.https://doi.org/10.3102/003465431558206 
+Creswell, J. W., & Plano Clark, V. L. (2011). Designing and conducting mixed methods research.Thousand Oaks, 
+CA: Sage. 
+Crocco, F., Offenholley, K., & Hernandez, C. (2016). A proof-of-concept study of game-based learning in higher 
+education. Simulation & Gaming, 47(4), 403-422. 
+De Freitas, S. (2006). Learning in Immersive worlds: A review of game-based learning.  
+De Freitas, S. (2018). Are games effective learning tools? A review of educational games. Journal of Educational 
+Technology & Society, 21(2), 74-84. 
+Deng, L., Wu, S., Chen, Y ., & Peng, Z. (2019). Digital game -based learning in a Shanghai primary -school 
+mathematics class: A case study. J. Comput. Assist. Learn., 36, 709-717. 
+Dimitra, K., Konstantinos, K., Christina, Z., & Katerina, T. (2020). Types of Game-Based Learning in Education: 
+A brief state of the art and the implementation in Greece.  The European Educational Researcher, 3(2), 
+87–100. https://doi.org/10.31757/euer.324 
+Dimitrios, B., Labros, S., Nikolaos, K., Koutiva, M., & Athanasios, K. (2013). Traditional teaching methods vs. 
+teaching through the application of information and communication technologies in the accounting field: 
+Quo Vadis?. European Scientific Journal, 9(28) 
+Dominguez, A., Saenz -de-Navarrete, J., de -Marcos, L., Fernandez -Sanz, L., Pages, C., & Martinez -Herraiz, J. 
+(2013). Gamifiying learning experiences: Practical implications and outcomes. Computers & Education, 
+63, 380–392 doi:10.1016/j.compedu.2012.12.020 
+Edwards, S. (2014). Towards contemporary play: Sociocultural theory and the digital-consumerist context. Journal 
+of Early Childhood Research, 12(3), 219–233. doi:10.1177/1476718X14538596 
+Ekinci, R. (2019). Effect of Different Teaching Methods on Academic Achievement, Attitudes Towards Science 
+and Environment in The Human and Environment Relationship Unit. (Master Thesis, Bolu Abant İzzet 
+Baysal University) 
+Ernest, J. M., Causey, C., Newton, A. B., Sharkins, K., Summerlin, J., & Albaiz, N. (2014). Extending the global 
+dialogue about media, technology, screen time, and young children. Childhood Education, 90(3), 182–
+
+--- PDF PAGE 27 ---
+International Journal of Technology in Education (IJTE) 
+ 
+411 
+191. doi:10. 1080/00094056.2014.910046 
+Frost, J.L., Wortham, S.C. & Reifel, S. (2008). Play and Child Development. (3rd Ed.). Upper Saddle River NJ: 
+Pearson Merrill/Prentice-Hall. 
+Gaggi, O., Meneghello, F., Palazzi, C. E., & Pante, G. (2020).  Learning how to recycle waste using a game. 
+Proceedings of the 6th EA I International Conference on Smart Objects and Technologies for Social 
+Good. doi:10.1145/3411170.341125 
+Games, S., & De Carvalho, C. V . (2022). Game -Based Learning, Gamification in Education and Serious 
+Games. Computers, 11(36), 1–4. 
+Gao, F., Li, L., & Su n, Y . (2020). A systematic review of mobile game -based learning in STEM 
+education. Educational Technology Research and Development,  68(4), 1791 –
+1827. https://doi.org/10.1007/s11423-020-09787-0 
+Garris, R., Ahlers, R., & Driskell, J. E. (2002). “Games, motivation, and learning: A research and practice model.” 
+Simulation & gaming, 33(4), 441-467. 
+Gee JP (2007). What video games have to teach us about learning and literacy (Revised and updated edition).  
+Palgrave Macmillan, New York 
+Giannakos, M. N. (2013). Enjoy and learn with educational games: Examining factors affecting learning 
+performance. Computers & Education, 68, 429–439 
+Gizzi, V ., Dio, S.D., & Schillaci, D. (2019). Junkbox  is a waste management educational game for preschool 
+kids. IxD&A, 40. 
+Gui, Y ., Cai, Z., Yang, Y . et al. Effectiveness of digital educational game and game design in STEM learning: a 
+meta-analytic review. IJ STEM Ed 10, 36 (2023). https://doi.org/10.1186/s40594-023-00424-9 
+Gurpinar, C. (2017). The impact of pedagogical play-assisted teaching applications on learning outputs in science 
+teaching (Master’s thesis). Kırıkkale University, Kırıkkale, Turkey. 
+Hamari, J., Shernoff, D. J., Rowe, E., Coller, B., Asbell-Clarke, J. & Edwards, T. (2016). Challenging games help 
+students learn: An empirical study on engagement, flow, and immersion in game -based learning. 
+Computers in Human Behavior, pp. 54, 170–179. 
+Hamzeh, F., Theokaris, C., Rouhana, C., & Abbas, Y . (2017). Application of hands -on simulation games to 
+improve classroom experience. European Journal of Engineering Education, 42(5), 471-481. 
+Hanus, M., & Fox, J. (2015). Assessing the effects of gamific ation in the classroom: A longitudinal study on 
+intrinsic motivation, social comparison, satisfaction, effort, and academic performance. Computers & 
+Education, pp. 80, 152–161. doi:10.1016/j.compedu.2014.08.019. 
+https://doi.org/10.1016/j.compedu.2011.12.019 
+Huizenga, J. C., Ten Dam, G. T., V oogt, J. M., & Admiraal, W. F. (2017). Teacher perceptions of the value of 
+game-based learning in secondary  education. Computers & Education , 110, 105 -115. 
+https://doi.org/10.1016/j.compedu.2017.03.008 
+Huizenga, J., Admiraal, W., Akkerm an, S., & Dam, G. (2009). Mobile game -based learning in secondary 
+education: Engagement, motivation and learning in a mobile city game. Journal of Computer Assisted 
+Learning, 25(4), 332–344. https://doi.org/10.1111/j.1365-2729.2009.00316.x. 
+Hung, C. Y., Sun, J. C. Y., & Yu, P. T. (2015). The benefits of a challenge: Student motivation and flow experience 
+in tablet-PC-game-based learning. Interactive Learning Environments, 23(2), 172–190 
+
+--- PDF PAGE 28 ---
+Ivgin & Akcay 
+ 
+412 
+Hussein, M. H., Ow, S. H., Cheong, L. S., Thong, &Ale Ebrahim, N. (2019). "Effects of Digital Game -Based 
+Learning on Elementary Science Learning: A Systematic Review," in IEEE Access, vol. 7, doi: 
+10.1109/ACCESS.2019.2916324. 
+Hwang, G. J., Hung, C. M., & Chen, N. S. (2014). Improving learning achievements, motivations, and problem-
+solving skills through a peer assessment -based game development approach.  Educational technology 
+research and development, 62, 129-145. İstanbul. 
+J.L. Plass, B.D. Homer, C.K. Kinzer Fo undations of game -based learning.Educ. Psychol.,  50 (2015), pp.  258–
+283, 10.1080/00461520.2015.1122533 
+Jayasinghe, U., & Dharmaratne, A. (2013). Game -based learning vs. gamification from the higher education 
+students’ perspective. Proceedings of 2013 IEEE International Conference on Teaching, Assessment and 
+Learning for Engineering, TALE 2013 , January 2016 , 683 –
+688. https://doi.org/10.1109/TALE.2013.6654524 
+Jurakulovna, T. M., Shavkatovna, R. G., Xakimovna, G. D., & Zoirovna, J. S. (2022). Organization of the process 
+of preschool education and upbringing based on a student -centered approach. International Journal of 
+Early Childhood, 14(03), 2022. 
+Kalogiannakis, M.; Papadakis, S.; Zourmpakis, A.-I. Gamification in Science Education. A Systematic Review of 
+the Literature. Educ. Sci. 2021, 11, 22. https:// doi.org/10.3390/educsci11010022  
+Kapp, K. (2012). The Gamification of Learning and Instruction. Game-Based Methods and Strategies for Training 
+and Education. Pfeiffer, San Francisco, CA. 
+Kaya, S., & Elgün, A. (2015). The influence of instructional games in science teaching on primary students’ 
+achievement. Kastamonu Journal of Education, 23(1), 329–342. 
+Ke, F. (2016). Designing and integrating purposeful learning in game play A systematic review.  Educational 
+Technology Research and Development, pp. 64, 219–244. 
+Kececi, G., Yıldırım, P. &Kırbag Z., F. (2021). Opinions of s econdary school students on the use of mobile 
+augmented reality technology in science teaching. Journal of Science Learning, 4(4), 327 -336. 
+https://doi.org/10.17509/jsl.v4i4.32310 
+Khan, A., Ahmad, F., & Malik, M. M. (2017). Use of digital game based learning and gamiﬁcation in secondary 
+school science: The eﬀect on student engagement, learning and gender diﬀerence. Education & 
+Information Technologies, 22(6), 2767–2804. https://doi.org/10.1007/s10639‑017‑9622‑1 
+Klopfer, E., & Thompson, M. (2020). 16 Game -Based Learning in Science, Technology, Engineering, and 
+Mathematics. Handbook of game-based learning, 387. 
+Lasala, N.J. (2023). EDUTainment: Eff ectiveness of Game -based Activities in Teaching Ecosystem 
+Topics. Recoletos Multidisciplinary Research Journal. 
+Lester, J. C., Spires, H. A., Nietfeld, J. L., Minogue, J., Mott, B. W., & Lobene, E. V . (2014). Designing game -
+based learning environments for elementary science education: A narrative-centered learning perspective. 
+Information Sciences, 264, 4-18.  
+Li, M. C., & Tsai, C. C. (2013). Game-based learning in science education: A review of relevant research. Journal 
+of Science Education and Technology, 22(6), 877–898. 
+Li, Y ., Huang, Z., Jiang, M., & Ting -Wen, C. (2016). The effect on pupils ’ science performance and problem 
+solving ability through Lego: An engineering design -based modeling approach. Journal of Educational 
+
+--- PDF PAGE 29 ---
+International Journal of Technology in Education (IJTE) 
+ 
+413 
+Technology & Society, 19(3), 143-156.  
+Liao, Y . K. (2010, March). Game-based learning vs. traditional instruction: A meta-analysis of thirty-eight studies 
+from Taiwan. In Society for Information Technology & Teacher Education International Conference (pp. 
+1491-1498). Association for the Advancement of Computing in Education (AACE). 
+Lim, C. P., Nonis, D., & Hedberg, J. (2006). Gaming in a 3D multiuser virtual environment: Engaging students 
+in science lessons. British Journal of Educational Technology, 37(2), 211-231. 
+Lin, C. H., Liu, E. Z . F., Chen, Y . L., Liou, P. Y ., Chang, M., Wu, C. H., & Yuan, S. M. (2013). Game -based 
+remedial instruction in mastery learning for upper -primary school students. Journal of Educational 
+Technology & Society, 16(2), 271-281 
+Linaza, J. (1984). Piaget’s Marbles: The study of children’s games and their knowledge of rules. Oxford Review 
+of Education, 10(3), 271–274.  
+Maxwell Hartt, Hadi Hosseini & Mehrnaz Mostafapour (2020). Game On: Exploring the Effectiveness of Game-
+based Learning, Planning Practice & Research, DOI: 10.1080/02697459.2020.1778859 
+Mayo, M. J. (2007). Games for science and engineering education. Communications of the ACM, 50(7), 30–35.  
+Mayo, M. J. (2009). Video games: A route to large-scale STEM education Science, 323(5910), 79–82.  
+McLaren, B. M., Adams, D. M., Mayer, R. E., & Forlizzi, J. (2017). A computer -based game that promotes 
+mathematics learning more than a conventional approach.  International Journal of Game -Based 
+Learning (IJGBL), 7(1), 36–56. https://doi.org/10.4018/IJGBL.2017010103 
+Meluso, A., Zheng, M., Spires, H., & Lester, J. (2012). Enhancing 5th Graders’ Science Content Knowledge and  
+Morrison, G. R., Ross, S. J., Morrison, J. R., & Kalman, H. K. (2019). Designing effective instruction. Wiley. 
+Nietfeld, J. L., Shores, L. R., & Hofmann, K. F. (2014). Self-regulation and gender within a game-based  
+Nkadimeng M  and Ankiewicz P. (2022). The Affordances of Minecraft Education as a Game -Based Learning 
+Tool for Atomic Structure in Junior High School Science Education.  Journal of Science Education and 
+Technology. 10.1007/s10956-022-09981-0. 31:5. (605-620). Online publication date: 1-Oct-2022. 
+Noroozi O., McAlister S., Mulder M. (2016). Impacts of a digital dialogue game and epistemic beliefs on 
+argumentative discourse and willingness to argue.  The International R eview of Research in Open and 
+Distributed Learning, 17(3), 208–230. https://doi.org/10.19173/irrodl.v17i3.2297 
+Noroozi, O. (2016). 'The Effects of a Digital Dialogue Game on Higher Education Students’ Argumentation-Based 
+Learning.' World Academy of Science, Engineering and Technology, Open Science Index 120, 
+International Journal of Educational and Pedagogical Sciences, 10(12), 4062–4065. 
+Noroozi, O. (2018). Considering students ’ epistemic bel iefs to facilitate their argumentative discourse and 
+attitudinal change with a digital dialogue game.  Innovations in Education and Teaching 
+International, 55(3), 357–365. 
+Noroozi, O., Dehghanzadeh, H., & Talaee, E. (2020). A systematic review on the impacts of game-based learning 
+on argumentation skills. Entertainment Computing, 35, 100369. 
+Oblinger D (2004). The next generation of educational engagement. J Interact Media Educ 8. Retrieved 
+from http://jime.open.ac.uk/jime/article/viewArticle/2004-8-oblinger/198 
+Oliveira, R. P., de Souza, C. G., Reis, A. da C., & de Souza, W. M. (2021). Gamification in e -learning and 
+sustainability: A theoretical framework. In  Sustainability ( Switzerland) (V ol. 13, Issue 
+21). https://doi.org/10.3390/su132111945 
+
+--- PDF PAGE 30 ---
+Ivgin & Akcay 
+ 
+414 
+Pan, Y ., Ke, F.(2023). Effects of game-based learning supports on students’ math performance and perceived game 
+flow. Education Tech Research Dev 71, 459–479. https://doi.org/10.1007/s11423-022-10183-z 
+Pan, Y ., Ke, F., & Xu, X. (2022). A systematic review of the role of learning games in fostering mathematics 
+education in 
+K12settings. EducationalResearchReview, 36(100448. https://doi.org/10.1016/j.edurev.2022.100448 
+Partovi, T., & Razavi, M.R. (2019). The effect of game -based learning on academic achievement motivation of 
+elementary school students. Learning and Motivation. 
+Prensky, M. (2001). Fun, play, and games: What makes games engaging. Digital Game-Based Learning, 5(1), 5–
+31 
+Prensky, M. (2003). Digital game-based learning. Computers in Entertainment (CIE), 1(1), 21–21. 
+Punch, K. (2005). Introduction to Social Research Quantitative and Qualitative Approaches . (2nd ed.) SAGE 
+Publications Ltd. 
+Qian, M., & Clark, K. R. (2016). Game -based Learning and 21st century skills: A review of recent 
+research. Computers in Human Behavior, pp. 63, 50–58. https://doi.org/10.1016/j.chb.2016.05.023 
+              Qualitative approached in the social and behavioral sciences. London: SAGE 
+Ramaila, S., & Mpinga, N. (2022). The Effect of Digital Learning on the Academic Achievement and Motivation 
+of Natural Sciences Learners: A Case Study of a South African Independent School.  International 
+Journal of Higher Education. 
+Riopel, M., Nenciovici, L., Potvin, P., Chastenay, P., Charland, P., Sarrasin, J. B., & Masson, S. (2019). Impact of 
+serious games on science learning achievement compared with more conventional instruction: An 
+overview and a meta-analysis. Studies in Science Education, 55, 169–214. https://doi.org/10.1080/03057 
+267.2019.1722420 
+Roodt, S., & Ryklief, Y . (2019). Using digital game -based learning to improve the academic efficiency of 
+vocational education students.  International Journa l of Game -Based Learning,  9(4), 45 –
+69. https://doi.org/10.4018/IJGBL.2019100104 
+Russ, S. W. (2003). Play and creativity: Developmental issues. Scandinavian Journal of Educational Research,  
+pp. 47, 291–303 
+Sezgin, S. (2016). Gamification of learning and teaching: Game -based methods and strategies for study and 
+education. Journal of Open Education Applications and Research-AuAd, 2(1), 187–197. 
+Song, D., Karimi, A., & Kim, P. (2016). A Remotely Operated Science Experiment framework for underresourced 
+schools. Interactive Learning Environments, 24(7), 1706–1724. 
+Su, C‐H., & Cheng, C‐H. (2015). A mobile gamification learning system for improving learning motivation and 
+achievements. Journal of Co mputer Assisted Learning, 31 (3), 268 –
+286. https://doi.org/10.1111/jcal.12088 
+Su, H. L., & Hsieh, H. Y. (2006). The study of science games incorporated into elementary school natural science 
+and technology instructions on problem -solving ability.  Journal of Scientific and Technological 
+Studies, 40(1), 47-68. 
+Sung, H. Y ., & Hwang, G. J. (2013). A collaborative game-based learning approach to improving students' learning 
+performance in science courses. Computers & Education, 63, 43-51. 
+Talan T, Doğan Y & Batdı  V . (2020). Efficiency of digital and non -digital educational games: A comparative 
+
+--- PDF PAGE 31 ---
+International Journal of Technology in Education (IJTE) 
+ 
+415 
+meta-analysis and a meta-thematic analysis, Journal of Research on Technology in Education, 52:4, 474–
+514, DOI: 10.1080/15391523.2020.1743798 
+Teddlie, C. & Tashakkori, A. (2009). Foundations of mixed methods research: Integrating quantitative and  
+Terri, F. (2014). Mathematics achievement with digital game-based learning in high school algebra one classes. 
+(Doctoral Dissertations and Projects) (p. 794). http://digitalcommons.liberty.edu/doctoral/794 
+Tokaç, Ü., Novak, E., & Thompson, C. G. (2018). Eﬀects of game -based learning on students ’ mathematics 
+achievement: A meta-analysis. Journal of Computer Assisted Learning.   
+Tomlinson, B., & Masuhara, H. (2009). Playing to learn: A review of physical games in second language 
+acquisition. Simulation & Gaming, 20(10), 1–26. doi:10.1177/1046878109339969 
+Tsai, Y . L., & Tsai, C. C. (2020). A meta-analysis of research on digital game-based science learning. Journal of 
+Computer Assisted Learning, 36(3), 280–294. https://publons.com/publon/10.1111/jcal.12430 
+Vlachopoulos, D., & Makri, A. (2017). The effect of games and simulations on higher education: a systematic 
+literature review. International Journal of Educational Technology in Higher Education, 14. 
+von Gillern, S., & Alaswad, Z. (2016). Games and game-based learning in instructional design. The International 
+Journal of Technologies in Learning, 23(4), 1–7. 
+Wang, J., Stebbins, A., & Ferdig, R. E. (2022). Examining the effects of students' self -efficacy and prio r 
+knowledge on learning and visual behavior in a physics game. Computers & Education, 178, 104405. 
+https://doi. org/10.1016/j.compedu.2021.104405 
+Wang, L.-H., Chen, B., Hwang, G. -J., Guan, J.-Q., & Wang, Y .-Q. (2022). Eﬀects of digital game -based STEM 
+education on students’ learning achievement: A meta-analysis. International Journal of STEM Education, 
+9(1), 1–13. https:// doi. org/ 10. 1186/ s40594- 022- 00344-0 
+Wang, M., & Zheng, X. (2021). Using game -based learning to support learning science: A Study wi th middle 
+school students. The Asia-Pacifc Education Researcher, 30(2), 167–176. 
+Wang, M., & Zheng, X. (2021). Using game -based learning to support learning science: A study with middle 
+school students. The Asia-Pacific Education Researcher, 30(2), 167–176. 
+Wang, S. H., Chang, S. C., Hwang, G. J., & Chen, P. Y. (2018). A microworld -based role -playing game 
+development approach to engaging students in interactive, enjoyable, and effective mathematics learning. 
+Interactive Learning Environments, 26(3), 411–423. doi:10.1080/10494820.2017.1337038 
+Whitton, N. (2010). Game engagement theory and adult learning. Simulation & Gaming, pp. 42, 596–609. 
+Wouters, P., Van Nimwegen, C., Van Oostendorp, H., & Van Der Spek, E.  D. (2013). A meta -analysis of the 
+cognitive and motivational effects of serious games. Journal of Educational Psychology, 105(2), 249. 
+Wu, W. H., Hsiao, H. C., Wu, P. L., Lin, C. H., & Huang, S. H. (2012). Investigating the learning -theory 
+foundations of game-based learning: A meta-analysis. Journal of Computer -Assisted learning, pp. 28, 
+265–279 
+Xie, J., Wang, M., & Hooshyar, D. (2021). Student, parent, and teacher perceptions towards digital educational 
+games: How they differ and influence each other. Kno wledge Management & E-Learning, 13(2), 142– 
+160. https://doi.org/10.34105/j.kmel.2021.13.008 
+Xiong, Z., Liu, Q., & Huang, X. (2022). The influence of digital educational games on preschool Children's 
+creative thinking. Comput. Educ., 189, 104578. 
+Yang, K., & Chen, C.Y . (2023). Effects of non-digital games integrated with digital games for advancing fifth 
+
+--- PDF PAGE 32 ---
+Ivgin & Akcay 
+ 
+416 
+graders' spatial reasoning abilities. Educ. Inf. Technol., 29, 6341-6356. 
+Yang, Y. T. C., & Chang, C. H. (2013). Empowering students through digital game authorship: Enhancing 
+concentration, critical thinking, and academic achievement.  Computers & Education , 68, 334 -
+344.https://doi.org/10.1016/j.compedu.2013.05.023 
+Yıldız, E., Şimşek, Ü., & Araz, H. (2016). The effect of the educational game method on academic achievement 
+and motivation towards science learning in teaching the circulatory system. Mustafa Kemal University, 
+Institute of Social Sciences, 13(36), 20–32.  
+Yildiz, Y . (2022). Ethics in education and the ethical dimensions of the teaching profession. ScienceRise, (4), 38-
+45. 
+Yılmaz İnce, E., & Sancak, M. E. (2022). Educational Computer Game for Earthquake. Journal of Learn ing and 
+Teaching in Digital Age, 7(1), 99-107. https://doi.org/10.53850/joltida.1000528 
+Yu, Z., Gao, M., & Wang, L. (2021). The Effect of Educational Games on Learning Outcomes, Student Motivation, 
+Engagement and Satisfaction.  Journal of Educational Computing Research , 59(3), 522 -
+546. https://doi.org/10.1177/0735633120969214 
+Zabelina, D. L., & Robinson, M. D. (2010). Child’s play: Facilitating the originality of creative output by a 
+priming manipulation. Psychology of Aesthetics, Creativity, and the Arts, 4(1), 57–65. 
+Zhang, Z., Muktar, P., Wijaya Ong, C.I., Lam, Y ., & Fung, F.M. (202 0). CheMakers: Playing a Collaborative 
+Board Game to Understand Organic Chemistry. Journal of Chemical Education. 
+Zhonggen, Y . (2019). A meta-analysis of the use of serious games in education over a decade.  International 
+Journal of Computer Games Technology, 2019. 
+Zhonggen, Y . (2019). A Meta-Analysis of Use of Serious Games in Education over a Decade.  International 
+Journal of Computer Games Technology, 2019(3). https://doi.org/10.1155/2019/4797032 
+ 
+Author Information 
+Asli Bahar Ivgin 
+ https://orcid.org/0000-0003-0580-6065 
+Yildiz Technical University 
+Davutpasa Campus, Faculty of Education, Istanbul 
+Turkiye 
+Contact e-mail: aslicelikb@gmail.com 
+Hakan Akcay 
+ https://orcid.org/0000-0003-0307-661X 
+Bogazici University 
+Istanbul 
+Turkiye 
+ 

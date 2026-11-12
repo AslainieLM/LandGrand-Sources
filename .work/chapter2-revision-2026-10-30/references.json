@@ -1,0 +1,158 @@
+[
+  {
+    "id": "andrews",
+    "author": "Andrews, G. D. M., Labishak, G. D., Brown, S. R., Isom, S. L., Pettus, H. D., & Byers, T.",
+    "year": "2020",
+    "title": "Teaching with digital 3D models of minerals and rocks",
+    "journal": "GSA Today",
+    "volume": "30",
+    "issue": "9",
+    "pages": "42–43",
+    "url": "https://doi.org/10.1130/GSATG464GW.1"
+  },
+  {
+    "id": "brown",
+    "author": "Brown, J. S., Collins, A., & Duguid, P.",
+    "year": "1989",
+    "title": "Situated cognition and the culture of learning",
+    "journal": "Educational Researcher",
+    "volume": "18",
+    "issue": "1",
+    "pages": "32–42",
+    "url": "https://doi.org/10.3102/0013189X018001032"
+  },
+  {
+    "id": "buray",
+    "author": "Buray, A. A., & Alferez, R. C.",
+    "year": "2025",
+    "title": "Digital game-based learning: Its contribution to numeracy skills among Grade 1 learners",
+    "journal": "Psychology and Education: A Multidisciplinary Journal",
+    "volume": "34",
+    "issue": "5",
+    "pages": "592–602",
+    "url": "https://doi.org/10.70838/pemj.340504"
+  },
+  {
+    "id": "calvo",
+    "author": "Calvo, G., & Lucha, P.",
+    "year": "2024",
+    "title": "Virtual mineralogical museums and mineral websites as learning agents: Analysis of how minerals are represented",
+    "journal": "Geosciences",
+    "volume": "14",
+    "issue": "9",
+    "article": "235",
+    "url": "https://doi.org/10.3390/geosciences14090235"
+  },
+  {
+    "id": "chung",
+    "author": "Chung, C.-H., & Pan, H.-L. W.",
+    "year": "2023",
+    "title": "Assessing the effects of flow, social interaction, and engagement on students’ gamified learning: A mediation analysis",
+    "journal": "Sustainability",
+    "volume": "15",
+    "issue": "2",
+    "article": "983",
+    "url": "https://doi.org/10.3390/su15020983"
+  },
+  {
+    "id": "dong",
+    "author": "Dong, Z., Chiu, M. M., Zhou, S., & Zhang, Z.",
+    "year": "2024",
+    "title": "The effect of mobile learning on school-aged students’ science achievement: A meta-analysis",
+    "journal": "Education and Information Technologies",
+    "volume": "29",
+    "pages": "517–544",
+    "url": "https://doi.org/10.1007/s10639-023-12240-3",
+    "issue": "1"
+  },
+  {
+    "id": "geologyrocks",
+    "author": "Fannyflamingo.",
+    "year": "n.d.",
+    "title": "Geology rocks!",
+    "type": "Video game",
+    "publisher": "itch.io",
+    "url": "https://fannyflamingo.itch.io/geology-rocks"
+  },
+  {
+    "id": "ford",
+    "author": "Ford, D. J.",
+    "year": "2005",
+    "title": "The challenges of observing geologically: Third graders’ descriptions of rock and mineral properties",
+    "journal": "Science Education",
+    "volume": "89",
+    "issue": "2",
+    "pages": "276–295",
+    "url": "https://doi.org/10.1002/sce.20049"
+  },
+  {
+    "id": "garzon",
+    "author": "Garzón, J., Burgos, D., Kinshuk, & Tlili, A.",
+    "year": "2025",
+    "title": "Mobile learning significantly enhances student learning gains: A meta-analysis and research synthesis",
+    "journal": "Computers & Education",
+    "volume": "238",
+    "article": "105415",
+    "url": "https://doi.org/10.1016/j.compedu.2025.105415"
+  },
+  {
+    "id": "hodges",
+    "author": "Hodges, G. W., & Flanagan, K.",
+    "year": "2026",
+    "title": "Establishing a model for serious science game design for elementary learners: A longitudinal, mixed methods study of serious game design mechanics that facilitate science learning",
+    "journal": "Science Education",
+    "volume": "110",
+    "issue": "2",
+    "pages": "501–524",
+    "url": "https://doi.org/10.1002/sce.70020"
+  },
+  {
+    "id": "ivgin",
+    "author": "Ivgin, A. B., & Akcay, H.",
+    "year": "2024",
+    "title": "The impact of using educational and digital games on middle school students science achievement",
+    "journal": "International Journal of Technology in Education",
+    "volume": "7",
+    "issue": "3",
+    "pages": "386–416",
+    "url": "https://doi.org/10.46328/ijte.781"
+  },
+  {
+    "id": "mayer",
+    "author": "Mayer, R. E.",
+    "year": "2024",
+    "title": "The past, present, and future of the cognitive theory of multimedia learning",
+    "journal": "Educational Psychology Review",
+    "volume": "36",
+    "article": "8",
+    "url": "https://doi.org/10.1007/s10648-023-09842-1"
+  },
+  {
+    "id": "docduck",
+    "author": "Pezzetti, A.",
+    "year": "n.d.",
+    "title": "DocDuck: Rock cycle",
+    "type": "Video game",
+    "publisher": "Havana24",
+    "url": "https://www.havana24.net/index.php?pag=instructional_games&sub=docduck_rock_cycle"
+  },
+  {
+    "id": "rodriguez",
+    "author": "Rodríguez-Ferrer, J. M., Manzano-León, A., Fernández-Jiménez, C., Luque de la Rosa, A., Fernández-Campoy, J. M., & Aguilar-Parra, J. M.",
+    "year": "2023",
+    "title": "Shall we play together? Game-based learning for engagement and classroom climate in Spanish socially deprived communities",
+    "journal": "Frontiers in Psychology",
+    "volume": "14",
+    "article": "1163441",
+    "url": "https://doi.org/10.3389/fpsyg.2023.1163441"
+  },
+  {
+    "id": "openuniversity",
+    "author": "The Open University.",
+    "year": "n.d.",
+    "title": "The Digital Geology Kit",
+    "type": "Digital collection",
+    "publisher": "The OpenScience Laboratory",
+    "url": "https://learn5.open.ac.uk/go/digitalkit"
+  }
+]

@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-01",
+  "chapter_pages": 10,
+  "bibliography_pages": 3,
+  "chapter_words_native": 2391,
+  "chapter_words_tokenized": 2441,
+  "v1_words_tokenized": 2376,
+  "maximum_sentence_words": 24,
+  "matched_citations_and_references": 15,
+  "live_word_and_pdf_reference_targets": 15,
+  "this_section_openings": 4,
+  "objective_order": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "replaced_original_paragraph_indices": [
+    4,
+    5,
+    6,
+    12,
+    22,
+    37
+  ],
+  "new_body_paragraphs": 1,
+  "other_paragraphs_and_reference_entries_preserved": true,
+  "package_changes": {
+    "Land Grand - Chapter II - Revised - v2.docx": [
+      "word/document.xml"
+    ],
+    "Land Grand - Chapter II - APA References - v2.docx": [
+      "word/document.xml",
+      "word/_rels/document.xml.rels"
+    ]
+  },
+  "originals_and_v1_preserved": true,
+  "vault_files_unchanged": 84,
+  "source": {
+    "source_url": "https://spiral.imperial.ac.uk/server/api/core/bitstreams/11bbe6ea-6693-4141-ba42-a7bf620726b8/content",
+    "sha256": "326067b3a4c5fbea081732505d73733818fecf2c5e21c6e8301f6a45319f325b",
+    "pdf_pages": 32,
+    "crossref": {
+      "title": [
+        "The task-attention theory of game learning: a theory and research agenda"
+      ],
+      "author": [
+        {
+          "given": "Joe",
+          "family": "Cutting",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Theatre, Film, Television and Interactive Media, Digital Creativity Labs, University of York, York, UK"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sebastian",
+          "family": "Deterding",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Faculty of Engineering, Dyson School of Design Engineering, Imperial College London, London, UK"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "volume": "39",
+      "issue": "5-6",
+      "page": "257-287",
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            4,
+            19
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            11
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            4,
+            19
+          ]
+        ]
+      },
+      "URL": "https://doi.org/10.1080/07370024.2022.2047971"
+    }
+  },
+  "source_reading": "Full original article main text, PDF pages 2–26 (printed 257–281), plus published cover metadata. References were not independently verified.",
+  "visual_review": "All 10 final chapter and 3 bibliography page PNGs inspected at 120 DPI. No clipping, overlap, stranded headings or near-empty continuation page.",
+  "uncompleted_checks": [
+    "Adviser approval of anchor theory",
+    "Curriculum/content validation and local observation details",
+    "Full text of unchanged Dong, Garzon and Ford partial-access sources",
+    "Game implementation, device tests and measured learning; not part of this manuscript revision"
+  ],
+  "output_hashes": {
+    "D:\\Projects\\LandGrand-Sources\\Deliverables\\Chapter II Revision 2026-11-01\\Land Grand - Chapter II - Revised - v2.docx": "a3fb29314470aa1c2b7d546948d74ab351ba2e25a329e2193e6d9dda505808ae",
+    "D:\\Projects\\LandGrand-Sources\\Deliverables\\Chapter II Revision 2026-11-01\\Land Grand - Chapter II - APA References - v2.docx": "e6ab8ddf2bb6ef5c0350eeeba46f0d3a2062535c1a83c8d5c2d42f6b81c0652f"
+  }
+}

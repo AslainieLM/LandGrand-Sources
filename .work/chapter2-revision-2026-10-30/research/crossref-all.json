@@ -1,0 +1,759 @@
+[
+  {
+    "DOI": "10.1130/gsatg464gw.1",
+    "title": [
+      "Teaching with Digital 3D Models of Minerals and Rocks"
+    ],
+    "author": [
+      {
+        "given": "Graham",
+        "family": "Andrews",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gabrielle",
+        "family": "Labishak",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sarah",
+        "family": "Brown",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Shelby",
+        "family": "Isom",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Holly",
+        "family": "Pettus",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Trevor",
+        "family": "Byers",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "GSA Today"
+    ],
+    "volume": "30",
+    "issue": "9",
+    "page": "42-43",
+    "article-number": null,
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "published-online": null,
+    "URL": "https://doi.org/10.1130/gsatg464gw.1"
+  },
+  {
+    "DOI": "10.1016/j.compedu.2025.105415",
+    "title": [
+      "Mobile learning significantly enhances student learning gains: A meta-analysis and research synthesis"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0374-8570",
+        "authenticated-orcid": false,
+        "given": "Juan",
+        "family": "Garzón",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0498-1101",
+        "authenticated-orcid": false,
+        "given": "Daniel",
+        "family": "Burgos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3923-9003",
+        "authenticated-orcid": false,
+        "family": "Kinshuk",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1449-7751",
+        "authenticated-orcid": false,
+        "given": "Ahmed",
+        "family": "Tlili",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Computers &amp; Education"
+    ],
+    "volume": "238",
+    "issue": null,
+    "page": "105415",
+    "article-number": "105415",
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          12
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          12
+        ]
+      ]
+    },
+    "published-online": null,
+    "URL": "https://doi.org/10.1016/j.compedu.2025.105415"
+  },
+  {
+    "DOI": "10.3102/0013189x018001032",
+    "title": [
+      "Situated Cognition and the Culture of Learning"
+    ],
+    "author": [
+      {
+        "given": "John Seely",
+        "family": "Brown",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Institute for Research on Learning, 2550 Hanover Street, Palo Alto, California 94304."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Allan",
+        "family": "Collins",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute for Research on Learning, 2550 Hanover Street, Palo Alto, California 94304."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Paul",
+        "family": "Duguid",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "BBN Inc, 10 Moulton Street, Cambridge, Massachusetts 02238"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Educational Researcher"
+    ],
+    "volume": "18",
+    "issue": "1",
+    "page": "32-42",
+    "article-number": null,
+    "published": {
+      "date-parts": [
+        [
+          1989,
+          1
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1989,
+          1
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          1989,
+          1,
+          1
+        ]
+      ]
+    },
+    "URL": "https://doi.org/10.3102/0013189x018001032"
+  },
+  {
+    "DOI": "10.1002/sce.70020",
+    "title": [
+      "Establishing a Model for Serious Science Game Design for Elementary Learners: A Longitudinal, Mixed Methods Study of Serious Game Design Mechanics That Facilitate Science Learning"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-2288-9002",
+        "authenticated-orcid": false,
+        "given": "Georgia W.",
+        "family": "Hodges",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Mathematics, Science, and Social Education University of Georgia Athens Georgia USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kayla",
+        "family": "Flanagan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Mathematics, Science, and Social Education University of Georgia Athens Georgia USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Science Education"
+    ],
+    "volume": "110",
+    "issue": "2",
+    "page": "501-524",
+    "article-number": null,
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          20
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          3
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          20
+        ]
+      ]
+    },
+    "URL": "https://doi.org/10.1002/sce.70020"
+  },
+  {
+    "DOI": "10.70838/pemj.340504",
+    "title": [
+      "Digital Game-Based Learning: Its Contribution to Numeracy Skills among Grade 1 Learners"
+    ],
+    "author": [
+      {
+        "given": "Aimee",
+        "family": "Buray",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Andales Integrated School  Department of Education – Philippines"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Reynilda",
+        "family": "Alferez",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "St. Peter’s College – Philippines"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Psychology and Education: A Multidisciplinary Journal"
+    ],
+    "volume": "34",
+    "issue": "5",
+    "page": "592-602",
+    "article-number": "PEMJ3280",
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          27
+        ]
+      ]
+    },
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          27
+        ]
+      ]
+    },
+    "URL": "https://doi.org/10.70838/pemj.340504"
+  },
+  {
+    "DOI": "10.3390/geosciences14090235",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "DOI": "10.3390/su15020983",
+    "title": [
+      "Assessing the Effects of Flow, Social Interaction, and Engagement on Students’ Gamified Learning: A Mediation Analysis"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-2372-1295",
+        "authenticated-orcid": false,
+        "given": "Chih-Hung",
+        "family": "Chung",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Educational Technology, Tamkang University, New Taipei City 25137, Taiwan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6460-2049",
+        "authenticated-orcid": false,
+        "given": "Hui-Ling Wendy",
+        "family": "Pan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Education and Futures Design, Tamkang University, New Taipei City 25137, Taiwan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Sustainability"
+    ],
+    "volume": "15",
+    "issue": "2",
+    "page": "983",
+    "article-number": null,
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          5
+        ]
+      ]
+    },
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          5
+        ]
+      ]
+    },
+    "URL": "https://doi.org/10.3390/su15020983"
+  },
+  {
+    "DOI": "10.1007/s10639-023-12240-3",
+    "title": [
+      "The Effect of Mobile Learning on School-Aged Students’ Science Achievement: A Meta-analysis"
+    ],
+    "author": [
+      {
+        "given": "Zehua",
+        "family": "Dong",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ming Ming",
+        "family": "Chiu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0205-7698",
+        "authenticated-orcid": false,
+        "given": "Shuqi",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zihong",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Education and Information Technologies"
+    ],
+    "volume": "29",
+    "issue": "1",
+    "page": "517-544",
+    "article-number": null,
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          11
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          1
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          11
+        ]
+      ]
+    },
+    "URL": "https://doi.org/10.1007/s10639-023-12240-3"
+  },
+  {
+    "DOI": "10.1002/sce.20049",
+    "title": [
+      "The challenges of observing geologically: Third graders' descriptions of rock and mineral properties"
+    ],
+    "author": [
+      {
+        "given": "Danielle J.",
+        "family": "Ford",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Science Education"
+    ],
+    "volume": "89",
+    "issue": "2",
+    "page": "276-295",
+    "article-number": null,
+    "published": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2005,
+          3
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "URL": "https://doi.org/10.1002/sce.20049"
+  },
+  {
+    "DOI": "10.46328/ijte.781",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "DOI": "10.1007/s10648-023-09842-1",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "DOI": "10.3389/fpsyg.2023.1163441",
+    "title": [
+      "Shall we play together? Game-based learning for engagement and classroom climate in Spanish socially deprived communities"
+    ],
+    "author": [
+      {
+        "given": "José M.",
+        "family": "Rodríguez-Ferrer",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ana",
+        "family": "Manzano-León",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Carolina",
+        "family": "Fernández-Jiménez",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Antonio",
+        "family": "Luque de la Rosa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Juan M.",
+        "family": "Fernández-Campoy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "José M.",
+        "family": "Aguilar-Parra",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Frontiers in Psychology"
+    ],
+    "volume": "14",
+    "issue": null,
+    "page": null,
+    "article-number": "1163441",
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          2
+        ]
+      ]
+    },
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          2
+        ]
+      ]
+    },
+    "URL": "https://doi.org/10.3389/fpsyg.2023.1163441"
+  }
+]

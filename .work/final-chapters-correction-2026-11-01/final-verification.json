@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-01",
+  "pages": {
+    "chapter1": 9,
+    "chapter2": 10,
+    "bibliography": 3
+  },
+  "total_pages": 22,
+  "native_words": {
+    "chapter1": 1661,
+    "chapter2": 2265
+  },
+  "bibliography_sources": 17,
+  "chapter2_sources": 14,
+  "citation_reference_matching": true,
+  "year_rule": "Every cited published reference is dated 2020–2026; no undated references.",
+  "source_and_output_text_verified": true,
+  "allowed_changed_paragraphs": {
+    "chapter1": [
+      13,
+      20,
+      40,
+      51
+    ],
+    "chapter2": [
+      23,
+      24,
+      26,
+      31,
+      32,
+      33,
+      34
+    ]
+  },
+  "all_other_paragraphs_and_properties_preserved": true,
+  "package_changes": {
+    "chapter1": [
+      "word/document.xml"
+    ],
+    "chapter2": [
+      "word/document.xml"
+    ],
+    "bibliography": [
+      "word/document.xml",
+      "word/_rels/document.xml.rels"
+    ]
+  },
+  "original_reference_hashes_preserved": true,
+  "vault_files_unchanged": 84,
+  "live_bibliography_word_and_pdf_targets": 17,
+  "visual_review": "All nine Chapter I, ten Chapter II and three latest bibliography pages inspected at 120 DPI. No clipping, overlap, stranded headings or near-empty overflow page.",
+  "observation": "User-reported October 29, 2026 Grade 5 display at Baluan; not a complete school inventory.",
+  "limits": [
+    "Oh: original English abstract/header inspected; Korean methods and tables not fully reviewed",
+    "Dong: publisher abstract; Garzon: publisher preview; Yachin: publisher abstract",
+    "Rader: article has inconsistent enrollment totals 24/25; no participant count reused",
+    "Adviser/curriculum approval, detailed gameplay and actual learning evaluation remain outside these document corrections",
+    "APA author–date and matching bibliography used; mandatory numbered-note format not established"
+  ],
+  "output_hashes": {
+    "D:\\Projects\\LandGrand-Sources\\Deliverables\\Chapters I-II Corrections 2026-11-01\\Land Grand - Chapter I - Corrected.docx": "8c877353238d7940924997b23539b1562cf42f683dc712179af9a6b281e014ed",
+    "D:\\Projects\\LandGrand-Sources\\Deliverables\\Chapters I-II Corrections 2026-11-01\\Land Grand - Chapter II - Corrected.docx": "085aa6b314dfa50240b83bd8de663e907559101f3613a4db7662cbd518ab6161",
+    "D:\\Projects\\LandGrand-Sources\\Deliverables\\Chapters I-II Corrections 2026-11-01\\Land Grand - Chapters I-II - Bibliography.docx": "24f5e26d1a9218aa6c656bfb0a95b20898a052d5eddbcee582a3919980f6bc41"
+  }
+}

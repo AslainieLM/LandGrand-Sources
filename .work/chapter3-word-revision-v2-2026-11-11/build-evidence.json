@@ -1,0 +1,32 @@
+{
+  "source_sha256": "b4b153e68a6ca4c62725303d8f157b1d03c5b8a8fbce18bd1d61837836c5ba5b",
+  "word_sha256": "8454ac29559bbc010f11b93c56396d8d1a70970820f383e040ef891d960fe62b",
+  "procedure_words": 266,
+  "embedded_panels": [
+    {
+      "figure": "4A",
+      "source": "D:\\Projects\\LandGrand-Sources\\.work\\chapter3-word-revision-v2-2026-11-11\\word-figure-inputs\\01-launch-and-main-menu.png",
+      "sha256": "051a95d266e2f49c34f8833ef96c281d4eacd85756a8a34d1f7f829a49a5130d"
+    },
+    {
+      "figure": "4B",
+      "source": "D:\\Projects\\LandGrand-Sources\\.work\\chapter3-word-revision-v2-2026-11-11\\word-figure-inputs\\02-select-episode-and-level.png",
+      "sha256": "09b81c3b73c3e94dd4addaec8dbd1e12f81f073bf9aea95ca1417232fafea718"
+    },
+    {
+      "figure": "4C",
+      "source": "D:\\Projects\\LandGrand-Sources\\.work\\chapter3-word-revision-v2-2026-11-11\\word-figure-inputs\\03-lesson-gameplay-and-level-outcomes.png",
+      "sha256": "89fa8371846567f595e709ce456bc384ec771129de3342f82fa7aedb88001c37"
+    },
+    {
+      "figure": "4D",
+      "source": "D:\\Projects\\LandGrand-Sources\\.work\\chapter3-word-revision-v2-2026-11-11\\word-figure-inputs\\04-score-save-and-unlock-difficulty.png",
+      "sha256": "fc7ebe0166968b40af277f1d8a2d8c98943566778d5838c19bf593ba35af887e"
+    },
+    {
+      "figure": "4E",
+      "source": "D:\\Projects\\LandGrand-Sources\\.work\\chapter3-word-revision-v2-2026-11-11\\word-figure-inputs\\05-continue-and-complete-episodes.png",
+      "sha256": "770762f60f699dd4b0aa72ca407d9005543db94a42015063143e7cf01c208872"
+    }
+  ]
+}

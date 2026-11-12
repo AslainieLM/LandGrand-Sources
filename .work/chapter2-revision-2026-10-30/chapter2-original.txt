@@ -1,0 +1,67 @@
+001 CHAPTER II
+
+002 REVIEW OF RELATED LITERATURE
+
+003 This chapter presents the related literature, studies, and projects from foreign and local sources that have significant bearing on the variables included in the study. It also discusses existing systems relevant to the proposed application in order to provide a better understanding of the development of the research.
+
+004 Related Studies
+
+005 This section presents recent studies, both foreign and local, that have significant bearing on the development of the proposed Android-based educational game on landforms, rocks, and minerals.
+
+006 Game-based learning has been recognized as a potential approach to improving science learning. Ivgin and Akcay (2024) examined the effects of educational and digital games on students' science achievement by comparing different game-based approaches with a control condition. The study found that game-based learning can positively influence science achievement and students' views toward the learning process. This study is relevant to this study because it supports the use of digital games as an interactive approach to presenting science concepts.
+
+007 In addition, Hodges and Flanagan (2026) investigated serious science game design for elementary learners through a six-year longitudinal mixed-methods study. Their findings identified game mechanics that supported science learning, including requiring learners to apply science practices to progress through game levels, integrating disciplinary literacy into gameplay, and providing immediate feedback. These findings are relevant to this study because the proposed game similarly integrates learning activities with progression, exploration, item collection, and feedback rather than separating learning from gameplay.
+
+008 Furthermore, according to Buray and Alferez (2025), digital game-based learning among 34 Grade 1 learners at Andales Integrated School in Misamis Oriental. Using a quasi-experimental pretest-posttest design, the study found a significant improvement in learners' numeracy scores following the implementation of digital game-based learning. The findings further support the use of digital games as an instructional strategy that can improve learning outcomes among elementary learners.
+
+009 Related Projects
+
+010 This section presents existing applications and systems that are related to the proposed study because of their relevance to the topics of landforms, rocks, and minerals. 
+
+011 DocDuck: Rock Cycle
+
+017 Figure 1. DocDuck: Rock Cycle Game ApplicationFigure 1. DocDuck: Rock Cycle Game Application
+
+018 A game developed by Alessandro Pezzetti of Havana24, entitled “DocDuck: Rock Cycle”, is an educational action-platform game that teaches children about the rock cycle and the three major types of rocks: igneous, sedimentary, and metamorphic. Players join DocDuck and Elico as they explore geology concepts and learn about processes such as crystallization, weathering, erosion, melting, and metamorphism. The game is relevant to the proposed application because it demonstrates how geology concepts can be integrated into interactive gameplay for young learners. Unlike DocDuck: Rock Cycle, which focuses specifically on the rock cycle, Land Grand combines lessons about landforms, rocks, and minerals with exploration, item collection, obstacles, and level progression for Grade 5 learners.
+
+019 Rock Collect
+
+026 Figure 2. Rock Collect Game ApplicationFigure 2. Rock Collect Game Application
+
+028 A game created by Matt Karge, Ben Dornbusch, Lauren Fischer, and Chris Jacobson, entitled “Rock Collect”, is a short platformer in which players collect rocks to build a friend. The game is a prototype that combines platforming and rock collection, making it relevant to the proposed application because it demonstrates how rock collection can be incorporated into an engaging game mechanic. Its collection-based gameplay is similar to Land Grand, where learners explore environments and collect rocks and minerals. However, Rock Collect focuses mainly on collecting rocks as part of a platforming objective, while Land Grand uses collection as part of a broader educational experience involving landforms, lessons, challenges, and progressive levels.
+
+029 Geology Rocks!
+
+031 Figure 3. Geology Rocks! Game Application
+
+032 A game created by Fannyflamingo, entitled “Geology Rocks!”, is an educational game that teaches geology through exploration, rock mining, identification, and collection. Players explore an area, find geological materials, analyze their characteristics, and add identified rocks to their collection. This project is relevant to the proposed application because it demonstrates how rock and mineral concepts can be taught through interactive exploration and collection-based gameplay.
+
+033 Related Literature
+
+034 This section presents literature that supports the purpose of the proposed study.
+
+035 According to Dong et al. (2024), mobile learning can improve science achievement among primary and secondary school students. Their meta-analysis of 44 studies involving 4,145 learners found that mobile learning had a positive effect on science achievement, with stronger effects when mobile activities used inquiry-based or game-based approaches. This finding supports the use of a mobile educational game for teaching science concepts such as landforms, rocks, and minerals.
+
+036 In addition, Garzón et al. (2025) found that mobile learning significantly improved student learning gains across different educational settings. Their meta-analysis examined 253 empirical studies and reported a large positive effect of mobile learning on learning outcomes. This suggests that mobile devices can support active and student-centered learning when appropriate educational activities are provided.
+
+037 Furthermore, research on game-based learning shows that educational games can support student engagement and learning. Rodríguez-Ferrer et al. (2023) reported that game-based learning improved student engagement and classroom experiences, while Chung and Pan (2023) found that flow and engagement were important factors in students’ gamified learning experiences. These findings support the use of interactive gameplay, meaningful challenges, and progressive activities in Land Grand to maintain learners’ interest while studying science concepts.
+
+038 Synopsis
+
+039 The studies and literature show that mobile learning and game-based learning can support student achievement, engagement, and active participation in learning. According to the studies, mobile educational applications can provide interactive learning experiences, while game-based activities can make lessons more engaging and meaningful for learners. Furthermore, these approaches can be useful in teaching science concepts through activities that encourage learners to participate and apply what they have learned. By presenting lessons about landforms, rocks, and minerals through interactive gameplay and progressive challenges, the proposed game aims to make science learning more engaging and easier to understand. Therefore, Land Grand is proposed as a learning tool that may help Grade 5 learners of Baluan Elementary School improve their knowledge of these important earth science concepts.
+
+041 REFERENCES
+
+043 Dong, Z., Chiu, M. M., Zhou, S., & Zhang, Z. (2024). The effect of mobile learning on school-aged students’ science achievement: A meta-analysis. Education and Information Technologies, 29, 517–544. https://doi.org/10.1007/s10639-023-12240-3 
+
+044 Garzón, J., Burgos, D., Kinshuk, & Tlili, A. (2025). Mobile learning significantly enhances student learning gains: A meta-analysis and research synthesis. Computers & Education. https://doi.org/10.1016/j.compedu.2025.105415 
+
+045 Rodríguez-Ferrer, J. M., Manzano-León, A., Fernández-Jiménez, C., Luque de la Rosa, A., Fernández-Campoy, J. M., & Aguilar-Parra, J. M. (2023). Shall we play together? Game-based learning for engagement and classroom climate in Spanish socially deprived communities. Frontiers in Psychology, 14, 1163441. https://www.sciencedirect.com/science/article/abs/pii/S0360131525001836?via%3Dihub 
+
+046 Chung, C.-H., & Pan, H.-L. W. (2023). Assessing the effects of flow, social interaction, and engagement on students’ gamified learning: A mediation analysis. Sustainability, 15(2), 983. https://www.mdpi.com/2071-1050/15/2/983 
+
+047 Buray, A. A., & Alferez, R. C. (2025). Digital game-based learning: Its contribution to numeracy skills among Grade 1 learners. Psychology and Education: A Multidisciplinary Journal, 34(5), 592–602. https://doi.org/10.70838/pemj.340504 
+
+048 Hodges, G. W., & Flanagan, K. (2026). Establishing a model for serious science game design for elementary learners: A longitudinal, mixed methods study of serious game design mechanics that facilitate science learning. Science Education, 110(2), 501–524. https://doi.org/10.1002/sce.70020
+
+049 Ivgin, A. B., & Akcay, H. (2024). The impact of using educational and digital games on middle school students science achievement. International Journal of Technology in Education, 7(3), 386–416. https://doi.org/10.46328/ijte.781 

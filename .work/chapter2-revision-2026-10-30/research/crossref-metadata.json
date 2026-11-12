@@ -1,0 +1,360 @@
+[
+  {
+    "DOI": "10.1130/gsatg464gw.1",
+    "title": [
+      "Teaching with Digital 3D Models of Minerals and Rocks"
+    ],
+    "author": [
+      {
+        "given": "Graham",
+        "family": "Andrews",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gabrielle",
+        "family": "Labishak",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sarah",
+        "family": "Brown",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Shelby",
+        "family": "Isom",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Holly",
+        "family": "Pettus",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Trevor",
+        "family": "Byers",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "GSA Today"
+    ],
+    "volume": "30",
+    "issue": "9",
+    "page": "42-43",
+    "article-number": null,
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "published-online": null,
+    "URL": "https://doi.org/10.1130/gsatg464gw.1"
+  },
+  {
+    "DOI": "10.1016/j.compedu.2025.105415",
+    "title": [
+      "Mobile learning significantly enhances student learning gains: A meta-analysis and research synthesis"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0374-8570",
+        "authenticated-orcid": false,
+        "given": "Juan",
+        "family": "Garzón",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0498-1101",
+        "authenticated-orcid": false,
+        "given": "Daniel",
+        "family": "Burgos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3923-9003",
+        "authenticated-orcid": false,
+        "family": "Kinshuk",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1449-7751",
+        "authenticated-orcid": false,
+        "given": "Ahmed",
+        "family": "Tlili",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Computers &amp; Education"
+    ],
+    "volume": "238",
+    "issue": null,
+    "page": "105415",
+    "article-number": "105415",
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          12
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          12
+        ]
+      ]
+    },
+    "published-online": null,
+    "URL": "https://doi.org/10.1016/j.compedu.2025.105415"
+  },
+  {
+    "DOI": "10.3102/0013189x018001032",
+    "title": [
+      "Situated Cognition and the Culture of Learning"
+    ],
+    "author": [
+      {
+        "given": "John Seely",
+        "family": "Brown",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Institute for Research on Learning, 2550 Hanover Street, Palo Alto, California 94304."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Allan",
+        "family": "Collins",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute for Research on Learning, 2550 Hanover Street, Palo Alto, California 94304."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Paul",
+        "family": "Duguid",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "BBN Inc, 10 Moulton Street, Cambridge, Massachusetts 02238"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Educational Researcher"
+    ],
+    "volume": "18",
+    "issue": "1",
+    "page": "32-42",
+    "article-number": null,
+    "published": {
+      "date-parts": [
+        [
+          1989,
+          1
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1989,
+          1
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          1989,
+          1,
+          1
+        ]
+      ]
+    },
+    "URL": "https://doi.org/10.3102/0013189x018001032"
+  },
+  {
+    "DOI": "10.1002/sce.70020",
+    "title": [
+      "Establishing a Model for Serious Science Game Design for Elementary Learners: A Longitudinal, Mixed Methods Study of Serious Game Design Mechanics That Facilitate Science Learning"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-2288-9002",
+        "authenticated-orcid": false,
+        "given": "Georgia W.",
+        "family": "Hodges",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Mathematics, Science, and Social Education University of Georgia Athens Georgia USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kayla",
+        "family": "Flanagan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Mathematics, Science, and Social Education University of Georgia Athens Georgia USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Science Education"
+    ],
+    "volume": "110",
+    "issue": "2",
+    "page": "501-524",
+    "article-number": null,
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          20
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          3
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          20
+        ]
+      ]
+    },
+    "URL": "https://doi.org/10.1002/sce.70020"
+  }
+]

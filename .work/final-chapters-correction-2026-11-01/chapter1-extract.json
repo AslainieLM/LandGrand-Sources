@@ -1,0 +1,441 @@
+{
+  "source": "G:\\Other computers\\My Computer (1)\\Lab Activities\\SUMMER\\CAPSTONE-2\\Aslainie\\Land Grand - Chapter I FINAL.docx",
+  "copy": "D:\\Projects\\LandGrand-Sources\\.work\\final-chapters-correction-2026-11-01\\chapter1.docx",
+  "sha256": "cde49deeeb1814d89dbcc34a08f85a7167ef65544091bf6b4119f555a6deeb5e",
+  "bytes": 23068,
+  "paragraphs": [
+    {
+      "xml_index": 0,
+      "text": "CHAPTER I",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 1,
+      "text": "INTRODUCTION",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 2,
+      "text": "This chapter introduces Land Grand, a proposed educational game for Grade 5 learners at Baluan Elementary School. It explains the project context, purpose, objectives, scope, and limitations.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 3,
+      "text": "Project Context",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 4,
+      "text": "This section explains the background and learning concerns that guide the development of Land Grand. It begins with educational technology worldwide, then discusses home learning in the Philippines and the needs reported at Baluan Elementary School.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 5,
+      "text": "Educational technology should respond to the needs of learners and teachers. UNESCO's 2023 Global Education Monitoring Report recommends choosing technology that fits local conditions and supports fair access to learning. It also stresses the need for evidence and resources that can be maintained over time (UNESCO, 2023). These points guide the proposed use of a learning game at Baluan Elementary School.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 6,
+      "text": "The value of a digital resource depends on how it supports the lesson. In Land Grand, short explanations will be linked to activities involving landforms, rocks, and minerals. Learners will explore a game environment, collect items, and read descriptions related to the lesson. The project will examine this approach as an additional learning resource rather than assume that playing a game guarantees better understanding.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 7,
+      "text": "In the Philippines, printed and digital modules were among the learning options used during the COVID-19 period. The Department of Education's 2020 guidance allowed supporting materials, including interactive electronic resources, alongside distance-learning activities. It also described the role of adults who assist learners at home (Department of Education, 2020, Appendix A and Appendix B). This experience provides a national background for developing resources that support learning beyond the classroom.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 8,
+      "text": "Disasters can also affect the arrangements needed for learning at home. DOST-PHIVOLCS recorded a magnitude 7.8 earthquake offshore Sarangani on June 8, 2026 (DOST-PHIVOLCS, 2026). As of October 2026, Baluan Elementary School holds face-to-face classes. Modular learning is considered an option if another disaster interrupts classroom instruction. Land Grand is therefore intended to support home study during regular schooling and possible disruptions.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 9,
+      "text": "An initial survey at Baluan Elementary School on July 7, 2026 gathered responses from 20 parents and 20 teachers. Parent responses covered Grades 4–6, while teacher responses covered Kindergarten and Grades 3–6. The parent group was available during the scheduled parents' orientation meeting. The researcher reported using random selection.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 10,
+      "text": "Parent responses showed difficulty explaining lessons in printed modules. In the parent group, 85% reported this concern. This finding supports considering additional explanations for home study. Land Grand will focus those explanations on the selected Science topics.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 11,
+      "text": "Teacher responses reflected mixed views about modular learning. Responses included doubts about how well it helped learners understand lessons. Other responses were positive or uncertain. The project therefore proposes additional activities alongside printed materials and teacher guidance.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 12,
+      "text": "Survey responses identified landforms, rocks, and minerals among the Science topics considered difficult. These reports provide a basis for selecting content for the game. The final lessons and selected items will be reviewed for scientific accuracy and Grade 5 Science curriculum alignment.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 13,
+      "text": "The researcher observed limited rock and mineral samples for classroom demonstrations. Digital illustrations can provide additional examples when rocks and minerals are unavailable. Land Grand will combine these illustrations with names and descriptions of collected items. These examples will serve as supplementary visual material for the selected Science topics.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 14,
+      "text": "Most parents and teachers believed that a mobile game could support printed modules. However, some parents were unsure or unwilling to allow its use. Reported access to a smartphone, tablet, or computer also does not confirm access to a compatible Android device. These differences support offering the game as an additional resource while retaining printed materials and teacher guidance.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 15,
+      "text": "The survey describes the views of parents and teachers from several grades. It does not directly measure pupil achievement or the effectiveness of Land Grand. The Grade 5 target of the game is separate from the survey population. The findings provide local background for the proposed learning resource.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 16,
+      "text": "The project focuses on the following reported problems:",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 17,
+      "text": "Parents reported difficulty explaining lessons in printed modules.",
+      "style": "ListParagraph",
+      "numbering": "7"
+    },
+    {
+      "xml_index": 18,
+      "text": "Teacher responses raised concerns about the effectiveness of modular learning.",
+      "style": "ListParagraph",
+      "numbering": "7"
+    },
+    {
+      "xml_index": 19,
+      "text": "Survey responses identified landforms, rocks, and minerals as difficult Science topics.",
+      "style": "ListParagraph",
+      "numbering": "7"
+    },
+    {
+      "xml_index": 20,
+      "text": "The researcher observed limited rock and mineral samples for classroom demonstrations.",
+      "style": "ListParagraph",
+      "numbering": "7"
+    },
+    {
+      "xml_index": 21,
+      "text": "These concerns support developing Land Grand while regular classes continue, before another disruption increases reliance on home study. The game will bring short lessons, item descriptions, and review activities into an offline resource. Learners can return to these activities across separate play sessions. This approach is intended to support home learning alongside the materials and guidance already provided by the school.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 22,
+      "text": "Purpose and Description of the Project",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 23,
+      "text": "This section explains the purpose of Land Grand and describes its main learning activities. It shows how the proposed game will support Grade 5 learners alongside printed learning materials.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 24,
+      "text": "The game aims to support knowledge of landforms, rocks, and minerals through guided exploration. It will contain four episodes covering Mountains, Hills, Plains, and Plateaus. Before each level, learners will read a short lesson about the landform and selected rocks and minerals.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 25,
+      "text": "During play, learners will move and jump with an explorer character in a two-dimensional environment. They will collect rocks and minerals and read each item's name and description. Obstacles and other challenges will form part of the exploration activities.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 26,
+      "text": "After a level, learners will see the collected items, a short review, and up to three gameplay stars. They can replay completed content or continue to the next available level. The game will save progress on the device for later sessions.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 27,
+      "text": "The project combines short explanations, interactive practice, and digital examples in one offline application. The game is intended to support printed materials and teacher guidance during home study.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 28,
+      "text": "Objectives of the Project",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 29,
+      "text": "This section presents the general and specific objectives of Land Grand. It explains what the project aims to achieve through the proposed learning game.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 30,
+      "text": "The general objective is to develop Land Grand, an offline Android exploration game for Grade 5 learners at Baluan Elementary School. It aims to support their knowledge of landforms, rocks, and minerals. Project completion is planned for November–December 2026.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 31,
+      "text": "The specific objectives are to complete the following within the planned period:",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 32,
+      "text": "Provide short Science lessons before each level to help parents explain the selected topics during home study.",
+      "style": "",
+      "numbering": "5"
+    },
+    {
+      "xml_index": 33,
+      "text": "Add interactive exploration and reviews after each level to support learning alongside printed Science modules.",
+      "style": "",
+      "numbering": "5"
+    },
+    {
+      "xml_index": 34,
+      "text": "Develop four episodes covering Mountains, Hills, Plains, and Plateaus, with selected rock and mineral content.",
+      "style": "",
+      "numbering": "5"
+    },
+    {
+      "xml_index": 35,
+      "text": "Present digital illustrations of selected rocks and minerals with names and short descriptions.",
+      "style": "",
+      "numbering": "5"
+    },
+    {
+      "xml_index": 36,
+      "text": "Scope and Limitations of the Project",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 37,
+      "text": "This section describes the coverage and boundaries of the Land Grand project. It explains what the game includes and the limits of its use and the survey findings.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 38,
+      "text": "Scope",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 39,
+      "text": "This section outlines the learners, content, game activities, and technical requirements included in Land Grand.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 40,
+      "text": "The proposed game is for Grade 5 learners at Baluan Elementary School. The application will include the following features:",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 41,
+      "text": "The game will support single-player mode only.",
+      "style": "ListParagraph",
+      "numbering": "6"
+    },
+    {
+      "xml_index": 42,
+      "text": "Four episodes will cover Mountains, Hills, Plains, and Plateaus. Each episode will include selected related rocks and minerals.",
+      "style": "ListParagraph",
+      "numbering": "6"
+    },
+    {
+      "xml_index": 43,
+      "text": "Each episode will have 3 Easy, 5 Normal, and 7 Hard levels. The planned total is 60 levels.",
+      "style": "ListParagraph",
+      "numbering": "6"
+    },
+    {
+      "xml_index": 44,
+      "text": "A short lesson will appear before each level. Collected items will have digital illustrations, names, and short descriptions. A review will follow each completed level.",
+      "style": "ListParagraph",
+      "numbering": "6"
+    },
+    {
+      "xml_index": 45,
+      "text": "The game will use two-dimensional (2D) graphics, large touch buttons, background music, and sound effects.",
+      "style": "ListParagraph",
+      "numbering": "6"
+    },
+    {
+      "xml_index": 46,
+      "text": "Players will move, jump, and collect items. Challenges will include obstacles, traps, pitfalls, and time limits.",
+      "style": "ListParagraph",
+      "numbering": "6"
+    },
+    {
+      "xml_index": 47,
+      "text": "Players will progress through difficulty modes and episodes. They can replay levels, continue to available levels, and view episode summaries. A final screen will appear after completing all episodes.",
+      "style": "ListParagraph",
+      "numbering": "6"
+    },
+    {
+      "xml_index": 48,
+      "text": "Players may earn up to three stars per level. Star and completion rules will be defined during development.",
+      "style": "ListParagraph",
+      "numbering": "6"
+    },
+    {
+      "xml_index": 49,
+      "text": "The Main Menu will offer Play, Settings, Tutorial, and Exit. Players will select unlocked episodes through the Landform Map.",
+      "style": "ListParagraph",
+      "numbering": "6"
+    },
+    {
+      "xml_index": 50,
+      "text": "The game will automatically save and load data on the device. Saved data will include the player's name, unlocked episodes, completed levels, stars, and collected items.",
+      "style": "ListParagraph",
+      "numbering": "6"
+    },
+    {
+      "xml_index": 51,
+      "text": "The game will work offline on Android phones and tablets running Android 10 and above. Minimum targets are 2 GB RAM and 300 MB free storage. ",
+      "style": "ListParagraph",
+      "numbering": "6"
+    },
+    {
+      "xml_index": 52,
+      "text": "Limitations",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 53,
+      "text": "This section explains the limits of the game and how the survey findings should be understood. It identifies the boundaries of the project's learners, content, and offline use.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 54,
+      "text": "The game is intended for Grade 5 learners at Baluan Elementary School. ",
+      "style": "",
+      "numbering": "2"
+    },
+    {
+      "xml_index": 55,
+      "text": "Content will only cover the four landforms and selected rocks and minerals.",
+      "style": "",
+      "numbering": "2"
+    },
+    {
+      "xml_index": 56,
+      "text": "The game will not include multiplayer, online accounts, online features, cloud storage, websites, or an administrator panel.",
+      "style": "",
+      "numbering": "2"
+    },
+    {
+      "xml_index": 57,
+      "text": "Saved progress stays on the device used. The game does not provide central teacher monitoring or shared learner records.",
+      "style": "",
+      "numbering": "2"
+    },
+    {
+      "xml_index": 58,
+      "text": "The game will exclude separate quiz screens, GPS functions, and real-world scanning.",
+      "style": "",
+      "numbering": "2"
+    },
+    {
+      "xml_index": 59,
+      "text": "The game is designed to support printed materials and teacher guidance. Stars, collected items, and completed levels record gameplay. They do not measure learning gains.",
+      "style": "",
+      "numbering": "2"
+    },
+    {
+      "xml_index": 60,
+      "text": "Digital illustrations provide additional visual support. They do not provide physical samples or hands-on examination of real rocks and minerals.",
+      "style": "",
+      "numbering": "2"
+    },
+    {
+      "xml_index": 61,
+      "text": "The initial survey records views and expectations about learning support. It does not establish that Land Grand improves knowledge. Such a claim requires a defined evaluation method and actual results.",
+      "style": "",
+      "numbering": "2"
+    },
+    {
+      "xml_index": 62,
+      "text": "BIBLIOGRAPHY",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 63,
+      "text": "This section lists the sources cited in Chapter I.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 64,
+      "text": "Department of Education. (2020, July 21). Suggested strategies in implementing distance learning delivery modalities (DLDM) for school year 2020-2021 (DM-CI-2020-00162). Office of the Undersecretary for Curriculum and Instruction.https://region8.deped.gov.ph/wp-content/uploads/2020/07/DM-CI-2020-00162-2.pdf",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 65,
+      "text": "DOST-PHIVOLCS. (2026, June 8). Tsunami information No. 2: Cancellation of tsunami warning.https://tsunami.phivolcs.dost.gov.ph/Tsunami_Information/2026_Tsunami_Information/Jun/07/20260607_2337z_Advisory2_2.pdf",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 66,
+      "text": "UNESCO. (2023). Global education monitoring report 2023: Technology in education: A tool on whose terms?https://www.unesco.org/gem-report/en/publication/technology",
+      "style": "",
+      "numbering": ""
+    }
+  ],
+  "footnote_markers": 0,
+  "endnote_markers": 0,
+  "tracked_insertions": 0,
+  "tracked_deletions": 0,
+  "tables": 0,
+  "drawings": 0,
+  "comment_markers": 0,
+  "extra_parts": {},
+  "external_links": [
+    {
+      "Id": "rId7",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://www.unesco.org/gem-report/en/publication/technology",
+      "TargetMode": "External"
+    },
+    {
+      "Id": "rId6",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://tsunami.phivolcs.dost.gov.ph/Tsunami_Information/2026_Tsunami_Information/Jun/07/20260607_2337z_Advisory2_2.pdf",
+      "TargetMode": "External"
+    },
+    {
+      "Id": "rId5",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+      "Target": "https://region8.deped.gov.ph/wp-content/uploads/2020/07/DM-CI-2020-00162-2.pdf",
+      "TargetMode": "External"
+    }
+  ],
+  "section_properties": [
+    "<w:sectPr xmlns:w=\"http://schemas.openxmlformats.org/wordprocessingml/2006/main\" xmlns:wpc=\"http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas\" xmlns:cx=\"http://schemas.microsoft.com/office/drawing/2014/chartex\" xmlns:cx1=\"http://schemas.microsoft.com/office/drawing/2015/9/8/chartex\" xmlns:cx2=\"http://schemas.microsoft.com/office/drawing/2015/10/21/chartex\" xmlns:cx3=\"http://schemas.microsoft.com/office/drawing/2016/5/9/chartex\" xmlns:cx4=\"http://schemas.microsoft.com/office/drawing/2016/5/10/chartex\" xmlns:cx5=\"http://schemas.microsoft.com/office/drawing/2016/5/11/chartex\" xmlns:cx6=\"http://schemas.microsoft.com/office/drawing/2016/5/12/chartex\" xmlns:cx7=\"http://schemas.microsoft.com/office/drawing/2016/5/13/chartex\" xmlns:cx8=\"http://schemas.microsoft.com/office/drawing/2016/5/14/chartex\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:aink=\"http://schemas.microsoft.com/office/drawing/2016/ink\" xmlns:am3d=\"http://schemas.microsoft.com/office/drawing/2017/model3d\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:oel=\"http://schemas.microsoft.com/office/2019/extlst\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:wp14=\"http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing\" xmlns:wp=\"http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing\" xmlns:w10=\"urn:schemas-microsoft-com:office:word\" xmlns:w14=\"http://schemas.microsoft.com/office/word/2010/wordml\" xmlns:w15=\"http://schemas.microsoft.com/office/word/2012/wordml\" xmlns:w16cex=\"http://schemas.microsoft.com/office/word/2018/wordml/cex\" xmlns:w16cid=\"http://schemas.microsoft.com/office/word/2016/wordml/cid\" xmlns:w16=\"http://schemas.microsoft.com/office/word/2018/wordml\" xmlns:w16du=\"http://schemas.microsoft.com/office/word/2023/wordml/word16du\" xmlns:w16sdtdh=\"http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash\" xmlns:w16sdtfl=\"http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock\" xmlns:w16se=\"http://schemas.microsoft.com/office/word/2015/wordml/symex\" xmlns:wpg=\"http://schemas.microsoft.com/office/word/2010/wordprocessingGroup\" xmlns:wpi=\"http://schemas.microsoft.com/office/word/2010/wordprocessingInk\" xmlns:wne=\"http://schemas.microsoft.com/office/word/2006/wordml\" xmlns:wps=\"http://schemas.microsoft.com/office/word/2010/wordprocessingShape\" w:rsidR=\"00D80548\" w:rsidSect=\"00F45ABB\"><w:pgSz w:w=\"12240\" w:h=\"15840\"/><w:pgMar w:top=\"1440\" w:right=\"1440\" w:bottom=\"1440\" w:left=\"2160\" w:header=\"709\" w:footer=\"709\" w:gutter=\"0\"/><w:cols w:space=\"708\"/><w:docGrid w:linePitch=\"360\"/></w:sectPr>"
+  ]
+}

@@ -1,7 +1,7 @@
 ---
 type: writing-guide
 status: active
-updated: 2026-10-30
+updated: 2026-11-01
 sources:
   - "[[Sources/Capstone Manuscript BSIT]]"
   - "[[Sources/Chapter 1-3 Guidelines]]"
@@ -39,6 +39,15 @@ Apply these requirements whenever drafting or revising Chapters I–III. They im
 Use normal academic prose in the manuscript; the concise chat preference applies to conversation. These rules change presentation, not project scope or the original research data.
 
 Under D-022, the **Objectives introduction describes only that section's purpose and content**. Keep the problem–objective alignment rule in drafting and review checks rather than announcing it in the introductory paragraph. [[Sources/Chapter I Readability Feedback 2026-10-28#Objectives section description follow-up|The user's follow-up]] and the linked prepared paragraph record this presentation change. D-017's substantive alignment requirement remains unchanged.
+
+## Reference publication years
+
+Under D-023 in [[Decisions/Decision Register|the decision register]], use **2020–2026 inclusive** for references cited in Land Grand manuscript drafts and revisions. This is the user's rule, not a publication-year limit stated by the lecture deck.
+
+- Verify the source's actual publication year from its publisher, original document, or attributable bibliographic record. Use a consistent citation year for the version cited. An access date or website copyright date does not establish the publication year.
+- When discussing an older theory, use a 2020–2026 source that actually explains or applies it. Attribute that source's contribution accurately; retain the theory's historical origin rather than presenting it as newly created.
+- Flag pre-2020 and undated references for verified replacement before a draft meets this rule. Keep substantive claims within the replacement source's evidence. A newer citation alone does not support the same claim.
+- Preserve retained originals and historical drafts with their truthful dates. This rule does not certify earlier drafts as compliant or authorize rewriting their source records.
 
 ## Chapter I – Introduction
 
@@ -84,7 +93,7 @@ Retain the PDF’s two sections: **Related Literature / Theoretical Background**
 
 ### Related Literature / Theoretical Background
 
-Use literature to establish the foundation and inform the research problem, research design, sources, and later comparisons. Select recent, relevant, objective material grounded in original facts or data. The deck sets no fixed publication-year cutoff or exact literature count. Evidence: [[Sources/Chapter 1-3 Guidelines Extract#Slide 23|slides 23–25]], [[Sources/Chapter 1-3 Guidelines Extract#Slide 26|slide 26]], and [[Sources/Chapter 1-3 Guidelines Extract#Slide 27|slides 27–29]].
+Use literature to establish the foundation and inform the research problem, research design, sources, and later comparisons. Select relevant, objective material grounded in original facts or data and apply [[Manuscript/Chapter 1-3 Writing Guide#Reference publication years|the user's reference publication-year rule]]. The deck itself sets no fixed publication-year cutoff or exact literature count. Evidence: [[Sources/Chapter 1-3 Guidelines Extract#Slide 23|slides 23–25]], [[Sources/Chapter 1-3 Guidelines Extract#Slide 26|slide 26]], and [[Sources/Chapter 1-3 Guidelines Extract#Slide 27|slides 27–29]].
 
 For theories, outline first, identify an anchor theory, and use supporting theories to elaborate it. Maintain continuity and correct citation/bibliographic entries. Evidence: [[Sources/Chapter 1-3 Guidelines Extract#Slide 30|slides 30–31]]. Select an actual theory only after reading and citing its source; no theory has been selected for LandGrand in the supplied files.
 
@@ -95,6 +104,8 @@ For related projects or systems, describe each project, maintain continuity, and
 A useful comparison for this project would examine audience, subject coverage, learning activities, platform, offline behavior, strengths, and gaps. These comparison dimensions are drafting suggestions. Supply real related-study references before writing comparisons or novelty claims.
 
 ## Chapter III – Technical Background
+
+For any Chapter III creation, drafting, revision, or review, read [[Manuscript/Chapter III Drafting Guide|the Chapter III drafting guide]] before writing. It applies the [[Sources/Chapter III Unrevised Draft 2026-11-01|five user-reported adviser comments and six-page source review]] saved under D-024. The source remains unrevised; [[Manuscript/Drafting Dashboard|Dashboard]] records progress.
 
 The PDF asks for the project’s technicality **in paragraph form**, technologies to be used, and how the project will work. Evidence: [[Sources/Capstone Manuscript BSIT Extract#PDF Page 1|PDF page 1]].
 
@@ -131,6 +142,7 @@ All three are installed under `C:\Users\user\.codex\skills`. For LandGrand, use 
 
 - Apply [[Manuscript/Chapter 1-3 Writing Guide#Readability and subsection openings|the readability and opening-paragraph requirements]], then use the selected headings and source locators.
 - Check each factual claim against project evidence or an actual cited reference.
+- Check every cited reference against [[Manuscript/Chapter 1-3 Writing Guide#Reference publication years|the publication-year rule]].
 - Align problems, objectives, proposed features, and evaluation claims.
 - Preserve the canonical scope and clearly flag unresolved choices.
 - Check required length and the automatic TOC in the final Word document.

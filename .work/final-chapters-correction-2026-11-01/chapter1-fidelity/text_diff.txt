@@ -1,0 +1,37 @@
+--- a
++++ b
+@@ -11,14 +11,14 @@
+ Parent responses showed difficulty explaining lessons in printed modules. In the parent group, 85% reported this concern. This finding supports considering additional explanations for home study. Land Grand will focus those explanations on the selected Science topics.
+ Teacher responses reflected mixed views about modular learning. Responses included doubts about how well it helped learners understand lessons. Other responses were positive or uncertain. The project therefore proposes additional activities alongside printed materials and teacher guidance.
+ Survey responses identified landforms, rocks, and minerals among the Science topics considered difficult. These reports provide a basis for selecting content for the game. The final lessons and selected items will be reviewed for scientific accuracy and Grade 5 Science curriculum alignment.
+-The researcher observed limited rock and mineral samples for classroom demonstrations. Digital illustrations can provide additional examples when rocks and minerals are unavailable. Land Grand will combine these illustrations with names and descriptions of collected items. These examples will serve as supplementary visual material for the selected Science topics.
++On October 29, 2026, the researcher observed the Grade 5 learning materials at Baluan Elementary School. The display included physical rock samples, while granite and examples of gold and silver were shown only in pictures and posters. This observation suggested a limited range of physical examples for demonstrations. Land Grand will provide digital illustrations with item names and short descriptions. These will supplement the classroom materials.
+ Most parents and teachers believed that a mobile game could support printed modules. However, some parents were unsure or unwilling to allow its use. Reported access to a smartphone, tablet, or computer also does not confirm access to a compatible Android device. These differences support offering the game as an additional resource while retaining printed materials and teacher guidance.
+ The survey describes the views of parents and teachers from several grades. It does not directly measure pupil achievement or the effectiveness of Land Grand. The Grade 5 target of the game is separate from the survey population. The findings provide local background for the proposed learning resource.
+ The project focuses on the following reported problems:
+ Parents reported difficulty explaining lessons in printed modules.
+ Teacher responses raised concerns about the effectiveness of modular learning.
+ Survey responses identified landforms, rocks, and minerals as difficult Science topics.
+-The researcher observed limited rock and mineral samples for classroom demonstrations.
++The researcher observed limited physical rock and mineral examples in the Grade 5 display.
+ These concerns support developing Land Grand while regular classes continue, before another disruption increases reliance on home study. The game will bring short lessons, item descriptions, and review activities into an offline resource. Learners can return to these activities across separate play sessions. This approach is intended to support home learning alongside the materials and guidance already provided by the school.
+ Purpose and Description of the Project
+ This section explains the purpose of Land Grand and describes its main learning activities. It shows how the proposed game will support Grade 5 learners alongside printed learning materials.
+@@ -38,7 +38,7 @@
+ This section describes the coverage and boundaries of the Land Grand project. It explains what the game includes and the limits of its use and the survey findings.
+ Scope
+ This section outlines the learners, content, game activities, and technical requirements included in Land Grand.
+-The proposed game is for Grade 5 learners at Baluan Elementary School. The application will include the following features:
++The proposed game is for Grade 5 learners at Baluan Elementary School. Development will use Unity and C#, with Piskel and Clip Studio Paint for graphical assets. The application will include the following features:
+ The game will support single-player mode only.
+ Four episodes will cover Mountains, Hills, Plains, and Plateaus. Each episode will include selected related rocks and minerals.
+ Each episode will have 3 Easy, 5 Normal, and 7 Hard levels. The planned total is 60 levels.
+@@ -49,7 +49,7 @@
+ Players may earn up to three stars per level. Star and completion rules will be defined during development.
+ The Main Menu will offer Play, Settings, Tutorial, and Exit. Players will select unlocked episodes through the Landform Map.
+ The game will automatically save and load data on the device. Saved data will include the player's name, unlocked episodes, completed levels, stars, and collected items.
+-The game will work offline on Android phones and tablets running Android 10 and above. Minimum targets are 2 GB RAM and 300 MB free storage. 
++The game will work offline on Android phones and tablets running Android 10 and above. Minimum targets are 2 GB RAM and 300 MB free storage. These targets remain subject to device testing.
+ Limitations
+ This section explains the limits of the game and how the survey findings should be understood. It identifies the boundaries of the project's learners, content, and offline use.
+ The game is intended for Grade 5 learners at Baluan Elementary School. 

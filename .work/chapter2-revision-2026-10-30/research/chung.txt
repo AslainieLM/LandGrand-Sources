@@ -1,0 +1,720 @@
+
+--- PDF PAGE 1 ---
+Citation: Chung, C.-H.; Pan, H.-L.W.
+Assessing the Effects of Flow, Social
+Interaction, and Engagement on
+Students’ Gamiﬁed Learning: A
+Mediation Analysis. Sustainability
+2023, 15, 983. https://doi.org/
+10.3390/su15020983
+Academic Editors: Fernando Moreira,
+César A. Collazos, Carina
+Soledad González-González, Ramiro
+Manuel Ramos Moreira Gonçalves
+and David Fonseca Escudero
+Received: 24 November 2022
+Revised: 16 December 2022
+Accepted: 3 January 2023
+Published: 5 January 2023
+Copyright: © 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+sustainability
+Article
+Assessing the Effects of Flow, Social Interaction,
+and Engagement on Students’ Gamiﬁed Learning:
+A Mediation Analysis
+Chih-Hung Chung 1
+ and Hui-Ling Wendy Pan 2,*
+1 Department of Educational Technology, Tamkang University, New Taipei City 25137, Taiwan
+2 Department of Education and Futures Design, Tamkang University, New Taipei City 25137, Taiwan
+* Correspondence: panhlw@gmail.com
+Abstract: The positive impact of gamiﬁcation on student learning has been empirically asserted, and
+previous studies have identiﬁed engagement as crucial for the effects. However, what causal mecha-
+nisms render the gamiﬁcation effects still needs further exploration. We incorporated psychological
+and social factors to examine how they affect students’ perceived learning through engagement
+in a mediation model. The ﬂow antecedents (perceived challenge of gamiﬁcation and skill) and
+social interaction (peer interaction and social inﬂuence) were indicators of psychological and social
+factors, respectively. A survey was conducted to collect data from 250 college students in Taiwan.
+The PLC-SEM results indicate that the effects of perceived challenge and peer interaction on student
+learning were mediated by engagement. In addition, the impact of students’ perceptions of their
+skills was partially mediated by engagement. Both engagement and social inﬂuence exerted a direct
+effect on student learning. Among the predictors, engagement was the most inﬂuential factor for
+students’ gamiﬁed learning and had the highest performance volume. Based on the results, we
+suggest advancing ﬂow antecedents and social interaction to sustain students’ gamiﬁed learning.
+Keywords: gamiﬁcation; gamiﬁed learning; ﬂow; engagement; social interaction
+1. Introduction
+Gamiﬁcation has been applied in many ﬁelds. It has gained widespread recogni-
+tion [1] and remarkably increased its usage in education in the last decade [ 2]. Amidst
+the COVID-19 pandemic, online teaching has become a signiﬁcant teaching method. Ap-
+plying gamiﬁcation in online learning enhances students’ social support and learning
+outcomes [3,4]. However, in the educational sector, gamiﬁcation is a relatively new term. It
+refers to an educational approach that includes game elements in a non-game context to
+motivate individuals and acquire desired outcomes [5–7].
+Based on constructivist learning, gamiﬁcation involves experiential learning, which
+renders that students interact with the environment and peers [8]. In recent years, a notable
+amount of researchers’ attention has been on gamiﬁcation, with education as one of the
+top ﬁelds [9,10]. Numerous studies have investigated the effects of gamiﬁcation, revealing
+that the gamiﬁed settings contribute to learners’ ﬂow [ 2], motivation [10], engagement [11],
+interaction, collaboration [12], and performance [13]. Furthermore, some studies suggested
+a positive linkage between ﬂow antecedents (challenge and skill) and engagement. When
+facing challenges, students are more engaged [ 14,15], and their perceptions of skill and
+competence determine motivation [16]. In addition, students in collaborative settings have
+opportunities to work as a team, feel peer support and stimulate their competence [ 17];
+therefore, social interaction is crucial in learning outcomes [10]. Engagement in the game
+also positively affects learning; it is a precondition for gamiﬁcation to exert its effect on
+learning [18]. Although a large body of literature has unfolded the gamiﬁcation effects,
+Sustainability 2023, 15, 983. https://doi.org/10.3390/su15020983 https://www.mdpi.com/journal/sustainability
+
+--- PDF PAGE 2 ---
+Sustainability 2023, 15, 983 2 of 12
+there is scarce research to discover their associations. The pathways from one to the other
+await more explorations.
+To unravel the causal linkages of drivers for student learning in the gamiﬁed setting,
+we incorporated the psychological factors (ﬂow antecedents and engagement) and social
+factors (peer interaction and social inﬂuence) to assess how they predict students’ perceived
+learning. We collected data from college students and conducted a mediation analysis
+to examine the direct and indirect effects. The ﬁndings of this study will be helpful for
+instructional designers and teachers to use game-based learning to promote students’
+motivation and performance.
+2. Literature Review
+2.1. Gamiﬁed Learning
+In recent years, gamiﬁcation has been widely welcomed in various ﬁelds. As Deterding
+et al. (2011) described, gamiﬁcation is “the usage of game design principles in non-gaming
+contexts” (p. 10, [ 19]). However, other authors, such as Werbach (2014), redeﬁned gamiﬁca-
+tion as “the process of making activities more game-like” (p. 266, [20]). For years, there have
+been endeavors to combine the selection, use, implementation, and integration of game
+features to enhance the user experience and make it closer to an enjoyable and fascinating
+gameplay experience. For example, Chou (2019) [21] proposed the Octalysis framework. It
+has a shape like an octagon; each side represents a core drive. There are eight core drives in
+the Octalysis framework: (1) Epic Meaning & Calling, (2) Development & Accomplishment,
+(3) Creativity & Feedback Empowerment, (4) Ownership & Possession, (5) Social Inﬂuence
+& Relatedness, (6) Scarcity & Impatience, (7) Unpredictability & Curiosity, and (8) Loss
+& Avoidance. A number of game strategies or elements within each core correspond to
+each drive. For example, there are designs of points, badges, leaderboards, rewards, and
+progress bars for the core drive of achievement. The features are used to increase players’
+extrinsic motivation.
+In a growing body of gamiﬁcation research, the education ﬁeld has become one of
+the central contexts for applying and investigating gamiﬁcation [22]. Numerous studies
+have revealed that gamiﬁcation positively affects learning effectiveness and motivation [10].
+Also, other factors contribute to student learning. The mind ﬂow and social interaction were
+positive drivers for students’ engaging in gamiﬁcation activities [1]. When students have
+a high level of participation, their learning effectiveness is enhanced [ 23]. Nevertheless,
+some ﬁndings have suggested adverse effects [24]. Since learners experience a complex
+learning process in the gamiﬁcation environment, it needs more exploration to understand
+inﬂuential factors and the causal mechanism. The efforts may include the evaluation and
+analysis of learning processes [9], the application of theoretical frameworks for gamiﬁcation
+design [24], and the advancement of methodological rigor [ 25]. In this study, we are
+interested in the psychological and social mechanisms for students’ gamiﬁed learning.
+2.2. Flow
+The ﬂow theory, ﬁrst proposed by Csikszentmihalyi (1975), discusses the concept of
+ﬂow experience, also known as an immersion experience and mind-ﬂow experience [ 26].
+Flow refers to users entering a common mode of experience when fully engaged in their
+activity [27]. This mode is characterized by narrowing the focus of consciousness so that
+irrelevant perceptual thoughts are ﬁltered out. In a state of ﬂow, the user is responsive only
+to a speciﬁc target and in control of the environment. This ﬂow experience allows people
+to be completely immersed in an activity, ignoring the presence of other objects. The ﬂow
+experience positively affects the users’ intention to use [28] and their learning [14].
+In addition to the ﬂow state, the concept of ﬂow also subsumes another aspect. Kiili
+(2006) proposed two dimensions of ﬂow: ﬂow antecedents and the ﬂow state. In the
+gamiﬁcation literature, the game’s challenge and the player’s skills are two frequently
+discussed constructs. They are the components of ﬂow antecedents [ 29]. The balance of
+challenges and skills is a prerequisite for achieving a ﬂow state [ 14,24,30]. Studies have
+
+--- PDF PAGE 3 ---
+Sustainability 2023, 15, 983 3 of 12
+depicted that the higher the challenges, the more anxious users will feel; the higher the
+skills, the more bored users will feel [30,31]. Once challenges and skills are balanced, the ego
+moves to a higher and more complex level and achieves self-growth [26]. In order to explore
+the psychological factors inﬂuencing students’ gamiﬁed learning, we used perceived game
+challenge and skill as two indicators of ﬂow antecedents.
+2.3. Social Interaction
+Social inﬂuence and peer interaction can facilitate student learning in gamiﬁed ac-
+tivities to enhance motivation and fun [ 10]. Also, abundant studies have shown that
+social inﬂuence and peer interaction are effective in helping students increase their engage-
+ment [32] and further improve learning outcomes [10,33]. Social inﬂuence refers to a sense
+of relatedness. Individuals, when experiencing relatedness, may elevate their intrinsic
+motivation toward engaging in activities; they are also more willing to use the system in an
+information technology context [34,35]. Similarly, peers play a supporting role in learning.
+As students have inﬂuential peers to encourage them to try, they will feel more comfortable
+with gamiﬁed learning, which is conducive to interacting with others, and more conﬁdent
+in the group [36].
+2.4. Relationships among Flow, Engagement, Social Interaction, and Perceived Learning
+Gamiﬁed learning effectively impacts students at any educational level. It increases
+students’ interest and improves their perceived learning acquisition [14]. In gamiﬁcation
+settings, the ﬂow (challenges and skills) and social interaction (social inﬂuence and peer
+interaction) have a direct effect on the acquisition of knowledge [14,37]. A similar ﬁnding
+was also proposed. The more familiar students are, the more they can improve their
+learning performance [38]. Along the same line, Özhan and Kocadere (2020) [ 39] have
+unfolded a favorable link between ﬂow and learning.
+Engagement is another signiﬁcant construct explored in gamiﬁed learning. It indicates
+the amount of time and effort students invest in educationally purposeful activities, such
+as connecting with their peers and instructors and participating in active and collaborative
+learning activities [40]. A gamiﬁcation environment can encourage learning and boost
+engagement [ 41]. The effective enhancement of user engagement exists no matter in
+business, marketing, or education [42]. Regarding the factors affecting engagement, studies
+contended that ﬂow exerts a positive effect [ 15,43,44], and so does social interaction [ 1].
+In addition, students engaging in competitively challenging instructional activities that
+either generate pleasure or increase psychological feelings of winning would increase their
+engagement and enhance learning outcomes [ 45]. This study deﬁned engagement as a
+higher-up construct of interest, enjoyment, and concentration. We used Hamari et al.’s
+(2016) study as a reference to develop the engagement scale [14].
+Based on the review of previous literature, we found that few studies have applied
+structural equation models to investigate the interdependencies of psychological and
+social factors (i.e., ﬂow antecedents, engagement, and social interaction) and the pathways
+for predicting students’ perceived learning. Furthermore, most studies centered on the
+connection between game features and learning [ 9,24]. The lack of research evaluating
+the causal mechanism for gamiﬁed learning triggers this study. Therefore, we conducted
+a mediation model analysis to explore how the ﬂow antecedents and social interaction
+affect students’ gamiﬁed learning through engagement. Our conceptual framework for
+relationships among variables is shown in Figure 1. The research questions addressed are:
+1. What are the associations between perceived challenge and skill?
+2. What are the associations between peer interaction and social inﬂuence?
+3. What are the effects of ﬂow antecedents (perceived challenge and skill) on engagement
+and perceived learning?
+4. What are the effects of social interaction (peer interaction and social inﬂuence) on
+engagement and perceived learning?
+
+--- PDF PAGE 4 ---
+Sustainability 2023, 15, 983 4 of 12
+Sustainability 2023, 15, x FOR PEER REVIEW 4 of 13 
+ 
+2. What are the associations between peer interaction and social influence? 
+3. What are the effects of flow antecedents (perceived challenge and skill) on engage-
+ment and perceived learning? 
+4. What are the effects of social interaction (peer interaction and social influence) on 
+engagement and perceived learning? 
+ 
+Figure 1. The conceptual framework for relationships among variables. 
+3. Methodology 
+3.1. Participants and Procedures 
+We conducted a survey to investigate the factors influencing students’ perceived 
+learning about gamification activities. A purposive sampling method was used to ensure 
+that the participants in this study had been exposed to the gamified learning model. Two 
+hundred and eighty undergraduate and graduate students in one university who took the 
+“Human Resource Development” course were recruited. From 1 March to 30 April 2022, 
+we sent out anonymous online questionnaires to all the participants, and 250 were re-
+turned. The 250 respondents included 75 males and 175 females; 57 first-year students, 12 
+sophomores, 118 juniors, 33 seniors, and 30 master students (See Table 1). 
+Table 1. Descriptive statistics. 
+Grade Level Female Male Total 
+first-year students 36 21 57 
+sophomores 9 3 12 
+juniors 88 30 118 
+seniors 23 10 33 
+master students 19 11 30 
+Total 175 75 250 
+The participants in 2019 took the course  mentioned above that contained game de-
+sign elements. In the course, students le arned about human resource development con-
+cepts, such as needs analysis, job competen cy analysis, training and development, and 
+team leadership through online games and board games. The gamified learning activities 
+included the game elements: points, levels, a progress bar, a leaderboard, avatars, badges, 
+and feedback. 
+Figure 1. The conceptual framework for relationships among variables.
+3. Methodology
+3.1. Participants and Procedures
+We conducted a survey to investigate the factors inﬂuencing students’ perceived
+learning about gamiﬁcation activities. A purposive sampling method was used to ensure
+that the participants in this study had been exposed to the gamiﬁed learning model. Two
+hundred and eighty undergraduate and graduate students in one university who took
+the “Human Resource Development” course were recruited. From 1 March to 30 April
+2022, we sent out anonymous online questionnaires to all the participants, and 250 were
+returned. The 250 respondents included 75 males and 175 females; 57 ﬁrst-year students,
+12 sophomores, 118 juniors, 33 seniors, and 30 master students (See Table 1).
+Table 1. Descriptive statistics.
+Grade Level Female Male Total
+ﬁrst-year students 36 21 57
+sophomores 9 3 12
+juniors 88 30 118
+seniors 23 10 33
+master students 19 11 30
+Total 175 75 250
+The participants in 2019 took the course mentioned above that contained game design
+elements. In the course, students learned about human resource development concepts,
+such as needs analysis, job competency analysis, training and development, and team
+leadership through online games and board games. The gamiﬁed learning activities
+included the game elements: points, levels, a progress bar, a leaderboard, avatars, badges,
+and feedback.
+3.2. Instruments
+Based on Hamari et al. (2016) [ 14] and Huang et al. (2019) [ 43], we designed the
+scales to measure participants’ subjective experience of challenge, skill, engagement, social
+inﬂuence, peer interaction, and perceived learning. Perceived learning refers to the learning
+outcome in this course. There were 24 items designed with a ﬁve-point Likert scale and
+three questions of demographic information (i.e., college, gender, and grade).
+
+--- PDF PAGE 5 ---
+Sustainability 2023, 15, 983 5 of 12
+The study invited experts to conduct a validity analysis and collected one hundred
+questionnaires for the pilot test from 1 October to 30 November 2021. In the exploratory
+factor analysis, we conﬁrmed that the KMO and Bartlett’s tests were signiﬁcant, then
+proceeded to the factor analysis. We deleted the question items with a factor loading value
+less than the recommended value of 0.5. There were six factors extracted after using the
+maximum likelihood extraction method and oblimin rotation approach: social inﬂuence,
+peer interaction, skill, challenge, engagement, and perceived learning. The explanation
+of the total variance was 68.94%. Finally, 16 questions were retained (as shown in the
+Appendix A Table A1). Additionally, the overall reliability of the questionnaire is above 0.9
+(α = 0.944), which is above the suggested value of 0.7 for good reliability [46].
+3.3. Analysis Strategies
+This study used Smart PLS 4.0 software to perform the Partial Least Square-Structural
+Equation Module (PLS-SEM). Unlike the covariance-based SEM, PLS-SEM is a method
+based on the regression-based ordinary least square. It is used to predict or explain the
+target structure and is appropriate for an exploratory study with more requirements of
+complex model validation. Moreover, it is mainly designed to detect whether the causal
+relationships are signiﬁcant. Adopting PLS-SEM, we analyzed the direct and indirect effects
+of ﬂow antecedents (perceived challenge and skill), peer interaction (peer interaction and
+social inﬂuence), and engagement of college students’ gamiﬁed learning.
+4. Results
+4.1. Measurement Model
+In the conﬁrmatory factor analysis (CFA), the composite reliability (CR) values in each
+scale ranged from 0.891 to 0.944. They were greater than the suggested value of 0.6 [ 47],
+indicating suitable internal consistency of the scales. In addition, the loading of each survey
+item exceeded the suggested value of 0.7 [48], and the average variance extracted (AVE)
+values ranged from 0.732 to 0.848, all above 0.5. An adequate convergence of the constructs
+was demonstrated [49] (See Table 2).
+Table 2. Loading, composite reliability, convergent validity, and average variance extracted.
+Componence Items Loading Cronbach’s Alpha CR A VE
+Challenge C1 0.871 0.760 0.891 0.804
+C2 0.922
+Skill
+S1 0.886 0.870 0.920 0.793
+S2 0.897
+S3 0.888
+Engagement
+E1 0.935 0.911 0.944 0.848
+E2 0.907
+E3 0.921
+Peer
+Interaction
+PI1 0.925 0.816 0.916 0.844
+PI2 0.913
+Social
+Inﬂuence
+SI1 0.880 0.820 0.891 0.732
+SI2 0.820
+SI3 0.866
+Perceived
+Learning
+PL1 0.921
+0.904 0.940 0.840PL2 0.919
+PL3 0.909
+According to the Fornell-Larcker criterion, the square root of a construct’s AVE should
+be larger than the correlation between the construct and any other construct. Table 3
+displays that the condition mentioned above is met. An additional method of the HTMT
+criterion was employed to assess the discriminant validity. All HTMT values were less
+
+--- PDF PAGE 6 ---
+Sustainability 2023, 15, 983 6 of 12
+than 0.9. The two methods have conﬁrmed the discriminant validity of all the constructs
+measured in this study [49,50].
+Table 3. Discriminant validity.
+Challenge Skill Engagement Peer
+Interaction
+Social
+Inﬂuence
+Perceived
+Learning
+Challenge 0.897
+Skill 0.601 0.890
+Engagement 0.640 0.584 0.921
+Peer Interaction 0.610 0.535 0.667 0.919
+Social Inﬂuence 0.659 0.584 0.593 0.592 0.856
+Perceived Learning 0.584 0.658 0.715 0.586 0.637 0.916
+4.2. Structural Model
+In the structural model, the direct path coefﬁcients describe the relationships between
+the constructs. It showed an acceptable overall model ﬁt (X2/df = 2.146, RMSEA = 0.067,
+CFI = 0.965, SRMR = 0.039). A bootstrapping method by resampling the data 5000 times
+at a 95% conﬁdence level was utilized to determine the importance of correlations and
+estimates. The ﬁndings were: (1) the students’ perceived challenge accounted for 36.1% of
+the variance in perceived skill; (2) social inﬂuence accounted for 35.1% of the variance in
+peer interaction; (3) the perceived challenge, players’ skills, and peer interaction accounted
+for 56.5% of the variance in engagement. Moreover, skill, engagement, and social inﬂuence
+accounted for 62.9% of the variance in perceived learning.
+Figure 2 shows the path model’s direct and indirect effects. Both hypotheses (H 2
+and H3) concerning the effects of the perceived challenge on skill and engagement were
+conﬁrmed. The path coefﬁcient of challenge-skill and challenge-engagement links were
+0.601 *** and 0.233 **, respectively. However, the effect of challenge on perceived learning
+(H1) was not supported. Regarding the impacts of skill, there were signiﬁcant paths
+between skill and engagement (H4: 0.182 **) as well as between skill and perceived learning
+(H5: 0.279 ***). Skill was a mediator between challenge and engagement. Also, engagement
+acted as a mediator between skill and perceived learning. The engagement was affected by
+the perceived challenge of games directly and indirectly through skill.
+The hypothesis (H6) about peer interaction affecting engagement was supported. The
+path coefﬁcient between peer interaction and engagement was 0.355 ***. However, the
+effect of peer interaction on perceived learning (H 7) was not supported. Regarding the
+impacts of social inﬂuence, there were signiﬁcant correlations between social inﬂuence and
+peer interaction (H8: 0.592 ***) as well as between social inﬂuence and perceived learning
+(H10: 0.217 **). Nevertheless, there was no signiﬁcant relationship between social inﬂuence
+and engagement (H9). Finally, the analysis supported the hypothesis that engagement
+positively affected perceived learning (H11: 0.398 ***).
+To examine the signiﬁcance of the mediation effects, we used the bootstrapping
+method suggested by Hair et al. (2022) [ 49]. VAF is employed to assess the magnitude
+of the mediated effect. It is the ratio of the size of the indirect effect compared to the
+overall effect (indirect plus direct effect). The results are in Table 4. According to Hair
+et al. (2022) [49], VAF smaller than 20% means no mediation effect, between 20% and 80%
+for a partial mediation effect, and a full mediation effect for VAF greater than 80%. In
+this study, the values of VAF were 31.2% and 21.3%, indicating partial mediation effects
+(H12 and H15 were supported). Table 4 shows that students’ control of the challenges
+inﬂuenced their perceived skills, then affected their engagement. In addition, the game’s
+skill was inﬂuenced by engagement, which ultimately affected students’ perceived learning.
+The ﬁndings suggest that taking the game’s challenge and player’s ability into account
+beneﬁts students to effectively improve their engagement and perceived learning. Thus,
+instructional designers must think thoroughly about the relationship between these factors
+and ﬁnd the best way.
+
+--- PDF PAGE 7 ---
+Sustainability 2023, 15, 983 7 of 12
+Sustainability 2023, 15, x FOR PEER REVIEW 7 of 13 
+ 
+ 
+Figure 2. PLS-SEM model * p < 0.05, ** p < 0.01, *** p < 0.001. 
+The hypothesis (H6) about peer interaction affecting engagement was supported. The 
+path coefficient between peer interaction and engagement was 0.355 ***. However, the 
+effect of peer interaction on perceived learning (H 7) was not supported. Regarding the 
+impacts of social influence, there were significant correlations between social influence 
+and peer interaction (H8: 0.592 ***) as well as between social influence and perceived learn-
+ing (H10: 0.217 **). Nevertheless, there was no significant relationship between social in-
+fluence and engagement (H9). Finally, the analysis supported the hypothesis that engage-
+ment positively affected perceived learning (H11: 0.398 ***). 
+To examine the significance of the mediat ion effects, we used  the bootstrapping 
+method suggested by Hair et al. (2022) [49]. VAF is employed to assess the magnitude of 
+the mediated effect. It is the ratio of the size of the indirect effect compared to the overall 
+effect (indirect plus direct effect). The results are in Table 4. According to Hair et al. (2022) 
+[49], VAF smaller than 20% means no mediation effect, between 20% and 80% for a partial 
+mediation effect, and a full mediation effect fo r VAF greater than 80%. In this study, the 
+values of VAF were 31.2% and 21.3%, indicating partial mediation effects (H 12 and H 15 
+were supported). Table 4 shows that students’ control of the challenges influenced their 
+perceived skills, then affected their engageme nt. In addition, the game’s skill was influ-
+enced by engagement, which ultimately affected students’ perceived learning. The find-
+ings suggest that taking the game’s challenge and player’s ability into account benefits 
+students to effectively improve their engage ment and perceived learning. Thus, instruc-
+tional designers must think thoroughly about the relationship between these factors and 
+find the best way 
+Figure 2. PLS-SEM model * p < 0.05, ** p < 0.01, *** p < 0.001.
+Table 4. Mediation effect.
+Independent
+Variables Mediators Dependent
+Variables Direct Effect Indirect
+Effect Total Effect V AF Hypotheses
+Challenge Skill Engagement 0.280 0.127 0.407 31.2% Yes
+Skill Engagement Perceived Learning 0.283 0.088 0.371 23.7% Yes
+4.3. Importance-Performance Map Analysis
+Importance-performance map analysis (IPMA) provides additional information about
+PLS-SEM results. The standard PLS-SEM analyses report the relative importance of con-
+structs determined by the total effects. IPMA considers the average values of latent variable
+scores to present the performance of each construct. In other words, the IPMA offers
+information about each predecessor constructor’s total effect (importance) on the target
+construct. Meanwhile, it gives information on performance assessed by average latent
+variable scores [51]. In this study, perceived learning was our target construct. Figure 2.
+PLS-SEM model * p < 0.05, ** p < 0.01, *** p < 0.001. displays the scores of importance and
+performance for each predecessor construct. Performance scoring is from 0 to 100: the
+greater the value, the better the variable’s performance.
+The IMPA results in Figure 3 demonstrate that students’ perceived learning was most
+related to engagement and had the highest effect. In other words, in gamiﬁed learning,
+student engagement is the most critical factor to consider if the perceived learning level
+is to be enhanced. Social inﬂuence is the second most crucial factor. The third one is the
+perceived skill. Although skill was ranked third, its low performance signals that students
+might be unfamiliar with the game and lack the necessary playing skills. Therefore, helping
+students have a certain degree of familiarity with the game’s operations deserves instructors’
+attention. The fourth most essential factor is the perceived challenge, which had the lowest
+performance. The challenge is hard to plan and balance, maintained by relevant studies on
+
+--- PDF PAGE 8 ---
+Sustainability 2023, 15, 983 8 of 12
+mind ﬂow [ 31]. Finally, peer interaction is the least relevant factor, but with relatively good
+performance. The analysis of IPMA sketches a picture regarding the contrast between the
+importance and performance of each construct. In this study, we found engagement was
+the one with the highest importance and performance.
+Sustainability 2023, 15, x FOR PEER REVIEW 8 of 13 
+ 
+Table 4. Mediation effect. 
+Independent 
+Variables Mediators Dependent 
+Variables 
+Direct 
+Effect 
+Indirect 
+Effect 
+Total 
+Effect VAF Hypotheses 
+Challenge Skill Engagement 0.280 0.127 0.407 31.2% Yes 
+Skill Engagement Perceived 
+Learning 0.283 0.088 0.371 23.7% Yes 
+4.3. Importance-Performance Map Analysis 
+Importance-performance map analysis (IPMA) provides additional information 
+about PLS-SEM results. The standard PLS-SEM analyses report the relative importance of 
+constructs determined by the total effects. IPMA considers the average values of latent 
+variable scores to present the performance of each construct. In other words, the IPMA 
+offers information about each predecessor constructor’s total effect (importance) on the 
+target construct. Meanwhile, it gives information on performance assessed by average la-
+tent variable scores [51]. In this study, perceived learning was our target construct. Figure 
+2. PLS-SEM model * p < 0.05, ** p < 0.01, *** p < 0.001. displays the scores of importance 
+and performance for each predecessor construct. Performance scoring is from 0 to 100: the 
+greater the value, the better the variable’s performance. 
+The IMPA results in Figure 3 demonstrate that students’ perceived learning was most 
+related to engagement and had the highest effect. In other words, in gamified learning, 
+student engagement is the most critical factor to consider if the perceived learning level is 
+to be enhanced. Social influence is the seco nd most crucial factor. The third one is the 
+perceived skill. Although skill was ranked third, its low performance signals that students 
+might be unfamiliar with the game and lack the necessary playing skills. Therefore, help-
+ing students have a certain degree of familiarity with the game’s operations deserves in-
+structors’ attention. The fourth most essential factor is the perceived challenge, which had 
+the lowest performance. The challenge is hard to plan and balance, maintained by relevant 
+studies on mind flow [31]. Finally, peer interaction is the least relevant factor, but with 
+relatively good performance. The analysis of IPMA sketches a picture regarding the con-
+trast between the importance and performance of each construct. In this study, we found 
+engagement was the one with the highest importance and performance. 
+ 
+Figure 3. IMPA analysis. 
+Figure 3. IMPA analysis.
+5. Discussion
+Previous studies contend that the ﬂow experience, social interaction, and engagement
+beneﬁt student learning in gamiﬁed settings [14,39]. However, rare research touches on
+the relationships among the predecessor factors. This study incorporated psychological
+(ﬂow antecedents-perceived challenge and skill of gamiﬁcation) and social factors (social
+interaction-peer interaction and social inﬂuence) to disentangle the causal linkages of the
+relevant predictors for students’ gamiﬁed learning. A PLS-SEM was conducted, using
+engagement as a mediator. Several noteworthy ﬁndings are discussed as follows.
+First, regarding the ﬂow antecedents, the perceived game’s challenge enacted its
+impact on students’ gamiﬁed learning through engagement, while players’ perceptions
+of their skills had both direct and indirect effects. In other words, the game’s challenge
+could not directly inﬂuence players’ gamiﬁed learning. Its effect, instead, must be through
+engagement. As the literature asserts, challenging tasks arouse students’ motivation to
+conquer problems, which is conducive to their concentration on learning [15,43]. However,
+the challenge does not always result in positive learning outcomes. When players face a
+highly challenging game that requires abilities beyond what they can afford, frustrations
+or the intention to give up will occur. In contrast, when players can control the game,
+their engagement will be boosted, and their performance will also be improved. Balancing
+challenge and skill have been discussed extensively in the literature; it is crucial to creating
+the ﬂow state [ 2,14,24]. A state of ﬂow refers to students focusing on intrinsically interesting
+activities and having elevated enjoyment [14,24,27,30]. Achieving the state of ﬂow could not
+merely count on the challenging gamiﬁed activities. Our study particularly proposes that
+the perceived challenge of games does not alone bring about desirable cognitive outcomes.
+Nevertheless, skill plays a direct inﬂuential role.
+Second, for the factors of social interaction, we found that peer interaction only exerted
+an indirect effect on perceived learning, unlike social inﬂuence with a direct impact. In the
+game settings, students have chances to discuss with peers and work collaboratively [10,36].
+
+--- PDF PAGE 9 ---
+Sustainability 2023, 15, 983 9 of 12
+Through peer support, students enhanced their engagement. However, the interactions
+were not intellectually sufﬁcient to stimulate their learning. Although prior studies argued
+that collaborations advance competence [ 17], our study reveals that the quality of peer
+interaction might determine its strength of inﬂuence. Moreover, as a sense of relatedness,
+social inﬂuence was found to beneﬁt people’s willingness to use gamiﬁcation services [34].
+Connecting with others is a psychological need. By relating to others, users in the infor-
+mation technology context reinforce their willingness to use the system [35]. This study
+further suggests that the participants, inﬂuenced by peers, teachers, or knowledgeable
+others to engage in gamiﬁcation, enhance their learning performance.
+Third, there were three predictors signiﬁcantly associated with engagement: perceived
+challenge, skill, and group interaction. Players’ perceptions of challenges do not necessarily
+bring about positive learning outcomes but elevate one’s concentration. Prior literature
+contended that players’ self-perceived skills [15,43] and group interaction [32] contribute
+to engagement, and this study provides additional conﬁrmation. Among the three factors,
+peer interaction had the highest effect on engagement.
+Finally, based on the IMPA results, engagement had the greatest importance for stu-
+dents’ perceived learning, followed by social inﬂuence, skill, challenge, and peer interaction.
+Several studies argued that engagement is the most critical factor in gamiﬁcation [ 1,52].
+Social inﬂuence in this study, reﬂecting people’s relatedness, also had a high degree of
+contribution. Moreover, engagement owned the highest magnitude of performance among
+the predecessor factors. It was the most notable driver for student learning outcomes. Other
+factors ranked by the performance volume were peer interaction, social inﬂuence, skill, and
+challenge. In sum, engagement and social inﬂuence both had a greater extent of importance
+and performance, whereas a relatively moderate extent for skill and challenge. Unlike the
+four variables mentioned above, peer interaction had high performance but low importance.
+Although Thiebes et al. (2014) [36] argued that peer-to-peer interactions are beneﬁcial to
+participants’ immersion in the activity, the quality of interactions inﬂuences its strength
+of effect on cognitive learning. It explains why students in our study did not signiﬁcantly
+improve their learning outcomes even though they had frequent peer interactions.
+6. Conclusions and Implications
+Research on how gamiﬁcation can be used to promote perceived learning is still
+in its initial stage. This study developed a gamiﬁed learning model to explore relevant
+psychological (ﬂow antecedents-perceived challenge and skill) and social factors (social
+interaction-peer interaction and social inﬂuence) affecting perceived learning in higher
+education settings. By assessing the causal mechanism, this study found that the effects of
+perceived challenge and peer interaction on perceived learning outcomes were mediated
+by engagement. In addition, the impact of students’ perceptions of their skills was partially
+mediated by engagement. Both engagement and social inﬂuence had a direct effect on
+student learning outcomes. Among the predictors, engagement was the most inﬂuential
+factor for students’ gamiﬁed learning and had the highest performance volume.
+There are two aspects of contributions that this study has made. First, from a theoretical
+perspective, the model presented in this study can help researchers and practitioners gain
+a preliminary understanding of the driving mechanism underlying cognitive learning
+strategies that connect learners’ ﬂow, social interactions, and gamiﬁed learning. It differs
+from past research, which merely focused on how mind ﬂow or community interactions
+affect gamiﬁed cognitive learning. Incorporating psychological and social factors into
+account, we have proposed a more comprehensive model of gamiﬁed learning to identify
+the associations between the factors and the pathways of the connections. Second, from
+a pedagogical point of view, this study provides hints for implementing gamiﬁcation
+activities. The instruction or training program can increase the challenge level of games
+to advance players’ skill level but must attend to the balance of challenge and skill to
+maximize learners’ engagement. Therefore, it is essential to consider students’ game skills,
+
+--- PDF PAGE 10 ---
+Sustainability 2023, 15, 983 10 of 12
+the difﬁculty degree of games, and the interactivity of games in groups when planning
+game-based learning activities.
+Despite our contributions, this study has its limitations, including only conducting
+the study in one university and centering on one ﬂow aspect for inquiry. Acknowledging
+the limitations and based on the ﬁndings, we propose several suggestions for gamiﬁcation
+teaching and future studies. First, the gamiﬁed learning design must be developmentally
+appropriate. It means that the challenge of games needs to match or appropriately above
+users’ skill level. Too complex games would prohibit students’ achievement of the ﬂow
+state. Second, when students play gamiﬁcation activities, some challenges might cause
+them to give up. The instructor can form several heterogeneous groups to facilitate student
+learning. By giving prompts and helping the groups to discuss with peers, the instructor
+can decrease students’ frustrating experiences. Third, the instructor must communicate
+with each group to know their learning progress. Although gamiﬁcation involves self-
+regulated learning, the instructor needs to guide the students to continue participating
+in the activities. Fourth, having students reﬂect on what was experienced and learned
+from the activities beneﬁts their deepening learning. A peer-review process can also help
+students focus on the learning course content. Finally, there are some suggestions for
+future studies. Researchers may extend the gamiﬁcation approach by integrating project-
+based learning into the course design. The approach can be applied in different courses
+to understand if differential effects exist, and a hierarchical modeling analysis might help
+illuminate the variations. Besides, since teaching is a context-based cultural activity, it is
+worth investigating gamiﬁcation in different cultural contexts.
+Author Contributions: Conceptualization, C.-H.C. and H.-L.W.P .; methodology, C.-H.C. and H.-
+L.W.P .; software, C.-H.C.; formal analysis, C.-H.C. and H.-L.W.P .; investigation, H.-L.W.P .; writing—
+original draft, C.-H.C. and H.-L.W.P .; writing—review & editing, H.-L.W.P .; visualization, C.-H.C. All
+authors have read and agreed to the published version of the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Informed consent was obtained from all subjects involved in the study.
+Data Availability Statement: Data is unavailable due to privacy or ethical restrictions.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+Appendix A
+Table A1. Questionnaire.
+Factors Item Questions
+Challenge C1 Engaging in gamiﬁed learning is not a challenge for me
+C2 Gamiﬁed learning has not pushed my abilities to the limit
+Skill
+S1 I am familiar with the mechanisms of using gamiﬁed learning in the class
+S2 I am familiar with the procedures of using gamiﬁed learning in the class
+S3 Learning to use gamiﬁed learning is easy for me
+Engagement
+E1 I actively participate in gamiﬁed learning courses
+E2 I am willing to participate in teaching activities related to gamiﬁed learning
+E3 I enjoyed my participation in gamiﬁed learning
+Peer interaction PI1 Using gamiﬁed learning increases my interaction with my classmates
+PI2 When I use gamiﬁed learning, I actively build a network of classmates
+Social inﬂuence
+SI1 I am encouraged to participate in gamiﬁed learning by my teacher, peers, or classmates
+SI2 My teacher, peer, or classmate helps me engage in the gamiﬁed learning
+SI3 Some inﬂuential persons, such as the teacher or classmates, suggested I engage in gamiﬁed learning activities
+Perceived learning
+PL1 Gamiﬁed learning has helped me in my studies
+PL2 Using gamiﬁed learning allows me to learn the course content efﬁciently
+PL3 Using gamiﬁed learning improves my learning performance
+The items were designed with a ﬁve-point Likert scale.
+
+--- PDF PAGE 11 ---
+Sustainability 2023, 15, 983 11 of 12
+References
+1. Yang, Y.; Asaad, Y.; Dwivedi, Y. Examining the impact of gamiﬁcation on intention of engagement and brand attitude in the
+marketing context. Comput. Hum. Behav. 2017, 73, 459–469. [CrossRef]
+2. Oliveira, W.; Hamari, J.; Joaquim, S.; Toda, A.M.; Palomino, P .T.; Vassileva, J.; Isotani, S. The effects of personalized gamiﬁcation
+on students’ ﬂow experience, motivation, and enjoyment. Smart Learn. Environ. 2022, 9, 1–26. [CrossRef]
+3. Nieto-Escamez, F.A.; Roldán-Tapia, M.D. Gamiﬁcation as Online Teaching Strategy during COVID-19: A Mini-Review.Front.
+Psychol. 2021, 12, 1644. [CrossRef] [PubMed]
+4. Rincon-Flores, E.G.; Santos-Guevara, B.N. Gamiﬁcation during Covid-19: Promoting active learning and motivation in higher
+education. Australas. J. Educ. Technol. 2021, 37, 43–60. [CrossRef]
+5. Mora, A.; Riera, D.; Gonz ález, C.; Arnedo-Moreno, J. Gamiﬁcation: A systematic review of design frameworks. J. Comput. High.
+Educ. 2017, 29, 516–548. [CrossRef]
+6. Deterding, S. Gamiﬁcation: Designing for Motivation. Interactions 2012, 19, 14–17. [CrossRef]
+7. Kocadere, S.A.; Ça˘ glar, ¸ S. Gamiﬁcation from player type perspective: A case study.J. Educ. Technol. Soc. 2018, 21, 12–22.
+8. York, J.; Dehaan, J.W. A Constructivist Approach to Game-Based Language Learning. Int. J. Game-Based Learn. 2018, 8, 19–40.
+[CrossRef]
+9. Hamari, J.; Koivisto, J.; Sarsa, H. Does Gamiﬁcation Work?—A Literature Review of Empirical Studies on Gamiﬁcation. In
+Proceedings of the 47th Annual Hawaii International Conference on System Sciences, Waikoloa, HI, USA, 6–9 January 2014; pp.
+3025–3034. [CrossRef]
+10. Sailer, M.; Homner, L. The Gamiﬁcation of Learning: A Meta-analysis. Educ. Psychol. Rev. 2019, 32, 77–112. [CrossRef]
+11. Ding, L.; Er, E.; Orey, M. An exploratory study of student engagement in gamiﬁed online discussions.Comput. Educ. 2018, 120,
+213–226. [CrossRef]
+12. Chang, J.-W.; Wei, H.-Y. Exploring engaging gamiﬁcation mechanics in massive online open courses.J. Educ. Technol. Soc. 2016,
+19, 177–203.
+13. Su, C.-H.; Cheng, C.-H. A mobile gamiﬁcation learning system for improving the learning motivation and achievements. J.
+Comput. Assist. Learn. 2014, 31, 268–286. [CrossRef]
+14. Hamari, J.; Shernoff, D.J.; Rowe, E.; Coller, B.; Asbell-Clarke, J.; Edwards, T. Challenging games help students learn: An empirical
+study on engagement, ﬂow and immersion in game-based learning. Comput. Hum. Behav. 2016, 54, 170–179. [CrossRef]
+15. Fullagar, C.J.; Knight, P .A.; Sovern, H.S. Challenge/Skill Balance, Flow, and Performance Anxiety.Appl. Psychol. 2012, 62, 236–259.
+[CrossRef]
+16. Covington, M.V . The motive for self-worth. Res. Motiv. Educ. 1984, 1, 77–113.
+17. Rigby, S.; Ryan, R.M.Glued to Games: How Video Games Draw Us in and Hold Us Spellbound: How Video Games Draw Us in and Hold
+Us Spellbound; Praeger: New York, NY, USA, 2011.
+18. Huizenga, J.; Admiraal, W.; Akkerman, S.; Dam, G.T. Mobile game-based learning in secondary education: Engagement,
+motivation and learning in a mobile city game. J. Comput. Assist. Learn. 2009, 25, 332–344. [CrossRef]
+19. Deterding, S.; Sicart, M.; Nacke, L.; O’Hara, K.; Dixon, D. Gamiﬁcation. Using Game-Design Elements in Non-Gaming Contexts.
+In Proceedings of the International Conference on Human Factors in Computing Systems, Vancouver, BC, Canada, 7–12 May
+2011.
+20. Werbach, K. (Re) deﬁning gamiﬁcation: A process approach. InInternational Conference on Persuasive Technology; Spagnolli, A.,
+Chittaro, L., Gamberini, L., Eds.; Springer: Cham, Switzerland, 2014; pp. 266–272.
+21. Chou, Y. Actionable Gamiﬁcation: Beyond Points, Badges, and Leaderboards; Packt Publishing Ltd.: Birmingham, UK, 2019.
+22. Seaborn, K.; Fels, D.I. Gamiﬁcation in theory and action: A survey. Int. J. Hum.-Comput. Stud. 2015, 74, 14–31. [CrossRef]
+23. Chung, C.; Lin, Y.Y. Online 3D gamiﬁcation for teaching a human resource development course.J. Comput. Assist. Learn. 2022, 38,
+692–706. [CrossRef]
+24. Zainuddin, Z.; Chu, S.K.W.; Shujahat, M.; Perera, C.J. The impact of gamiﬁcation on learning and instruction: A systematic review
+of empirical evidence. Educ. Res. Rev. 2020, 30, 100326. [CrossRef]
+25. Hamari, J. Do badges increase user activity? A ﬁeld experiment on the effects of gamiﬁcation. Comput. Hum. Behav. 2017, 71,
+469–478. [CrossRef]
+26. Csikszentmihalyi, M. Beyond Boredom and Anxiety: Experiencing Flow in Work and Play; Jossey-Bass Publishers: San Francisco, CA,
+USA, 1975.
+27. Shernoff, D.J.; Kelly, S.; Tonks, S.M.; Anderson, B.; Cavanagh, R.F.; Sinha, S.; Abdi, B. Student Engagement as a Function of
+Environmental Complexity in High School Classrooms. Learn. Instr. 2016, 43, 52–60. [CrossRef]
+28. Hsu, C.-L.; Lu, H.-P . Why do people play on-line games? An extended TAM with social inﬂuences and ﬂow experience. Inf.
+Manag. 2004, 41, 853–868. [CrossRef]
+29. Kiili, K. Evaluations of an experiential gaming model. Hum. Technol. Interdiscip. J. Hum. ICT Environ. 2006, 2, 187–201. [CrossRef]
+30. Moneta, G.B.; Csikszentmihalyi, M. The Effect of Perceived Challenges and Skills on the Quality of Subjective Experience. J. Pers.
+1996, 64, 275–310. [CrossRef]
+31. Mirvis, P .H. Flow: The Psychology of Optimal ExperienceFlow: The Psychology of Optimal Experience, by Csikszentmihalyi
+Michael. New York: Harper & Row, 1990, 303 pp., $19.95, cloth. Acad. Manag. Rev. 1991, 16, 636–640. [CrossRef]
+
+--- PDF PAGE 12 ---
+Sustainability 2023, 15, 983 12 of 12
+32. Dikcius, V .; Urbonavicius, S.; Adomaviciute, K.; Degutis, M.; Zimaitis, I. Learning Marketing Online: The Role of Social
+Interactions and Gamiﬁcation Rewards. J. Mark. Educ. 2020, 43, 159–173. [CrossRef]
+33. Gellner, C.; Buchem, I.; Müller, J. Application of the octalysis framework to gamiﬁcation designs for the elderly. InProceedings of
+the 15th European Conference on Games-Based Learning; Fotaris, P ., Ed.; Supported by University of Brighton; Academic Conferences
+Limited: Reading, UK, 2021; pp. 260–267.
+34. Hamari, J.; Koivisto, J. Why Do People Use Gamiﬁcation Services? Int. J. Inf. Manag. 2015, 35, 419–431. [CrossRef]
+35. Zhang, P . Motivational Affordances: Reasons for ICT Design and Use. Commun. ACM 2008, 51, 145–147. [CrossRef]
+36. Thiebes, S.; Lins, S.; Basten, D. Gamifying information systems-a synthesis of gamiﬁcation mechanics and dynamics. In
+Proceedings of the European Conference on Information Systems, Tel Aviv, Israel, 9–11 June 2014; AIS Electronic Library: Milan,
+Italy, 2014.
+37. Chung, C.-H.; Shen, C.; Qiu, Y.-Z. Students’ Acceptance of Gamiﬁcation in Higher Education.Int. J. Game-Based Learn. 2019, 9,
+1–19. [CrossRef]
+38. Signori, G.G.; De Guimarães, J.C.F.; Severo, E.A.; Rotta, C. Gamiﬁcation as an innovative method in the processes of learning in
+higher education institutions. Int. J. Innov. Learn. 2018, 24, 115. [CrossRef]
+39. Özhan, S.C.; Kocadere, S.A. The Effects of Flow, Emotional Engagement, and Motivation on Success in a Gamiﬁed Online
+Learning Environment. J. Educ. Comput. Res. 2019, 57, 2006–2031. [CrossRef]
+40. Alshuaibi, A.; Shamsudin, F.M.; Arshad, D.A. Use of social media, student engagement, and academic performance of business
+students in Malaysia. Int. J. Educ. Manag. 2018, 32, 625–640. [CrossRef]
+41. Khaleel, F.L.; Ashaari, N.S.; Wook, T.S.M.T. The impact of gamiﬁcation on students learning engagement.Int. J. Electr. Comput.
+Eng. (IJECE) 2020, 10, 4965–4972. [CrossRef]
+42. Tsay, C.H.; Koﬁnas, A.K.; Trivedi, S.K.; Yang, Y. Overcoming the novelty effect in online gamiﬁed learning systems: An empirical
+evaluation of student engagement and performance. J. Comput. Assist. Learn. 2019, 36, 128–146. [CrossRef]
+43. Huang, Y.-C.; Backman, S.J.; Backman, K.F.; McGuire, F.A.; Moore, D. An investigation of motivation and experience in virtual
+learning environments: A self-determination theory. Educ. Inf. Technol. 2018, 24, 591–611. [CrossRef]
+44. Mesurado, B.; Richaud, M.C.; Mateo, N.J. Engagement, Flow, Self-Efﬁcacy, and Eustress of University Students: A Cross-National
+Comparison Between the Philippines and Argentina. J. Psychol. 2015, 150, 281–299. [CrossRef]
+45. Howard-Jones, P .A.; Jay, T.; Mason, A.; Jones, H. Gamiﬁcation of Learning Deactivates the Default Mode Network.Front. Psychol.
+2016, 6, 1891. [CrossRef]
+46. Cohen, J. Statistical Power Analysis for the Behavioral Science; Academic Press: New York, NY, USA, 1977.
+47. Bagozzi, R.P .; Yi, Y. On the Evaluation of Structural Equation Models. J. Acad. Mark. Sci. 1988, 16, 74–94. [CrossRef]
+48. Hair, J.F.; Matthews, L.M.; Matthews, R.L.; Sarstedt, M. PLS-SEM or CB-SEM: Updated Guidelines on Which Method to Use. Int.
+J. Multivar. Data Anal. 2017, 1, 107–123. [CrossRef]
+49. Hair Jr, J.F.; Hult GT, M.; Ringle, C.M.; Sarstedt, M.A Primer on Partial Least Squares Structural Equation Modeling (PLS-SEM); Sage
+Publications: Thousands Oak, CA, USA, 2022.
+50. Fornell, C.; Larcker, D. Evaluating structural equation models with unobservable variables and measurement error.J. Mark. Res.
+1981, 18, 39–50. [CrossRef]
+51. Ringle, C.M.; Sarstedt, M. Gain more insight from your PLS-SEM results. Ind. Manag. Data Syst. 2016, 116, 1865–1886. [CrossRef]
+52. Donnermann, M.; Lein, M.; Messingschlager, T.; Riedmann, A.; Schaper, P .; Steinhaeusser, S.; Lugrin, B. Social robots and
+gamiﬁcation for technology supported learning: An empirical study on engagement and motivation. Comput. Hum. Behav. 2021,
+121, 106792. [CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

@@ -1,0 +1,25 @@
+flowchart TD
+    Start([Open the installed game]) --> Load[Read available local progress]
+    Store[(Local device storage)] -.->|Load| Load
+    Load --> Menu[Main Menu]
+    Menu -->|Settings| Settings[Settings]
+    Menu -->|Tutorial| Tutorial[Tutorial]
+    Menu -->|Exit| Exit([Exit the game])
+    Menu -->|Play| Map[Landform Map]
+    Map --> Episode[Select an unlocked episode]
+    Episode --> Level[Select an available mode and level]
+    Level --> Lesson[Short lesson]
+    Lesson --> Play[Explore, move, jump and collect]
+    Play --> Item[Item illustration, name and description]
+    Item --> Play
+    Play -->|Level completed| Results[Collected items, review and stars]
+    Results -.->|Progress data| Store
+    Results -->|Replay| Lesson
+    Results -->|Continue| EpisodeDone{Episode requirements met?}
+    EpisodeDone -->|No| Next[Next available level]
+    Next --> Lesson
+    EpisodeDone -->|Yes| Summary[Episode summary]
+    Summary --> AllDone{All four episodes completed?}
+    AllDone -->|No| Unlock[Unlock the next episode]
+    Unlock --> Map
+    AllDone -->|Yes| Final([Final completion screen])

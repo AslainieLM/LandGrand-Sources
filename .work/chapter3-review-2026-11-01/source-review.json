@@ -1,0 +1,328 @@
+{
+  "source": "G:\\Other computers\\My Computer (1)\\Lab Activities\\SUMMER\\CAPSTONE-2\\Aslainie\\Chapter_3_Technical_Background_Land_Grand.docx",
+  "sha256": "a4862da1fe16500cf708186be199e0833f43b21cb82caaaf762f67029cd94d4b",
+  "bytes": 47947,
+  "paragraphs": [
+    {
+      "index": 0,
+      "text": "CHAPTER III",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 1,
+      "text": "TECHNICAL BACKGROUND",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 2,
+      "text": "This chapter describes the technical aspects of the Android application, the tools used in its development, and how it will function. It presents the software and hardware used to build the application, explains the role of each tool, and describes the overall process by which the learner will use the game.",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 3,
+      "text": "The Technicality of the Project",
+      "images": [],
+      "style": "Heading1"
+    },
+    {
+      "index": 4,
+      "text": "In developing the project, the proponent gathered all the relevant information and considered various technology options before selecting the tools to be used. Through these tools, learners can study the content of Land Grand, which covers landforms, rocks, and minerals, while enjoying an interactive game experience. The main tools used in the development of the application include the Unity Engine, Piskel, Clip Studio Paint, and Visual Studio Code, with C# as the programming language.",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 5,
+      "text": "Development",
+      "images": [],
+      "style": "Heading2"
+    },
+    {
+      "index": 6,
+      "text": "This section covers the tools used to create the Android application, including both the software and hardware components of the project. The selected components were chosen to meet the requirements of the game application and to ensure good performance, compatibility, and efficiency. The proponent recognizes that Unity offers a strong and flexible development platform that supports two-dimensional game development, real-time rendering, and an extensive library of assets, which makes it well suited for developing an interactive and educational game application such as Land Grand.",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 7,
+      "text": "The Unity Engine was founded in Copenhagen, Denmark, and was designed by David Helgason, Joachim Ante, and Nicholas Francis. It is one of the well-known game engines used to create a wide range of games and applications. The Unity Engine can be used without payment for its core features, and numerous tutorials are available for learning how to use it, which makes it accessible for student developers.",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 8,
+      "text": "Android Operating System",
+      "images": [],
+      "style": "Heading2"
+    },
+    {
+      "index": 9,
+      "text": "Android was developed by a consortium of developers known as the Open Handset Alliance, with Google leading the development of its most widely used version. It is an open-source platform, and Android applications can be developed using several programming languages such as Java, Kotlin, C#, C++, and others. The Android Software Development Kit (SDK) includes the tools, libraries, and application programming interfaces (APIs) needed for building Android applications. Land Grand is designed to run on Android devices from Android 10 to Android 14.",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 10,
+      "text": "Android Package",
+      "images": [],
+      "style": "Heading2"
+    },
+    {
+      "index": 11,
+      "text": "Android applications are packaged into Android Package (APK) files for distribution. Unity, together with the Android build tools, can generate an installable APK file that can be deployed and run on Android phones and tablets. This allows Land Grand to be installed directly on a learner's device and used offline, without the need for an internet connection.",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 12,
+      "text": "The proponent uses Unity as the main framework for developing the project. Because it is free and easily accessible, the application's graphics and sprites are created and edited using Piskel and Clip Studio Paint, and the application is built using two-dimensional bitmap graphics. The application is programmed in C#, and Visual Studio Code was chosen as the integrated development environment (IDE) for editing the program and its functionalities.",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 13,
+      "text": "This section presents the details of the tools used in creating the application, including the hardware, software, and peopleware.",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 14,
+      "text": "Hardware",
+      "images": [],
+      "style": "Heading2"
+    },
+    {
+      "index": 15,
+      "text": "The following are the specifications of the computer used by the developer in creating the application:",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 16,
+      "text": "•  Processor: 11th Gen Intel(R) Core(TM) i7-1185G7 @ 3.00 GHz",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 17,
+      "text": "•  RAM: 16 GB, 2400 MHz",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 18,
+      "text": "•  Graphics: Intel(R) Iris(TM) Xe Graphics",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 19,
+      "text": "•  Storage: 256 GB SSD",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 20,
+      "text": "The following are the minimum specifications required for the end-user's Android device in order to run the application:",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 21,
+      "text": "•  Operating System: Android 10 and above (up to Android 14)",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 22,
+      "text": "•  RAM: 2 GB minimum",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 23,
+      "text": "•  Storage: 300 MB of free space",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 24,
+      "text": "Software",
+      "images": [],
+      "style": "Heading2"
+    },
+    {
+      "index": 25,
+      "text": "Software refers to the programs installed on the computer that are used to develop and run the application. The following software was used in developing the project:",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 26,
+      "text": "Operating System",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 27,
+      "text": "•  Windows 11, 64-bit - the operating system used by the developer during development.",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 28,
+      "text": "Game Engine",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 29,
+      "text": "•  Unity Engine - the main game engine used to build the two-dimensional educational game, handle gameplay logic, and generate the Android build.",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 30,
+      "text": "Editing Software",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 31,
+      "text": "•  Piskel - a free editor used to create pixel art and animated sprites. It allows the developer to create and modify animation frames and to export work in sprite sheet, PNG, and GIF formats.",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 32,
+      "text": "•  Clip Studio Paint - a digital illustration and painting software used to create and edit the artwork and assets for the game. It is widely used by professional digital artists and animators.",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 33,
+      "text": "Integrated Development Environment",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 34,
+      "text": "•  Visual Studio Code - the code editor selected for writing and editing the C# scripts of the application. It provides features such as autocompletion, which makes programming more efficient.",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 35,
+      "text": "Programming Language",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 36,
+      "text": "•  C# - the programming language used to develop the functionality and logic of the application within the Unity Engine.",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 38,
+      "text": "Peopleware",
+      "images": [],
+      "style": "Heading2"
+    },
+    {
+      "index": 39,
+      "text": "Peopleware refers to the people involved in the study, including those who will use and benefit from the application. For Land Grand, the intended users are the Grade Five learners of Baluan Elementary School, who will use the application as additional learning support at home, together with the printed learning materials provided by the school. The teachers of these learners are also considered, as the application is designed to support their teaching of landforms, rocks, and minerals.",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 40,
+      "text": "How Will the Project Work?",
+      "images": [],
+      "style": "Heading1"
+    },
+    {
+      "index": 41,
+      "text": "The main goal of this Android application is to teach the learner about landforms, rocks, and minerals through interactive exploration and simple lessons. The application saves the learner's progress on the device to monitor gameplay and session progress, and the user interface is designed to be simple and easy to use.",
+      "images": [
+        "rId5"
+      ],
+      "style": ""
+    },
+    {
+      "index": 42,
+      "text": "Figure 4. Procedures",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 43,
+      "text": "The process for using the application is clear and straightforward. The first step is to run the application on an Android device, which requires the learner to download and install the application beforehand. From the Main Menu, the learner can choose Play, Settings, Tutorial, or Exit. After selecting Play, the learner is taken to the Landform Map, which contains four episodes representing the major landforms: Mountains, Hills, Plains, and Plateaus. Only unlocked episodes can be selected, and the remaining episodes become available after the learner completes the previous episode.",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 44,
+      "text": "Before each level begins, a Lesson Screen introduces the selected landform and the rocks or minerals that can be found there using simple explanations. During gameplay, the learner controls an explorer character to move through the landform, collect rocks and minerals, and overcome challenges such as obstacles, traps, pitfalls, and time limits. When a rock or mineral is collected, a pop-up displays its name together with a short description, giving the learner information about the item before continuing.",
+      "images": [],
+      "style": ""
+    },
+    {
+      "index": 45,
+      "text": "The learner must complete the Easy levels before unlocking the Normal levels, and the Normal levels before unlocking the Hard levels. After completing a level, the Result Screen displays the collected rocks and minerals, the stars earned, and a short review of the lesson. The learner may then replay the level or continue to the next available level.",
+      "images": [],
+      "style": ""
+    }
+  ],
+  "tables": 0,
+  "tracked_insertions": 0,
+  "tracked_deletions": 0,
+  "comment_count": 0,
+  "comments": [],
+  "relationships": [
+    {
+      "Id": "rId3",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/settings",
+      "Target": "settings.xml"
+    },
+    {
+      "Id": "rId7",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/theme",
+      "Target": "theme/theme1.xml"
+    },
+    {
+      "Id": "rId2",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles",
+      "Target": "styles.xml"
+    },
+    {
+      "Id": "rId1",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/numbering",
+      "Target": "numbering.xml"
+    },
+    {
+      "Id": "rId6",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/fontTable",
+      "Target": "fontTable.xml"
+    },
+    {
+      "Id": "rId5",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+      "Target": "media/image1.jpg"
+    },
+    {
+      "Id": "rId4",
+      "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/webSettings",
+      "Target": "webSettings.xml"
+    }
+  ],
+  "media": [
+    {
+      "part": "word/media/image1.jpg",
+      "path": "D:\\Projects\\LandGrand-Sources\\.work\\chapter3-review-2026-11-01\\media\\image1.jpg",
+      "bytes": 28970
+    }
+  ]
+}

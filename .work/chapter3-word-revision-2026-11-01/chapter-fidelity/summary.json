@@ -1,0 +1,19 @@
+{
+  "a_docx": "D:\\Projects\\LandGrand-Sources\\.work\\chapter3-word-revision-2026-11-01\\chapter3-source.docx",
+  "b_docx": "D:\\Projects\\LandGrand-Sources\\Deliverables\\Chapter III Revision 2026-11-01\\Land Grand - Chapter III - Revised - v1.docx",
+  "pages_a": 6,
+  "pages_b": 10,
+  "changed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "num_changed_pages": 10
+}

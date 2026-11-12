@@ -1,0 +1,16 @@
+flowchart TD
+ A([A: Start selected level]) --> Lesson[Short lesson]
+ Lesson --> Explore[Explore and collect]
+ Explore --> Info[Item illustration,<br/>name and description]
+ Info --> Explore
+ Explore -->|Level completed| Results[Collected items,<br/>review and stars]
+ Results -.->|Progress data| Store[(Device storage)]
+ Results -->|Replay| Lesson
+ Results -->|Continue| Check{Episode<br/>requirements met?}
+ Check -->|No| Next[Next available level]
+ Next --> Lesson
+ Check -->|Yes| Summary[Episode summary]
+ Summary --> All{All four episodes<br/>completed?}
+ All -->|No| Unlock[Unlock next episode]
+ Unlock --> B([B: Landform Map])
+ All -->|Yes| Final([Final completion])

@@ -1,0 +1,14 @@
+{
+  "a_docx": "D:\\Projects\\LandGrand-Sources\\.work\\final-chapters-correction-2026-11-01\\chapter1.docx",
+  "b_docx": "D:\\Projects\\LandGrand-Sources\\Deliverables\\Chapters I-II Corrections 2026-11-01\\Land Grand - Chapter I - Corrected.docx",
+  "pages_a": 9,
+  "pages_b": 9,
+  "changed_pages": [
+    3,
+    4,
+    6,
+    7,
+    8
+  ],
+  "num_changed_pages": 5
+}

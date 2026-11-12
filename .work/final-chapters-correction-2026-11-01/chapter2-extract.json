@@ -1,0 +1,260 @@
+{
+  "source": "G:\\Other computers\\My Computer (1)\\Lab Activities\\SUMMER\\CAPSTONE-2\\Aslainie\\CHAPTER 2 - FINAL.docx",
+  "copy": "D:\\Projects\\LandGrand-Sources\\.work\\final-chapters-correction-2026-11-01\\chapter2.docx",
+  "sha256": "d457b46310274f1682cd4c2af560ffd9d233b89c6d61ab569c3ec6a9b3d32dac",
+  "bytes": 23978,
+  "paragraphs": [
+    {
+      "xml_index": 0,
+      "text": "CHAPTER II",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 1,
+      "text": "REVIEW OF RELATED LITERATURE",
+      "style": "Title",
+      "numbering": ""
+    },
+    {
+      "xml_index": 2,
+      "text": "This chapter reviews theories, studies, and existing resources relevant to Land Grand. The discussion focuses on short Science lessons, interactive exploration, selected landform content, and digital rock or mineral illustrations. The review distinguishes evidence from other settings from the proposed use of Land Grand among Grade 5 learners at Baluan Elementary School.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 3,
+      "text": "Related Literature / Theoretical Background",
+      "style": "Heading1",
+      "numbering": ""
+    },
+    {
+      "xml_index": 4,
+      "text": "This section presents the proposed theoretical foundation and supporting literature for Land Grand. It begins with task-attention theory, then discusses learning through activities, mobile resources, and visual examples in Science education.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 5,
+      "text": "The project proposes the Task-Attention Theory of Game Learning as its anchor theory. Cutting and Deterding (2024) explain that game tasks guide which information players notice and use. Attentional selection concerns what players focus on or ignore. Active sampling involves actions that make information available. Mechanics, goals, rewards, and uncertainty can guide these processes. Perceptual demands, mental effort, and pressure also affect attention. The authors treat attention as a factor that influences learning, rather than a complete explanation of learning.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 6,
+      "text": "For Land Grand, lessons before each level can identify Science concepts to notice. Item illustrations, names, and descriptions can draw attention to selected rock and mineral features. Yet players may collect items without reading their descriptions. The proposed design therefore needs to connect the Science information with the collection activity (Cutting & Deterding, 2024).",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 7,
+      "text": "Situated cognition provides a supporting perspective for Land Grand’s exploration activities. Yachin and Barak (2024) identified authentic situations, scientific content, collaboration, and reflection as components of situated learning in Science game design. For Land Grand, collecting an item can connect its illustration with its name and description. This is a proposed application of the literature. Movement and collection alone do not reproduce geological investigation. The single-player game also does not provide collaboration between learners. Teacher guidance remains part of its educational context.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 8,
+      "text": "Mobile learning research provides a broader basis for the proposed Android resource. Dong et al. (2024) combined 44 controlled studies involving 4,145 primary and secondary learners. Their meta-analysis reported a positive overall effect on Science achievement. Effects were larger for inquiry or game-based activities than for other activities. The reported results also varied by Science domain. This supports examining how a mobile activity presents content rather than assuming that device use produces the same benefit for every topic. The findings do not establish the effectiveness of Land Grand or its four episodes.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 9,
+      "text": "Garzón et al. (2025) provide a wider comparison through a meta-analysis of 253 empirical studies. They reported a positive overall effect of mobile learning on knowledge gains. The reported effects varied substantially across studies. Together with Dong et al. (2024), this evidence supports mobile learning as an approach worth examining. It does not establish that an offline application will suit every household. Access to a compatible device, readable content, and guidance remain practical considerations for Land Grand.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 10,
+      "text": "Engagement also needs careful interpretation. Chung and Pan (2023) analyzed 250 university students' questionnaire responses using a statistical model of relationships among variables. Engagement was strongly associated with perceived learning in a gamified course. However, perceived learning is a self-report outcome. This single-university study does not establish measured Science gains among children. For Land Grand, it supports examining the balance between challenge and player skill. It does not justify adding multiplayer features or treating stars as evidence of knowledge.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 11,
+      "text": "Visual resources offer access to examples while retaining important limits. Andrews et al. (2020) described producing and using digital three-dimensional rock and mineral models during a move to remote geology instruction. They explained that digital models can support visual observation, while physical properties still require handling or testing specimens. Their account concerns higher education and is not a controlled trial of children's learning. Land Grand proposes simpler two-dimensional illustrations. These can provide additional examples, but they cannot provide physical specimens or hands-on examination.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 12,
+      "text": "These perspectives address different parts of the proposed resource. Task-attention theory guides the examination of what learners notice and use during gameplay. Situated cognition draws attention to the relationship between content and activity. Mobile learning research provides broader evidence about delivery. Their relevance must be examined through the game's actual lessons and activities. The following studies develop these connections in the order of the specific objectives.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 13,
+      "text": "Related Studies",
+      "style": "Heading1",
+      "numbering": ""
+    },
+    {
+      "xml_index": 14,
+      "text": "This section examines studies relevant to the four specific objectives of Land Grand. It compares their methods, findings, and limitations before discussing related projects and the proposed contribution.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 15,
+      "text": "The first objective concerns short Science lessons before each level to support explanations during home study. A useful lesson must therefore explain the selected concept in familiar language. Its purpose is to support the learning activity that follows. Existing game research helps clarify this relationship, although it does not directly establish reduced difficulty for parents at Baluan.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 16,
+      "text": "Hodges and Flanagan (2026) studied Virtual Vet within a six-year game development project. Their main comparison used a mixed methods, quasi-experimental design with data from 232 learners in Grades 3–5 at one United States school. Over nine weeks, game activities were compared with guided inquiry lessons on human body systems. The game condition showed greater learning growth. Analysis linked useful design features with Science practices, literacy support, and timely feedback. The subject and supported classroom setting differ from Land Grand's home use. This study supports connecting explanations with meaningful activities, rather than adding unrelated reading before play.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 17,
+      "text": "Land Grand will present a short lesson before each level and descriptions during item collection. These features create places to explain the same selected concept across the learning sequence. Reading demands must remain suitable for Grade 5 learners. The proposed lessons will support printed materials and guidance. Whether parents find the explanations useful remains a question for evaluation, not a result established by the cited study.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 18,
+      "text": "The second objective adds interactive exploration and reviews after each level. It responds to teachers' mixed views about modular learning. Relevant comparisons must therefore consider what learners do with the content. Evidence of enjoyment alone cannot establish that an activity improves understanding.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 19,
+      "text": "Ivgin and Akcay (2024) compared digital games, non-digital educational games, combined games, and textbook-oriented instruction. Their mixed methods, quasi-experimental study involved 77 Grade 5 learners at one public school in Turkey. A five-week Human and Environment unit was assessed through an achievement test and interviews. Game groups performed better than the textbook-oriented group. Digital and non-digital game groups did not differ significantly in achievement. The combined group performed best. This comparison supports examining the instructional activity rather than assuming digital delivery is always superior. The topic, school, and delivery conditions differ from Land Grand.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 20,
+      "text": "A Philippine study offers a relevant comparison in a different subject. Buray and Alferez (2025) assessed digital game-based numeracy lessons among 34 Grade 1 learners at Andales Integrated School, Misamis Oriental. Their one-group pretest–posttest design used the Rapid Mathematics Assessment. Scores improved after the intervention. However, the absence of a comparison group limits attribution of the change to the games. The abstract and analysis section also name different statistical tests. The study provides a Philippine elementary example, but its younger participants and Mathematics content limit its application to Grade 5 Science.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 21,
+      "text": "Participation findings add another boundary. Rodríguez-Ferrer et al. (2023) compared board-game programs with regular tutoring among 277 secondary students at two schools in southern Spain. Their pretest–posttest study used engagement and classroom-climate instruments. The game groups showed improvements, although some effects were small. These results concern social board-game activities and older learners. They do not establish Science achievement or the value of a single-player Android game. For Land Grand, engagement remains an outcome to examine separately from knowledge.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 22,
+      "text": "These studies support examining each activity's purpose and outcomes. In Land Grand, exploration will include item collection and descriptions. A review will follow each completed level. Obstacles, time limits, and stars are proposed gameplay features. Task-attention theory raises a design concern: players may focus on reaching items or finishing quickly while overlooking Science information (Cutting & Deterding, 2024). This possibility needs evaluation. Completed levels and collected items remain gameplay records unless a separate assessment establishes learning.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 23,
+      "text": "The third objective organizes selected content into Mountains, Hills, Plains, and Plateaus episodes. Those survey responses justify investigating the selected content. They do not identify every learner's misconception or establish that every selected topic belongs to a verified Grade 5 competency.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 24,
+      "text": "Ford (2005) examined notebook descriptions written by 34 third graders during an earth-materials unit. The analysis found detailed observations of rocks and minerals, but limited opportunities to distinguish geologically useful properties from irrelevant details. The findings show why naming and describing an object may need further explanation. This was an analysis of children's descriptions, not a trial of an educational game. The younger group also limits direct application to Grade 5. For Land Grand, the study informs content review rather than proving the value of its episode structure.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 25,
+      "text": "Each episode will therefore need a clear lesson focus and carefully selected examples. A landform setting can organize content, but its appearance does not establish which rocks or minerals occur there. The project will need reliable geological sources and curriculum review for the selected associations. The proposed four-episode structure provides organization. It remains a project design choice rather than an arrangement validated by the reviewed studies.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 26,
+      "text": "The fourth objective provides digital rock and mineral illustrations with names and short descriptions. The researcher reported limited specimens for classroom demonstrations. Published literature can inform the proposed visual response. It cannot confirm the school's sample inventory.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 27,
+      "text": "Calvo and Lucha (2024) compared 38 virtual mineral museums and mineral websites. Their content analysis examined site features, educational value, and the information provided about minerals. Photographs and mineral records were common, but important connections among properties and uses were often missing. The review assessed resources rather than measuring learning among pupils. Its selection of accessible sites created before 2020 also limits coverage of newer resources. For Land Grand, this study supports treating a picture and a name as a starting point. Descriptions still need scientifically meaningful, age-appropriate information.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 28,
+      "text": "Land Grand will combine each selected illustration with a name and a short explanation. Scientific review will need to check that the wording and visible features agree. The planned two-dimensional artwork may simplify appearance, so it should not be presented as a complete specimen record. Digital examples will supplement available materials and teacher guidance. Their usefulness for recognizing real specimens remains untested.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 29,
+      "text": "Related Projects",
+      "style": "Heading2",
+      "numbering": ""
+    },
+    {
+      "xml_index": 30,
+      "text": "This section compares existing resources with the proposed Land Grand application. The comparison focuses on content, learning activities, and delivery. Described product features are kept separate from evidence of educational effectiveness.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 31,
+      "text": "DocDuck: Rock Cycle is an action-platform game developed by Alessandro Pezzetti, also known as Havana24. The developer describes a rock-cycle focus involving igneous, sedimentary, and metamorphic rocks. Its stated audience is ages 11–14 (Pezzetti, n.d.). The combination of geology content and platform movement relates to Land Grand's exploration approach. Land Grand proposes a different organization around four landforms for Grade 5 learners. The description does not establish Android compatibility, offline operation, or learning outcomes. It provides a design comparison rather than an effectiveness result.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 32,
+      "text": "Geology Rocks! is described by Fannyflamingo (n.d.) as an HTML5 educational game. Its instructions involve reading information at a virtual laptop, finding and mining rocks, identifying items, and adding them to a collection. Learners can return to the information when they need help. This connects exploration with reference material. Land Grand instead proposes touch controls, a lesson before each level, and item descriptions during collection. The listing specifies keyboard and mouse actions. It does not establish an Android version, offline support, or measured learning gains.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 33,
+      "text": "The Digital Geology Kit provides a different kind of comparison. The Open University (n.d.) describes a collection of rock, mineral, and fossil images and videos with descriptions and annotations. Some views allow closer examination or rotation. This resource illustrates how specimen images can be linked with explanatory information. Land Grand proposes selected two-dimensional illustrations within a game rather than a broad specimen collection. The university's description does not establish equivalent offline Android access. It also does not supply an effectiveness comparison with Land Grand.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 34,
+      "text": "These resources show different ways to connect geological examples with movement, identification, or explanatory records. Land Grand's proposed contribution is their selective combination within its documented scope. The game will remain offline and single player on Android 10 and above. It will not require a website, online account, or central teacher dashboard. These are planned delivery boundaries, not verified advantages over every existing product.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 35,
+      "text": "Synopsis",
+      "style": "Heading2",
+      "numbering": ""
+    },
+    {
+      "xml_index": 36,
+      "text": "This section brings the reviewed evidence together and explains its implications for Land Grand. It identifies the proposed design contribution, the limits of the evidence, and the questions that remain for evaluation.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 37,
+      "text": "The review informs Land Grand's explanations, activities, and visual examples. The proposed anchor theory guides the examination of Science content used during gameplay. Achievement tests, learner descriptions, engagement reports, and product features provide different evidence. Findings from other applications cannot establish Land Grand's effectiveness.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 38,
+      "text": "The studies leave a specific application gap for this project. They do not directly test the proposed combination of four landform episodes, selected rocks and minerals, and offline home use at Baluan Elementary School. This is a limit of the reviewed evidence, not proof that no similar project exists. The local survey provides context, while the intended players are Grade 5 learners. Their understanding and experience of the game require separate evaluation.",
+      "style": "",
+      "numbering": ""
+    },
+    {
+      "xml_index": 39,
+      "text": "Land Grand will combine short lessons, exploration, level reviews, and labeled digital illustrations in an offline Android resource. Four episodes will contain 60 planned levels. Content accuracy, curriculum fit, readability, device compatibility, and learning outcomes require validation and testing. Its proposed contribution is a focused supplementary resource for Grade 5 learners.",
+      "style": "",
+      "numbering": ""
+    }
+  ],
+  "footnote_markers": 0,
+  "endnote_markers": 0,
+  "tracked_insertions": 0,
+  "tracked_deletions": 0,
+  "tables": 0,
+  "drawings": 0,
+  "comment_markers": 0,
+  "extra_parts": {},
+  "external_links": [],
+  "section_properties": [
+    "<w:sectPr xmlns:w=\"http://schemas.openxmlformats.org/wordprocessingml/2006/main\" xmlns:wpc=\"http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas\" xmlns:cx=\"http://schemas.microsoft.com/office/drawing/2014/chartex\" xmlns:cx1=\"http://schemas.microsoft.com/office/drawing/2015/9/8/chartex\" xmlns:cx2=\"http://schemas.microsoft.com/office/drawing/2015/10/21/chartex\" xmlns:cx3=\"http://schemas.microsoft.com/office/drawing/2016/5/9/chartex\" xmlns:cx4=\"http://schemas.microsoft.com/office/drawing/2016/5/10/chartex\" xmlns:cx5=\"http://schemas.microsoft.com/office/drawing/2016/5/11/chartex\" xmlns:cx6=\"http://schemas.microsoft.com/office/drawing/2016/5/12/chartex\" xmlns:cx7=\"http://schemas.microsoft.com/office/drawing/2016/5/13/chartex\" xmlns:cx8=\"http://schemas.microsoft.com/office/drawing/2016/5/14/chartex\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:aink=\"http://schemas.microsoft.com/office/drawing/2016/ink\" xmlns:am3d=\"http://schemas.microsoft.com/office/drawing/2017/model3d\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:oel=\"http://schemas.microsoft.com/office/2019/extlst\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:wp14=\"http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing\" xmlns:wp=\"http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing\" xmlns:w10=\"urn:schemas-microsoft-com:office:word\" xmlns:w14=\"http://schemas.microsoft.com/office/word/2010/wordml\" xmlns:w15=\"http://schemas.microsoft.com/office/word/2012/wordml\" xmlns:w16cex=\"http://schemas.microsoft.com/office/word/2018/wordml/cex\" xmlns:w16cid=\"http://schemas.microsoft.com/office/word/2016/wordml/cid\" xmlns:w16=\"http://schemas.microsoft.com/office/word/2018/wordml\" xmlns:w16du=\"http://schemas.microsoft.com/office/word/2023/wordml/word16du\" xmlns:w16sdtdh=\"http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash\" xmlns:w16sdtfl=\"http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock\" xmlns:w16se=\"http://schemas.microsoft.com/office/word/2015/wordml/symex\" xmlns:wpg=\"http://schemas.microsoft.com/office/word/2010/wordprocessingGroup\" xmlns:wpi=\"http://schemas.microsoft.com/office/word/2010/wordprocessingInk\" xmlns:wne=\"http://schemas.microsoft.com/office/word/2006/wordml\" xmlns:wps=\"http://schemas.microsoft.com/office/word/2010/wordprocessingShape\" w:rsidR=\"00A74291\" w:rsidSect=\"00F45ABB\"><w:pgSz w:w=\"12240\" w:h=\"15840\"/><w:pgMar w:top=\"1440\" w:right=\"1440\" w:bottom=\"1440\" w:left=\"2160\" w:header=\"709\" w:footer=\"709\" w:gutter=\"0\"/><w:cols w:space=\"708\"/><w:docGrid w:linePitch=\"360\"/></w:sectPr>"
+  ]
+}

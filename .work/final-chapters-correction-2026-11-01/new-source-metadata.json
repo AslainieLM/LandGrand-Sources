@@ -1,0 +1,220 @@
+{
+  "oh": {
+    "title": [
+      "Analyzing Rock Descriptors Used by Elementary School Students in Different Task Contexts"
+    ],
+    "author": [
+      {
+        "given": "Phil Seok",
+        "family": "Oh",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          28
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          28
+        ]
+      ]
+    },
+    "published-online": null,
+    "container-title": [
+      "Journal of the Korean earth science society"
+    ],
+    "volume": "41",
+    "issue": "1",
+    "page": "61-74",
+    "DOI": "10.5467/jkess.2020.41.1.61"
+  },
+  "rader": {
+    "title": [
+      "Pandemic Minecrafting: an analysis of the perceptions of and lessons learned from a gamified virtual geology field camp"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-2729-4275",
+        "authenticated-orcid": false,
+        "given": "Erika",
+        "family": "Rader",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Renee",
+        "family": "Love",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Darryl",
+        "family": "Reano",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1695-0479",
+        "authenticated-orcid": false,
+        "given": "Tonia A.",
+        "family": "Dousay",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          },
+          {
+            "role": "corresponding-author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Natasha",
+        "family": "Wingerter",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          19
+        ]
+      ]
+    },
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          19
+        ]
+      ]
+    },
+    "container-title": [
+      "Geoscience Communication"
+    ],
+    "volume": "4",
+    "issue": "4",
+    "page": "475-492",
+    "DOI": "10.5194/gc-4-475-2021"
+  },
+  "yachin": {
+    "title": [
+      "Science-Based Educational Escape Games: A Game Design Methodology"
+    ],
+    "author": [
+      {
+        "given": "Tal",
+        "family": "Yachin",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7756-6171",
+        "authenticated-orcid": false,
+        "given": "Miri",
+        "family": "Barak",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          21
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          4
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          21
+        ]
+      ]
+    },
+    "container-title": [
+      "Research in Science Education"
+    ],
+    "volume": "54",
+    "issue": "2",
+    "page": "299-313",
+    "DOI": "10.1007/s11165-023-10143-4"
+  },
+  "oh_pdf": {
+    "url": "https://data.kigam.re.kr/ieg/cmmn/downloadFile.do?fileName=JGGH20206174.PDF",
+    "sha256": "d98f5d70254b8cce195451325669fea07d986c5c4785de8a586e5a03a247aab2",
+    "pages": 14,
+    "inspected": "English title, author and abstract on printed page 61; Korean full text not treated as fully reviewed."
+  }
+}

@@ -1,7 +1,7 @@
 ---
 type: requirements
 status: proposal-baseline
-updated: 2026-10-26
+updated: 2026-11-01
 sources:
   - "[[Sources/Pre-proposal]]"
 ---
@@ -64,7 +64,7 @@ Source: [[Sources/Pre-proposal Extract#Limitations of the Study|Limitations]].
 
 ## Device requirements
 
-LG-25: **Confirmed target: Android 10 and above**, on Android phones and tablets, under D-012 in [[Decisions/Decision Register|Decision Register]] and [[Sources/Project Clarifications 2026-10-26|the direct user confirmation]]. The pre-proposal's **2 GB RAM minimum** and **300 MB free space** remain declared minimum targets. This records the required Android range, not a claim that every version/device has been tested. Q-01 now retains only device-validation follow-up.
+LG-25: **Confirmed target: Android 10 and above**, on Android phones and tablets, under D-012 in [[Decisions/Decision Register|Decision Register]] and [[Sources/Project Clarifications 2026-10-26|the direct user confirmation]]. The pre-proposal's **2 GB RAM minimum** and **300 MB free space** remain declared minimum targets. This records the required Android range, not a claim that every version/device has been tested. Q-01 tracks configuration reconciliation and device validation; [[Project/Technical Baseline#Configuration inspection, 2026-11-01|the dated inspection]] preserves the implementation-setting mismatch separately from this requirement.
 
 The original source conflict is retained for history: its limitations say Android 10–14, while its hardware section says Android 10 and above. D-012 resolves the project target without modifying either original passage.
 

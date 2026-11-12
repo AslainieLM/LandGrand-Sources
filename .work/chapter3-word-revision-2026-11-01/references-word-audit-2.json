@@ -1,0 +1,43 @@
+{
+  "engine": "Microsoft Word",
+  "wordVersion": "16.0",
+  "readOnly": true,
+  "pages": 1,
+  "words": 67,
+  "lines": 12,
+  "characters": 605,
+  "charactersWithSpaces": 666,
+  "paragraphCount": 6,
+  "paragraphs": [
+    {
+      "text": "BIBLIOGRAPHY",
+      "startPage": 1,
+      "endPage": 1
+    },
+    {
+      "text": "This section lists the technical sources cited in Chapter III.",
+      "startPage": 1,
+      "endPage": 1
+    },
+    {
+      "text": "Celsys. (2025, March 12). Clip Studio Paint Ver. 4.0 available now! New features that bring more fun to your creations.\u000bhttps://www.clipstudio.net/en/news/202503/12_01/",
+      "startPage": 1,
+      "endPage": 1
+    },
+    {
+      "text": "Google. (2025, February 10). Application fundamentals. Android Developers.\u000bhttps://developer.android.com/guide/components/fundamentals",
+      "startPage": 1,
+      "endPage": 1
+    },
+    {
+      "text": "Microsoft. (2023, August 4). Unity development with VS Code. Visual Studio Code.\u000bhttps://code.visualstudio.com/docs/other/unity",
+      "startPage": 1,
+      "endPage": 1
+    },
+    {
+      "text": "Unity Technologies. (2026, July 2). Android environment setup. Unity User Manual 2022.3.\u000bhttps://docs.unity3d.com/2022.3/Documentation/Manual/android-sdksetup.html",
+      "startPage": 1,
+      "endPage": 1
+    }
+  ]
+}

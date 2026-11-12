@@ -1,0 +1,69 @@
+{
+  "word_pages": 13,
+  "source_pages_pixel_identical": 7,
+  "section_introductions": 15,
+  "matching_references": 4,
+  "embedded_panels": [
+    {
+      "caption": "Figure 4A. Launch and Main Menu",
+      "image": "word/media/landgrand-process-4a.png",
+      "source_hash": "051a95d266e2f49c34f8833ef96c281d4eacd85756a8a34d1f7f829a49a5130d",
+      "word_page": 9,
+      "rendered_bounds_pt": [
+        108.0,
+        207.0,
+        540.0,
+        720.0
+      ]
+    },
+    {
+      "caption": "Figure 4B. Episode and Level Selection",
+      "image": "word/media/landgrand-process-4b.png",
+      "source_hash": "09b81c3b73c3e94dd4addaec8dbd1e12f81f073bf9aea95ca1417232fafea718",
+      "word_page": 10,
+      "rendered_bounds_pt": [
+        108.0,
+        195.15,
+        539.98,
+        720.0
+      ]
+    },
+    {
+      "caption": "Figure 4C. Lesson and Level Outcomes",
+      "image": "word/media/landgrand-process-4c.png",
+      "source_hash": "89fa8371846567f595e709ce456bc384ec771129de3342f82fa7aedb88001c37",
+      "word_page": 11,
+      "rendered_bounds_pt": [
+        108.0,
+        202.0,
+        539.97,
+        720.0
+      ]
+    },
+    {
+      "caption": "Figure 4D. Scoring, Local Saving, and Difficulty Unlocks",
+      "image": "word/media/landgrand-process-4d.png",
+      "source_hash": "fc7ebe0166968b40af277f1d8a2d8c98943566778d5838c19bf593ba35af887e",
+      "word_page": 12,
+      "rendered_bounds_pt": [
+        108.0,
+        200.9,
+        539.98,
+        720.0
+      ]
+    },
+    {
+      "caption": "Figure 4E. Episode Progression and Game Completion",
+      "image": "word/media/landgrand-process-4e.png",
+      "source_hash": "770762f60f699dd4b0aa72ca407d9005543db94a42015063143e7cf01c208872",
+      "word_page": 13,
+      "rendered_bounds_pt": [
+        108.0,
+        258.15,
+        539.97,
+        720.0
+      ]
+    }
+  ],
+  "docx_sha256": "8454ac29559bbc010f11b93c56396d8d1a70970820f383e040ef891d960fe62b"
+}

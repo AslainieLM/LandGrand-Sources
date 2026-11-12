@@ -1,0 +1,18 @@
+{
+  "panels": 5,
+  "verified_paths": 14,
+  "off_page_links": 8,
+  "on_page_retry_link": 1,
+  "reachable_control_nodes": 55,
+  "png_dpi": 400,
+  "matched_source_chapter_hashes": 3,
+  "user_confirmations": [
+    "It would be retry or back to main menu",
+    "To complete the level there were be a end goal to reach so that it can proceed to the next level, and also collecting rocks will be based on the stars, it will be have a treshold"
+  ],
+  "remaining_game_rules": [
+    "Numeric rock-count thresholds and any star-based progression restriction",
+    "Initial unlocked episode, episode sequence, and exact required levels for episode completion",
+    "Settings and tutorial contents, pause, and other failure and local save policies"
+  ]
+}

@@ -1,7 +1,7 @@
 ---
 type: index
 status: active
-updated: 2026-10-30
+updated: 2026-11-01
 ---
 
 # LandGrand
@@ -10,7 +10,7 @@ This vault is the source of truth for the LandGrand capstone's documented purpos
 
 [[Current Focus]] records the user's active priority and the recommendations retained for later sessions. Read it before choosing the next project task.
 
-[[Sessions/2026-10-30 - Chapter I Progress and Chapter II Handoff|Latest session handoff]] records accomplishments, pending manuscript wording and the proposed Chapter II research steps for the next agent.
+For the next session, read [[Sessions/2026-11-01 - Chapter III Draft and Procedure Diagram Handoff|the Chapter III handoff]]. [[Manuscript/Drafts/Land Grand - Chapter III - Revised - v1.docx|The delivered Word draft]] and [[Manuscript/Drafts/Land Grand - Chapter III - References - v1.docx|references]] are preserved in the vault. **Further revision is needed, with the procedure diagram first**, following the user's latest feedback. [[Manuscript/Chapter III Revision Notes|Revision Notes]] and [[Manuscript/Chapter III Drafting Guide|the guide]] support the next pass. [[Sources/Chapter III Unrevised Draft 2026-11-01|The original source and adviser comments]] remain preserved. [[Sessions/2026-10-30 - Chapter I Progress and Chapter II Handoff|The October 30 handoff]] records the earlier Chapter I–II snapshot.
 
 > [!info] Current baseline
 > The supplied **Pre-Proposal Statement** is the initial proposal baseline. Its filename contains “Final,” but approval and implementation have not been established. Confirmed changes belong in the decision register and the relevant canonical note.
@@ -47,6 +47,7 @@ This vault is the source of truth for the LandGrand capstone's documented purpos
 
 - [[Manuscript/Table of Contents|Manuscript Table of Contents]] — full structure from the BSIT manuscript PDF
 - [[Manuscript/Chapter 1-3 Writing Guide|Chapter 1–3 Writing Guide]] — source-attributed guidance and discussion reminders
+- [[Manuscript/Chapter III Drafting Guide|Chapter III Drafting Guide]] — required introductions, tool and peopleware explanations, procedure figure rules, and final review checks under D-024
 - [[Sources/Capstone Manuscript BSIT|BSIT manuscript PDF]], [[Sources/Chapter 1-3 Guidelines|lecture deck]], and [[Sources/Chapter1 Discussion Notes|your discussion notes]] — retained originals, extracts, and provenance
 
 ## Working in the vault

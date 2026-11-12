@@ -1,0 +1,85 @@
+{
+  "input": "D:\\Projects\\LandGrand-Sources\\.work\\chapter3-word-revision-2026-11-01\\chapter3-source.docx",
+  "fonts_by_char_count": {
+    "Cambria": 31
+  },
+  "direct_run_formatting_runs": 67,
+  "direct_paragraph_formatting_paragraphs": 46,
+  "heading_like_paragraphs_not_heading_style": [
+    {
+      "para_index": 1,
+      "text": "CHAPTER III",
+      "style": "Normal"
+    },
+    {
+      "para_index": 2,
+      "text": "TECHNICAL BACKGROUND",
+      "style": "Normal"
+    },
+    {
+      "para_index": 43,
+      "text": "Figure 4. Procedures",
+      "style": "Normal"
+    }
+  ],
+  "examples": {
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 1,
+        "text": "CHAPTER III",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "text": "TECHNICAL BACKGROUND",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "text": "This chapter describes the technical aspects of the Android application, the tools used in its development, and how it w",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "text": "The Technicality of the Project",
+        "style": "Heading 1"
+      },
+      {
+        "para_index": 5,
+        "text": "In developing the project, the proponent gathered all the relevant information and considered various technology options",
+        "style": "Normal"
+      }
+    ],
+    "direct_run_formatting": [
+      {
+        "para_index": 1,
+        "run_text": "CHAPTER III",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "run_text": "TECHNICAL BACKGROUND",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "run_text": "This chapter describes the technical aspects of the Android application, the too",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "run_text": "The Technicality of the Project",
+        "style": "Heading 1"
+      },
+      {
+        "para_index": 5,
+        "run_text": "In developing the project, the proponent gathered all the relevant information a",
+        "style": "Normal"
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}

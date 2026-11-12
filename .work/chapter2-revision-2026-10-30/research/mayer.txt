@@ -1,0 +1,938 @@
+
+--- PDF PAGE 1 ---
+Vol.:(0123456789)
+Educational Psychology Review (2024) 36:8
+https://doi.org/10.1007/s10648-023-09842-1
+1 3
+ESSAY
+The Past, Present, and Future of the Cognitive Theory 
+of Multimedia Learning
+Richard E. Mayer1 
+Accepted: 25 December 2023 / Published online: 17 January 2024 
+© The Author(s) 2024
+Abstract
+The cognitive theory of multimedia learning (Mayer, 2021, 2022), which seeks to 
+explain how people learn academic material from words and graphics, has devel-
+oped over the past four decades. Although the name and graphical representation 
+of the theory have evolved over the years, the core ideas have been constant—dual 
+channels (i.e., humans have separate information processing channels for verbal and 
+visual information), limited capacity (i.e., processing capacity is severely limited), 
+and active processing (i.e., meaningful learning involves selecting relevant material 
+to be processed in working memory, mentally organizing the material into coher -
+ent verbal and visual structures, and integrating them with each other and with rel-
+evant knowledge activated from long-term memory). This review describes how the 
+theory has developed (i.e., the past), the current state of the theory (i.e., the present), 
+and new directions for future development (i.e., the future). In addition, the review 
+includes examples of the events and findings that led to changes in the theory. Impli-
+cations for educational psychology are discussed, including 15 evidence-based prin-
+ciples of multimedia design.
+Keywords Multimedia learning · Theory development · Learning theory · 
+Instructional design · Meaningful learning
+Introduction to the Cognitive Theory of Multimedia Learning
+The cognitive theory of multimedia learning (CTML) represents my continuing and 
+evolving attempt to understand how meaningful learning works. Meaningful learn-
+ing occurs when the learner engages in appropriate cognitive processing during 
+learning, including attending to the relevant information in a lesson (i.e., selecting), 
+This article is part of the Topical Collection on Theory Development in Educational Psychology.
+ * Richard E. Mayer 
+ mayer@psych.ucsb.edu
+1 University of California, Santa Barbara, CA, USA
+
+--- PDF PAGE 2 ---
+ Educational Psychology Review (2024) 36:8
+1 38 Page 2 of 25
+mentally organizing the incoming information into a coherent cognitive structure 
+(i.e., organizing), and connecting it with relevant knowledge activated from long-
+term memory (i.e., integrating; Mayer, 2021, 2022). Meaningful learning is indi-
+cated by performance on transfer tests, which involves being able to use the learned 
+material in new situations. CTML focuses on how people learn meaningfully from 
+academic material containing words and graphics. It focuses on techniques that 
+prime appropriate cognitive processing during learning.
+The development of new theories such as CTML is shaped by existing theories. 
+For example, Camp et al. (2022) point out that CTML builds on classic conceptual 
+frameworks from cognitive psychology, including dual-coding theory (Paivio, 1986), 
+multi-stage model of memory (Baddeley, 1986), and cognitive load theory (Sweller, 
+1999, in press; Sweller et al., 2011). In particular, Camp et al., (2022, p. 17) note:
+The power of theories is that they have the potential to remain valid and rel-
+evant through generations, while the power of new theories is that they build 
+upon and expand those old theories. You might say that the old theories are 
+the giants upon whose shoulders new theories, and thus new giants, stand. 
+The cognitive theory of multimedia learning (CTML) ...can be regarded as one 
+such new giant.
+The creation of CTML is clearly a team effort within the field of educational psy-
+chology. My modest goal in this essay is to share some introductory insights gleaned 
+from my efforts at theory-building over the past decades, describe the evolution of 
+CTML, summarize the current state of CTML, and speculate on possible future 
+directions for CTML. First, in line with Greene’s (2022) call to carefully examine 
+the process of theory development in educational psychology, I share seven insights 
+about theory building that are exemplified in my decades-long attempts to explain 
+how people learn from multimedia lessons.
+Insight 1: Theory Building Depends on Intellectual Curiosity
+CTML is a manifestation of my lifelong quest to understand how meaningful learning 
+works. I began my journey on one of those amazing, crisp autumn days in Ann Arbor 
+in 1969, as I started my graduate career in psychology at the University of Michi-
+gan. Soon within my first year in graduate school, under the mentorship of James 
+Greeno, I developed a deep curiosity about how meaningful learning works. How 
+can we teach so people can take what they have learned and use it productively in 
+new situations? This seemingly simple question about teaching for transfer has been 
+a driving force in my lab across more than four decades. Specifically, CTML focuses 
+on some fundamental questions about learning and instruction with multimedia mate-
+rials: How do people learn academic material consisting of words and graphics (i.e., 
+multimedia learning)? How can we help people learn academic material consisting of 
+words and graphics (i.e., design of multimedia instruction)? My curiosity about these 
+kinds of questions is the engine that drives the development of CTML.
+How did I get started on this theory-developing journey? During my first year 
+of graduate school, while I was struggling to build my identity as a research 
+
+--- PDF PAGE 3 ---
+1 3
+Educational Psychology Review (2024) 36:8 Page 3 of 25 8
+psychologist, I had the good fortune to take a course entitled, Models of Thinking, 
+taught by my advisor, Jim Greeno. That course got me thinking about how people 
+are able to come up with creative solutions to problems, which lead me to a basic 
+question: “How can we help people learn in ways so that they can take what they 
+have learned and apply it to new situations?” This question about teaching for trans-
+fer, which formed in my mind during that course, has stuck with me all these years 
+and has driven my research. I soon discovered that this is a classic, albeit elusive, 
+issue both in psychology and in education that dates back to early days of research in 
+learning and instruction.
+Insight 2: Theory Building Is Grounded in Old Ideas
+The search for theories of meaningful learning has a long history, including the 
+insightful work of the Gestalt psychologists such as Wertheimer (1959) and Katona 
+(1940); the groundbreaking work of developmentalists such as Piaget (1926) and 
+Vygotsky (1978); and the creative work of memory researchers such as Bartlett 
+(1932). In the field of educational psychology, a focus on instruction for meaningful 
+learning has its roots in generative theories of learning by pioneers such as Wittrock 
+(1974, 1989) and Ausubel (1968). Some key ideas rising from this work are mean-
+ingful learning as assimilation to schema (i.e., connecting incoming information 
+with existing knowledge), meaningful learning as a generative activity (i.e., actively 
+attending to relevant material, organizing it into a coherent structure, and relating 
+it to relevant prior knowledge), and meaningful learning as knowledge construc-
+tion (i.e., building mental representations in working memory). The development of 
+CTML represents my attempts to understand and clarify these intriguing ideas based 
+on empirical testing.
+How did I get this insight? As an undergraduate, my goal was to read every clas-
+sic psychology book, but in graduate school, my goal became more focused on read-
+ing every classic book related to how learning works and, particularly, books that 
+could help me better understand my driving question of how to teach for transfer. 
+I found amazing used bookstores in Ann Arbor, where I spent a lot of my spare 
+time on a treasure hunt for books by the likes of Piaget (1926), Bartlett (1932), 
+Wertheimer (1959), Katona (1940), Ebbinghaus (1913), Ausubel (1968), and many 
+others. I was moved by the introductory quotation I found on the cover page to Ebb-
+inghaus’ nineteenth century book, Memory: “From the oldest subject we will build 
+the newest science.” Even as a beginning graduate student, I felt privileged to con-
+tribute in even a small way to this newest science of how the human mind works, 
+which in my case turned out to the science of learning and instruction.
+Insight 3: Theory Building Is Not a Straight, Planned‑Out Path
+My search for a theory of meaningful learning has not taken a straight, planned-out 
+path, but rather has progressed in an irregular pattern of small steps based on for -
+tuitous findings over decades, with invaluable contributions from a long list of col-
+laborators and colleagues. CTML was not based on a systematic step-by-step career 
+
+--- PDF PAGE 4 ---
+ Educational Psychology Review (2024) 36:8
+1 38 Page 4 of 25
+plan, and it certainly did not pop out of my head one day all in one nice polished 
+package. It came out in fits and starts, with a long series of revisions, refinements, 
+clarifications, deletions, and additions.
+Where does this idea come from? I never set out to have a long-term career plan 
+of systematic research on multimedia learning, but rather I have much shorter 2- 
+or 3-year plans targeted on specific research questions. For example, back in the 
+1980s, after reading all of David Ausubel’s (e.g., Ausubel, 1968) writings, I became 
+obsessed with advance organizers—material that is presented before a lesson that 
+is intended to improve learning through activating relevant prior knowledge. That 
+line of research led me to the unexpected conclusion that visual advance organiz-
+ers could be effective in helping learners relate a new concept with familiar prior 
+knowledge, which got me thinking about the power of connecting visual and verbal 
+representations as a route to meaningful learning. As that idea incubated in my mind 
+throughout the late 1980s and 1990s, I became interested in how to incorporate 
+illustrations in text. That fateful exploration brought me to the formulation of what 
+was to become the multimedia principle—people learn better from words and pic-
+tures than from words alone. In short, I often do not know where my theory-building 
+is going but I simply follow the fruitful paths that my current research takes me.
+Insight 4: Theory Building Is an Engineering Problem
+Based on this journey, I have come to realize that theory building in educational 
+psychology is much like solving a practical engineering problem. However, instead 
+of building an increasingly better device to carry out some function, our theory-
+building task is to build a progressively better explanation of some educationally rel-
+evant phenomenon (such as how students develop meaningful learning that transfers 
+to new situations). I just keep tinkering with the theory trying to make it work better 
+based on new research evidence and logical reasoning. One indication of working 
+better is the rate at which the work is cited by others and incorporated into their 
+frameworks, as documented by Camp et al. (2022).
+Where does this insight come from? When I look at the evolution of CTML, par -
+ticularly through the ways I represented it visually, I see that I started with a core 
+idea—there are several cognitive conditions for meaningful learning—and then con-
+tinually tweaked the idea based on the research evidence that it generated and the 
+new ideas I came across. When I read Paivio’s (1986) work on dual-coding, I real-
+ized its relevance and tried to incorporate that idea. When I read Miller’s (1956) and 
+Baddeley’s (1986) and Sweller’s (1999) work on limited working memory capac-
+ity, I realized that fundamental idea had to be part of my theorizing. When I read 
+Wittrock’s work on generative learning, it validated my thinking that appropriate 
+cognitive processing during learning was a key to meaningful learning and led to my 
+incorporating the SOI model (based on selecting, organizing, and integrating). As in 
+engineering, my approach has been to keep redesigning what I have to make it bet-
+ter—which in my case means making it better able to explain a wider set of findings. 
+In this way, my work began with what Kuhn (1962) would call a paradigm shift—a 
+
+--- PDF PAGE 5 ---
+1 3
+Educational Psychology Review (2024) 36:8 Page 5 of 25 8
+shift from behaviorist to cognitive views of how learning works—but then for all 
+these ensuing years has involved continually improving on my original idea.
+Insight 5: Theory Building Is an Iterative Process Involving the Persistent 
+Interplay Between Research and Theory
+As shown in Fig.  1, consistent with Greene (2022), I start with the kernel of a theo-
+retical idea (i.e., theory), which leads me to a testable question (i.e., research ques-
+tion) that I examine in series of experiments (research design), which generates a 
+pattern of findings (research evidence) that helps me improve my theoretical account 
+(theory). The development of CTML represents many turns around the circle pre-
+sented in the figure (both clockwise and counterclockwise). These turns depend on 
+valuable discussions with colleagues concerning how to frame the next version of 
+the theory, how to generate useful research questions (and know when to give up on 
+unfruitful ones), how to design impactful studies, and how to interpret the results. 
+The result is a series of iterations of a theory of how meaningful learning works, as 
+described in the following sections.
+Where did I get this insight? Let me give an example. Most of the early work by 
+my collaborators and me on instructional design principles for multimedia learn-
+ing focused on the instructional goal of reducing extraneous processing—that is, 
+reducing the learner’s cognitive processing that is not directed towards learning the 
+content so that the learner can use cognitive resources to make sense of the mate-
+rial. This led, for example, to the coherence principle in which people learn better 
+when we remove unneeded visual and verbal material from a lesson. However, for 
+some lessons, even when we eliminated unneeded material, students still had trouble 
+learning it, perhaps because they just did not want to put out effort to make sense of 
+Fig. 1  The theory-research cycle
+
+--- PDF PAGE 6 ---
+ Educational Psychology Review (2024) 36:8
+1 38 Page 6 of 25
+the material. This led us to develop a new kind of instructional design goal, which 
+I called fostering generative processing—motivating the learner to actively engage 
+with the material. This goal suggested a whole new set of multimedia learning tech-
+niques based on prompts to engage in generative learning activities during learning, 
+such as writing a summary, drawing an illustration, creating a graphic organizer, 
+and explaining to others. In this way, the research evidence (i.e., not being able to 
+improve learning through reducing extraneous material), led to a new theoretical 
+idea (i.e., fostering generative processing) which led to new research avenues (i.e., 
+incorporating generative learning activities).
+Insight 6: Theory Building Depends on Persistence in Collecting New Research 
+Evidence
+Also in line with Fig.  1, building the cognitive theory of multimedia learning 
+depends on a persistent commitment to experimental comparisons using a value-
+added design. In value-added experiments, we compare the learning outcomes (and, 
+when possible, learning processes) of people who learn from a base version of a 
+multimedia lesson with those of people who learn from the lesson with one feature 
+added. For example, we can compare learning from a narrated animation on light-
+ning formation versus learning from the same lesson with the words presented as 
+printed captions at the bottom of the screen. Theory development depends on a 
+strong foundation of research evidence, which flows from a willingness to replicate 
+effects detected in value-added studies.
+Where did this insight come from? Let me give you an example. When Roxana 
+Moreno was a graduate student in my lab, she came to my office with the preposter-
+ous (to my way of thinking) idea that using conversational language in an online sci-
+ence lesson would improve learning outcomes over our existing lessons using tradi-
+tional, formal language. In spite of my skepticism, we worked out plans for a series 
+of rigorous experiments, each one of which came back with strong positive results. 
+After replicating the effect multiple times with multiple content topics, I finally 
+allowed myself to share the personalization principle with the larger research com-
+munity, that is, the idea that people learn better when instructors use conversational 
+wording rather than formal wording. This opened my eyes to the idea that online 
+multimedia learning depended not only on cognitive processing, but also social 
+and affective processing, which has led to several ongoing new directions for our 
+research (Horovitz & Mayer, 2021; Lawson & Mayer, 2022; Lawson et al., 2021).
+Insight 7: Theory Building Is a Team Activity
+CTML would not have happened if I was tasked with working alone. I have had the 
+pleasure of working with dozens of collaborators over the years who have helped 
+build CTML. The theory benefits from collaborations with students, campus col-
+leagues, and fellow educational psychologists from near and far, including visitors 
+from around the world who have contributed to our lab over the years. The theory 
+has been shaped by advances and feedback from the larger community of scholars, 
+
+--- PDF PAGE 7 ---
+1 3
+Educational Psychology Review (2024) 36:8 Page 7 of 25 8
+many of whom are represented in the various editions of The Cambridge Handbook 
+of Multimedia Learning (Mayer, 2005, 2014; Mayer & Fiorella, 2022). CTML also 
+has benefitted from ideas from competing theories such as cognitive load theory 
+(Paas & Sweller, 2022; Sweller, 1999, in press; Sweller et  al., 2011) or the inte-
+grated model of text and picture comprehension (Schnotz, 2022, 2023). Part of the-
+ory building is being able to convince your peers and to be convinced by them.
+Where did this insight come from? As I look over the hundreds of research papers 
+on multimedia media that have my name on them, I see that the vast majority were co-
+authored with graduate students or visitors to my lab. I seek to meet on a weekly basis 
+with our lab research team—graduate students, postdocs, and visitors. I also meet regu-
+larly with students, visitors, colleagues, and anyone else I can find who is interested in 
+talking about improving multimedia instruction. I cherish these meetings because they 
+are essential in giving me a chance to work out new ideas about multimedia learning.
+The Past of the Cognitive Theory of Multimedia Learning
+I did not plan to spend a substantial portion of my academic career on developing 
+the cognitive theory of multimedia learning. In this section, I briefly describe how 
+it happened, including how I stumbled upon an appropriate name and a concise vis-
+ual representation, how I searched for a conceptual framework, and how CTML has 
+grown in terms of research base and design principles.
+Stumbling Upon a Name for the Theory
+An important challenge in theory development is to find a name that highlights the 
+key concepts in the theory. Table  1 summarizes the names leading up to the cog-
+nitive theory of multimedia learning, which highlighted an evolving collection of 
+inter-related concepts. I began with “model of meaningful learning” (Mayer, 1989), 
+which focused on the external conditions for instruction for meaningful learning—
+namely, having potentially meaningful material, having learners who need help, 
+having illustrations that provide help, and having a test that can detect meaningful 
+learning outcomes. I changed the name to “model of conditions for effective illustra-
+tions” in Mayer & Gallini (1990) but retained the same set of conditions albeit in a 
+different order.
+How did I progress to the next levels? In continually discussing our theoretical 
+account with students and colleagues, it became clear that this initial model cap-
+tured the external factors involved in meaningful learning but did not adequately 
+address the internal cognitive processes involved. If I wanted to know how meaning-
+ful learning works, I would have to consider the cognitive processes during learning. 
+I was heavily influenced by three threads of scholarship I had been reading about—
+dual-coding such as articulated by Paivio (1986), limited working memory capacity 
+such as articulated by Miller (1956) and Baddeley (1986) and Sweller (1999), and 
+active cognitive processing during learning such as articulated by Wittrock (1974, 
+1989). First, I focused on dual-coding.
+
+--- PDF PAGE 8 ---
+ Educational Psychology Review (2024) 36:8
+1 38 Page 8 of 25
+Table 1  Name changes leading to the cognitive theory of multimedia learning and beyond
+Name Emphasis Initial source(s)
+Model of meaningful learning Conditions for instruction for meaningful 
+learning
+Mayer (1989)
+Model of conditions for effective illustrations Conditions for instruction for meaningful 
+learning
+Mayer & Gallini (1990)
+Dual-coding model Dual-coding Mayer & Anderson (1991, 1992)
+Dual-processing model of multimedia learning or dual-processing 
+model of working memory
+Dual-coding Mayer & Moreno (1998);
+SOI model Generative processes Mayer (1996)
+Generative theory Generative processes Mayer et al. (1995)
+Generative theory of multimedia learning Generative processes Mayer (1997); Plass et al. (1998)
+Generative learning theory Generative processes Fiorella & Mayer (2015, 2016);
+Generative theory of learning Generative processes Mayer (2010)
+Cognitive theory of multimedia learning Generative processes Mayer (1997); Mayer et al., (1996, 1999); Moreno 
+& Mayer (2000); Mayer (2001); Mayer, et al. 
+(2001); Mayer & Moreno, 2003)
+
+--- PDF PAGE 9 ---
+1 3
+Educational Psychology Review (2024) 36:8 Page 9 of 25 8
+As a result of my dissatisfaction with a focus solely on external conditions of 
+meaningful learning, the names shifted to focus on the internal conditions for mean-
+ingful learning by considering cognitive processing in the learner’s information pro-
+cessing system. Different names emphasized different aspects of cognitive processing 
+such as having dual-channels for verbal and visual material, having limited capac-
+ity for cognitive processing, and engaging in generative processing during learning. 
+First, I emphasized the concept of dual-coding (i.e., separate information process-
+ing channels for auditory and visual material) with names like “dual-coding model” 
+(Mayer & Anderson, 1991, 1992) and “dual-processing model of multimedia learn-
+ing” or “dual-processing theory of working memory” (Mayer & Moreno, 1998). The 
+idea of separate channels for processing visual and verbal material was to become a 
+central feature of CTML, as represented by the two rows in the current model.
+Then, the name was broadened to differentiate among three cognitive processes 
+during learning—selecting relevant material for further processing, organizing it into 
+a coherent cognitive representation, and integrating it with relevant prior knowledge. 
+Mayer (1996) referred to this idea as the “SOI model,” and other papers used the term 
+“generative theory” (Mayer, 1997; Mayer et al., 1995) or “generative theory of mul-
+timedia learning” (Mayer, 1997; Plass et al., 1998) or “generative learning theory” 
+(Fiorella & Mayer, 2015, 2016) or “generative theory of learning” (Mayer, 2010). 
+The SOI model was a major conceptual breakthrough for me, and has remained at the 
+core of CTML ever since, as represented by the arrows in the current model. In short, 
+the SOI model represents the core cognitive processes that drive CTML.
+Finally, we began using the name, “cognitive theory of multimedia learning” in 
+Mayer et  al., (1996, 1999), Mayer (1997), and Moreno & Mayer (2000). We also 
+elaborated on the underlying ideas of the cognitive theory of multimedia learning 
+in Mayer & Moreno (2003) and all editions of Multimedia Learning (Mayer, 2001, 
+2009, 2021) and all editions of The Cambridge Handbook of Multimedia Learning 
+(Mayer, 2005, 2014; Mayer & Fiorella, 2022). This approach included the idea of 
+limited capacity and the distinction among extraneous, essential, and generative pro-
+cessing in which cognitive capacity directed at extraneous processing reduced the 
+capacity available for essential and generative processing.
+How am I progressing beyond the current model of CTML? Research evidence 
+came pouring in that alerted me to the idea that there may be more to multimedia 
+learning than cognitive processing. We began to find evidence for the role of social 
+process (e.g., how using conversational language can build social rapport) and affec-
+tive processing (e.g., how the instructor’s gestures and tone of voice can affect learn-
+ing), and evidence for the role of motivational factors (e.g., benefits of training for 
+self-efficacy in multimedia lessons) and metacognitive factors (e.g., role individual 
+differences in executive function in learning from distracting lessons). We are now 
+grappling with how to represent these additions to CTML.
+As we move to expand CTML, as summarized in Table  2, we supplemented 
+CTML with “social agency theory” (Atkinson et  al., 2005; Mayer et  al., 2003), 
+which incorporates social processes during learning, and with the “cognitive-affec-
+tive theory of learning with media” (Moreno & Mayer, 2007) and the “cognitive-
+affective model of e-learning” (Lawson & Mayer, 2022; Lawson et al., 2021), which 
+incorporates affective processes during learning.
+
+--- PDF PAGE 10 ---
+ Educational Psychology Review (2024) 36:8
+1 38 Page 10 of 25
+The name changes reflect a shift from a focus on external conditions to inter -
+nal processes ranging from dual-coding processing to generative processing to 
+social and affective processing. Although it took us more than a decade to get there, 
+throughout the twenty-first century, we have landed on the “cognitive theory of mul-
+timedia learning” as the name of our theory.
+Inching Towards a Visual Representation of the Theory
+Although it took many iterations to find a suitable name, we also struggled with 
+finding an appropriate visual representation of the theory. I have found that visual 
+representations help me better understand and improve on the theory, so I generally 
+start with a visual representation and then express my ideas in words. In the case 
+of CTML, it took many tries at building a flowchart that could represent the theory 
+concisely and accurately. Our earliest attempts are shown in Figs.  2 and 3, which 
+depict the external conditions for effective multimedia instruction—having mean-
+ingful text, having complimentary illustrations, having learners who need help, and 
+having a test that taps meaningful learning (Mayer, 1989; Mayer & Gallini, 1990).
+Next, we shifted from a vertical flowchart depicting external conditions of mean-
+ingful learning to a vertical flowchart depicting steps in a dual-coding model (in 
+Fig.  4; Mayer & Anderson, 1992). In a further refinement of the dual-coding model, 
+we flipped to a horizontal flowchart involving a visual channel and an acoustic chan-
+nel (in Fig.  5; Mayer & Moreno, 1998). Around the same time, we developed a more 
+inclusive flowchart based on a generative theory that broadened the cognitive pro-
+cesses to include selecting, organizing, and integrating, but without the dual chan-
+nels (in Fig.  6; Mayer, 1996). Figure  7 shows a flowchart version of generative the-
+ory (with selecting, organizing, and integrating) that also begins to incorporate dual 
+channels involving text and illustrations (Mayer, 1997; Mayer et al., 1995).
+Finally, in Fig.  8 (Mayer, 2001; Mayer et  al., 2001), we refined those previ-
+ous flowcharts to include all three features of the theory: dual-channels as rep-
+resented by an auditory row across the top and a visual row across the bottom; 
+limited capacity as represented by boxes for sensory memory, working memory, 
+and long-term memory; and generative processing as indicated by arrows for 
+selecting, organizing, and integrating. This has become the stable flowchart rep-
+resentation we have used to depict the cognitive theory of multimedia learning 
+throughout the twenty-first century. It is the single most important representa-
+tion of CTML, and it continually helps me think about how multimedia learning 
+Table 2  Adjunct theories to the cognitive theory of Multimedia Learning 
+Name Emphasis Initial source(s)
+Social agency theory Social processing Mayer et al. (2003); Atkinson et al. (2005)
+Cognitive affective model 
+of learning with media
+Affective processing Moreno & Mayer (2007)
+Cognitive affective model 
+of e-learning
+Affective processing Lawson et al. (2021); Lawson & Mayer (2022)
+
+--- PDF PAGE 11 ---
+1 3
+Educational Psychology Review (2024) 36:8 Page 11 of 25 8
+works and the implications for instructional design. On reflection, it seems fitting 
+that the most important statement of CTLM is itself a multimedia representation 
+consisting of words and graphics.
+Going beyond the standard flowchart for CTML in Fig.  8, we also have added 
+some complementary flowcharts for social agency theory (Mayer, 2009), which 
+adds social processing, and for the cognitive-affective model (Lawson & Mayer, 
+2022; Moreno & Mayer, 2007), which adds affective processing. The changes in our 
+Fig. 2  External conditions for meaningful learning (Mayer, 1989)
+
+--- PDF PAGE 12 ---
+ Educational Psychology Review (2024) 36:8
+1 38 Page 12 of 25
+flowchart reflect refinements and additions in the theory, as we grappled with how to 
+integrate an inter-related set of concepts about dual channels, limited capacity, and 
+active processing.
+Fig. 3  Alternative version of external conditions for meaningful learning (Mayer & Gallini, 1990)
+
+--- PDF PAGE 13 ---
+1 3
+Educational Psychology Review (2024) 36:8 Page 13 of 25 8
+Adding to the Research Base
+Across four decades, the research base for the cognitive theory of multimedia learn-
+ing has grown substantially, which enabled further theory development. Table  3 
+shows the number of experimental tests conducted by my colleagues and me as well 
+as the number of multimedia design principles we have proposed based on those 
+studies across the three editions of Multimedia Learning (Mayer, 2001, 2009, 2021). 
+Starting with our first multimedia learning studies in 1989, we have been able to 
+generate 15 evidence-based principles based on more than 200 experiments con-
+ducted by my colleagues and me.
+Table  4 lists the principles that were included in each of the three editions of Mul-
+timedia Learning. As can be seen, we began mainly with principles aimed at mini-
+mizing extraneous processing—cognitive processing that does not support the instruc-
+tional goal—such as eliminating unneeded material (i.e., coherence principle). Then, 
+Fig. 4  Dual-coding model (Mayer & Anderson, 1992)
+
+--- PDF PAGE 14 ---
+ Educational Psychology Review (2024) 36:8
+1 38 Page 14 of 25
+Fig. 5  Dual-processing theory of working memory (Mayer & Moreno, 1998)
+Fig. 6  The SOI model (Mayer, 1996)
+Fig. 7  Generative theory of textbook design (Mayer, 1997; Mayer et al., 1995)
+
+--- PDF PAGE 15 ---
+1 3
+Educational Psychology Review (2024) 36:8 Page 15 of 25 8
+we added principles aimed at managing essential processing—cognitive processing 
+aimed at representing the material in working memory—such as pausing a continuous 
+video to create self-paced segments (i.e., segmenting principle). Lastly, we added prin-
+ciples aimed at fostering generative processing—cognitive processing aimed at mak -
+ing sense of the material—mainly with new technologies such as asking learners to 
+summarize or explain what they are learning (i.e., generative activity principle).
+Fig. 8  Cognitive theory of multimedia learning (Mayer, 2001; Mayer et al., 2001)
+Table 3  Growth of research 
+base across three editions of 
+multimedia learning
+Edition Year Number of experimental 
+comparisons
+Number of 
+principles
+1 2001 45 7
+2 2009 93 12
+3 2021 201 15
+Table 4  Growth of principles 
+across three editions of 
+multimedia learning
+Principle First edition 
+(2001)
+Second edition 
+(2009)
+Third 
+edition 
+(2021)
+Multimedia X X X
+Coherence X X X
+Signaling X X
+Redundancy X X X
+Spatial contiguity X X X
+Temporal contiguity X X X
+Segmenting X X
+Pretraining X X
+Modality X X X
+Personalization X X
+Voice X X
+Image X X
+Embodiment X
+Immersion X
+Generative Activity  X
+
+--- PDF PAGE 16 ---
+ Educational Psychology Review (2024) 36:8
+1 38 Page 16 of 25
+Of course, the growth of the research base supporting CTML goes far beyond 
+what our lab produces and includes an ever expanding network of researchers 
+around the world. As summarized in Table  5, some of this work is described in the 
+three editions of The Cambridge Handbook of Multimedia Learning (Mayer, 2005, 
+2014; Mayer & Fiorella, 2022).
+This growth in the research base is supported by improvements in assessment of 
+learning outcomes—especially the development of appropriate transfer tests. I am 
+a strong proponent of replication and for searching for boundary conditions under 
+which the various design principles apply. Overall, theory development depends on 
+a storehouse of research evidence generated by labs around the world.
+The Present State of the Cognitive Theory of Multimedia Learning
+The cognitive theory of multimedia learning is an evidence-based description of 
+how people learn from multimedia instructional messages. A multimedia instruc-
+tional message is instructional material consisting of words (e.g., printed text or spo-
+ken text) and graphics (e.g., illustrations, photos, animation, video, or immersive 
+virtual reality) intended to foster new knowledge or skills in a learner. A multime-
+dia instructional message can be presented in print (e.g., as a book), on a computer 
+screen (e.g., as an instructional video or narrated animation or a simulation game), 
+or in virtual reality via a head-mounted display (e.g., as an interactive simulation). 
+The theory yields implications for the design of effective multimedia instructional 
+messages, which are rendered as design principles.
+Some of the advances in CTML have been fostered by advances in educational 
+technology including instructional video, animation technology, technologies for 
+creating onscreen agents, immersive virtual reality, and educational games, but it 
+was not my intention to study educational technology per se. In fact, the theory 
+began by studying learning from printed text and illustrations rendered on paper, and 
+my focus has always been on how to design effective instruction involving words 
+and graphics. In short, my focus is on how to help people learn academic content 
+rather than on the capabilities of the latest educational technologies.
+In this section, I summarize the current state of the cognitive theory of multime-
+dia learning including the guiding assumptions, the memory stores, the cognitive 
+processes, the demands on cognitive capacity, and three instructional goals. I also 
+summarize 15 evidence-based multimedia instructional design principles based on 
+CTML. More detailed descriptions are available in Mayer (2021, 2022).
+Table 5  Growth of research 
+base across three editions of 
+the Cambridge Handbook of 
+Multimedia Learning 
+Edition Year Chapters Principles Authors
+1 2005 35 22 46
+2 2014 34 25 52
+3 2022 46 31 60
+
+--- PDF PAGE 17 ---
+1 3
+Educational Psychology Review (2024) 36:8 Page 17 of 25 8
+The cognitive theory of multimedia learning is represented in Fig.  8. A multime-
+dia instructional message enters the learner’s cognitive system through their eyes 
+and ears. Printed words and graphics are held briefly in visual sensory memory, and 
+spoken words are held briefly in auditory sensory memory. As these images fade, 
+the learner can pay attention to some of the material, which is transferred to work -
+ing memory for further processing. In working memory, the learner can organize the 
+pictorial material into a pictorial model and the verbal material into a verbal model 
+and integrate corresponding pictorial and verbal representations with each other 
+and with relevant knowledge from long-term memory. The outcome is meaningful 
+knowledge that is stored in long-term memory and can be applied to new situations.
+Guiding Assumptions of the Cognitive Theory of Multimedia Learning
+The cognitive theory of multimedia learned as represented in Fig.  8 is based on 
+three guiding assumptions derived from cognitive science: dual channels, limited 
+capacity, and active processing. The dual-channels assumption is that humans have 
+separate but interacting channels for processing auditory/verbal information and 
+pictorial/visual information (such as narration and animation, respectively). The 
+limited-capacity assumption is that humans can process only a few pieces of infor -
+mation in each channel at one time. The active-processing assumption is that mean-
+ingful learning occurs when the learner engages in appropriate cognitive process-
+ing during learning, including selecting relevant material to attend to in a lesson, 
+mentally organizing the incoming material into a coherent representation in working 
+memory, and mentally connecting it with corresponding representations and with 
+relevant prior knowledge activated from long-term memory.
+Three Memory Stores in the Cognitive Theory of Multimedia Learning
+CTML has three memory stores, which are represented as boxes in Fig.  8 sensory 
+memory, working memory, and long-term memory. Sensory memory holds com-
+plete visual images (in visual sensory memory) that enter through the eyes and com-
+plete auditory images (in auditory sensory memory) that enter through the ears, but 
+the images fade rapidly within a fraction of a second. Working memory holds picto-
+rial/visual and auditory/verbal pieces of information that the learner has attended 
+to before they decay from sensory memory. This information can be re-arranged, 
+but only a few pieces of information can be processed in each channel at any one 
+time. Long-term memory is the learner’s permanent storehouse of knowledge, parts 
+of which can be activated and brought into working memory during learning.
+Five Cognitive Processes in the Cognitive Theory of Multimedia Learning
+CTML has five cognitive processes, which are represented as arrows in Fig.  8: 
+selecting words, selecting images, organizing words, organizing images, and 
+
+--- PDF PAGE 18 ---
+ Educational Psychology Review (2024) 36:8
+1 38 Page 18 of 25
+integrating. Selecting words refers to attending to relevant parts of the printed text, 
+and selecting images refers to attending to relevant parts of the presented graph-
+ics. Organizing words refers to arranging the relevant words in to a verbal model 
+in working memory, and organizing images refers to arranging the relevant parts of 
+the graphics into a pictorial model in working memory. Integrating refers to making 
+connections between corresponding verbal and pictorial representations in working 
+memory as well as relevant knowledge from long-term memory. Meaningful learn-
+ing depends on the learner engaging in appropriate cognitive processing involving 
+selecting, organizing, and integrating. Instructional design is intended to guide these 
+processes.
+Three Demands on Cognitive Capacity
+A central tenet of the cognitive theory of multimedia learning is that working 
+memory capacity is limited, but there are three demands on that limited cognitive 
+capacity during learning: extraneous processing, essential processing, and genera-
+tive processing. Extraneous processing is cognitive processing that does not support 
+the instructional goal; the amount of extraneous processing depends on the degree 
+of poor instructional design, such as presenting extraneous verbal or pictorial infor -
+mation in a lesson. Essential processing is cognitive processing to mentally repre-
+sent the presented material in working memory; the amount of essential processing 
+depends on the inherent complexity of the material for the learner, such as present-
+ing many inter-related concepts in a fast-paced lesson. Generative processing is cog-
+nitive processing aimed at making sense of the incoming information; the amount of 
+generative processing depends on the learner’s level of motivation to exert effort to 
+understand the lesson. The three kinds of processing each require some of the learn-
+er’s limited cognitive capacity, so capacity that is used for extraneous processing 
+takes away from capacity that could be used for essential and generative processing, 
+and cognitive capacity that is used for essential processing takes away capacity that 
+could be used for generative processing.
+Three Instructional Goals
+The three demands on cognitive capacity give rise to three instructional goals: mini-
+mize extraneous processing, manage essential processing, and foster generative pro-
+cessing. Consider a situation in which a poorly designed lesson causes the learner 
+to allocate almost all of their cognitive capacity to extraneous processing, so they 
+do not have adequate remaining cognitive capacity to engage in needed essential 
+and generative processing. In this case, an important instructional goal is to mini-
+mize extraneous processing. This can be accomplished, for example, by eliminating 
+unneeded words and graphical elements from a lesson.
+Consider another situation in which extraneous processing has been reduced, but 
+the lesson is so complex that the amount of needed essential processing exceeds 
+the learner’s cognitive capacity. In this case, an important instructional goal is to 
+
+--- PDF PAGE 19 ---
+1 3
+Educational Psychology Review (2024) 36:8 Page 19 of 25 8
+manage essential processing. This can be accomplished, for example, by breaking a 
+continuous lesson into manageable chunks that can be paced by the learner.
+Finally, let us assume that we have minimized extraneous processing and man-
+aged essential processing, so cognitive capacity is available for generative process-
+ing, but the learner is not motivated to exert effort to understand the material. In 
+this case, an important instructional goal is to foster generative processing. This can 
+be accomplished, for example, by prompting the learner to engage in a generative 
+learning activity such as writing a summary or self-testing during pauses a lesson.
+Fifteen Multimedia Instructional Design Principles
+Table  6 summarizes 15 principles supported by research by my colleagues and 
+me over the years. The first set of five principles addresses the instructional goal 
+of reducing extraneous processing; the second set of four principles addresses the 
+instructional goal of managing essential processing; and the third set of six princi-
+ples addresses the instructional goal of fostering generative. Each principle is sub-
+ject to boundary conditions including for whom the principle applies, for which kind 
+of lesson the principle applies, and under what circumstances the principle applies. 
+These are described in more detail in Multimedia Learning (Mayer, 2021). Many 
+more principles are described in the wider literature, such as in The Cambridge 
+Handbook of Multimedia Learning (Mayer & Fiorella, 2022).
+The Future of the Cognitive Theory of Multimedia Learning
+Even when a theory reaches a somewhat stable state, such as the cognitive theory 
+of multimedia learning, there is still room for further theory development. Today’s 
+version of CTML focuses mainly on cognitive processing during learning—such as 
+selecting, organizing, and integration—as the core mechanism along with assump-
+tions about the architecture of the human information processing system, limited 
+capacity of working memory and dual channels for visual and verbal processing. 
+In this section, I explore future directions for CTML involving the integration of 
+new learning components that go beyond these basic cognitive processes, such as 
+social processes, affective processes, motivational processes, and metacognitive pro-
+cesses. In the future, I also expect an increase in the research base, an increase in the 
+number of evidence-based design principles, and a clearer specification of boundary 
+conditions for design principles.
+Integrating New Components into the Cognitive Theory of Multimedia Learning
+Progress is being made in integrating understudied components into the cognitive 
+theory of multimedia learning, including social, affective, motivational, and meta-
+cognitive processes. Concerning social processes, initial progress is reflected in the 
+incorporation of social agency theory (Atkinson et  al., 2005; Mayer et  al., 2003), 
+which posits that learners try harder to understand a lesson when they feel that the 
+
+--- PDF PAGE 20 ---
+ Educational Psychology Review (2024) 36:8
+1 38 Page 20 of 25
+Table 6  Fifteen principles of multimedia instructional design (from Mayer, 2021)
+Principle for reducing extraneous processing Effect size Tests
+1. Coherence principle: People learn better when extraneous material is excluded rather than included 0.86 19
+2. Signaling principle: People learn better when cues are added that highlight the organization of the essential material 0.69 16
+3. Redundancy principle: People do not learn better when printed text is added to graphics and narration; people learn better from graphics and narration than from 
+graphics, narration, and printed text, when the lesson is fast-paced
+0.10 12
+4. Spatial contiguity principle: People learn better when corresponding words and pictures are presented near rather than far from each other on the page or screen 0.82 9
+5. Temporal contiguity principle: People learn better when corresponding words and pictures are presented simultaneously rather than successively 1.31 8
+Principles for managing essential processing Effect size Tests
+6. Segmenting principle: People learn better when a multimedia lesson is presented in user-paced segments rather than as a continuous unit 0.67 7
+7. Pretraining principle: People learn better from a multimedia lesson when they know the names and characteristics of the main concepts 0.78 10
+8. Modality principle: People learn better from graphics and narration than from graphics and on-screen text 1.00 19
+Principles for managing essential processing Effect size Tests
+9. Multimedia principle: People learn better from words and pictures than from words alone 1.35 13
+10. Personalization principle: People learn better from multimedia lessons when words are in conversational style rather than formal style 1.00 15
+11. Voice principle: People learn better when the narration in multimedia lessons is spoken in a friendly human voice rather than a machine voice 0.74 7
+12. Image principle: People do not necessarily learn better from a multimedia lesson when the speaker’s image is added to the screen 0.20 7
+13. Embodiment principle: People learn more deeply from multimedia presentations when an onscreen instructor displays high embodiment rather than low 
+embodiment
+0.58 17
+14. Immersion principle: People do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation -0.10 9
+15. Generative activity principle: People learn better when they are guided in carrying out generative learning activities during learning 0.71 44
+
+--- PDF PAGE 21 ---
+1 3
+Educational Psychology Review (2024) 36:8 Page 21 of 25 8
+instructor is working with them. Concerning affective processes, initial progress 
+is reflected in the incorporation of the cognitive-affective model of learning with 
+media (Moreno & Mayer, 2007) and the cognitive-affective model of e-learning 
+(Lawson et al., 2021; Lawson & Mayer, 2022), which posit that learners try harder 
+to understand a lesson when they experience positive emotion while learning. Con-
+cerning motivational processes, initial progress is reflected in research showing 
+students learn better from a statistics lesson when they are given prompts intended 
+to boost their self-efficacy and decrease anxiety during learning (Huang & Mayer, 
+2019; Huang et al., 2020). Concerning metacognitive processes, initial progress is 
+reflected in research assessing learners’ judgements of understanding during pauses 
+in a multimedia science lesson (Pilegard & Mayer, 2015a, 2015b).
+Overall, more work is needed to incorporate new components into the cognitive 
+theory of multimedia learning, especially given ongoing advances in theories of 
+self-regulated learning and motivation. For example, Kuhlmann et al. (2023) have 
+shown how the SOI processes in CTML can be expanded through a motivational 
+theory perspective. Clearly, self-regulation plays an important role in understanding 
+how students learn from multimedia materials and in understanding how to design 
+multimedia instructional materials for students with different kinds of self-regula-
+tion skills.
+Expanding Research Methodologies to Monitor Learning Processes
+In order to incorporate new components into the CTML, we need to expand the 
+research methodologies used to monitor learning processes, including the use of 
+eye-tracking, biometric, brain monitoring, and survey techniques. Concerning eye-
+tracking techniques, progress is being in determining how learners allocate their 
+attention in viewing a multimedia lesson, such as how many times their eyes move 
+between corresponding printed words and graphical elements (Johnson & Mayer, 
+2012; Ponce et  al., 2018) or where students look when viewing a video lecture 
+consisting of an instructor standing next to projected slides (Stull & Mayer, 2021; 
+Stull, et al., 2018). Concerning biometric techniques, initial progress is reflected in 
+studies examining students’ emotional arousal as measured by heart rate variability 
+and electro-dermal activity when learning in immersive virtual reality versus with 
+conventional media (Parong & Mayer, 2021a, 2021b). Concerning brain monitoring 
+techniques, initial progress is reflected in studies examining students’ level of dis-
+traction as measured by a portable electroencephalogram (EEG) system when learn-
+ing in immersive virtual reality versus with conventional media (Parong & Mayer, 
+2021a, 2021b). Similarly, functional near-infrared spectroscopy (fNIRS) technology 
+offers a potential avenue for detecting the intensity of activity in brain areas related 
+to cognitive, social, and affective processing (Li et al., 2022). The traditional way to 
+measure learning activities is through self-report surveys administered after learn-
+ing, but initial progress is being made in injecting brief survey items at pauses within 
+an ongoing lesson (Pilegard & Mayer, 2015a, 2015b). Overall, I expect advances 
+in methodologies aimed at detecting learning processes during an instructional epi-
+sode, which will complement existing techniques to measure learning outcomes.
+
+--- PDF PAGE 22 ---
+ Educational Psychology Review (2024) 36:8
+1 38 Page 22 of 25
+Expanding the Knowledge Base
+Finally, I expect the cognitive theory of multimedia learning to be fortified with an 
+increase in the research base, which will enable an increase and refinement in design 
+principles and a clearer specification of boundary conditions for when a principle is 
+most likely to apply. As the research base grows, I expect to see more meta-analyses 
+that pinpoint the strength of key multimedia design principles as well as their mod-
+erating factors. An important direction for future research is to conduct studies in 
+more natural learning environments such as school classrooms, online courses, and 
+professional training. The ultimate test of the value of the cognitive theory of mul-
+timedia learning rests in its practical role in improving instruction and training as 
+reflected in the five editions of e-Learning and the Science of Instruction (Clark & 
+Mayer, 2003, 2008, 2011, 2016, 2024).
+Conclusion
+The cognitive theory of multimedia represents one of educational psychology’s suc-
+cess stories by showing progress in addressing some of our discipline’s fundamental 
+questions about learning and instruction: How do people learn and how can we help 
+people learn? In particular, the CTML represents our attempts to understand how 
+meaningful learning of academic material works and how to improve the design of 
+academic material to foster meaningful learning. For more than 100 years, our field 
+has grappled with these questions. The development of the cognitive theory of mul-
+timedia learning provides a case example of how educational psychology can con-
+tribute to psychological theory and educational practice. I will consider this essay 
+to be a success, if it encourages you to join this worthwhile effort, such as by con-
+ducting theory-grounded studies of meaningful academic learning, contributing to 
+research-based theories of meaningful academic learning, or developing evidence-
+based instruction.
+Funding The preparation of this paper was supported by grant N00014-21–1-2047 from the Office of 
+Naval Research.
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, 
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long 
+as you give appropriate credit to the original author(s) and the source, provide a link to the Creative 
+Commons licence, and indicate if changes were made. The images or other third party material in this 
+article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended 
+use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permis-
+sion directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/
+licenses/by/4.0/.
+
+--- PDF PAGE 23 ---
+1 3
+Educational Psychology Review (2024) 36:8 Page 23 of 25 8
+References
+Atkinson, R. K., Mayer, R. E., & Merrill, M. M. (2005). Fostering social agency in multimedia learning: 
+Examining the impact of an animated agent’s voice. Contemporary Educational Psychology, 30(1), 
+117–139.
+Ausubel, D. P. (1968). Educational psychology: A cognitive view. Holt, Rinehart, & Winston.
+Baddeley, A. (1986). Working memory. Oxford University Press.
+Bartlett, F. C. (1932). Remembering. Cambridge University Press.
+Camp, G., Surma, T., & Kirschner, P. A. (2022). Foundations of multimedia learning. In R. E. Mayer 
+& L. Fiorella (Eds.), The Cambridge handbook of multimedia learning (3rd ed., pp. 17–24). Cam-
+bridge University Press.
+Clark, R. C., & Mayer, R. E. (2003). e-Learning and the science of instruction. Jossey-Bass.
+Clark, R. C., & Mayer, R. E. (2008). e-Learning and the science of instruction (2nd ed.). Jossey-Bass.
+Clark, R. C., & Mayer, R. E. (2011). e-Learning and the science of instruction (3rd ed.). Pfeiffer.
+Clark, R. C., & Mayer, R. E. (2016). e-Learning and the science of instruction (4th ed.). Wiley.
+Clark, R. C., & Mayer, R. E. (2024). e-Learning and the science of instruction (5th ed.). Wiley.
+Ebbinghaus, H. (1913 [1885]). Memory: A contribution to experimental psychology. Teachers College 
+Columbia University.
+Fiorella, L., & Mayer, R. E. (2015). Learning as a generative activity: Eight learning strategies that pro-
+mote understanding. Cambridge University Press.
+Fiorella, L., & Mayer, R. E. (2016). Eight ways to promote generative learning. Educational Psychology 
+Review, 28(4), 717–741.
+Greene, J. A. (2022). What can educational psychology learn from, and contribute to, theory develop-
+ment scholarship. Educational Psychology Review, 34, 3011–3035.
+Horovitz, T., & Mayer, R. E. (2021). Learning with human and virtual instructors who display happy or 
+bored emotions in video lectures. Computers in Human Behavior, 119, 106724.
+Huang, X., & Mayer, R. E. (2019). Adding self-efficacy features to an online statistics lesson. Journal of 
+Educational Computing Research, 57, 1003–1037.
+Huang, X., Mayer, R. E., & Esher, E. (2020). Better together: Effects of four self-efficacy building strate-
+gies on online statistical learning. Contemporary Educational Psychology, 63, 101924.
+Johnson, C., & Mayer, R. E. (2012). An eye movement analysis of the spatial contiguity effect in multi-
+media learning. Journal of Experimental Psychology: Applied, 18, 178–191.
+Katona, G. (1940). Organizing and memorizing. Columbia University Press.
+Kuhlmann, S. L., Bernacki, M. L., Greene, J. A., Hogan, K. A., Evans, M., Plumley, R., ..., & Panter, A. 
+(2023). How do students’ achievement goals relate to learning from well-designed instructional vid-
+eos and subsequent exam performance?. Contemporary Educational Psychology, 73, 102162.
+Kuhn, T. (1962). The structure of scientific revolutions. University of Chicago Press.
+Lawson, A., & Mayer, R. E. (2022). Does the emotional stance of human and virtual instructors in 
+instructional videos affect learning processes and outcomes? Contemporary Educational Psychol-
+ogy, 70, 102080.
+Lawson, A. P., Mayer, R. E., Adamo-Villani, N., Benes, B., Lei, X., & Cheng, J. (2021). The positivity 
+principle: Do positive instructors improve learning from video lectures? Educational Technology 
+Research and Development, 69(6), 3101–3129.
+Li, W., Wang, F., Mayer, R. E., & Liu, T. (2022). Animated pedagogical agents enhance learning out-
+comes and brain activity during learning. Journal of Computer Assisted Learning, 38, 621–637.
+Mayer, R. E. (1989). Systematic thinking fostered by illustrations in scientific text. Journal of Educa-
+tional Psychology, 81, 240–246.
+Mayer, R. E. (1996). Learning strategies for making sense out of expository text: The SOI model for 
+guiding three cognitive processes in knowledge construction. Educational Psychology Review, 8(4), 
+357–371.
+Mayer, R. E. (1997). Multimedia learning: Are we asking the right questions? Educational Psychologist, 
+32, 1–19.
+Mayer, R. E. (2001). Multimedia learning. Cambridge University Press.
+Mayer, R. E. (Ed.). (2005). The Cambridge handbook of multimedia learning. Cambridge University 
+Press.
+Mayer, R. E. (2009). Multimedia learning (2nd ed.). Cambridge University Press.
+
+--- PDF PAGE 24 ---
+ Educational Psychology Review (2024) 36:8
+1 38 Page 24 of 25
+Mayer, R. E. (2010). Merlin C. Wittrock’s enduring contributions to the science of learning. Educational 
+Psychologist, 45, 46–50.
+Mayer, R. E. (Ed.). (2014). The Cambridge handbook of multimedia learning (2nd ed.). Cambridge Uni-
+versity Press.
+Mayer, R. E. (2021). Multimedia learning (3rd ed.). Cambridge University Press.
+Mayer, R. E. (2022). Cognitive theory of multimedia learning. In R. E. Mayer & L. Fiorella (Eds.), The 
+Cambridge handbook of multimedia learning (3rd ed., pp. 57–72). Cambridge University Press.
+Mayer, R. E., & Fiorella, L. (Eds.). (2022). The Cambridge handbook of multimedia learning (3rd ed.). 
+Cambridge University Press.
+Mayer, R. E., & Anderson, A. B. (1991). Animations need narrations: An experimental test of a dual-
+coding hypothesis. Journal of Educational Psychology, 83, 484–490.
+Mayer, R. E., & Anderson, A. B. (1992). The instructive animation: Helping students build connec-
+tions between words and pictures in multimedia learning. Journal of Educational Psychology, 84, 
+444–452.
+Mayer, R. E., & Gallini, J. (1990). When is an illustration worth ten thousand words? Journal of Educational 
+Psychology, 82, 715–727.
+Mayer, R. E., & Moreno, R. (1998). A split-attention effect in multimedia learning. Journal of Educa-
+tional Psychology, 90, 312–320.
+Mayer, R. E., & Moreno, R. (2003). Nine ways to reduce cognitive load in multimedia learning. Educa-
+tional Psychologist, 38, 43–52.
+Mayer, R. E., Steinhoff, K., Bower, G., & Mars, R. (1995). A generative theory of textbook design: 
+Using annotated illustrations to foster meaningful learning of science text. Educational Technology 
+Research and Development, 43, 31–43.
+Mayer, R. E., Bove, W., Bryman, A., Mars, R., & Tapangco, L. (1996). When less is more: Meaningful 
+learning from visual and verbal summaries. Journal of Educational Psychology, 88, 64–73.
+Mayer, R. E., Moreno, R., Boire, M., & Vagge, S. (1999). Maximizing constructivist learning from mul-
+timedia communications by minimizing cognitive load. Journal of Educational Psychology, 91, 
+638–643.
+Mayer, R. E., Heiser, J., & Lonn, S. (2001). Cognitive constraints on multimedia learning: When present-
+ing more material results in less understanding. Journal of Educational Psychology, 93, 187–198.
+Mayer, R. E., Sobko, K., & Mautone, P. D. (2003). Social cues in multimedia learning: Role of speaker’s 
+voice. Journal of Educational Psychology, 95(2), 419–425.
+Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for pro-
+cessing information. Psychological Review, 63(2), 81–97.
+Moreno, R., & Mayer, R. E. (2000). A coherence effect in multimedia learning: The case for minimizing 
+irrelevant sounds in the design of multimedia instructional messages. Journal of Educational Psy -
+chology, 92, 117–125.
+Moreno, R., & Mayer, R. (2007). Interactive multimodal learning environments: Special issue on inter -
+active learning environments: Contemporary issues and trends. Educational Psychology Review, 
+19(3), 309–326.
+Paas, F., & Sweller, J. (2022). Implications of cognitive load theory for multimedia learning. In R. E. 
+Mayer & L. Fiorella (Eds.), The Cambridge handbook of multimedia learning (3rd ed., pp. 73–81). 
+Cambridge University Press.
+Paivio, A. (1986). Mental representations: A dual-coding approach. Oxford University Press.
+Parong, J., & Mayer, R. E. (2021a). Cognitive and affective processes for learning science in immersive 
+virtual reality. Journal of Computer Assisted Learning, 37, 226–241.
+Parong, J., & Mayer, R. E. (2021b). Learning about history in immersive virtual reality: Does immersion 
+facilitate learning? Educational Technology Research and Development, 69, 1433–1451.
+Piaget, J. (1926). The language and thought of the child. Kegan, Paul, Trench, Trubner and Company.
+Pilegard, C., & Mayer, R. E. (2015a). Within-subject and between-subject conceptions of metacompre-
+hension accuracy. Learning and Individual Differences, 41, 54–61.
+Pilegard, C., & Mayer, R. E. (2015b). Adding judgments of understanding to the metacognitive toolbox. 
+Learning and Individual Differences, 41, 62–72.
+Plass, J. L., Chun, D. M., Mayer, R. E., & Leutner, D. (1998). Supporting visual and verbal learning pref-
+erences in a second language multimedia learning environment. Journal of Educational Psychology, 
+90, 25–36.
+
+--- PDF PAGE 25 ---
+1 3
+Educational Psychology Review (2024) 36:8 Page 25 of 25 8
+Ponce, H. R., Mayer, R. E., Loyola, M. S., Lopez, M., & Mendez, E. E. (2018). When two computer-
+supported learning strategies are better than one: An eye-tracking study. Computers & Education, 
+125, 376–388.
+Schnotz, W. (2022). Integrated model of text and picture comprehension. In R. E. Mayer & L. Fiorella 
+(Eds.), The Cambridge handbook of multimedia learning (3rd ed., pp. 82–99). Cambridge Univer -
+sity Press.
+Schnotz, W. (2023). Multimedia comprehension. Cambridge University Press.
+Stull, A., & Mayer, R. E. (2021). The case for embodied instruction: The instructor as a source of atten-
+tional and social cues in video lectures. Journal of Educational Psychology, 113, 1441–1453.
+Stull, A., Fiorella, L., & Mayer, R. E. (2018). An eye-tracking analysis of instructor presence in video 
+lectures. Computers in Human Behavior, 88, 263–272.
+Sweller, J. (1999). Instructional design in technical areas. ACER Press.
+Sweller, J., Ayres, P., & Kalyuga, S. (2011). Cognitive load theory. Springer.
+Sweller, J. (in press). The development of cognitive load theory: Replication crises and incorporation of 
+other theories can lead to theory expansion. Educational Psychology Review.
+Vygotsky, L. S. (1978). Mind in society. Harvard University Press.
+Wertheimer, M. (1959). Productive thinking. Harper & Row.
+Wittrock, M. C. (1974). Learning as a generative activity. Educational Psychologist, 11, 87–95.
+Wittrock, M. C. (1989). Generative processes of comprehension. Educational Psychologist, 24, 345–376.
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps 
+and institutional affiliations.

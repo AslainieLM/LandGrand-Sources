@@ -1,0 +1,56 @@
+{
+  "required_main_sections": [
+    "Technicality of the project",
+    "Details of the technologies to be used",
+    "How the project will work"
+  ],
+  "section_introductions_checked": 15,
+  "matching_cited_references": [
+    [
+      "Celsys",
+      "2025"
+    ],
+    [
+      "Google",
+      "2025"
+    ],
+    [
+      "Microsoft",
+      "2023"
+    ],
+    [
+      "Unity Technologies",
+      "2026"
+    ]
+  ],
+  "mermaid_parser_and_preview": "passed; complete raster preview visually inspected",
+  "live_obsidian_and_word_layout": "not checked; no Word revision requested",
+  "unchanged_existing_document_image_data_files": true,
+  "source_extraction_unchanged": true,
+  "retained_chapter3_hash_verified": true,
+  "chapter1_reference_unchanged": true,
+  "changed_notes": [
+    "Current Focus.md",
+    "Home.md",
+    "Decisions\\Decision Register.md",
+    "Maintenance\\Change Log.md",
+    "Manuscript\\Chapter III Drafting Guide.md",
+    "Manuscript\\Drafting Dashboard.md",
+    "Manuscript\\Evidence Register.md",
+    "Project\\Scope and Requirements.md",
+    "Sources\\Chapter III Unrevised Draft 2026-11-01.md",
+    "Manuscript\\Drafts\\Chapter III Technical Background.md"
+  ],
+  "added_files": [
+    "Manuscript\\Chapter III References.md",
+    "Manuscript\\Chapter III Revision Notes.md",
+    "Sources\\Attachments\\Chapter III - Proposed Flow - v1.svg"
+  ],
+  "vault_validation": {
+    "notes": 61,
+    "internal_links_checked": 659,
+    "configurations_checked": 8,
+    "retained_files_checked": 16,
+    "errors": []
+  }
+}

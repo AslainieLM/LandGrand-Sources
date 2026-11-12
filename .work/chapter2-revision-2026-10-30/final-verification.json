@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-30",
+  "chapter_pages": 10,
+  "bibliography_pages": 3,
+  "chapter_word_count_native": 2331,
+  "chapter_word_count_tokenized": 2376,
+  "original_narrative_word_count_tokenized": 1013,
+  "originals_preserved": true,
+  "vault_files_unchanged": 84,
+  "source_references": 15,
+  "citation_reference_bijection": true,
+  "this_section_openings": 4,
+  "objective_order": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "visual_review": "All 10 final chapter and 3 bibliography pages inspected at 120 DPI; no clipping, overlap, stranded headings or near-empty closing page.",
+  "source_access_limits": [
+    "Dong: publisher abstract",
+    "Garzon: publisher preview",
+    "Ford: publisher abstract",
+    "Products: descriptions only; no gameplay testing"
+  ],
+  "package_changes": {
+    "Land Grand - Chapter II - Revised - v1.docx": [
+      "word/document.xml"
+    ],
+    "Land Grand - Chapter II - APA References.docx": [
+      "word/document.xml",
+      "word/_rels/document.xml.rels"
+    ]
+  },
+  "output_hashes": {
+    "D:\\Projects\\LandGrand-Sources\\Deliverables\\Chapter II Revision 2026-10-30\\Land Grand - Chapter II - Revised - v1.docx": "d5fb25946966ade11d71e9153fc0fbee8f2431d635f2bd773370082f06ef6b2d",
+    "D:\\Projects\\LandGrand-Sources\\Deliverables\\Chapter II Revision 2026-10-30\\Land Grand - Chapter II - APA References.docx": "83c1079b5832bc75c1e50567016c75ab3bb391ab28bf5eedc67f86ace2b176dc"
+  },
+  "checks_not_completed": [
+    "Full methods/tables for three partial-access sources",
+    "Adviser and curriculum approval",
+    "Land Grand implementation/device and learning evaluation; outside this revision task"
+  ]
+}

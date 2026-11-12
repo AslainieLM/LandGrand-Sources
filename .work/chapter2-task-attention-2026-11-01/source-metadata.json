@@ -1,0 +1,74 @@
+{
+  "source_url": "https://spiral.imperial.ac.uk/server/api/core/bitstreams/11bbe6ea-6693-4141-ba42-a7bf620726b8/content",
+  "sha256": "326067b3a4c5fbea081732505d73733818fecf2c5e21c6e8301f6a45319f325b",
+  "pdf_pages": 32,
+  "crossref": {
+    "title": [
+      "The task-attention theory of game learning: a theory and research agenda"
+    ],
+    "author": [
+      {
+        "given": "Joe",
+        "family": "Cutting",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Theatre, Film, Television and Interactive Media, Digital Creativity Labs, University of York, York, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sebastian",
+        "family": "Deterding",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Engineering, Dyson School of Design Engineering, Imperial College London, London, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "volume": "39",
+    "issue": "5-6",
+    "page": "257-287",
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          19
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          11
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          19
+        ]
+      ]
+    },
+    "URL": "https://doi.org/10.1080/07370024.2022.2047971"
+  }
+}

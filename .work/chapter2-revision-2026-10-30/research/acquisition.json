@@ -1,0 +1,52 @@
+[
+  {
+    "name": "ivgin",
+    "url": "https://files.eric.ed.gov/fulltext/EJ1438370.pdf",
+    "final_url": "https://files.eric.ed.gov/fulltext/EJ1438370.pdf",
+    "bytes": 767029,
+    "pages": 32
+  },
+  {
+    "name": "buray",
+    "url": "https://scimatic.org/storage/journals/11/pdfs/4779.pdf",
+    "final_url": "https://scimatic.org/storage/journals/11/pdfs/4779.pdf",
+    "bytes": 314384,
+    "pages": 12
+  },
+  {
+    "name": "calvo",
+    "url": "https://zaguan.unizar.es/record/145422/files/texto_completo.pdf",
+    "error": "<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>"
+  },
+  {
+    "name": "rodriguez",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1163441/pdf",
+    "final_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1163441/pdf",
+    "bytes": 245315,
+    "pages": 9
+  },
+  {
+    "name": "chung",
+    "url": "https://mdpi-res.com/d_attachment/sustainability/sustainability-15-00983/article_deploy/sustainability-15-00983.pdf",
+    "final_url": "https://mdpi-res.com/d_attachment/sustainability/sustainability-15-00983/article_deploy/sustainability-15-00983.pdf",
+    "bytes": 1067315,
+    "pages": 12
+  },
+  {
+    "name": "mayer",
+    "url": "https://link.springer.com/content/pdf/10.1007/s10648-023-09842-1.pdf",
+    "final_url": "https://link.springer.com/content/pdf/10.1007/s10648-023-09842-1.pdf?error=cookies_not_supported&code=a2a26108-888d-4859-b855-36ed1898ea9c",
+    "bytes": 1270149,
+    "pages": 25
+  },
+  {
+    "name": "brown",
+    "url": "https://www.csus.edu/indiv/s/stonerm/brown-collins-duguid--situatedcognitionandcultureoflearning.pdf",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "name": "rock-listing",
+    "url": "https://itch.io/games/new-and-popular/genre-platformer/tag-rock",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

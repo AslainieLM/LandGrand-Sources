@@ -1,0 +1,114 @@
+--- a
++++ b
+@@ -1,45 +1,75 @@
+ CHAPTER III
+ TECHNICAL BACKGROUND
+-This chapter describes the technical aspects of the Android application, the tools used in its development, and how it will function. It presents the software and hardware used to build the application, explains the role of each tool, and describes the overall process by which the learner will use the game.
+-The Technicality of the Project
+-In developing the project, the proponent gathered all the relevant information and considered various technology options before selecting the tools to be used. Through these tools, learners can study the content of Land Grand, which covers landforms, rocks, and minerals, while enjoying an interactive game experience. The main tools used in the development of the application include the Unity Engine, Piskel, Clip Studio Paint, and Visual Studio Code, with C# as the programming language.
++This chapter describes the proposed technical approach for Land Grand. It explains the development tools, hardware, people involved, and offline operation. It also presents how Grade 5 learners at Baluan Elementary School will use the game.
++Technicality of the project
++This section explains how the proposed application will connect Science content with interactive activities. It describes the existing learning setting and the technical work needed to develop the game.
++Land Grand will be an offline, single-player Android game about selected landforms, rocks, and minerals. Short lessons, exploration, item descriptions, and reviews will form its learning activities. The application will combine these activities in a two-dimensional (2D) environment with touch controls.
++Current learning and technical setting
++This section describes the learning arrangements relevant to the project. It distinguishes the existing materials from the proposed digital resource.
++According to the researcher's October 2026 account, Baluan Elementary School holds face-to-face classes. Printed materials and adult guidance remain part of the project's home-study context. Modular learning is described as an option if a disaster interrupts classroom instruction.
++The existing parent and teacher survey includes reports of access to phones, tablets, or computers. These reports do not confirm access to Android devices that meet the game's requirements. Land Grand will therefore serve as an additional learning resource alongside printed materials and teacher guidance.
++The proposed application will place its learning content and saved progress on the device. Its operation will not depend on a school server or a continuous internet connection.
+ Development
+-This section covers the tools used to create the Android application, including both the software and hardware components of the project. The selected components were chosen to meet the requirements of the game application and to ensure good performance, compatibility, and efficiency. The proponent recognizes that Unity offers a strong and flexible development platform that supports two-dimensional game development, real-time rendering, and an extensive library of assets, which makes it well suited for developing an interactive and educational game application such as Land Grand.
+-The Unity Engine was founded in Copenhagen, Denmark, and was designed by David Helgason, Joachim Ante, and Nicholas Francis. It is one of the well-known game engines used to create a wide range of games and applications. The Unity Engine can be used without payment for its core features, and numerous tutorials are available for learning how to use it, which makes it accessible for student developers.
+-Android Operating System
+-Android was developed by a consortium of developers known as the Open Handset Alliance, with Google leading the development of its most widely used version. It is an open-source platform, and Android applications can be developed using several programming languages such as Java, Kotlin, C#, C++, and others. The Android Software Development Kit (SDK) includes the tools, libraries, and application programming interfaces (APIs) needed for building Android applications. Land Grand is designed to run on Android devices from Android 10 to Android 14.
+-Android Package
+-Android applications are packaged into Android Package (APK) files for distribution. Unity, together with the Android build tools, can generate an installable APK file that can be deployed and run on Android phones and tablets. This allows Land Grand to be installed directly on a learner's device and used offline, without the need for an internet connection.
+-The proponent uses Unity as the main framework for developing the project. Because it is free and easily accessible, the application's graphics and sprites are created and edited using Piskel and Clip Studio Paint, and the application is built using two-dimensional bitmap graphics. The application is programmed in C#, and Visual Studio Code was chosen as the integrated development environment (IDE) for editing the program and its functionalities.
+-This section presents the details of the tools used in creating the application, including the hardware, software, and peopleware.
++This section explains how the proposed software components and learning materials will be combined. It describes the main technical tasks involved in preparing the application.
++The developer will prepare lesson text, item descriptions, illustrations, and graphical assets for the selected topics. These materials will be arranged into game scenes and connected through the application's scripts. The lessons and selected examples will require scientific and curriculum review before use.
++The game scenes will connect the lesson, exploration, collection, and review activities. Touch controls will support movement and jumping. Item collection will display the relevant illustration, name, and short description. The progress system will record available content and completed activities on the device.
++The developer will prepare an Android build and check a complete level on the intended devices. These checks will examine the lesson display, controls, item information, results, and continuation from saved progress. Their outcomes will guide later development.
++Details of the technologies to be used
++This section explains the proposed hardware, software, and peopleware for Land Grand. It also describes the network boundary of the offline application.
+ Hardware
+-The following are the specifications of the computer used by the developer in creating the application:
+-•  Processor: 11th Gen Intel(R) Core(TM) i7-1185G7 @ 3.00 GHz
+-•  RAM: 16 GB, 2400 MHz
+-•  Graphics: Intel(R) Iris(TM) Xe Graphics
+-•  Storage: 256 GB SSD
+-The following are the minimum specifications required for the end-user's Android device in order to run the application:
+-•  Operating System: Android 10 and above (up to Android 14)
+-•  RAM: 2 GB minimum
+-•  Storage: 300 MB of free space
++This section presents the declared development equipment and proposed learner-device targets. The development computer will support application preparation, while Android phones and tablets will run the game.
++The declared development computer has the following specifications:
++•  Processor: 11th Gen Intel Core i7-1185G7 at 3.00 GHz
++•  Memory: 16 GB random-access memory (RAM), 2400 MHz
++•  Graphics: Intel Iris Xe Graphics
++•  Storage: 256 GB solid-state drive (SSD)
++The proposed minimum targets for the learner's device are:
++•  Device: Android phone or tablet
++•  Operating system: Android 10 and above
++•  Memory: 2 GB RAM
++•  Available storage: 300 MB free space
++The learner-device targets remain subject to testing. Actual memory use, installation size, and performance will depend on the completed build and the device used. The stated targets do not establish compatibility with every Android device.
+ Software
+-Software refers to the programs installed on the computer that are used to develop and run the application. The following software was used in developing the project:
+-Operating System
+-•  Windows 11, 64-bit - the operating system used by the developer during development.
++This section describes the planned software tools and their roles in the project. It explains how the operating system, game engine, graphics tools, code editor, and build tools will support development.
++Development Operating System
++This section identifies the operating system in the declared development setup. It explains its role in running the project tools.
++The proposed development environment will use Windows 11, 64-bit. The developer will use this environment to manage project files, prepare assets, edit scripts, and produce application builds. Windows is the development platform; Android is the intended platform for learners.
+ Game Engine
+-•  Unity Engine - the main game engine used to build the two-dimensional educational game, handle gameplay logic, and generate the Android build.
++This section describes the planned role of Unity in Land Grand. It explains how the engine will bring the game's components together.
++Unity will be used to arrange the two-dimensional scenes, interface elements, audio, and graphical assets. It will connect touch input with character actions and the collection activities. The project will also use Unity to prepare its Android build.
+ Editing Software
+-•  Piskel - a free editor used to create pixel art and animated sprites. It allows the developer to create and modify animation frames and to export work in sprite sheet, PNG, and GIF formats.
+-•  Clip Studio Paint - a digital illustration and painting software used to create and edit the artwork and assets for the game. It is widely used by professional digital artists and animators.
+-Integrated Development Environment
+-•  Visual Studio Code - the code editor selected for writing and editing the C# scripts of the application. It provides features such as autocompletion, which makes programming more efficient.
++This section describes the tools selected for the game's visual materials. It explains their planned contributions to the graphics workflow.
++Piskel will be used to prepare pixel-art sprites and frame-based animations for the game. The planned outputs include character and item images for use in Unity. This work will support the game's two-dimensional presentation.
++Clip Studio Paint supports illustration and animation work (Celsys, 2025). In Land Grand, the developer plans to use it for selected illustrations and graphical assets. These materials will provide visual examples alongside the lesson text and item descriptions. The planned digital illustrations will supplement physical examples and teacher explanations.
++Code Editor
++This section explains the role of Visual Studio Code in preparing the application scripts. It describes the editing support relevant to Unity development.
++Visual Studio Code will be the selected code editor for C# scripts. Microsoft's Unity guide describes code completion and debugging through the appropriate Unity and C# extensions (Microsoft, 2023). The developer will configure the editor and extensions for the project. These tools will support script preparation and debugging during development.
+ Programming Language
+-•  C# - the programming language used to develop the functionality and logic of the application within the Unity Engine.
++This section describes how C# will be used in the application. It identifies the planned game functions controlled by scripts.
++C# scripts will connect the interface, character actions, item collection, and scene changes. They will also control access to available levels, prepare level results, and handle local progress data. These functions will follow the documented scope and the game rules established during design.
++Android Build Tools and Installation Package
++This section explains the tools needed to prepare an Android application package. It distinguishes application installation from the game's planned offline operation.
++Unity's Android documentation identifies Android Build Support and the Android Software Development Kit (SDK) as build dependencies. It also lists the Native Development Kit (NDK) and a Java Development Kit (JDK). Unity uses OpenJDK by default (Unity Technologies, 2026). The development setup will use dependency versions compatible with the selected Unity editor.
++An Android Package (APK) contains the components needed to install and run an application on Android devices (Google, 2025). The proposed Land Grand build will be prepared as an installable APK. After installation, its planned lessons, graphical assets, audio, and progress functions will be available on the device. Offline operation will depend on including these resources locally and avoiding online service dependencies.
+ Peopleware
+-Peopleware refers to the people involved in the study, including those who will use and benefit from the application. For Land Grand, the intended users are the Grade Five learners of Baluan Elementary School, who will use the application as additional learning support at home, together with the printed learning materials provided by the school. The teachers of these learners are also considered, as the application is designed to support their teaching of landforms, rocks, and minerals.
+-How Will the Project Work?
+-The main goal of this Android application is to teach the learner about landforms, rocks, and minerals through interactive exploration and simple lessons. The application saves the learner's progress on the device to monitor gameplay and session progress, and the user interface is designed to be simple and easy to use.
+-Figure 4. Procedures
+-The process for using the application is clear and straightforward. The first step is to run the application on an Android device, which requires the learner to download and install the application beforehand. From the Main Menu, the learner can choose Play, Settings, Tutorial, or Exit. After selecting Play, the learner is taken to the Landform Map, which contains four episodes representing the major landforms: Mountains, Hills, Plains, and Plateaus. Only unlocked episodes can be selected, and the remaining episodes become available after the learner completes the previous episode.
+-Before each level begins, a Lesson Screen introduces the selected landform and the rocks or minerals that can be found there using simple explanations. During gameplay, the learner controls an explorer character to move through the landform, collect rocks and minerals, and overcome challenges such as obstacles, traps, pitfalls, and time limits. When a rock or mineral is collected, a pop-up displays its name together with a short description, giving the learner information about the item before continuing.
+-The learner must complete the Easy levels before unlocking the Normal levels, and the Normal levels before unlocking the Hard levels. After completing a level, the Result Screen displays the collected rocks and minerals, the stars earned, and a short review of the lesson. The learner may then replay the level or continue to the next available level.
++This section describes the people involved in developing and using Land Grand. It distinguishes development responsibilities from the support provided during learning.
++The researcher, acting as the developer, will prepare the application and organize its learning materials. The researcher will also carry out the planned technical checks. Science content will require review for accuracy and suitability for Grade 5 learners. Content review is planned work rather than completed validation.
++Grade 5 learners at Baluan Elementary School will be the intended players. They will use the application as an additional resource for the selected Science topics. The proposed interface will use large touch buttons for the main character actions.
++Teachers may guide learners and provide feedback on the proposed Science materials. Parents or guardians may assist with home study and device use. These supporting roles do not require online accounts or access to centralized learner records. Participation in a formal evaluation will depend on the study's documented arrangements.
++Network and Offline Operation
++This section explains the application's planned network requirements and local data handling. It describes the boundaries of offline use.
++Land Grand will be designed for gameplay without an internet connection after installation. Lessons, item illustrations, audio, and progress data will be kept on the device. The project will not include multiplayer, online accounts, cloud storage, a website, or an administrator panel.
++Saved progress will remain on the device used for play. The proposed application will not provide central teacher monitoring or shared learner records. Obtaining and installing the application package is separate from playing the installed game.
++How the project will work
++This section explains the proposed sequence of using Land Grand. It describes the menu choices, learning activities, progression, and local progress handling.
++The learner will open the installed application on an Android device. The game will load available saved progress for the play session. The Main Menu will offer Play, Settings, Tutorial, and Exit. Selecting Play will open the Landform Map.
++Figures 4A and 4B summarize the proposed flow. Connector A joins the panels, and B returns to the Landform Map. Dashed arrows show local progress data.
++Figure 4A. Proposed gameplay flow: starting a play session
++The Landform Map will show Mountains, Hills, Plains, and Plateaus. Learners can select unlocked episodes and available levels. Each episode will have 3 Easy, 5 Normal, and 7 Hard levels. The planned total is 60 levels. Normal will follow Easy, and Hard will follow Normal.
++Each level will begin with a short lesson about its landform and selected rocks or minerals. The learner will then move, jump, and collect items with an explorer character. Challenges will include obstacles, traps, pitfalls, and time limits.
++Collected items will display an illustration, name, and short description. The learner can read this information before continuing. Digital examples will supplement physical specimens without providing hands-on examination.
++After level completion, the Result Screen will show collected items, a short review, and up to three gameplay stars. Learners may replay the level or continue. Completing an episode's required levels will show its summary and unlock the next episode when applicable.
++After all four episodes, the final screen will show total stars, collected items, and a completion message. These records describe gameplay progress. They do not measure gains in Science knowledge.
++The application will automatically save the player's name, unlocked episodes, completed levels, stars, and collected items on the device. Later sessions will load available progress so the learner can continue without an online account.
++Figure 4B continues the flow through learning activities, results, and episode completion.
++Figure 4B. Proposed gameplay flow: learning and progression

@@ -70,7 +70,27 @@
       "path": "Sources/Attachments/CHAPTER 1 - FINAL - 2026-10-30.docx",
       "sha256": "6ad898c79899c91d506b625b992959af921c53fee88167390d2151f581ada3ad",
       "role": "original"
+    },
+    {
+      "path": "Sources/Attachments/Chapter III - Unrevised - 2026-11-01.docx",
+      "sha256": "a4862da1fe16500cf708186be199e0833f43b21cb82caaaf762f67029cd94d4b",
+      "role": "original"
+    },
+    {
+      "path": "Sources/Attachments/Chapter III - Original Procedure - 2026-11-01.jpg",
+      "sha256": "6cb483ebb8723e7d3eeda59074656c15f0298315bd135854975631956212c1ca",
+      "role": "embedded-image"
+    },
+    {
+      "path": "Manuscript/Drafts/Land Grand - Chapter III - Revised - v1.docx",
+      "sha256": "b4b153e68a6ca4c62725303d8f157b1d03c5b8a8fbce18bd1d61837836c5ba5b",
+      "role": "manuscript-snapshot"
+    },
+    {
+      "path": "Manuscript/Drafts/Land Grand - Chapter III - References - v1.docx",
+      "sha256": "7dbeeb22cf44c6c123644d9897509249c80ef73045116e6e410ac505cefe5d65",
+      "role": "manuscript-snapshot"
     }
   ],
-  "updated": "2026-10-30"
+  "updated": "2026-11-01"
 }

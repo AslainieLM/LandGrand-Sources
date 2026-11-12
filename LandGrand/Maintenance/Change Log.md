@@ -1,7 +1,7 @@
 ---
 type: log
 status: active
-updated: 2026-10-30
+updated: 2026-11-01
 ---
 
 # Change Log
@@ -267,3 +267,39 @@ These checks cover saved files and references. The live Obsidian interface was n
 - Recorded the Project Context survey-summary advice as an application of existing rules. Confirmed Chapter II's two sections, source requirements and scaffold-only status; no theory, related study or new manuscript research was invented.
 - Recorded verified Chapter I revision 9 status, its bibliography and comments, the personal-observation source and remaining evidence details. Corrected stale current dashboard wording so it no longer presents the fourth concern as an unidentified hypothesis.
 - Kept the delivered Word and mirrored Markdown unchanged. Proposed Chapter II source collection as the next substantive task, with the user's next request controlling actual work. Game implementation remains deferred.
+
+## 2026-11-01
+
+### Manuscript reference publication-year rule
+
+- Recorded the user's explicit 2020–2026 reference restriction as D-023. The writing guide owns the rule; the evidence register links to it when selecting references.
+- Required verified publication dates and accurate attribution when using recent applications of older theories. Earlier and undated citations need verified replacements; retained originals and historical drafts keep their true dates.
+- Kept this task's suggested references and paragraph revision in chat as requested. No manuscript Word file, existing draft, theory-approval status, or game requirement was changed.
+
+### Chapter III drafting rules and reviewed source
+
+- Recorded D-024: the user authorized saving the Chapter III review recommendations and five adviser comments for future drafting. The comments were supplied in chat; the Word input has no embedded comment records.
+- Retained the unrevised Chapter III DOCX and its embedded procedure image unchanged, with a provenance/review note and complete 45-paragraph extraction. The preceding read-only review inspected all six rendered Word pages. Added both retained-file hashes to the integrity manifest.
+- Created Chapter III Drafting Guide as the owner of chapter-specific introductions, structure, technology/tool roles, Hardware, Peopleware, offline boundaries, procedure figure/prose rules, and delivery checks. Linked it through Home, Current Focus, Skill Guide, the shared writing guide, Dashboard, and the Markdown scaffold.
+- Updated Chapter III status to reviewed input with revision pending. All five adviser comments remain unimplemented; no revised Word chapter was created. Marked the older Chapter I–II dashboard entries and October 30 handoff as an earlier in-vault snapshot rather than current external-deliverable status.
+- Recorded the limited Unity version/minimum-API inspection in Technical Baseline and Q-01. Preserved Android 10+ as the confirmed requirement and left reconciliation/device testing open. No Unity settings or gameplay behavior changed.
+- A pre-change same-drive rollback snapshot is at `D:\Projects\LandGrand-Sources\.work\chapter3-rules-save-2026-11-01\vault-before.zip`. The maintained validator passed for 59 notes, 621 internal links, eight configurations, and 16 retained-file hashes, with zero errors. All existing document/image/data artifacts remained unchanged; the retained Word and rollback ZIP archives passed integrity checks. Source hashes do not prove scientific claims or adviser approval.
+
+### Chapter III vault draft implementation
+
+- Recorded D-025 after the user requested implementation of the bottleneck fixes in the vault and then asked to continue the same work.
+- Replaced the Chapter III Markdown scaffold with working revision 1. Restored the three main sections, added every “This section” introduction, described the recorded existing setting, and revised Development, Hardware, software/tool roles, Peopleware, and the offline/network explanation.
+- Added a proposed Mermaid procedure diagram and matching prose covering local progress loading, menus, lessons, item information, results, replay, continuation, episode summaries, and final completion. Exact scoring/completion/save guards remain open rather than invented.
+- Parsed and rendered that Mermaid source with Mermaid 10.9.3 in an isolated headless browser, then visually inspected the complete preview. Retained a scalable SVG linked from the revision notes. This is not a live Obsidian or Word pagination check.
+- Added four matching 2020–2026 technical bibliography entries and a separate revision note containing adviser-comment coverage, PPT/outline mapping, source locators, date checks, evidence limits, and remaining decisions. The Unity manual's explicit July 2, 2026 publication footer is distinguished from the engine edition and copyright date.
+- Strengthened the drafting guide's existing-setting and continuity rules. Updated Current Focus, Home, Dashboard, E-08, and the source-record cross-reference to distinguish the working revision from the original Word input. Corrected LG-25's stale description of Q-01 without changing the requirement.
+- Preserved original documents, source extractions, embedded images, existing game rules, and Unity behavior. Word export/pagination, device testing, final figure numbering, and adviser acceptance remain pending.
+- Pre-change same-drive rollback snapshot: `D:\Projects\LandGrand-Sources\.work\chapter3-vault-revision-2026-11-01\vault-before.zip`. Validation passed for 61 notes, 659 internal links, eight configurations, and 16 retained-file hashes, with zero errors. Focused checks confirmed all three main sections, 15 required introductions, and four matching references. Existing document/image/data artifacts, the source extraction, and the corrected Chapter I input remained unchanged. The task-local `final-checks.json` records the results; live Obsidian and Word layout remain unchecked.
+
+### Chapter III Word delivery and session-close save
+
+- Recorded D-026 and the user's session-close feedback: many Chapter III bottlenecks remain, especially the procedure diagram. Marked Needs revision and made the procedure diagram the first next-session priority. Completed page/citation checks are not recorded as acceptance or closure of that feedback.
+- Saved exact in-vault snapshots of the delivered 10-page Word chapter and one-page references. Verified their hashes against the final Word-pass report; added the two preserved manuscript versions to the integrity manifest. Original source and delivery files remain unchanged.
+- Recorded the Word pass's Nature Polishing use, 15 introductions, four matching dated references, two-panel procedure figure, 11 inspected pages, and remaining game-rule decisions. Distinguished the latest Word input from the earlier Markdown baseline without rewriting its body.
+- Added a session handoff with the verbatim feedback, artifact locations/hashes, and deferred next steps. Linked it from Current Focus, Home, Dashboard, the drafting guide, revision notes, and draft metadata. Updated stale statements that no revised Word file existed.
+- No new chapter or procedure redesign was performed after the user ended the session. Game requirements, Unity settings, and source documents were preserved. A same-drive pre-save snapshot is at `D:\Projects\LandGrand-Sources\.work\chapter3-session-close-2026-11-01\vault-before.zip`. Validation passed for 62 notes, 686 internal links, eight configurations, and 18 retained-file hashes, with zero errors. Existing Word/image/data files and the Markdown manuscript body text remained unchanged; both preserved Word snapshots match the delivered hashes. Task-local `save-checks.json` records the save verification.
