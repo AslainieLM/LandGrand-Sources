@@ -30,6 +30,10 @@ Evidence: [[Sources/Pre-proposal Extract#Software Specification|Software Specifi
 
 [[Project/Scope and Requirements#Device requirements|LG-25]] records the user-confirmed **Android 10 and above** target under D-012. Device/build validation remains separate from that requirement; the version-range decision no longer blocks manuscript wording.
 
+## Screen orientation
+
+Landscape only, under [[Decisions/Decision Register#Confirmed decisions|D-030]]. On 2026-11-12 the Unity Player Settings used Auto Rotation with portrait still allowed; the user is to turn portrait off.
+
 ## Save data
 
 [[Project/Scope and Requirements#Presentation and persistence|LG-19]] identifies the proposed saved fields. Save format, save timing, reset behavior, interrupted-write recovery, profile count, and replay merge rules are not specified. The player's name is local game data; it does not imply an online account.

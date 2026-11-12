@@ -1,7 +1,7 @@
 ---
 type: focus
 status: active
-updated: 2026-11-12
+updated: 2026-11-13
 ---
 
 # Current Focus
@@ -12,7 +12,7 @@ Work in `D:\LandGrand\LandGrand` (Unity, editor `6000.6.8f1`) and this vault at 
 
 ## Latest session handoff
 
-Read [[Sessions/2026-11-01 - Chapter III Draft and Procedure Diagram Handoff|the November 1 Chapter III handoff]] when resuming. **Chapter III needs further revision; fix the procedure diagram first next session.** The user reported many remaining bottlenecks, especially the diagram, and asked to stop for today and save progress under D-026. The specific remaining defects have not all been described; the current diagram is not accepted as final.
+For game work, read [[Sessions/2026-11-13 - Start-up Screen Build Handoff|the November 13 start-up screen handoff]] first. For manuscript work, read [[Sessions/2026-11-01 - Chapter III Draft and Procedure Diagram Handoff|the November 1 Chapter III handoff]]. **Chapter III needs further revision; fix the procedure diagram first next session.** The user reported many remaining bottlenecks, especially the diagram, and asked to stop for today and save progress under D-026. The specific remaining defects have not all been described; the current diagram is not accepted as final.
 
 The latest delivered review input is [[Manuscript/Drafts/Land Grand - Chapter III - Revised - v1.docx|Word revision 1]] with its [[Manuscript/Drafts/Land Grand - Chapter III - References - v1.docx|reference list]]. All 11 pages were inspected, with 15 introductions and four matching references; these checks do not close the user's concerns. [[Manuscript/Chapter III Revision Notes|Revision Notes]] separates completed checks from outstanding decisions. Follow [[Manuscript/Chapter III Drafting Guide|the saved rules]] and preserve v1 before creating a later revision. [[Sources/Chapter III Unrevised Draft 2026-11-01|The source Word and image]] remain unchanged.
 
