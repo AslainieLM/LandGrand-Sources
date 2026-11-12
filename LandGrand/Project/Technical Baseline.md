@@ -1,7 +1,7 @@
 ---
 type: technical
 status: proposal-baseline
-updated: 2026-11-01
+updated: 2026-11-12
 sources:
   - "[[Sources/Pre-proposal]]"
 ---
@@ -16,7 +16,7 @@ These are the pre-proposal's declared specifications. The limited file-level con
 | --- | --- |
 | Engine | Unity Engine; version unspecified |
 | Language | C# |
-| Graphics tools | Piskel and Clip Studio Paint |
+| Graphics tools | Piskel and Clip Studio Paint (proposal). Aseprite replaces Piskel for pixel art under [[Decisions/Decision Register#Confirmed decisions|D-028]]. |
 | Development OS | Windows 11, 64-bit |
 | Editor | Visual Studio Code |
 | Developer CPU | 11th Gen Intel Core i7-1185G7 at 3.00 GHz |
@@ -36,7 +36,7 @@ Evidence: [[Sources/Pre-proposal Extract#Software Specification|Software Specifi
 
 ## Implementation evidence
 
-The Unity workspace is `D:\Projects\LandGrand`. When checking implementation, record the relevant revision, files, build, or test results separately from proposal intent. Use [[Decisions/Decision Register|Decision Register]] for confirmed changes and [[Questions/Open Questions|Open Questions]] for unresolved differences.
+The Unity workspace is `D:\LandGrand\LandGrand`. When checking implementation, record the relevant revision, files, build, or test results separately from proposal intent. Use [[Decisions/Decision Register|Decision Register]] for confirmed changes and [[Questions/Open Questions|Open Questions]] for unresolved differences.
 
 ## Configuration inspection, 2026-11-01
 

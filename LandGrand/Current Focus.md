@@ -1,12 +1,14 @@
 ---
 type: focus
 status: active
-updated: 2026-11-01
+updated: 2026-11-12
 ---
 
 # Current Focus
 
-The user's current priority is drafting **Land Grand Chapters I–III**. This priority was confirmed in D-006. Use it when interpreting requests to continue the project, unless the user's latest request specifies a different task.
+The user's current priority is **game development**, starting with the start-up screen assets (an animated explorer character walking toward a landform, with the Land Grand title). This changed from the Chapters I–III drafting priority (D-006) under D-027. The user will upload the final Chapters I–III later; the manuscript notes below remain the record for that work.
+
+Work in `D:\LandGrand\LandGrand` (Unity, editor `6000.6.8f1`) and this vault at `D:\LandGrand\LandGrand-Sources`. The `D:\Projects` copies are outdated. Open game-rule questions (Q-02, Q-03, Q-06, Q-07) stay open until the user answers them.
 
 ## Latest session handoff
 
@@ -30,7 +32,7 @@ The [[Sessions/2026-10-30 - Chapter I Progress and Chapter II Handoff|2026-10-30
 - Survey coverage is not Grade 5-only: parent responses cover Grades 4-6; teacher responses cover Kindergarten and Grades 3-6. Grade 5 is the game audience and the separate observed class. Use [[Sources/Baluan Survey CSV Records#Survey-coverage reminder, 2026-10-28|the coverage reminder]] and label any subgroup analysis explicitly.
 - Keep chat concise under the caveman preference. Write manuscript prose in normal academic English and preserve the school's requirements.
 
-Game development remains deferred while this manuscript focus is active. D-007 authorizes the lightweight drafting supports now in place; broader maintenance work remains deferred. Discuss technical uncertainties when the requested chapter needs them; do not turn a drafting request into an implementation project.
+Game development was deferred while the manuscript focus was active; D-027 makes it the current priority. D-007 authorizes the lightweight drafting supports now in place; broader maintenance work remains deferred. Discuss technical uncertainties when the requested chapter needs them; do not turn a drafting request into an implementation project.
 
 ## Recommendations saved for later
 

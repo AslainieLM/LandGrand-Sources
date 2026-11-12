@@ -22,6 +22,7 @@ For the next session, read [[Sessions/2026-11-01 - Chapter III Draft and Procedu
 | [[Project/Overview|Overview]] | Official title, researcher, intended learners, and purpose |
 | [[Project/Scope and Requirements|Scope and Requirements]] | Proposed features, boundaries, and requirement IDs |
 | [[Project/Game Flow|Game Flow]] | Proposed screen sequence and progression |
+| [[Project/Start-up Screen|Start-up Screen]] | Asset specification for the first screen: explorer, landform layers, title, palette |
 | [[Project/Learning Content|Learning Content]] | Landforms and educational content needing verification |
 | [[Project/Research and Evaluation|Research and Evaluation]] | Research evidence and missing evaluation design |
 | [[Project/Technical Baseline|Technical Baseline]] | Proposed tools, device specifications, and save data |
@@ -56,4 +57,4 @@ For the next session, read [[Sessions/2026-11-01 - Chapter III Draft and Procedu
 
 Capture new material in `Inbox`, then move supported knowledge into its canonical note. Use [[Maintenance/Vault Guide|the vault guide]] for evidence and update rules. Session notes go in `Sessions`; built-in templates are in `Templates`.
 
-[[Maintenance/Change Log|Change log]] records knowledge changes. The Unity implementation is at `D:\Projects\LandGrand`; implementation claims require direct evidence from that project.
+[[Maintenance/Change Log|Change log]] records knowledge changes. The Unity implementation is at `D:\LandGrand\LandGrand`; implementation claims require direct evidence from that project.

@@ -53,18 +53,18 @@ Note status describes the note. Label individual inferences, recommendations, co
 
 New notes go to `Inbox`; attachments go to `Sources/Attachments`. Wikilinks and automatic internal-link updates are enabled. Built-in Templates uses `Templates`; daily notes use `Sessions` and the Session Note template. Bookmarks point to the home note, requirements, questions, and original source record. The existing core plugin selection is retained; no community plugin is required.
 
-The local `.obsidian` files hold app configuration. Setup backups are outside the vault at `D:\Projects\LandGrand-Sources\.work\vault-setup-backup-2026-10-24`. That backup is recovery material, not current project knowledge.
+The local `.obsidian` files hold app configuration. Setup backups are outside the vault at `D:\LandGrand\LandGrand-Sources\.work\vault-setup-backup-2026-10-24`. That backup is recovery material, not current project knowledge.
 
 Reopen the vault after this initial setup so Obsidian loads the saved settings. Use the LandGrand Home bookmark as the entry point; Obsidian retains control of its live window layout.
 
 ## Validation and recovery
 
-The maintained validator is `D:\Projects\LandGrand-Sources\tools\validate_vault.py`. Its adjacent `source-integrity.json` records retained-original and embedded-image hashes. The validator reads current notes, resolves internal links and anchors, parses Obsidian JSON settings, and checks those retained bytes. It is independent of the historical `.work` extraction files. It does not validate research claims or approval.
+The maintained validator is `D:\LandGrand\LandGrand-Sources\tools\validate_vault.py`. Its adjacent `source-integrity.json` records retained-original and embedded-image hashes. The validator reads current notes, resolves internal links and anchors, parses Obsidian JSON settings, and checks those retained bytes. It is independent of the historical `.work` extraction files. It does not validate research claims or approval.
 
 Run from PowerShell:
 
 ```powershell
-& 'C:\Users\user\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' 'D:\Projects\LandGrand-Sources\tools\validate_vault.py'
+& 'C:\Users\user\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' 'D:\LandGrand\LandGrand-Sources\tools\validate_vault.py'
 ```
 
-A pre-change vault snapshot is retained at `D:\Projects\LandGrand-Sources\.work\drafting-support\vault-before-drafting-support.zip`. It includes the source attachments and Obsidian settings. This same-drive snapshot supports rollback for this change; independent backup storage and vault version history remain deferred.
+A pre-change vault snapshot is retained at `D:\LandGrand\LandGrand-Sources\.work\drafting-support\vault-before-drafting-support.zip`. It includes the source attachments and Obsidian settings. This same-drive snapshot supports rollback for this change; independent backup storage and vault version history remain deferred.
