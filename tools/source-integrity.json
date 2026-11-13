@@ -90,7 +90,22 @@
       "path": "Manuscript/Drafts/Land Grand - Chapter III - References - v1.docx",
       "sha256": "7dbeeb22cf44c6c123644d9897509249c80ef73045116e6e410ac505cefe5d65",
       "role": "manuscript-snapshot"
+    },
+    {
+      "path": "Sources/Attachments/Chapter I FINAL - 2026-11-13.docx",
+      "sha256": "cde49deeeb1814d89dbcc34a08f85a7167ef65544091bf6b4119f555a6deeb5e",
+      "role": "original"
+    },
+    {
+      "path": "Sources/Attachments/Chapter II FINAL - 2026-11-13.docx",
+      "sha256": "d457b46310274f1682cd4c2af560ffd9d233b89c6d61ab569c3ec6a9b3d32dac",
+      "role": "original"
+    },
+    {
+      "path": "Sources/Attachments/Chapter III FINAL - 2026-11-13.docx",
+      "sha256": "8454ac29559bbc010f11b93c56396d8d1a70970820f383e040ef891d960fe62b",
+      "role": "original"
     }
   ],
-  "updated": "2026-11-01"
+  "updated": "2026-11-13"
 }

@@ -6,6 +6,10 @@ updated: 2026-11-13
 
 # Current Focus
 
+> **Rule (D-036): the game strictly follows the final manuscript, Chapters I–III.** The final chapters were supplied on 2026-11-13: [[Sources/Final Manuscript Chapters I-III 2026-11-13]]. Chapter III's procedure (Figures 4A–4E) is the concept for the game procedures, although its flowcharts still need to be fixed and redesigned. Check game work against the manuscript first; record any difference in [[Questions/Open Questions|Open Questions]] and ask the user instead of changing either side silently. Q-13 lists the differences found so far.
+
+**Gameplay settled 2026-11-13:** [[Project/Gameplay Design]] (D-039 to D-044). Spec written: `D:\LandGrand\LandGrand\.scratch\mountains-easy-1\spec.md`. Replays keep the best (D-045). Tickets 01–12 are in `D:\LandGrand\LandGrand\.scratch\mountains-easy-1\issues\` (approved 2026-11-13). Tickets 01 and 02 are done and tested (32 EditMode tests pass; see [[Sessions/2026-11-13 - Tickets 01-02 Implementation Handoff]]). Next: `/implement` ticket 03, then work blockers first; after 07, tickets 08, 09, 10 and 12 can go in any order. The redesigned procedure flowchart is [[Manuscript/Drafts/Land Grand - Chapter III - Game Procedure Flowchart - v2.drawio|draw.io version 2]].
+
 The user's current priority is **game development**, starting with the start-up screen assets (an animated explorer character walking toward a landform, with the Land Grand title). This changed from the Chapters I–III drafting priority (D-006) under D-027. The user will upload the final Chapters I–III later; the manuscript notes below remain the record for that work.
 
 Work in `D:\LandGrand\LandGrand` (Unity, editor `6000.6.8f1`) and this vault at `D:\LandGrand\LandGrand-Sources`. The `D:\Projects` copies are outdated. Open game-rule questions (Q-02, Q-03, Q-06, Q-07) stay open until the user answers them.

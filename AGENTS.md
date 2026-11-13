@@ -1,5 +1,7 @@
 # LandGrand knowledge workspace
 
+**Important rule (D-036): the game strictly follows the final manuscript, Chapters I–III** (record: `LandGrand/Sources/Final Manuscript Chapters I-III 2026-11-13.md`). Chapter III's Figures 4A–4E are the game procedure concept. Check game work against the manuscript first; record differences in Open Questions and ask the user instead of changing either side silently.
+
 Read `LandGrand/Current Focus.md` for the active priority and deferred work. The user's latest explicit request takes precedence.
 
 The Obsidian vault is `LandGrand/`. Start with `LandGrand/Home.md` for project intent, scope, and evidence; read `LandGrand/Maintenance/Vault Guide.md` before editing knowledge notes.

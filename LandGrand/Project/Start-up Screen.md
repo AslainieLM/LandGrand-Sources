@@ -8,7 +8,7 @@ sources:
 
 # Start-up Screen
 
-The start-up screen is the first screen the player sees. It shows the explorer walking toward the four landforms, with the Land Grand title and a "Tap to Start" prompt. Tapping opens the Main Menu ([[Project/Scope and Requirements|LG-16]]). This note is the asset specification. It is not a record of implemented assets.
+The start-up screen is the first screen the player sees. It shows the explorer walking toward the four landforms, with the Land Grand title and a "Tap to Start" prompt. Tapping opens the Main Menu ([[Project/Scope and Requirements|LG-16]]). The final Chapter III Figure 4A does not show this screen; the user chose on 2026-11-13 to keep it and to add it to Figure 4A when the flowcharts are redesigned (D-037). This note is the asset specification. It is not a record of implemented assets.
 
 ## Confirmed choices (D-028)
 

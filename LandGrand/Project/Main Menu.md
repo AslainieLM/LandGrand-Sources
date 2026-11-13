@@ -20,7 +20,7 @@ The Main Menu is the screen that opens when the player taps the [[Project/Start-
 | Play | Loads the `LandformMap` scene ([[Project/Scope and Requirements|LG-17]]) once that scene is in the build list. Until then it shows a "Landform Map — Coming soon" panel with Back. Episode order and unlocking stay open under Q-03. |
 | Settings | A Music volume slider and a Sound Effects volume slider, with Back. Both values are saved on the device with PlayerPrefs and apply to every scene, including the start-up screen music and mineral chimes. They are device preferences, not player progress, so Q-07 is unaffected. |
 | Tutorial | Four picture pages with Prev, Next and Back: 1 move and jump, 2 collect rocks and minerals, 3 earn stars, 4 watch out for pits, traps and the timer. Each page carries the note "DRAFT: GAME RULES ARE NOT FINAL YET" until Q-02 (stars, completion) and Q-06 (hazards, timeout) are answered. |
-| Exit | Asks "Exit game?" with Yes and No. Yes fades the music and closes the app on Android; in the Unity Editor it stops Play mode. |
+| Exit | Asks "Exit game?" with Yes and No (kept under D-038, although Chapter III Figure 4A closes directly). Yes fades the music and closes the app on Android; in the Unity Editor it stops Play mode. |
 
 The Android Back button closes an open panel; with no panel open, it opens "Exit game?". Every button plays a short click (`Assets/Audio/sfx_ui_click.wav`, original, generated for the project).
 

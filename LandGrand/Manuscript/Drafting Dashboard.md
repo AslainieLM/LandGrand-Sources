@@ -43,6 +43,10 @@ The Chapter III rows were refreshed on 2026-11-01. The Chapter I–II tasks and 
 - [ ] Complete the remaining evidence and provenance checks in [[Manuscript/Evidence Register|Evidence Register]]; initial global/national sources and the local tally are now linked.
 - [x] Record the supplied Word school-format reference and the user's ownership of citation style/margins under D-014; see MW-02 in [[Manuscript/Chapter 1-3 Writing Guide#Clarifications to retain|writing clarifications]].
 
+## Final chapters received (2026-11-13)
+
+The user supplied the final Chapters I–III on 2026-11-13: [[Sources/Final Manuscript Chapters I-III 2026-11-13]]. They are newer than the in-vault drafts listed below, and under D-036 they govern the game. The user said the Chapter III procedure flowcharts (Figures 4A–4E) have not been fixed and redesigned yet. Chapter II's separate bibliography file was not supplied. The board below still shows the earlier in-vault drafts. The redesigned procedure flowchart for Figures 4A–4E is [[Manuscript/Drafts/Land Grand - Chapter III - Game Procedure Flowchart - v2.drawio|draw.io version 2]] (D-044), built from [[Project/Gameplay Design]]; it still has to be finished in draw.io and placed in Chapter III.
+
 ## Section board
 
 | Chapter and section | Working draft | Status | Next action |
