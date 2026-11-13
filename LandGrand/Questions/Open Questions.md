@@ -1,7 +1,7 @@
 ---
 type: questions
 status: open
-updated: 2026-11-01
+updated: 2026-11-13
 sources:
   - "[[Sources/Pre-proposal]]"
   - "[[Sources/Baluan Survey Tally]]"
@@ -18,7 +18,7 @@ These gaps come from reviewing the proposal and later supplied sources. They are
 | Q-03 | Before progression | What is the episode order and initially unlocked episode? Does episode completion require all 15 levels? Are the stated counts separate playable levels or variations of shared content? | [[Project/Game Flow|Game Flow]] | Open |
 | Q-04 | Before lesson production | Which curriculum competencies, rocks, minerals, and landform associations will be taught, and who validates the content? | [[Project/Learning Content|Learning Content]] | Open |
 | Q-05 | Before study evaluation | What study design, participants, instruments, duration, analysis, and school/consent arrangements will substantiate the intended knowledge benefit? | [[Project/Research and Evaluation|Research and Evaluation]] | Open |
-| Q-06 | Before gameplay completion | What happens on timeout, falling into a pit, encountering traps, retrying, pausing, or leaving a level? Which settings and tutorial behavior are required? | [[Project/Game Flow|Game Flow]] | Open |
+| Q-06 | Before gameplay completion | What happens on timeout, falling into a pit, encountering traps, retrying, pausing, or leaving a level? Which settings and tutorial behavior are required? | [[Project/Game Flow|Game Flow]] | Partly answered: D-032 sets the Settings controls (music and sound-effects volume) and four draft tutorial pages. Timeout, pit, trap, retry, pause and leave-level behavior, and the final tutorial wording, remain open. |
 | Q-07 | Before save implementation | How are replayed stars and collectibles aggregated? Is there one local player profile or several? How do name entry, reset, interrupted saves, and reinstalls behave? | [[Project/Technical Baseline|Technical Baseline]] | Open |
 | Q-08 | Before treating scope as approved | Is this the current adviser-approved proposal? Is there a newer version or written approval that should supersede this baseline? | [[Sources/Pre-proposal|Pre-proposal provenance]] | Open |
 | Q-09 | Before generalizing survey findings | D-011 establishes the corrected date/grade records. D-013 records user-reported randomized selection and the parent-orientation context. What exact randomization steps, separate teacher recruitment details, and original administration/approval records document that account? | [[Sources/Baluan Survey CSV Records|CSV provenance]] and [[Sources/Baluan Survey Tally|Word tally]] | Selection account confirmed by user; methodological documentation remains incomplete |

@@ -1,7 +1,7 @@
 ---
 type: design
 status: active
-updated: 2026-11-12
+updated: 2026-11-13
 sources:
   - "[[Decisions/Decision Register#Confirmed decisions|D-028]]"
 ---
@@ -108,7 +108,7 @@ Rocks and minerals appear on the path ahead of the explorer and scroll with the 
 
 ![[explorer_collect_preview.gif]] Four kinds exist (quartz crystal, gold nugget, red jasper, grey rock) in `minerals.aseprite`, with three chime sounds in `Assets/Audio/`. A new mineral appears every 2.5 to 5 seconds. The minerals painted into the ground also twinkle now and then.
 
-Tapping anywhere opens the Main Menu scene. That scene does not exist yet, so a tap only logs a message for now.
+Tapping anywhere darkens the screen and fades the music, then opens the [[Project/Main Menu|Main Menu]] scene (D-032, D-034), once **LandGrand > Build Main Menu Scene** has added it to the build list. Before that, a tap only logs a message.
 
 ## Unity scene
 

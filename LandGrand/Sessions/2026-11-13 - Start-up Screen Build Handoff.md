@@ -42,10 +42,11 @@ The user also asked, in turn, for a slimmer cooler body, shorter legs and a forw
 - The `.aseprite` files written by Claude did not yield sprites through the Unity Aseprite importer on this project; the cause is unconfirmed. PNG frames with the standard texture importer work and are the current route.
 - Preview GIFs with a separate palette per frame displayed with wrong colours in Claude's viewer. Previews now use one shared palette. The game art itself was never affected.
 - Building with **Build And Run** needs a phone connected with USB debugging. **Build** alone makes an APK on the laptop.
+- When the claude.ai chat replaced files already on the laptop, the copy reported success but kept the old contents. This hit both music files, `StartScreenMusic.cs` and `StartScreenBuilder.cs`, so the Quest music did not play until they were copied again by another route and all 71 start-screen files were checked against the intended versions. Verify a replaced file by its content, not by the tool's success message. Repository and vault work now runs in Claude Code on the laptop (user in chat, 2026-11-13: "should I use the Code version?").
 
 ## Not done yet
 
-- The **Main Menu** scene does not exist. A tap on the start screen only logs a message until it does.
+- The **Main Menu** was built in code later on 2026-11-13 (D-032; see [[Project/Main Menu]]). It still needs **LandGrand > Build Main Menu Scene** and an Editor test by the user.
 - No Android device test has been recorded yet.
 - `/setup-matt-pocock-skills` has not been run for the Unity project.
 - Game-rule questions Q-02, Q-03, Q-06 and Q-07 remain open in [[Questions/Open Questions]].

@@ -8,7 +8,7 @@ sources:
 
 # Game Flow
 
-This diagram summarizes [[Project/Scope and Requirements|LG-06 through LG-17]]. It describes the proposed flow; it is not a record of implemented screens.
+This diagram summarizes [[Project/Scope and Requirements|LG-06 through LG-17]]. It describes the proposed flow; it is not a record of implemented screens. The Main Menu's contents are confirmed in [[Project/Main Menu]] (D-032); until the Landform Map exists, Play shows a "Coming soon" panel.
 
 ```mermaid
 flowchart TD
