@@ -18,4 +18,4 @@ Keep sourced proposal statements, confirmed decisions, inferences, and verified 
 
 The Unity implementation is at `D:\LandGrand\LandGrand`. Establish implementation facts from direct code/build evidence and record conflicts with documented intent instead of silently rewriting either.
 
-Git commits: the user makes the commits. Do not commit or push unless the user asks for that specific commit. Any commit made at the user's request carries no `Co-Authored-By` trailer or other AI attribution line.
+Git commits: the user makes the commits. Do not commit or push unless the user asks for that specific commit. Any commit made at the user's request has a one-sentence message and carries no `Co-Authored-By` trailer or other AI attribution line, in every commit.
