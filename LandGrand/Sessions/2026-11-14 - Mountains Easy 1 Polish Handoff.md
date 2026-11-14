@@ -29,6 +29,8 @@ Follows [[Sessions/2026-11-13 - Tickets 06-07 Implementation Handoff]]. Spec and
   - 15 px was 1.5x of Micro 5's pixel grid and bent the letters ("so hard to read"). An 11 px/22 px mix was "so small". **All text is now 22 px (2x)**, and the Lesson, item pop-up, Result, HUD, guide, lock-hint and name-panel layouts were widened to fit. Details: [[Project/Game Font]].
 - **Unused fonts deleted (2026-11-14, at the user's request):** `Micro5 Raster.asset` (15 px), `Micro5 1x.asset` (11 px), and the Pixelify Sans files (`PixelifySans.ttf`, `PixelifySans Raster.asset`, `OFL.txt`). Only `Micro5.ttf`, `OFL-Micro5.txt` and `Micro5 2x.asset` remain. Not committed.
 
+- **Reading font (D-051):** Micro 5 was still unreadable for sentences ("I cannot read it"). Andika, downloaded from google/fonts with the user's approval, now shows the lesson sentences, goals, item description, review and name warnings. Not committed.
+
 ## For the user to do in Unity
 
 1. Rebuild every scene. The committed scenes come from the 11/22 px mix build, and some labels pointed to the now-deleted `Micro5 1x.asset`; the rebuild puts 22 px Micro 5 on all of them. Run **Build Main Menu Scene**, **Build Landform Map Scene**, **Build Selection Scenes**, **Build Lesson Scene**, **Build Mountains Easy 1 Level**.

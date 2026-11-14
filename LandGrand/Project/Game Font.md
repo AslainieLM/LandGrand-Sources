@@ -1,7 +1,7 @@
 ---
 type: design
 status: confirmed
-updated: 2026-11-13
+updated: 2026-11-14
 sources:
   - "[[Decisions/Decision Register]]"
   - "[[Project/Gameplay Design]]"
@@ -10,6 +10,15 @@ sources:
 # Game Font
 
 **Chosen (D-047): Micro 5 for all game text, at 22 px (D-050).** 22 px is 2x Micro 5's pixel grid: every stroke is exactly 2 px wide and capitals are 10 px tall. Files: `Assets/Fonts/Micro5.ttf` and `OFL-Micro5.txt` (SIL Open Font License, source github.com/google/fonts). The font asset `Micro5 2x.asset` is made by `MainMenuBuilder.EnsureFont` (constants `FontAssetPath`, `FontSize`). Every builder calls `PixelSceneKit.FixFonts` just before saving; it reloads the font and puts it, at 22 px, on every text, so a stale font reference can never save TextMeshPro's smooth default font. The old `Micro5 Raster.asset` (15 px), `Micro5 1x.asset` (11 px) and the Pixelify Sans files were deleted on 2026-11-14 at the user's request. Rebuild all scenes after changing the font, because scenes store the font asset's id.
+
+## Reading font (D-051)
+
+- **Andika** (`Assets/Fonts/Andika-Regular.ttf`, licence `OFL-Andika.txt`, SIL International, SIL Open Font License) for sentences and descriptions: lesson sentences, goal lines, the item pop-up description, the Result review and name warnings. Why: Micro 5 squeezes letters into a 5-pixel grid, so G reads like B, Q like D, z like x and y like u, at any size. User: "I cannot read it".
+- Made by `MainMenuBuilder.EnsureReadingFont` as `Andika SDF.asset` (distance-field letters, smooth at any zoom). `MainMenuBuilder.ReadingLabel` makes a reading label at UI size 15 with line spacing -6 (lines about 24 px apart). The longest lesson sentence is 309 px in its 312 px line.
+- It stays smooth because the UI canvas is Screen Space Overlay, scaled by the whole-number zoom, so text is drawn at the phone's resolution.
+- `PixelSceneKit.FixFonts` tells the two apart by size: text at size 15 keeps Andika; everything else gets Micro 5 at 22 px.
+- Item names (under the lesson boxes and in the item pop-up) use Andika too, so G and Q read clearly. User: "Yes, item names too" (2026-11-14).
+- Guide messages (the guide panel at the top of every screen, such as "Oops! Back to the checkpoint", and the lock hints on locked difficulty cards) use Andika too. User: "Use Andika for the guide messages too" (2026-11-14).
 
 ## Size history (2026-11-13 to 14)
 

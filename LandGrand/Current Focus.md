@@ -20,7 +20,7 @@ Work in `D:\LandGrand\LandGrand` (Unity, editor `6000.6.8f1`) and this vault at 
 
 **Game font (D-047, D-050):** Micro 5 at 22 px for all text, see [[Project/Game Font]]. The unused font files were deleted on 2026-11-14 (not committed yet).
 
-**Newest game handoff:** [[Sessions/2026-11-14 - Mountains Easy 1 Polish Handoff]].
+**Newest game handoff:** [[Sessions/2026-11-14 - Profile and Menu Panels Handoff]] (Profile and Collection D-052, Settings and Tutorial D-053; uncommitted, not yet checked in the Editor). Before it: [[Sessions/2026-11-14 - Mountains Easy 1 Polish Handoff]].
 
 For game work, read [[Sessions/2026-11-13 - Start-up Screen Build Handoff|the November 13 start-up screen handoff]] first, then [[Project/Main Menu|Main Menu]]. The Main Menu (D-032) is built in code: Play shows "Coming soon" until a Landform Map exists, Settings sets music and sound volume, Tutorial has four draft pages, and Exit asks first. The user still needs to run **LandGrand > Build Main Menu Scene** and test it in the Editor. Every line of new source code carries a basic-English comment (D-033). The next game step after the menu is the Landform Map (LG-17), which depends on Q-03. For manuscript work, read [[Sessions/2026-11-01 - Chapter III Draft and Procedure Diagram Handoff|the November 1 Chapter III handoff]]. **Chapter III needs further revision; fix the procedure diagram first next session.** The user reported many remaining bottlenecks, especially the diagram, and asked to stop for today and save progress under D-026. The specific remaining defects have not all been described; the current diagram is not accepted as final.
 
