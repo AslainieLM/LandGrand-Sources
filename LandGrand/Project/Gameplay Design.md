@@ -152,3 +152,34 @@ Settled 2026-11-15. The art, audio and the level layouts are made and bot-checke
 - **Backgrounds (D-063):** each level theme has its own six-layer background drawn for its mountain (`Tools/Art/make_normal_backdrops.py`); Easy 1 keeps the shared alpine Mountains background. Every future landform theme (Hills, Plains, Plateaus) gets its own background too.
 - **Pause and Time's up (D-064):** Resume, Retry and Levels, and Retry and Levels; Levels opens the level selection instead of the Main Menu.
 - **Manuscript (D-036):** crumbling ledges, falling rocks, moving platforms and wind gusts are additions, listed under Q-13 (d).
+
+## Mountains Hard 1–7 (D-065)
+
+Settled 2026-11-15. The art, audio and the level layouts are made and bot-checked. The code is to be built by Codex from the spec and tickets in `D:\LandGrand\LandGrand\.scratch\mountains-hard\` (`CODEX-START.md`, `spec.md`, `issues/01`–`09`).
+
+| Level | Mountain (banner) | Topic | Theme and goal | Level objects | New kinds |
+| --- | --- | --- | --- | --- | --- |
+| H1 | Mount Mayon | Volcano safety | Lava Slope, watch station | **Rolling boulders** (new), falling rocks | scoria, hornblende |
+| H2 | Sierra Madre | Mountain ranges and typhoons | Storm Ridge, lookout tower | Wind gusts, crumbling bridges, rolling boulders | diorite, gold |
+| H3 | Kitanglad Range | Mountains are homes (Philippine eagle) | Eagle Forest, eagle nest | Moving platforms, crumbling steps, rolling boulders | tuff, hematite |
+| H4 | Mount Hamiguitan | Caring for mountains, landslides | Bonsai Forest, sanctuary sign | Crumbling bridges, falling rocks, rolling boulders | serpentinite, chromite |
+| H5 | Matterhorn | Glaciers shape mountains | Glacier Horn, alpine hut | **Icy ground** (new), wind gusts, bridges, rolling boulders | schist, calcite |
+| H6 | Mount Kilimanjaro | Climbing changes weather | Equator Summit, summit board | Vents, platforms, rocks, rolling boulders, ice | trachyte, tanzanite |
+| H7 | Mauna Kea | Mountains under the sea | Sea Peak, telescope dome | Everything | gabbro, olivine |
+
+- **Size:** 9600 px wide, goal at 9440; 9 pickups (2 new kinds × 4 and 1 review pickup, one in a secret spot) and 3 checkpoints (x 2400, 4800, 7200); 240 s (D-039). A physics bot reached each goal in 131–156 s, and all 63 pickups can be reached.
+- **Hazards:** the checkpoint rule for every hazard (D-040), including rolling boulders.
+- **Rolling boulder:** a 0.8 s rumble and dust warning, then it rolls left at 90 px/s along the ground and vanishes at its end point; 3.5 s cycle; 14×14; it skips its roll if the explorer stands within 48 px of its start, so it never appears on top of the explorer.
+- **Icy ground:** while standing on ice, walking speeds up at 160 px/s² and slows down at 100 px/s², so the explorer slides about 26 px; the wind still pushes.
+- **Collection:** Mountains has 34 kinds, 3 pages. **Badges:** Brave Hiker (any Hard level), World Peaks (Hard 5–7), Hard Star (3 stars on all Hard), Mountain Master (all 15 Mountains levels); the grid becomes 5×3.
+- **Audio:** near-storm Hard wind (D-042), boulder rumble and roll, ice slide, a fanfare and an unlock sound (`Tools/Audio/make_hard_audio.py`).
+- **Art:** `Tools/Art/make_hard_art.py` (themes, objects, 14 items, 7 lesson pictures, Description Screen art), `Tools/Art/make_hard_backdrops.py` (seven six-layer backgrounds, D-063), badges in `make_profile_art.py`.
+- **Content:** lesson sentences, reviews and item descriptions are in the spec, all draft until a teacher reviews them (Q-04). Facts checked on 2026-11-15; the spec lists the sources. Two wording cautions from the sources: the Sierra Madre "helps weaken" typhoons (DOST: it cannot fully protect Luzon), and the green olivine beach is on Mauna Loa, so the olivine text says "a Hawaii beach".
+
+### Landform Description Screen and unlocking (D-065)
+
+- **When:** "required episode levels" means all 15 levels of the landform (answers part of Q-03). After the landform is complete, the Result Screen's Next Episode opens the Landform Description Screen; a book button on the difficulty screen reopens it later.
+- **What:** the landform's picture with falling snow, a scroll panel with "Mountains" and five short summary sentences (draft), the trip totals (stars n/45, kinds n/34, badges n/15), "Hills is now open!" with a padlock opening, a fanfare, and To the Map.
+- **Unlock:** a landform is open when the landform before it is complete, worked out from saved clears, so the save file does not change and the unlock is saved with the Hard 7 clear (LG-32). Hills has no levels yet, so the map shows it open and tapping it says "Coming soon". The first map visit after an unlock plays a one-time padlock-break animation; the "seen" mark is a device setting.
+- **Not in scope:** the Completion Screen after all four landforms.
+- **Manuscript (D-036):** the rolling boulder, icy ground, the four badges and 5×3 grid, the unlock animation, the book button and the Hard sizes are additions, listed under Q-13 (d).
