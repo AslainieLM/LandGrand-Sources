@@ -149,4 +149,6 @@ Settled 2026-11-15. The art, audio and the level layouts are made and bot-checke
   - Matutum: a watershed for South Cotabato, General Santos and Sarangani (FPE, MindaNews).
   - Apo: sulfur at its solfataras (Inquirer, VolcanoDiscovery).
   - Everest: its summit is seafloor limestone with fossils (Montana State University, IUGS).
+- **Backgrounds (D-063):** each level theme has its own six-layer background drawn for its mountain (`Tools/Art/make_normal_backdrops.py`); Easy 1 keeps the shared alpine Mountains background.
+- **Pause and Time's up (D-064):** Resume, Retry and Levels, and Retry and Levels; Levels opens the level selection instead of the Main Menu.
 - **Manuscript (D-036):** crumbling ledges, falling rocks, moving platforms and wind gusts are additions, listed under Q-13 (d).
