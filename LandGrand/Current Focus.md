@@ -18,6 +18,8 @@ Work in `D:\LandGrand\LandGrand` (Unity, editor `6000.6.8f1`) and this vault at 
 
 **Mountains Easy 1 slice (2026-11-14):** tickets 01 to 12, D-046, D-048 and D-049 are built and committed by the user (latest `21c4498`). The slice has not been played through in the Editor as a whole. Next: rebuild every scene, play the slice, then plan Mountains Easy 2 and 3 (blocked on Q-04 for content). See the newest handoff for the checklist and the draft prompt.
 
+**Mountains Easy 2 and 3 built (D-055, 2026-11-15, uncommitted):** all six tickets in `.scratch\mountains-easy-2-3\` are done; 138 tests pass in Unity; scenes built in batch mode. Next: the user plays Easy 1–3 and the Profile in the Editor, then commits. See [[Sessions/2026-11-15 - Mountains Easy 2 and 3 Build Handoff]]. Content stays draft under Q-04.
+
 **Game font (D-047, D-050):** Micro 5 at 22 px for all text, see [[Project/Game Font]]. The unused font files were deleted on 2026-11-14 (not committed yet).
 
 **Newest game handoff:** [[Sessions/2026-11-14 - Profile and Menu Panels Handoff]] (Profile and Collection D-052, Settings and Tutorial D-053; uncommitted, not yet checked in the Editor). Before it: [[Sessions/2026-11-14 - Mountains Easy 1 Polish Handoff]].

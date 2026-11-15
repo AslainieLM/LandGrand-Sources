@@ -26,7 +26,7 @@ This note holds the gameplay the user settled on 2026-11-13 in a grilling interv
 ## Hazards, controls and pick-ups (D-040)
 
 - **No health bar.** Touching a trap or falling into a pit sends the explorer back to the last checkpoint; the timer keeps running and collected items stay collected. A health bar is added only if the panelists ask for one.
-- **Easy pits (D-048, changes the rule above for pits on Easy only):** falling into a pit puts the explorer back a short way behind the last ground spot where it stood (about 24 px), not at the checkpoint. Spikes still use the checkpoint rule; Normal and Hard keep the checkpoint rule for pits too.
+- **Easy pits (D-048, changes the rule above for pits on Easy only):** falling into a pit puts the explorer back a short way behind the last ground spot where it stood (about 24 px), not at the checkpoint. *Changed again 2026-11-15 (D-056):* spike traps on Easy now work the same way: the explorer comes back a short way behind the last safe ground spot, clear of the spikes. Normal and Hard keep the checkpoint rule for both traps and pits.
 - **Timeout** shows Retry or Back to Main Menu (manuscript Fig. 4C). Retry starts the level again from its Lesson Screen.
 - **Pause button** during a level: Resume, Retry, Back to Main Menu.
 - **Controls:** hold the left or right arrow to walk; tap jump to jump, and tap again in the air for a double jump (a little lower, with a dust puff). No running or attack. Collecting is automatic on touch.
@@ -75,6 +75,20 @@ Asked 2026-11-13 after the user saw that the level background was the same as th
 - **Colour balance:** palette colours plus even mixes of two palette colours. Far layers are lightest and palest; nearer layers get a little darker and greener; the layers behind the explorer (screen rows 100–220) stay mid-toned so the explorer, pickups, ledges and boulders stand out. Sunlight comes from the upper right on every layer.
 - **HUD layout:** one top strip, 6 px from the edges. Left: a panel with the level name ("Mountains Easy 1") over the gem count. Centre: the countdown with a new trail progress bar under it (start on the left, the checkpoint flag that turns green when reached, the red goal flag on the right, and an explorer marker that moves with the explorer). Right: the pause button. Touch controls stay in the bottom corners.
 - **Manuscript (D-036):** presentation only; no game rule changes.
+
+## Mountains Easy 2 and 3 (D-055)
+
+Settled 2026-11-15 in a grilling interview; built the same day (uncommitted, not yet played by the user; see [[Sessions/2026-11-15 - Mountains Easy 2 and 3 Build Handoff]]). Build changes: lesson lines shortened to fit the 312 px line, vent launch about 128 px, Easy 3 wide pit 64 px, Profile shelves page 5 kinds at a time. Full content, layouts and tests: `D:\LandGrand\LandGrand\.scratch\mountains-easy-2-3\spec.md`.
+
+| Level | Lesson topic | New item kinds | Review pickup | Theme and goal | Hazards |
+| --- | --- | --- | --- | --- | --- |
+| Easy 2 "Volcano Trail" | Volcanic mountains (lava cools into new rock; Mayon and Apo) | Andesite, pumice, obsidian (rocks) | Quartz | Dark volcanic ground, lava cracks, steam vents; lava-rock arch | 2 pits, 2 spikes |
+| Easy 3 "Folded Peaks" | Folded mountains (heat and squeezing change rock) | Slate, marble (rocks), garnet (mineral) | Mica | Grey folded rock, summit snow, eagle; summit stone pile | 3 pits (one needs the double jump), 3 spikes |
+
+- Easy rules unchanged: 5 pickups (3 new kinds, 1 review pickup, 1 repeat), 1 checkpoint, 120 s, D-048 pit rule. All text is draft (Q-04). The Mountains shelf holds 10 kinds; basalt is kept for Plateaus.
+- Popular-platformer touches with no rule change: teach-test-twist pacing, one secret-spot pickup per level, a 1.5 s level start banner (the timer starts after it), decorative living props.
+- **Steam vent (Easy 2 only):** puffs about every 2 s and launches the explorer high; never harms and does not touch time, items or stars. **Manuscript (D-036):** a level object Chapter III does not name; tell the panel.
+- One builder: level layout becomes level data and **LandGrand > Build Mountains Levels** builds every level.
 
 ## Flowchart redesign (D-044)
 
