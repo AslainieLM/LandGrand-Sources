@@ -45,6 +45,18 @@ Follows [[Sessions/2026-11-14 - Profile and Menu Panels Handoff]]. Spec and tick
 
 - The user tested Easy 1-3 and asked that spike traps work like the Easy pits (D-056). Built: on Easy, a trap sends the explorer back a short way behind its last safe ground spot, clear of the spikes; Normal and Hard keep the checkpoint. 140 rules tests pass outside Unity; the Unity batch test could not run because the Editor was open. No scene rebuild is needed.
 
+## Later on 2026-11-15 (user requests after the playtest)
+
+All built, tested outside Unity, and committed by the user (Unity project `5cc908b`, `c3b06aa`, `ee23cb5`, `3447c4c`; vault `50743f9`, `0ff6cd5`).
+
+- **D-056, Easy spike rule:** on Easy, touching spikes puts the explorer back a short way behind its last safe ground spot, clear of the spikes, like the Easy pits. Normal and Hard keep the checkpoint (`LevelRun.TouchTrap`).
+- **D-057, Pause icons:** the Pause and Time's up panels use 34x30 icons with a small Andika name under each: a green play triangle (Resume), a circle arrow (Retry) and a house (Main Menu). The old word buttons were removed.
+- **D-058, Timer warning:** in the last 20 seconds the countdown turns red, hops 2 px and flashes each second; in the last 10 seconds a soft tick plays (`sfx_tick.wav`).
+- **D-059, Result buttons:** left to right Back to Map (map pin), Replay (circle arrow) and Next (green). Next reads "Next Level" for the next available level, which after Easy 3 is Normal 1 ("Coming soon"). It reads "Next Episode" only after the whole landform is cleared (`PlayerProgress.NextAfter`). Q-03 is still open.
+- **D-060, Profile and achievements:** Collection and Achievements tabs; landform tabs, with Hills, Plains and Plateaus locked; a 6 by 2 item grid; eight draft badges in bronze, silver and gold (`AchievementCatalog`), worked out from saved progress only, so the save file is unchanged; a "NEW BADGE!" ribbon on the Result Screen. This overrides D-052's wait for the adviser. It is listed as a manuscript addition under Q-13 (d), with the steam vent.
+- **Tests:** 153 rules tests pass. The shelf paging from earlier today was removed, because the landform tabs replace it.
+- **Art scripts:** `Tools/Art/make_profile_art.py` is new (tabs and badges). `make_level_art.py` draws the pause, Result and Next icons. `make_mountains_audio.py` makes `sfx_tick.wav`.
+
 ## Open
 
 - **D-036 / panel:** the steam vent is a level object the manuscript does not name.
