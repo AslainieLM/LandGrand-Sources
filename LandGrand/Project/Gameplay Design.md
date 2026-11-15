@@ -125,3 +125,28 @@ Settled 2026-11-15; built the same day, not yet checked in the Editor.
 - Badges are worked out from saved progress only (LG-19), so the save file does not change.
 - A badge earned in a level shows on the Result Screen: a red "NEW BADGE!" ribbon with the medal and its name, to the right of the stars, after they pop in.
 - **Manuscript (D-036):** achievements are an addition; listed under Q-13 (d) for the adviser and panel.
+
+## Mountains Normal 1–5 (D-062)
+
+Settled 2026-11-15. The art, audio and the level layouts are made and bot-checked. The code is to be built by Codex from the spec and tickets in `D:\LandGrand\LandGrand\.scratch\mountains-normal\` (`CODEX-START.md`, `spec.md`, `issues/01`–`07`).
+
+| Level | Mountain (banner) | Topic | Theme | New object | New kinds |
+| --- | --- | --- | --- | --- | --- |
+| N1 | Mount Pulag | Weathering | Pine Forest, ranger hut goal | Crumbling ledges: they break 0.5 s after you stand on them and come back after 3 s; bridges across pits make you keep walking | sandstone, clay |
+| N2 | Mount Pinatubo | Erosion (lahar) | Ash Gorge, stone bridge goal | Falling rocks: a 1.2 s shadow-and-pebbles warning, then a rock drops | conglomerate, shale |
+| N3 | Mount Matutum | Mountains and water | Mossy Forest, trail sign goal | Moving platforms that carry the explorer across wide pits (the first one is over safe ground) | basalt, magnetite |
+| N4 | Mount Apo | Minerals from mountains | Mossy Forest with sulfur at the vent | Mix of N1–N3, plus the Easy 2 steam vent | sulfur, pyrite |
+| N5 | Mount Everest | The highest mountain | Snow Peak, summit prayer flags goal | Wind gusts: 2 s calm, 0.6 s warning, 1.4 s push back at 40 px/s | limestone, gneiss |
+
+- **Size:** 7 pickups and 2 checkpoints (x 2400 and 4800) per level, 7200 px wide with the goal at 7040. A physics bot reached each goal in 98–112 s of the 180 s limit, and all 35 pickups can be reached.
+- **Hazards:** Normal keeps the checkpoint rule for every hazard (D-040); the Easy short-return rules do not apply.
+- **Profile:** the Collection pages within a landform tab (12 per page); the Achievements grid becomes 4×3 with Philippine Peaks (clear Normal 1–4), Top of the World (clear Everest) and Rock Scholar (find 15 kinds).
+- **Audio:** stronger Normal wind, plus gust, crumble and rockfall sounds (`Tools/Audio/make_normal_audio.py`).
+- **Art:** `Tools/Art/make_normal_art.py` (themes, level objects, 10 items, 5 lesson pictures of the real mountains); badges in `make_profile_art.py`.
+- **Content:** lesson sentences, reviews and item descriptions are in the spec, all draft until a teacher reviews them (Q-04). Mountain facts were checked on 2026-11-15:
+  - Pulag: 3rd highest, frost from November to February (Wikipedia, Inquirer).
+  - Pinatubo: lahars carried away about half of its 1991 ash (USGS).
+  - Matutum: a watershed for South Cotabato, General Santos and Sarangani (FPE, MindaNews).
+  - Apo: sulfur at its solfataras (Inquirer, VolcanoDiscovery).
+  - Everest: its summit is seafloor limestone with fossils (Montana State University, IUGS).
+- **Manuscript (D-036):** crumbling ledges, falling rocks, moving platforms and wind gusts are additions, listed under Q-13 (d).

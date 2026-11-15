@@ -57,8 +57,13 @@ All built, tested outside Unity, and committed by the user (Unity project `5cc90
 - **Tests:** 153 rules tests pass. The shelf paging from earlier today was removed, because the landform tabs replace it.
 - **Art scripts:** `Tools/Art/make_profile_art.py` is new (tabs and badges). `make_level_art.py` draws the pause, Result and Next icons. `make_mountains_audio.py` makes `sfx_tick.wav`.
 
+## Code tidy-up (2026-11-15, no behaviour change)
+
+- **Level screen split into parts.** `LevelController` now only owns the attempt (`LevelRun`), the frame loop, the start banner and the steam vents. Each other job has its own script on the same object: `TrailProgressBar`, `PickupCollector`, `HazardWatcher`, `LevelTimer`, `LevelMenus` (pause and Time's up) and `ResultScreen`. Old level scenes log "out of date" until **Build Mountains Levels** is run again.
+- **Theme art in one place.** `Assets/Editor/LevelThemes.cs` holds one entry per level theme: ground, soil, ledge and boulder pictures, the goal picture and its place, and the living props. A new theme is one new entry; this closes the review note about theme names in three switches.
+- Compiles outside Unity; 153 rules tests pass. Not yet rebuilt or played in the Editor.
+
 ## Open
 
 - **D-036 / panel:** the steam vent is a level object the manuscript does not name.
-- **Review notes not acted on (style only):** theme sprite names are strings in three switches. A per-theme record would remove that once a fourth theme exists.
 - Content stays draft until a teacher reviews it (Q-04).

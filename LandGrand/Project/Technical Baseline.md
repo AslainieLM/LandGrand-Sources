@@ -1,7 +1,7 @@
 ---
 type: technical
 status: proposal-baseline
-updated: 2026-11-12
+updated: 2026-11-15
 sources:
   - "[[Sources/Pre-proposal]]"
 ---
@@ -47,3 +47,14 @@ The Unity workspace is `D:\LandGrand\LandGrand`. When checking implementation, r
 Direct file reads during the [[Sources/Chapter III Unrevised Draft 2026-11-01#Limited Unity configuration inspection|Chapter III review]] recorded Unity editor version `6000.5.6f1` (revision `0e0577a1a2ac`) in `ProjectSettings/ProjectVersion.txt`, and `AndroidMinSdkVersion: 26` with `AndroidTargetSdkVersion: 0` in `ProjectSettings/ProjectSettings.asset` lines 180–181. These are dated configuration values, not proof of installed build dependencies or a working Android build. Recheck the files before making current implementation claims.
 
 The minimum value does not enforce the confirmed Android 10+ floor: Android 10 is API 29 and API 26 corresponds to Android 8.0, as documented by [Android Developers](https://developer.android.com/guide/topics/manifest/uses-sdk-element). Keep the requirement unchanged and track configuration reconciliation/device validation under Q-01. No project settings were changed, and no earlier-Android support or successful device test is established.
+
+## Code structure rules (D-061)
+
+Settled 2026-11-15, when the level code was tidied with no change in behaviour. Follow these when adding levels, landforms or screen features.
+
+1. **One script runs every level.** Everything that differs between levels (pickups, hazards, checkpoint, goal, layout, theme, banner name, lesson, review) is data in `LevelCatalog` (`Assets/Scripts/Rules/LevelData.cs`). No level gets its own script or builder code. A new level is a new catalog entry plus **LandGrand > Build Mountains Levels**.
+2. **Game rules are plain C#.** Rules (time, stars, traps, collecting, progress, badges) live in `Assets/Scripts/Rules` with no Unity types and are covered by EditMode tests. Play scripts only watch the explorer, ask the rules and show the result.
+3. **The level screen is split into parts.** `LevelController` owns the attempt (`LevelRun`), the frame loop, the start banner, the steam vents and Back. Each other job has its own script on the same object: `TrailProgressBar`, `PickupCollector`, `HazardWatcher`, `LevelTimer`, `LevelMenus` and `ResultScreen`. Each part has `Begin(LevelController)` and `IsBuilt`. A new job becomes a new part, not more fields on `LevelController`.
+4. **Theme art lives in one place.** `Assets/Editor/LevelThemes.cs` has one entry per level theme: ground, soil, ledge and boulder pictures, the goal picture and its place, and the living props. A new theme is one new entry; no other file branches on the theme.
+5. **Scenes are built from code.** The editor builders (`Assets/Editor`) make every scene. Change the builder, not the scene by hand, and rerun the builder after a change.
+6. **Every code line gets a short basic-English comment** (D-033).
