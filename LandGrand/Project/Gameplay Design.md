@@ -28,7 +28,7 @@ This note holds the gameplay the user settled on 2026-11-13 in a grilling interv
 - **No health bar.** Touching a trap or falling into a pit sends the explorer back to the last checkpoint; the timer keeps running and collected items stay collected. A health bar is added only if the panelists ask for one.
 - **Easy pits (D-048, changes the rule above for pits on Easy only):** falling into a pit puts the explorer back a short way behind the last ground spot where it stood (about 24 px), not at the checkpoint. *Changed again 2026-11-15 (D-056):* spike traps on Easy now work the same way: the explorer comes back a short way behind the last safe ground spot, clear of the spikes. Normal and Hard keep the checkpoint rule for both traps and pits.
 - **Timeout** shows Retry or Back to Main Menu (manuscript Fig. 4C). Retry starts the level again from its Lesson Screen.
-- **Pause button** during a level: Resume, Retry, Back to Main Menu.
+- **Pause button** during a level: Resume, Retry, Back to Main Menu. *Shown as icons with a small name under each (D-057): a green play triangle, a circle arrow and a house; the Time's up panel uses the same Retry and house icons.*
 - **Controls:** hold the left or right arrow to walk; tap jump to jump, and tap again in the air for a double jump (a little lower, with a dust puff). No running or attack. Collecting is automatic on touch.
 - **Pick-ups:** the first time the player ever collects a kind of item, the game and timer pause and a "You found an item!" pop-up shows its picture, name and short description with OK. Later pick-ups of the same kind, in the same level or on replay, only play a chime and sparkle. Each found kind is saved on the device.
 
@@ -42,8 +42,8 @@ This note holds the gameplay the user settled on 2026-11-13 in a grilling interv
 | Difficulty selection | A separate screen titled with the landform: three large cards, Easy, Normal and Hard, each with its stars (0/9, 0/15, 0/21). Normal and Hard are grey with a padlock and "Clear all Easy levels" or "Clear all Normal levels" until unlocked. Back top left; the landform animates slowly behind. |
 | Level selection | A trail with one stone per level showing its stars; levels after the next playable one show a padlock. Tapping a stone opens the Lesson Screen. |
 | Lesson Screen | A cream panel with the landform name and picture, three or four short sentences, the level's item pictures with names, and the level's goals. Start begins the level; Back returns to level selection. The user asked for good placement. |
-| In-level layout | Top left collectibles count with an icon (for example 2/5); top centre countdown; top right pause; bottom left large left and right arrows; bottom right large jump button. |
-| Result Screen | Stars pop in one by one with a chime; collected items in a row with missed ones as grey outlines; the goals with ticks; two or three review sentences. Buttons: Replay, Continue, Back to Map. |
+| In-level layout | Top left collectibles count with an icon (for example 2/5); top centre countdown (red, hopping and flashing each second in the last 20 s, with a soft tick in the last 10 s, D-058); top right pause; bottom left large left and right arrows; bottom right large jump button. |
+| Result Screen | Stars pop in one by one with a chime; collected items in a row with missed ones as grey outlines; the goals with ticks; two or three review sentences. Buttons: Replay, Continue, Back to Map. *Changed 2026-11-15 (D-059): left to right Back to Map, Replay, Next, each with an icon; Next reads "Next Level" or, after the whole landform, "Next Episode".* |
 
 ## Audio and text (D-042)
 
@@ -114,3 +114,14 @@ The user approved its split into 12 tickets on 2026-11-13: `.scratch\mountains-e
 - Final tutorial wording, after these rules (Q-06).
 - Curriculum content and its validator (Q-04).
 - Chapter III's graphics-tool list (Q-13 c).
+
+## Profile tabs and achievements (D-060)
+
+Settled 2026-11-15; built the same day, not yet checked in the Editor.
+
+- Under the explorer strip: two section tabs, **Collection** and **Achievements**, over one cream page.
+- **Collection:** one tab per landform. Only that landform's rocks and minerals show, in a 6 by 2 grid with names (no page arrows). Landforms not yet open on the map have a grey tab with a padlock; tapping it says "Finish <landform> first".
+- **Achievements:** eight draft badges in a 4 by 2 grid: First Steps, Rock Hound, Crystal Finder (bronze); Star Explorer, Volcano Visitor, Summit Climber (silver); Perfect Trail, Mountain Collector (gold). Locked badges are dark with a padlock but keep their name; tapping any badge shows how to earn it. "Badges n/8" sits at the right of the tab row.
+- Badges are worked out from saved progress only (LG-19), so the save file does not change.
+- A badge earned in a level shows on the Result Screen: a red "NEW BADGE!" ribbon with the medal and its name, to the right of the stars, after they pop in.
+- **Manuscript (D-036):** achievements are an addition; listed under Q-13 (d) for the adviser and panel.
