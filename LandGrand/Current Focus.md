@@ -1,7 +1,7 @@
 ---
 type: focus
 status: active
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 # Current Focus
@@ -20,11 +20,13 @@ Work in `D:\LandGrand\LandGrand` (Unity, editor `6000.6.8f1`) and this vault at 
 
 **Done on 2026-11-15 (all committed by the user; Unity project latest `3447c4c`, vault `0ff6cd5`):** Mountains Easy 2 "Volcano Trail" and Easy 3 "Folded Peaks" with six new rocks and minerals, a data-driven level builder, steam vents, a level start banner and living props (D-055); Easy spike traps return the explorer a short way back like the pits (D-056); Pause and Time's up panels use labelled Resume, Retry and Home icons (D-057); the countdown turns red, hops and flashes in the last 20 s and ticks in the last 10 s (D-058); Result Screen buttons are Back to Map, Replay and Next Level or Next Episode, with icons (D-059); the Profile has Collection and Achievements tabs, landform tabs with locks, and eight badges with a "New badge!" notice on the Result Screen (D-060). The user played Easy 1-3. Next: play-check the newest Profile and Result changes in the Editor, then plan Mountains Normal (content still draft under Q-04). Tell the adviser and panel about the two manuscript additions, the steam vent and the achievements (Q-13 d). See [[Sessions/2026-11-15 - Mountains Easy 2 and 3 Build Handoff]].
 
-**Next: Mountains Normal 1–5 (D-062).** The design is settled, and the art, audio and bot-checked layouts are made. Codex builds the code from `D:\LandGrand\LandGrand\.scratch\mountains-normal\CODEX-START.md` (tickets 01–07). After Codex reports, Claude checks the work, updates the vault, and the user plays the five levels in the Editor.
+**Done later on 2026-11-15:** Mountains Normal 1–5 (D-062) were built by Codex from Claude's tickets, reviewed, fixed, played by the user and committed (Unity project `aaa3bef`). Also: the code structure rules (D-061), one background per level theme and per landform menu picture (D-063), moving objects pause with the game, and the pause and Time's up menus go to the level selection (D-064). Handoff: [[Sessions/2026-11-15 - Mountains Normal and Backgrounds Handoff]].
+
+**Next (recommended, not yet agreed): Mountains Hard 1–7 and the Landform Description Screen**, so the first episode works end to end (LG-05, LG-14, LG-31, LG-32).
 
 **Game font (D-047, D-050):** Micro 5 at 22 px for all text, see [[Project/Game Font]]. The unused font files were deleted on 2026-11-14 (not committed yet).
 
-**Newest game handoff:** [[Sessions/2026-11-14 - Profile and Menu Panels Handoff]] (Profile and Collection D-052, Settings and Tutorial D-053; uncommitted, not yet checked in the Editor). Before it: [[Sessions/2026-11-14 - Mountains Easy 1 Polish Handoff]].
+**Newest game handoff:** [[Sessions/2026-11-15 - Mountains Normal and Backgrounds Handoff]]. Before it: [[Sessions/2026-11-15 - Mountains Easy 2 and 3 Build Handoff]] and [[Sessions/2026-11-14 - Profile and Menu Panels Handoff]] (Profile and Collection D-052, Settings and Tutorial D-053; uncommitted, not yet checked in the Editor). Before it: [[Sessions/2026-11-14 - Mountains Easy 1 Polish Handoff]].
 
 For game work, read [[Sessions/2026-11-13 - Start-up Screen Build Handoff|the November 13 start-up screen handoff]] first, then [[Project/Main Menu|Main Menu]]. The Main Menu (D-032) is built in code: Play shows "Coming soon" until a Landform Map exists, Settings sets music and sound volume, Tutorial has four draft pages, and Exit asks first. The user still needs to run **LandGrand > Build Main Menu Scene** and test it in the Editor. Every line of new source code carries a basic-English comment (D-033). The next game step after the menu is the Landform Map (LG-17), which depends on Q-03. For manuscript work, read [[Sessions/2026-11-01 - Chapter III Draft and Procedure Diagram Handoff|the November 1 Chapter III handoff]]. **Chapter III needs further revision; fix the procedure diagram first next session.** The user reported many remaining bottlenecks, especially the diagram, and asked to stop for today and save progress under D-026. The specific remaining defects have not all been described; the current diagram is not accepted as final.
 
