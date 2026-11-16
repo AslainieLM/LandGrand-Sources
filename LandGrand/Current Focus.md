@@ -1,7 +1,7 @@
 ---
 type: focus
 status: active
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 # Current Focus
@@ -22,7 +22,7 @@ Work in `D:\LandGrand\LandGrand` (Unity, editor `6000.6.8f1`) and this vault at 
 
 **Done later on 2026-11-15:** Mountains Normal 1–5 (D-062) were built by Codex from Claude's tickets, reviewed, fixed, played by the user and committed (Unity project `aaa3bef`). Also: the code structure rules (D-061), one background per level theme and per landform menu picture (D-063), moving objects pause with the game, and the pause and Time's up menus go to the level selection (D-064). Handoff: [[Sessions/2026-11-15 - Mountains Normal and Backgrounds Handoff]].
 
-**Next: play-check Mountains Hard 1–7 and the Landform Description Screen (D-065)** in the Editor with the checklist in `.scratch/mountains-hard/issues/09-final-check-and-handover.md`, and listen to the new sounds. Built by Codex and committed on 2026-11-16 (`5a453e5`–`5940ec7`). Then tell the adviser and panel about the Q-13 (d) additions, and plan Hills. Handoff: [[Sessions/2026-11-16 - Mountains Hard Build Review Handoff]].
+**Done on 2026-11-16:** the user played the Mountains Hard 1–7 and Landform Description Screen checklist (D-065) and every item passed; fixes for ice height and the Next Episode fallback are in `0726daf`. **Hills planned on 2026-11-16 (D-066):** an outline for all 15 levels, plus a full spec, tickets, art, audio and bot-checked layouts for Hills Easy 1–3 in `D:\LandGrand\LandGrand\.scratch\hills\`. **Next: Codex builds Hills Easy from `.scratch/hills/CODEX-START.md`**, then a Claude review, then the user plays the ticket 07 checklist. Also tell the adviser and panel about the Q-13 (d) additions. Handoff: [[Sessions/2026-11-17 - Hills Plan Handoff]]. Handoff: [[Sessions/2026-11-16 - Mountains Hard Build Review Handoff]].
 
 **Game font (D-047, D-050):** Micro 5 at 22 px for all text, see [[Project/Game Font]]. The unused font files were deleted on 2026-11-14 (not committed yet).
 

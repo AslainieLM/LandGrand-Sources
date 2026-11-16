@@ -183,3 +183,53 @@ Settled 2026-11-15. The art, audio and the level layouts are made and bot-checke
 - **Unlock:** a landform is open when the landform before it is complete, worked out from saved clears, so the save file does not change and the unlock is saved with the Hard 7 clear (LG-32). Hills has no levels yet, so the map shows it open and tapping it says "Coming soon". The first map visit after an unlock plays a one-time padlock-break animation; the "seen" mark is a device setting.
 - **Not in scope:** the Completion Screen after all four landforms.
 - **Manuscript (D-036):** the rolling boulder, icy ground, the four badges and 5×3 grid, the unlock animation, the book button and the Hard sizes are additions, listed under Q-13 (d).
+
+## Hills (D-066)
+
+Settled 2026-11-16. Hills Easy 1–3 is fully specified. Its art, audio and layouts are made and bot-checked, and Codex builds the code from `D:\LandGrand\LandGrand\.scratch\hills\` (`CODEX-START.md`, `spec.md`, `issues/01`–`07`). Normal and Hard are outlined only; each gets its own spec after the user plays Easy.
+
+| Level | Hill (banner) | Topic | Theme and goal | New object | Kinds |
+| --- | --- | --- | --- | --- | --- |
+| E1 | Chocolate Hills, Bohol | What a hill is | Chocolate Hills, viewing deck | none | limestone\*, calcite\*, clay\*, coral stone |
+| E2 | Vayang Rolling Hills, Batanes ("Batanes Hills") | Grass holds soil; grazing | Rolling Pasture, Ivatan stone house | none (grazing goats and cows) | andesite\*, limonite, kaolinite, coral stone review |
+| E3 | La Paz Sand Dunes, Ilocos Norte ("La Paz Dunes") | Wind makes dunes | Sand Dunes, dune marker | **soft sand** | quartz\*, magnetite\*, feldspar\*, limonite review |
+| N1 | Hundred Islands, Pangasinan | Hills from old coral reefs | Island Hills | sinking float | later |
+| N2 | Callao Cave, Cagayan | Caves in limestone hills | Limestone Cave | gentle bats (push back 24 px only) | later |
+| N3 | Pagsanjan Gorge, Laguna | Rivers wear valleys | River Gorge | river current | later |
+| N4 | Banaue Rice Terraces, Ifugao | Farming on slopes | Rice Terraces | mix | later |
+| N5 | Cappadocia, Türkiye | Wind and rain carve rock | Fairy Chimneys | hot-air balloons | later |
+| H1 | Tarsier forest, Corella, Bohol | Homes for animals | Tarsier Forest | slippery mud | later |
+| H2 | Hills of Antipolo, Rizal (source to check) | Landslide warning signs | Rainy Slope | rolling log | later |
+| H3 | Masungi Georeserve, Rizal | Rain shapes limestone; protecting hills | Karst Ridge | mix | later |
+| H4 | Pililla Wind Farm, Rizal | Wind power | Wind Hills | mix | later |
+| H5 | Clew Bay drumlins, Ireland | Glaciers leave hills | Drumlin Bay | mix | later |
+| H6 | Seven Hills of Rome, Italy | Cities on hills | City Hills | mix | later |
+| H7 | Guilin karst hills, China | Tower limestone hills | Karst Towers | mix | later |
+
+\* Shared kind, already on the Mountains shelf.
+
+- **Easy sizes:**
+  - E1: 4800 px, checkpoint at 2400. E2 and E3: 5400 px, checkpoints at 2700 and 2500.
+  - 5 pickups each, one of them in a secret spot. 120 s limit.
+  - Pits and spikes send the explorer a short way back.
+  - The bot reached the goals in 66.0, 72.7 and 81.1 s, and every pickup can be reached.
+- **Soft sand:** walking speed drops to 60% on the flat ground inside a zone. Jumps and speed in the air are unchanged, and sand never hurts the explorer. A step crunch and a sand puff come every 0.3 s. The first patch is on safe ground.
+- **Shared kinds:** a kind can sit on more than one shelf. It is saved and counted once. The Hills shelf has 10 kinds now (one Collection page).
+- **Badges:** one 5×3 page per landform. Hills adds Pasture Pal, Dune Surfer, Rolling Star, Hill Collector, Philippine Hills, Balloon Rider, Slope Ranger, World Hills, Steady Star and Hill Master. The `world_peaks` level numbers become data.
+- **Map and menus:**
+  - The open Hills region shows swaying trees, a shining stream and two birds; the cloud the Mountains Hard build added is removed.
+  - Plains stays locked ("Finish Hills first") until Hills is complete.
+  - Menu screens show the life of the chosen landform (Hills: birds and grass).
+- **Audio** (`Tools/Audio/make_hills_audio.py`):
+  - `bgm_hills`: G major, three beats to a bar, 108 BPM, a 40 s loop.
+  - Easy ambience: a stream, songbirds and a far cow bell.
+  - Normal ambience: adds cicadas and grass wind.
+  - Hard ambience: rain, a louder stream and far thunder.
+  - `sfx_sand_step`.
+- **Art:** `Tools/Art/make_hills_easy_art.py` (themes, soft sand, props, three items, three lesson pictures, map and menu life), `Tools/Art/make_hills_easy_backdrops.py` (three six-layer backgrounds, D-063), and the ten badges in `make_profile_art.py`.
+- **Flow:**
+  - An open difficulty with no levels says "Coming soon".
+  - The Result Screen hides Next when the next level has no data.
+  - The Hills Description Screen data is ready: 5 draft summary sentences, stars n/45, kinds n/(Hills shelf), badges n/10, "Plains is now open!".
+- **Content:** every lesson, review, kind and summary text is a draft for teacher review (Q-04). The spec lists the sources checked on 2026-11-16. Ilmenite was dropped because no source confirmed it in Ilocos sand; E3 uses feldspar instead.
+- **Manuscript (D-036):** the Hills content and the new objects are additions, listed under Q-13 (d).
