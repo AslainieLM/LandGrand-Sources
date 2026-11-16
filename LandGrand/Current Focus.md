@@ -22,7 +22,7 @@ Work in `D:\LandGrand\LandGrand` (Unity, editor `6000.6.8f1`) and this vault at 
 
 **Done later on 2026-11-15:** Mountains Normal 1–5 (D-062) were built by Codex from Claude's tickets, reviewed, fixed, played by the user and committed (Unity project `aaa3bef`). Also: the code structure rules (D-061), one background per level theme and per landform menu picture (D-063), moving objects pause with the game, and the pause and Time's up menus go to the level selection (D-064). Handoff: [[Sessions/2026-11-15 - Mountains Normal and Backgrounds Handoff]].
 
-**Next: Codex builds Mountains Hard 1–7 and the Landform Description Screen (D-065)** from `D:\LandGrand\LandGrand\.scratch\mountains-hard\` (`CODEX-START.md`, tickets 01–09). Planned, with art, audio and bot-checked layouts made on 2026-11-15 (not committed). Then review Codex's work, play it, and tell the adviser and panel about the Q-13 (d) additions. Handoff: [[Sessions/2026-11-15 - Mountains Hard Plan Handoff]].
+**Next: play-check Mountains Hard 1–7 and the Landform Description Screen (D-065)** in the Editor with the checklist in `.scratch/mountains-hard/issues/09-final-check-and-handover.md`, and listen to the new sounds. Built by Codex and committed on 2026-11-16 (`5a453e5`–`5940ec7`). Then tell the adviser and panel about the Q-13 (d) additions, and plan Hills. Handoff: [[Sessions/2026-11-16 - Mountains Hard Build Review Handoff]].
 
 **Game font (D-047, D-050):** Micro 5 at 22 px for all text, see [[Project/Game Font]]. The unused font files were deleted on 2026-11-14 (not committed yet).
 

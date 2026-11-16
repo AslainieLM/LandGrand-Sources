@@ -128,7 +128,7 @@ Settled 2026-11-15; built the same day, not yet checked in the Editor.
 
 ## Mountains Normal 1–5 (D-062)
 
-Settled 2026-11-15. The art, audio and the level layouts are made and bot-checked. The code is to be built by Codex from the spec and tickets in `D:\LandGrand\LandGrand\.scratch\mountains-normal\` (`CODEX-START.md`, `spec.md`, `issues/01`–`07`).
+Settled 2026-11-15. Built by Codex and committed on 2026-11-16 (`5a453e5` to `5940ec7`; 234 EditMode tests and 19 focused Play Mode checks pass; Codex's handover is `.scratch/mountains-hard/HANDOVER.md`). A Claude review found no spec gaps; the user's play check is still open. Spec and tickets are in `D:\LandGrand\LandGrand\.scratch\mountains-normal\` (`CODEX-START.md`, `spec.md`, `issues/01`–`07`).
 
 | Level | Mountain (banner) | Topic | Theme | New object | New kinds |
 | --- | --- | --- | --- | --- | --- |
