@@ -233,3 +233,19 @@ Settled 2026-11-16. Hills Easy 1–3 is fully specified. Its art, audio and layo
   - The Hills Description Screen data is ready: 5 draft summary sentences, stars n/45, kinds n/(Hills shelf), badges n/10, "Plains is now open!".
 - **Content:** every lesson, review, kind and summary text is a draft for teacher review (Q-04). The spec lists the sources checked on 2026-11-16. Ilmenite was dropped because no source confirmed it in Ilocos sand; E3 uses feldspar instead.
 - **Manuscript (D-036):** the Hills content and the new objects are additions, listed under Q-13 (d).
+
+## Hills Normal (D-067)
+
+| Level | Place | New object | New kinds | Goal |
+|---|---|---|---|---|
+| N1 | Hundred Islands, Pangasinan | 4 sinking floats | aragonite, coquina | Boat Dock |
+| N2 | Callao Cave, Cagayan | 3 gentle bat loops; cave-drip ambience | flowstone, dripstone | Cave Mouth |
+| N3 | Pagsanjan Gorge, Laguna | 3 river-current strips (one pushes the other way) | volcanic breccia | Falls Landing |
+| N4 | Banaue Rice Terraces, Ifugao | 1 float, 1 bat loop, 1 current | none (clay and kaolinite reviews) | Ifugao House |
+| N5 | Cappadocia, Türkiye | 4 hot-air balloons (vertical platforms) | ignimbrite, zeolite | Balloon Field |
+
+- Normal sizes as Mountains Normal: 7200 px, 2 checkpoints, 180 s.
+- The first object of each kind is on a safe practice spot.
+- Hills shelf: 17 kinds after Normal.
+- Art and sound are made by Codex with Python scripts; layouts are designed and bot-checked by Claude.
+- Full spec: `D:\LandGrand\LandGrand\.scratch\hills-normal\spec.md`.
