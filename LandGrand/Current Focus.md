@@ -61,3 +61,5 @@ The following recommendations came from the 2026-10-24 file and workflow review.
 5. Review whether analytics, purchasing, and multiplayer-related packages are needed for the offline scope. Package presence alone does not prove a performance problem; recheck actual use before cleanup.
 
 When the user returns to these improvements, read this note and revalidate the relevant current project state. The proposed first development deliverable is a one-page level plan linking requirements, unresolved decisions, and pass/fail checks.
+
+**Done on 2026-11-17:** Hills Easy 1–3 built (`8d92fd5`, Profile count fix `f4e293b`; 296 EditMode tests pass) and the user played the whole checklist, with every item passing. **Hills Normal planned (D-067).** **Next: Codex builds Hills Normal from `D:\LandGrand\LandGrand\.scratch\hills-normal\CODEX-START.md`** (it also makes the art and sounds), then a Claude review, then the user plays the ticket 07 checklist. Handoff: [[Sessions/2026-11-17 - Hills Normal Plan Handoff]].
