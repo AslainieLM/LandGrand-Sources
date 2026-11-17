@@ -249,3 +249,18 @@ Settled 2026-11-16. Hills Easy 1–3 is fully specified. Its art, audio and layo
 - Hills shelf: 17 kinds after Normal.
 - Art and sound are made by Codex with Python scripts; layouts are designed and bot-checked by Claude.
 - Full spec: `D:\LandGrand\LandGrand\.scratch\hills-normal\spec.md`.
+
+## Hills Hard (D-068)
+
+| Level | Place | Objects | New kinds | Goal |
+|---|---|---|---|---|
+| H1 | Tarsier forest, Corella, Bohol | slippery mud | peridotite | Tarsier Lookout |
+| H2 | Antipolo slopes, Rizal | rolling logs | chlorite | Barangay Hall |
+| H3 | Masungi Georeserve, Rizal | mud, bats, crumbling ledges | none | Spider-Web Bridge |
+| H4 | Pililla Wind Farm, Rizal | wind, logs, balloons | dacite | Turbine Base |
+| H5 | Clew Bay, Ireland | mud, current, logs | quartzite | Stone Pier |
+| H6 | Seven Hills of Rome, Italy | logs, platforms, floats | travertine, leucite | Temple Ruins |
+| H7 | Guilin karst, China | everything | none | Raft Dock |
+
+- Hard sizes as Mountains Hard; walk 84 px/s; Hills shelf 23 kinds after Hard.
+- Full spec: `D:\LandGrand\LandGrand\.scratch\hills-hard\spec.md`.
