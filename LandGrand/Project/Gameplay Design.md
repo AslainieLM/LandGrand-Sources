@@ -308,7 +308,7 @@ Planned 2026-11-22 from the D-069 outline. Art, backgrounds, sound and bot-check
 
 ## Plains Hard (D-071)
 
-Planned 2026-11-22 from the D-069 outline; the finale is the Mongolian Steppe. Art, backgrounds, sound and bot-checked layouts are made; Codex builds the code from `D:\LandGrand\LandGrand\.scratch\plains-hard\` (`CODEX-PROMPT.md`, `CODEX-START.md`, `spec.md`, `layouts.md`, `issues/01`–`04`).
+Planned 2026-11-22 from the D-069 outline; the finale is the Mongolian Steppe. Art, backgrounds, sound and bot-checked layouts are made; a Claude Code session builds the code, one ticket per session, from `D:\LandGrand\LandGrand\.scratch\plains-hard\` (`SESSION-PROMPT.md`, `BUILD-START.md`, `spec.md`, `layouts.md`, `issues/01`–`04`).
 
 | Level | Place | Topic | Objects (reused rules) | Kinds |
 | --- | --- | --- | --- | --- |
