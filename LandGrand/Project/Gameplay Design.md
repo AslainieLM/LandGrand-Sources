@@ -305,3 +305,22 @@ Planned 2026-11-22 from the D-069 outline. Art, backgrounds, sound and bot-check
 - Normal sizes as Hills Normal; bot 83.8–98.4 s at walk 84. Plains shelf 16 kinds after Normal; total 56.
 - A theme can name its own moving-platform sprite and landing sound (`market_boat`, `sfx_boat_bump`); old platforms are unchanged.
 - Not confirmed (teacher check): Pinatubo rock types (summary only), peat at Candaba and Agusan, laterite in the Mekong Delta itself.
+
+## Plains Hard (D-071)
+
+Planned 2026-11-22 from the D-069 outline; the finale is the Mongolian Steppe. Art, backgrounds, sound and bot-checked layouts are made; Codex builds the code from `D:\LandGrand\LandGrand\.scratch\plains-hard\` (`CODEX-PROMPT.md`, `CODEX-START.md`, `spec.md`, `layouts.md`, `issues/01`–`04`).
+
+| Level | Place | Topic | Objects (reused rules) | Kinds |
+| --- | --- | --- | --- | --- |
+| H1 | Great Plains, USA | Grassland plains; an old sea left chalk | hay bales (rolling log), straw piles | **chalk**, calcite, limestone, shale, sandstone |
+| H2 | Serengeti, Tanzania | Plains of animals; migration | wildebeest herds (bat on the ground) | granite, tuff, sandstone, siltstone, shale |
+| H3 | Pampas, Argentina | Farm and ranch plains | hay bales, cattle herds | **loess**, mica, feldspar, quartz, clay |
+| H4 | West Siberian Plain, Russia | Cold plains; bogs | frozen ground (ice), bog floats | peat, clay, siltstone, mudstone, sandstone |
+| H5 | Nullarbor Plain, Australia | A limestone plain; flint mining | crumbling ledges, bats | **flint**, limestone, calcite, chalk |
+| H6 | Indo-Gangetic Plain | River flood plains | floats, currents | laterite, clay, siltstone, sandstone, mudstone |
+| H7 | Mongolian Steppe | Plains of the world (finale) | hay, horse herds, ice, crumbles, currents | reviews |
+
+- Hard sizes as Hills Hard; bot 112.6–123.8 s at walk 84. Plains shelf 24 kinds after Hard; total 59.
+- A theme can name its own rolling-log frames and sound, bat frames, sound and art lift, and ice top tile; old logs, bats and ice are unchanged.
+- Sound: `sfx_hay_roll`, `sfx_herd_hooves`; H4 ambience `amb_cold_plain`, the rest `amb_dry_hard`.
+- Not confirmed (teacher check): Mongolian herders, gers and winters (summary only); "loess makes rich farm soil"; peat in the West Siberian bogs; lignite was dropped for lack of a source.

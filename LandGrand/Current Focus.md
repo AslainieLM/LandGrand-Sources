@@ -74,4 +74,6 @@ When the user returns to these improvements, read this note and revalidate the r
 
 **Later on 2026-11-22: Plains Normal planned (D-070).** Plan and assets in `D:\LandGrand\LandGrand\.scratch\plains-normal\`. **Next: Codex builds Plains Normal from `CODEX-PROMPT.md`**, then a Claude review, then the user plays the ticket 04 checklist.
 
-**Still 2026-11-22:** Plains Normal 1–5 built by Codex, reviewed and fixed (440 EditMode tests pass; builder logs clean; the code is not committed yet). The user played the checklist: "plains normal 1-5 is passed". **Next: plan Plains Hard 1–7** from the D-069 outline. The Android device check is still open.
+**Still 2026-11-22:** Plains Normal 1–5 built by Codex, reviewed and fixed (440 EditMode tests pass; builder logs clean; committed as `7af9350`). The user played the checklist: "plains normal 1-5 is passed".
+
+**Later on 2026-11-22: Plains Hard planned (D-071).** Plan, bot-checked layouts and assets in `D:\LandGrand\LandGrand\.scratch\plains-hard\`. **Next: Codex builds Plains Hard from `CODEX-PROMPT.md`**, then a Claude review, then the user plays the ticket 04 checklist. After all 15 Plains levels, Plateaus opens. The Android device check is still open.
