@@ -47,7 +47,7 @@ This note holds the gameplay the user settled on 2026-11-13 in a grilling interv
 
 ## Audio and text (D-042)
 
-- **Ambience** differs per landform and per difficulty (12 sets). For Mountains: Easy a light breeze, Normal stronger wind, Hard gusty, near-storm wind; Hills a stream and birds; Plains grass and crickets; Plateaus dry wind and a hawk.
+- **Ambience** differs per landform and per difficulty (12 sets). For Mountains: Easy a light breeze, Normal stronger wind, Hard gusty, near-storm wind; Hills a stream and birds; Plains grass and crickets (D-069: Normal adds frogs and water birds, Hard is dry wind and far thunder); Plateaus dry wind and a hawk.
 - **Music:** each landform has its own original loop (Mountains first), quieter than the menu so ambience and chimes come through. The Settings sliders control both.
 - **Font:** a bundled Open Font License pixel font with TextMeshPro, proposed Pixelify Sans, so typed names and lesson text can be shown. Its licence is to be checked before it is added; sprite text stays for the existing buttons. *Changed on 2026-11-13:* the user found Pixelify Sans hard to read on the Lesson Screen ("it was not easy to read, find a good fonts please"). Pixelify Sans and four other OFL fonts were compared (VT323, DotGothic16, Tiny5, Silkscreen; all from github.com/google/fonts, downloaded with the user's approval). VT323 at 16 px was tried and then rejected by the user the same day ("it was so very bad"); the change was rewound, so the game still uses Pixelify Sans at 12 px. The user then asked to "just improvise the spacing": the Lesson Screen text now has 3 more pixels between words and between lines, and the item and goal columns moved slightly so the wider text fits. *Changed again on 2026-11-13:* Pixelify drew "5" like "S" and crowded its letters, so the user asked for a better font. DotGothic16 was tried and lost thin letters at 12 px (its grid is 16 px). Fonts must be drawn at a whole multiple of their own pixel grid. The user then chose the best fit from a mock-up: **Micro 5** (OFL, github.com/google/fonts; Jersey 10, Jersey 15 and Press Start 2P were the other candidates) at 15 px for all text, with 3 px extra word spacing and about 2 px extra line spacing on the Lesson Screen. Pixelify Sans is no longer used.
 
@@ -264,3 +264,44 @@ Settled 2026-11-16. Hills Easy 1–3 is fully specified. Its art, audio and layo
 
 - Hard sizes as Mountains Hard; walk 84 px/s; Hills shelf 23 kinds after Hard.
 - Full spec: `D:\LandGrand\LandGrand\.scratch\hills-hard\spec.md`.
+
+## Plains (D-069)
+
+Planned 2026-11-21. Plains Easy 1–3 is fully specified; its art, backgrounds, badges, sounds and bot-checked layouts are made, and Codex builds the code from `D:\LandGrand\LandGrand\.scratch\plains-easy\` (`CODEX-START.md`, `CODEX-PROMPT.md`, `spec.md`, `layouts.md`, `issues/01`–`04`). Normal and Hard are an outline only; each gets its own spec after the user plays Easy.
+
+| Level | Place (banner) | Topic | Theme and goal | New object | Kinds |
+| --- | --- | --- | --- | --- | --- |
+| E1 | Central Luzon Plain, Nueva Ecija | What a plain is | RicePlain, Rice Granary | none | clay\*, sandstone\*, shale\*, siltstone |
+| E2 | Pangasinan Salt Beds | Plains by the sea; salt from seawater | SaltBeds, Salt Hut | none | halite, gypsum, quartz\*, siltstone review |
+| E3 | Isabela River Plain, Cagayan Valley | Rivers spread soil and make farm plains | RiverPlain, Farm Shed | **straw bounce pile** | conglomerate\*, limestone\*, mudstone, halite review |
+| N1–N5 | Candaba Swamp; Pinatubo lahar plain; Agno River delta; Agusan Marsh; Mekong Delta (Vietnam) | wetlands, volcanic plains, deltas, wetland living, floating markets | outline | float; sand and vents; current; mix; market boats | later |
+| H1–H7 | Great Plains (USA); Serengeti; Pampas; West Siberian Plain; Nullarbor; Indo-Gangetic Plain; finale | grassland, migration, ranching, cold plains, limestone plains, river floods | outline | hay bales (log rule); herd push (bat rule); mix; ice; crumbles and bats; floats and current; everything | later |
+
+\* Shared kind.
+
+- **Easy sizes:** E1 4800 px (checkpoint 2400), E2 and E3 5400 px (checkpoints 2700 and 2500); 5 pickups with one secret; 120 s. The bot reached the goals in 56.8, 62.4 and 62.2 s at walk 84, and every pickup can be reached.
+- **Straw bounce pile:** 48×16, solid like a boulder; landing on its top launches the explorer at 400 px/s (feet to about 104 px; with the double jump about 128 px); its side is a wall; it never hurts; squash picture, straw bits and `sfx_straw_bounce`. A 32 px pile was too narrow to land on from a walking jump.
+- **Plains shelf:** 10 kinds; total kinds 54.
+- **Badges:** Salt Maker, Straw Jumper, Flat Star, Plain Collector, Philippine Plains, Delta Boater, Prairie Ranger, World Plains, Steady Plains, Plain Master (the Hills rules on the Plains page).
+- **Audio** (`Tools/Audio/make_plains_audio.py`): `bgm_plains` (D major, 4/4, 96 BPM, 40 s loop); `amb_grass_easy`, `amb_wetland_normal`, `amb_dry_hard`; `sfx_straw_bounce`.
+- **Art:** `Tools/Art/make_plains_easy_art.py`, `Tools/Art/make_plains_easy_backdrops.py`, and the ten badges in `make_profile_art.py`.
+- **Map and menus:** the open Plains region shows rice, two egrets and a carabao; menu screens show egrets and grass. Plateaus stays locked with "Finish Plains first".
+- **Description Screen data:** 5 draft summary lines, `bg_plains`, "Plateaus is now open!".
+- **Content:** every lesson, review, kind and summary text is a draft for teacher review (Q-04). Not confirmed: that Isabela mostly grows corn (the lesson says only "crops").
+- **Manuscript (D-036):** the Plains content and the straw bounce pile are additions, listed under Q-13 (d).
+
+## Plains Normal (D-070)
+
+Planned 2026-11-22 from the D-069 outline. Art, backgrounds, sound and bot-checked layouts are made; Codex builds the code from `D:\LandGrand\LandGrand\.scratch\plains-normal\` (`CODEX-PROMPT.md`, `CODEX-START.md`, `spec.md`, `layouts.md`, `issues/01`–`04`). Built by Codex and reviewed by Claude on 2026-11-22 (440 EditMode tests pass); the user played all five levels and every checklist item passed.
+
+| Level | Place | Topic | Objects (reused rules) | Kinds |
+| --- | --- | --- | --- | --- |
+| N1 | Candaba Swamp, Pampanga | Wetland plains | sinking floats | **peat**, clay, siltstone, mudstone |
+| N2 | Pinatubo Lahar Plain | Volcanoes can bury and build plains | soft sand, crumbling bridges | pumice, dacite, andesite |
+| N3 | Agno River Delta | Deltas; the Pangasinan Plain | river currents | gold, quartz, siltstone, mudstone |
+| N4 | Agusan Marsh | Living on wetlands | float, sand, current | peat, clay, mudstone |
+| N5 | Mekong Delta, Vietnam | Floating markets on a delta | market boats (moving platforms with boat art) | **laterite**, clay, siltstone, mudstone |
+
+- Normal sizes as Hills Normal; bot 83.8–98.4 s at walk 84. Plains shelf 16 kinds after Normal; total 56.
+- A theme can name its own moving-platform sprite and landing sound (`market_boat`, `sfx_boat_bump`); old platforms are unchanged.
+- Not confirmed (teacher check): Pinatubo rock types (summary only), peat at Candaba and Agusan, laterite in the Mekong Delta itself.

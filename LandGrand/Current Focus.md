@@ -1,7 +1,7 @@
 ---
 type: focus
 status: active
-updated: 2026-11-16
+updated: 2026-11-22
 ---
 
 # Current Focus
@@ -65,3 +65,13 @@ When the user returns to these improvements, read this note and revalidate the r
 **Done on 2026-11-17:** Hills Easy 1–3 built (`8d92fd5`, Profile count fix `f4e293b`; 296 EditMode tests pass) and the user played the whole checklist, with every item passing. **Hills Normal planned (D-067).** **Next: Codex builds Hills Normal from `D:\LandGrand\LandGrand\.scratch\hills-normal\CODEX-START.md`** (it also makes the art and sounds), then a Claude review, then the user plays the ticket 07 checklist. Handoff: [[Sessions/2026-11-17 - Hills Normal Plan Handoff]].
 
 **2026-11-18:** Hills Normal built by Codex (`3a003a3`–`5284230`), reviewed and fixed by Claude (`288a4fa`: 84 px/s walk, badge page arrows); 360 EditMode tests pass; **the user has not played the Hills Normal checklist yet.** **Hills Hard planned (D-068)**: Claude made the art, backgrounds, sounds and bot-checked layouts. **Next: Codex builds Hills Hard from `D:\LandGrand\LandGrand\.scratch\hills-hard\CODEX-START.md`**, then a Claude review, then the user plays both checklists.
+
+**2026-11-21:** Hills Hard was built by Codex (`8280cd1`–`277a217`) and reviewed by Claude, with no hard violations. The user played the Hills Normal and Hills Hard checklists, and every item passed ("all passed"). **Hills (all 15 levels) is complete.** The editor moved to `6000.6.9f1` (not committed yet). Small review findings remain open; they are optional clean-ups. **Next: plan Plains**, the third episode (LG-03).
+
+**Later on 2026-11-21: Plains Easy planned (D-069).** Claude made the art, backgrounds, badges, sounds and bot-checked layouts in `D:\LandGrand\LandGrand\.scratch\plains-easy\`. **Next: Codex builds Plains Easy from `CODEX-PROMPT.md` / `CODEX-START.md`**, then a Claude review, then the user plays the ticket 04 checklist. Also tell the adviser and panel about the Q-13 (d) additions (the straw bounce pile and the Plains content).
+
+**2026-11-22:** Plains Easy 1–3 built by Codex, reviewed and fixed (`f0b8ff6`; 423 EditMode tests pass; Farm Shed goal offset (24, 22) confirmed by the user). The user played the Plains Easy checklist: "all passed". **Next: plan Plains Normal 1–5** from the D-069 outline. The Android device check is still open.
+
+**Later on 2026-11-22: Plains Normal planned (D-070).** Plan and assets in `D:\LandGrand\LandGrand\.scratch\plains-normal\`. **Next: Codex builds Plains Normal from `CODEX-PROMPT.md`**, then a Claude review, then the user plays the ticket 04 checklist.
+
+**Still 2026-11-22:** Plains Normal 1–5 built by Codex, reviewed and fixed (440 EditMode tests pass; builder logs clean; the code is not committed yet). The user played the checklist: "plains normal 1-5 is passed". **Next: plan Plains Hard 1–7** from the D-069 outline. The Android device check is still open.
