@@ -351,3 +351,21 @@ Planned 2026-11-23. Plateaus is the fourth and last episode. Plateaus Easy 1–3
 - **Ending:** the Plateaus Description Screen says "You explored all four landforms!". A one-time ending screen follows: the explorer on a plateau looking over all four landforms (start-up screen layers), the title "Land Grand Explorer!", stars n/180, kinds and badges totals, a short thank-you line and one Back to Map button, with the menu music. It gives the 11th Plateaus badge, Land Grand Champion. Replays stay allowed.
 - **Content:** every lesson, review, kind and summary text is a draft for teacher review (Q-04). Not confirmed: tuff, volcanic breccia and laterite at these places; no source names a rock at Lake Lanao itself; "the falls drop off the plateau edge" is inferred from the lake (about 700 m) and the sea; the plateau definition still needs a source; Bukidnon has no single elevation figure (province average 915 m).
 - **Manuscript (D-036):** the Plateaus content, the cliff updraft and the ending screen are additions, listed under Q-13 (d).
+- **Built 2026-11-24** (`91483a3`–`ff28ab1`, 524 EditMode tests pass; handover `D:\LandGrand\LandGrand\.scratch\plateaus-easy\HANDOVER.md`). The user played all three levels and every checklist item passed.
+
+## Plateaus Normal (D-073)
+
+Planned 2026-11-24 from the D-072 outline. Art, backgrounds, sounds and bot-checked layouts are made; Codex builds the code from `D:\LandGrand\LandGrand\.scratch\plateaus-normal\` (`CODEX-PROMPT.md`, `CODEX-START.md`, `spec.md`, `layouts.md`, `issues/01`–`04`).
+
+| Level | Place | Topic | Objects (reused rules) | Kinds |
+| --- | --- | --- | --- | --- |
+| N1 | Table Mountain, South Africa | Flat tops | cable cars (moving platforms), first over a safe pool | sandstone, quartzite, granite, shale |
+| N2 | Monument Valley, USA | Mesas and buttes | sand, crumbling bridges, updrafts | siltstone, conglomerate; sandstone and hematite reviews |
+| N3 | Grand Canyon | Rivers cut canyons | currents, water pits | limestone, schist; granite and sandstone reviews |
+| N4 | Mount Roraima, Venezuela | Table-top mountains | floats, updrafts | quartz, gneiss; quartzite and sandstone reviews |
+| N5 | Salar de Uyuni, Bolivia | High plateau, salt flat | salt crust (ice rule), llama herds (herd rule) | halite, gypsum, ignimbrite, **ulexite**; andesite review |
+
+- Normal sizes; bot 83.8–98.4 s at walk 84. Plateaus shelf 24 kinds after Normal; total 64.
+- Cable car: `cable_car` 48×48 with the roof at row 24 and a hanger arm; new optional theme fields `PlatformArtAbove` and `PlatformCable` (a `cable_line` strip); old platforms unchanged.
+- Sound: `sfx_cable_car`, `sfx_llama`; ambience `amb_canyon_normal`.
+- Not confirmed (teacher check): hematite at Monument Valley; quartzite and quartz crystals at Roraima; gypsum, ulexite and ignimbrite at Uyuni; the Table Mountain tablecloth cloud; "biggest salt flat on Earth".

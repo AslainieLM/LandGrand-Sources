@@ -332,3 +332,5 @@ These checks cover saved files and references. The live Obsidian interface was n
 - 2026-11-13: D-045 replays keep the best stars and every found item; build spec for Mountains Easy 1 written.
 - 2026-11-23: D-072 plans Plateaus (15-level outline, Easy 1–3 places, kinds and cliff updraft, the game ending screen); Gameplay Design, Q-13 (d) and Current Focus updated.
 - 2026-11-23: Plateaus Easy plan made (spec, layouts, bot check, tickets, art, backgrounds, badges, sounds); D-072, Gameplay Design and Current Focus updated.
+- 2026-11-24: Plateaus Easy 1–3 built and played ("all passed"); D-072, Gameplay Design and Current Focus updated.
+- 2026-11-24: D-073 plans Plateaus Normal 1–5 for a Codex build (spec, layouts, bot check, tickets, art, backgrounds, sounds); Gameplay Design, Q-13 (d) and Current Focus updated.
