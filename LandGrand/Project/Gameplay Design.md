@@ -325,3 +325,29 @@ Planned 2026-11-22 from the D-069 outline; the finale is the Mongolian Steppe. A
 - Sound: `sfx_hay_roll`, `sfx_herd_hooves`; H4 ambience `amb_cold_plain`, the rest `amb_dry_hard`.
 - Not confirmed (teacher check): Mongolian herders, gers and winters (summary only); "loess makes rich farm soil"; peat in the West Siberian bogs; lignite was dropped for lack of a source.
 - Built 2026-11-23 by Claude Code sessions (475 EditMode tests pass; handover `D:\LandGrand\LandGrand\.scratch\plains-hard\HANDOVER.md`). The user played it and moved on to the next episode; no failures reported. **All 15 Plains levels are built.**
+
+## Plateaus (D-072)
+
+Planned 2026-11-23. Plateaus is the fourth and last episode. Plateaus Easy 1–3 is fully specified; its art, backgrounds, badges, sounds and bot-checked layouts are made, and a Claude Code session builds the code, one ticket per session, from `D:\LandGrand\LandGrand\.scratch\plateaus-easy\` (`SESSION-PROMPT.md`, `BUILD-START.md`, `spec.md`, `layouts.md`, `issues/01`–`04`). Normal and Hard are an outline only, each planned after the user plays Easy. The ending screen is decided here but built with Plateaus Hard, the only level that can reach it.
+
+| Level | Place (banner) | Topic | Theme and goal | New object | Kinds |
+| --- | --- | --- | --- | --- | --- |
+| E1 | Bukidnon Plateau | What a plateau is | PineapplePlateau, Farm Lookout | none | basalt\*, andesite\*, hematite\*, **halloysite** |
+| E2 | Lake Lanao (about 700 m) | Lakes on plateaus; volcanoes helped make Lake Lanao | LakePlateau, Maranao torogan | none | tuff\*, volcanic breccia\*, **goethite**, halloysite review |
+| E3 | Maria Cristina Falls, Agus River | A river drops off the plateau edge; the falls run over basalt | FallsEdge, Falls Viewing Deck | **cliff updraft** | **gibbsite**, laterite\*, **cristobalite**, goethite review |
+| N1–N5 | Table Mountain (South Africa); Monument Valley (USA); Grand Canyon, Colorado Plateau; Mount Roraima (Venezuela); Altiplano and Salar de Uyuni (Bolivia) | flat tops; mesas and buttes; rivers cut canyons; table-top mountains and waterfalls; a high plateau and salt flat | outline | cable cars; crumbles and updrafts; current; updrafts and floats; salt crust (ice rule) and llama herds | later |
+| H1–H7 | Deccan Plateau (India); Ethiopian Highlands; Tassili n'Ajjer (Algeria); Mesa Verde (USA); Antarctic Plateau; Loess Plateau (China); Tibetan Plateau finale | lava plateaus; life up high; wind carves rock; cliff homes; ice plateau; soil loss and terraces; roof of the world | outline | vents and crumbles; gelada troops (herd rule); sideways gusts and sand; ledges, updrafts, moving platforms; ice and gusts; sand and crumbles; everything | later |
+
+\* Shared kind.
+
+- **Easy sizes:** as Plains Easy: E1 4800 px (checkpoint 2400), E2 and E3 5400 px; 5 pickups with one secret; 120 s; updrafts only in E3.
+- **Bot check:** at walk 84 the bot reached the goals in 56.8, 62.4 and 62.5 s, and every pickup can be reached. Without the updrafts the gibbsite ledge and the secret ledge cannot be reached; walking straight through a column lifts the explorer only about 38 px. Each updraft's landing ledge starts 8 px right of the column and sits 4 px below its top, so the head never bumps the ledge.
+- **Cliff updraft:** a 32 px wide column of rising wind with a set height. Inside it gravity is off and the explorer rises at 90 px/s; left and right work as normal, so the explorer steps out at the top; at the top it hovers. It never hurts. Drifting leaves and dust show it, with a looping `sfx_updraft`. The first updraft has no pit below. Column heights are set by the bot check.
+- **Plateaus shelf:** 10 kinds after Easy (new: halloysite, goethite, gibbsite, cristobalite); total kinds 63.
+- **Badges:** Updraft Rider, Table Top, High Star, Plateau Collector, Philippine Plateaus, Canyon Explorer, Mesa Ranger, World Plateaus, Steady Plateaus, Plateau Master (the Plains rules), plus Land Grand Champion from the ending.
+- **Audio:** `bgm_plateaus` (A major, 6/8, 88 BPM, a 40.9 s loop of 30 bars, flute-like lead). Ambience: Easy dry wind and a hawk; Normal canyon wind, an echoing hawk and a far waterfall; Hard strong high wind with blowing sand. `sfx_updraft`.
+- **Map and menus:** the open Plateaus region shows a circling hawk, a shining waterfall and swaying grass; menu screens show a hawk and grass.
+- **Assets:** `Tools/Art/make_plateaus_easy_art.py` (the falls mist props are named `falls_spray`, because `falls_mist` belongs to Hills Normal), `Tools/Art/make_plateaus_easy_backdrops.py`, the 11 badges in `make_profile_art.py`, `Tools/Audio/make_plateaus_audio.py`. The torogan goal is drawn simply, with no writing or religious signs; the user may want to check its look.
+- **Ending:** the Plateaus Description Screen says "You explored all four landforms!". A one-time ending screen follows: the explorer on a plateau looking over all four landforms (start-up screen layers), the title "Land Grand Explorer!", stars n/180, kinds and badges totals, a short thank-you line and one Back to Map button, with the menu music. It gives the 11th Plateaus badge, Land Grand Champion. Replays stay allowed.
+- **Content:** every lesson, review, kind and summary text is a draft for teacher review (Q-04). Not confirmed: tuff, volcanic breccia and laterite at these places; no source names a rock at Lake Lanao itself; "the falls drop off the plateau edge" is inferred from the lake (about 700 m) and the sea; the plateau definition still needs a source; Bukidnon has no single elevation figure (province average 915 m).
+- **Manuscript (D-036):** the Plateaus content, the cliff updraft and the ending screen are additions, listed under Q-13 (d).

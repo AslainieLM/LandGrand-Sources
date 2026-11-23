@@ -330,3 +330,5 @@ These checks cover saved files and references. The live Obsidian interface was n
 - 2026-11-13: D-038 keeps the Exit confirmation although Figure 4A omits it; Q-13 (b) settled.
 - 2026-11-13: Gameplay grilling settled D-039 to D-044 in [[Project/Gameplay Design]]; Q-02 answered, Q-03, Q-06 and Q-07 partly; redesigned procedure flowchart saved as draw.io version 2.
 - 2026-11-13: D-045 replays keep the best stars and every found item; build spec for Mountains Easy 1 written.
+- 2026-11-23: D-072 plans Plateaus (15-level outline, Easy 1–3 places, kinds and cliff updraft, the game ending screen); Gameplay Design, Q-13 (d) and Current Focus updated.
+- 2026-11-23: Plateaus Easy plan made (spec, layouts, bot check, tickets, art, backgrounds, badges, sounds); D-072, Gameplay Design and Current Focus updated.
