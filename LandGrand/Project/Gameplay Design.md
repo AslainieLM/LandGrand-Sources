@@ -324,3 +324,4 @@ Planned 2026-11-22 from the D-069 outline; the finale is the Mongolian Steppe. A
 - A theme can name its own rolling-log frames and sound, bat frames, sound and art lift, and ice top tile; old logs, bats and ice are unchanged.
 - Sound: `sfx_hay_roll`, `sfx_herd_hooves`; H4 ambience `amb_cold_plain`, the rest `amb_dry_hard`.
 - Not confirmed (teacher check): Mongolian herders, gers and winters (summary only); "loess makes rich farm soil"; peat in the West Siberian bogs; lignite was dropped for lack of a source.
+- Built 2026-11-23 by Claude Code sessions (475 EditMode tests pass; handover `D:\LandGrand\LandGrand\.scratch\plains-hard\HANDOVER.md`). The user played it and moved on to the next episode; no failures reported. **All 15 Plains levels are built.**
