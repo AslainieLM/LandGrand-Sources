@@ -369,3 +369,4 @@ Planned 2026-11-24 from the D-072 outline. Art, backgrounds, sounds and bot-chec
 - Cable car: `cable_car` 48×48 with the roof at row 24 and a hanger arm; new optional theme fields `PlatformArtAbove` and `PlatformCable` (a `cable_line` strip); old platforms unchanged.
 - Sound: `sfx_cable_car`, `sfx_llama`; ambience `amb_canyon_normal`.
 - Not confirmed (teacher check): hematite at Monument Valley; quartzite and quartz crystals at Roraima; gypsum, ulexite and ignimbrite at Uyuni; the Table Mountain tablecloth cloud; "biggest salt flat on Earth".
+- Built 2026-11-24 by Codex (563 EditMode tests pass) and reviewed by Claude (no high findings; the Plateau Collector badge now needs all 24 kinds, as Plains Collector did when its shelf grew). The user played all five levels and every checklist item passed.
