@@ -370,3 +370,23 @@ Planned 2026-11-24 from the D-072 outline. Art, backgrounds, sounds and bot-chec
 - Sound: `sfx_cable_car`, `sfx_llama`; ambience `amb_canyon_normal`.
 - Not confirmed (teacher check): hematite at Monument Valley; quartzite and quartz crystals at Roraima; gypsum, ulexite and ignimbrite at Uyuni; the Table Mountain tablecloth cloud; "biggest salt flat on Earth".
 - Built 2026-11-24 by Codex (563 EditMode tests pass) and reviewed by Claude (no high findings; the Plateau Collector badge now needs all 24 kinds, as Plains Collector did when its shelf grew). The user played all five levels and every checklist item passed.
+
+## Plateaus Hard (D-074)
+
+Planned 2026-11-24 from the D-072 outline. Art, backgrounds, sounds and bot-checked layouts are made by Claude; Claude Code sessions build the code, one ticket per session, from `D:\LandGrand\LandGrand\.scratch\plateaus-hard\` (`SESSION-PROMPT.md`, `BUILD-START.md`, `spec.md`, `layouts.md`, `issues/`).
+
+| Level | Place | Theme, goal | Objects (reused rules) | Kinds |
+| --- | --- | --- | --- | --- |
+| H1 | Deccan Plateau, India | DeccanTraps, Hill Fort Gate | hot-spring vents (steam vent), crumbles | basalt, zeolite, calcite, olivine |
+| H2 | Ethiopian Highlands | SimienHighlands, Highland Village | gelada troops (herd) | basalt, ignimbrite, tuff, **opal** |
+| H3 | Tassili n'Ajjer, Algeria | SandstoneArches, Rock Art Shelter | sand gusts (wind, left only), soft sand | sandstone, granite, quartz, clay |
+| H4 | Mesa Verde, USA | CliffDwellings, Cliff Palace Ladder | ledges, updrafts, sandstone slab platforms (some vertical); ladder props | sandstone, shale, **coal** |
+| H5 | Antarctic Plateau | IcePlateau, Research Station | blue ice (ice), snow gusts | granite, gneiss, coal, **meteorite** |
+| H6 | Loess Plateau, China | LoessTerraces, Cave House | loess sand, crumbles | loess, quartz, feldspar, mica, calcite |
+| H7 | Tibetan Plateau (finale) | RoofOfWorld, Summit Camp | snow gusts, ice, crumbles, updrafts, yak herds, vertical platforms | halite, granite, chromite, serpentinite |
+
+- Hard sizes as Plains Hard; walk 84 px/s. Plateaus shelf 36 kinds after Hard; total 67.
+- New optional theme fields (null keeps old art): vent rim and steam frames, gust frames and sound, `SandTop`. Sounds `sfx_gelada`, `sfx_gust_strong`; ambience `amb_highwind_hard`.
+- **Completion Screen** (manuscript P069, Figure 4E): once, after the Plateaus Description Screen; title "Land Grand Explorer!", "You explored mountains, hills, plains and plateaus!", stars n/180, rocks and minerals n/67, badges n/total, "Thank you for playing Land Grand!", Back to Map, menu music. "See Ending" on the Plateaus Description Screen from the book once all four are complete. The map shows a golden flag on Plateaus and an "All landforms explored!" ribbon.
+- Not confirmed (teacher check): zeolite near Nashik and Pune; what heats the Vajreshwari springs; wind carving at Tassili (Wikipedia credits rivers); every Tibet kind (paper summaries only); the meteorite count (the card says "thousands"); the rock under the Antarctic ice.
+- **Manuscript (D-036):** the badge total, Back to Map, See Ending and the map flag on the Completion Screen, and the Plateaus Hard places, looks and kinds are additions, listed under Q-13 (d).
